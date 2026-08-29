@@ -1,0 +1,271 @@
+{
+  "id": "1",
+  "title": "Should a Judge Rule on His Own Case?",
+  "summary": "这篇文章说明，医生并不总是完全公正和理性，隐藏的偏见会影响他们的治疗判断，并导致严重错误。",
+  "readingSummary": "Doctors are not always fair or logical. This article shows how hidden bias can shape medical choices and lead to serious mistakes. It explains why even experts can make poor decisions.",
+  "difficulty": "B2",
+  "duration": "4 min",
+  "tags": ["健康", "医学", "认知"],
+  "thumbLarge": "https://static01.nyt.com/images/2016/03/01/opinion/01tue4web/01tue4web-thumbLarge.jpg",
+  "superJumbo": "https://static01.nyt.com/images/2016/03/01/opinion/01tue4web/01tue4web-superJumbo.jpg",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Why can doctors make bad decisions even when they are experts?",
+      "answer": "Because hidden bias can affect how they think and choose treatment."
+    },
+    {
+      "id": "q2",
+      "question": "What is one example of bias in medicine mentioned in the article?",
+      "answer": "Black patients were less likely than white patients to receive pain medication in the emergency department."
+    }
+  ],
+  "content": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "It’s tempting to believe that physicians are logical, meticulous thinkers who perfectly weigh the pros and cons of treatment options, acting as unbiased surrogates for their patients.",
+        "translation": "人们很容易相信，医生是理性而细致的思考者，能够完美地权衡治疗方案的利弊，并为患者做出公正的替代判断。",
+        "sentences": [
+          {
+            "id": "s1",
+            "text": "It’s tempting to believe that physicians are logical, meticulous thinkers who perfectly weigh the pros and cons of treatment options, acting as unbiased surrogates for their patients.",
+            "translation": "人们很容易相信，医生是理性而细致的思考者，能够完美地权衡治疗方案的利弊，并为患者做出公正的替代判断。",
+            "audio": "/audio/s1.mp3",
+            "words": [
+              {
+                "word": "tempting",
+                "phonetic": "/ˈtɛmptɪŋ/",
+                "meaning": "诱人的；令人想做的",
+                "example": "It is tempting to skip the gym."
+              },
+              {
+                "word": "meticulous",
+                "phonetic": "/məˈtɪkjələs/",
+                "meaning": "一丝不苟的",
+                "example": "She made a meticulous plan."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p2",
+        "text": "In reality, this is often far from the case. Bias, which takes many forms, affects how doctors think and the treatment decisions they make.",
+        "translation": "现实情况往往并非如此。偏见有很多形式，会影响医生的思考方式和治疗决定。",
+        "sentences": [
+          {
+            "id": "s2",
+            "text": "In reality, this is often far from the case.",
+            "translation": "现实情况往往并非如此。",
+            "audio": "/audio/s2.mp3",
+            "words": [
+              {
+                "word": "reality",
+                "phonetic": "/riˈæləti/",
+                "meaning": "现实",
+                "example": "In reality, it was different."
+              }
+            ]
+          },
+          {
+            "id": "s3",
+            "text": "Bias, which takes many forms, affects how doctors think and the treatment decisions they make.",
+            "translation": "偏见有很多形式，会影响医生的思考方式和治疗决定。",
+            "audio": "/audio/s3.mp3",
+            "words": [
+              {
+                "word": "bias",
+                "phonetic": "/ˈbaɪəs/",
+                "meaning": "偏见",
+                "example": "There is a bias against older workers."
+              },
+              {
+                "word": "treatment",
+                "phonetic": "/ˈtriːtmənt/",
+                "meaning": "治疗",
+                "example": "The treatment worked well."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p3",
+        "text": "Racial biases in treatment decisions by physicians are well documented. One study found that black patients were significantly less likely than white patients to receive pain medication in the emergency department, despite reporting similar levels of pain. Other research suggests that longstanding racial biases among providers might have contributed to racial differences in patient trust in the health system.",
+        "translation": "医生在治疗决定中存在的种族偏见有充分证据。一项研究发现，尽管黑人患者报告的疼痛程度与白人患者相似，但他们在急诊科更不容易获得止痛药。其他研究表明，医疗提供者长期存在的种族偏见，可能影响患者对医疗系统的信任。",
+        "sentences": [
+          {
+            "id": "s4",
+            "text": "Racial biases in treatment decisions by physicians are well documented.",
+            "translation": "医生在治疗决定中存在的种族偏见有充分证据。",
+            "audio": "/audio/s4.mp3",
+            "words": [
+              {
+                "word": "racial",
+                "phonetic": "/ˈreɪʃəl/",
+                "meaning": "种族的",
+                "example": "Racial equality matters."
+              }
+            ]
+          },
+          {
+            "id": "s5",
+            "text": "One study found that black patients were significantly less likely than white patients to receive pain medication in the emergency department, despite reporting similar levels of pain.",
+            "translation": "一项研究发现，尽管黑人患者报告的疼痛程度与白人患者相似，但他们在急诊科更不容易获得止痛药。",
+            "audio": "/audio/s5.mp3",
+            "words": [
+              {
+                "word": "significantly",
+                "phonetic": "/sɪɡˈnɪfɪkəntli/",
+                "meaning": "显著地",
+                "example": "The results improved significantly."
+              },
+              {
+                "word": "pain medication",
+                "phonetic": "/peɪn məˌdɪkeɪʃən/",
+                "meaning": "止痛药",
+                "example": "She took pain medication after surgery."
+              }
+            ]
+          },
+          {
+            "id": "s6",
+            "text": "Other research suggests that longstanding racial biases among providers might have contributed to racial differences in patient trust in the health system.",
+            "translation": "其他研究表明，医疗提供者长期存在的种族偏见，可能影响患者对医疗系统的信任。",
+            "audio": "/audio/s6.mp3",
+            "words": [
+              {
+                "word": "providers",
+                "phonetic": "/prəˈvaɪdərz/",
+                "meaning": "提供者；医护人员",
+                "example": "Health providers play an important role."
+              },
+              {
+                "word": "trust",
+                "phonetic": "/trʌst/",
+                "meaning": "信任",
+                "example": "Trust is important in medicine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p4",
+        "text": "But a growing body of scientific research on physician decision-making shows that doctors exhibit other biases as well — cognitive ones — that influence the way they think and treat patients. These biases lead doctors to make the same mistakes as the rest of us, but usually at a greater cost.",
+        "translation": "不过，越来越多的科学研究表明，医生也会受到其他偏见的影响，尤其是认知偏见，这些偏见会影响他们对患者的想法和治疗。它们会让医生犯和普通人一样的错误，但代价通常更高。",
+        "sentences": [
+          {
+            "id": "s7",
+            "text": "But a growing body of scientific research on physician decision-making shows that doctors exhibit other biases as well — cognitive ones — that influence the way they think and treat patients.",
+            "translation": "不过，越来越多的科学研究表明，医生也会受到其他偏见的影响，尤其是认知偏见，这些偏见会影响他们对患者的想法和治疗。",
+            "audio": "/audio/s7.mp3",
+            "words": [
+              {
+                "word": "scientific",
+                "phonetic": "/ˌsaɪənˈtɪfɪk/",
+                "meaning": "科学的",
+                "example": "We need scientific evidence."
+              },
+              {
+                "word": "cognitive",
+                "phonetic": "/ˈkɒɡnətɪv/",
+                "meaning": "认知的",
+                "example": "Cognitive skills improve with practice."
+              }
+            ]
+          },
+          {
+            "id": "s8",
+            "text": "These biases lead doctors to make the same mistakes as the rest of us, but usually at a greater cost.",
+            "translation": "这些偏见会让医生犯和普通人一样的错误，但代价通常更高。",
+            "audio": "/audio/s8.mp3",
+            "words": [
+              {
+                "word": "serious",
+                "phonetic": "/ˈsɪəriəs/",
+                "meaning": "严重的",
+                "example": "This is a serious problem."
+              },
+              {
+                "word": "cost",
+                "phonetic": "/kɒst/",
+                "meaning": "代价",
+                "example": "The cost was high."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p5",
+        "text": "Cognitive biases refer to a range of systematic errors in human decision-making stemming from the tendency to use mental shortcuts.",
+        "translation": "认知偏见指的是人类在决策时由于习惯使用心理捷径而产生的一系列系统性错误。",
+        "sentences": [
+          {
+            "id": "s9",
+            "text": "Cognitive biases refer to a range of systematic errors in human decision-making stemming from the tendency to use mental shortcuts.",
+            "translation": "认知偏见指的是人类在决策时由于习惯使用心理捷径而产生的一系列系统性错误。",
+            "audio": "/audio/s9.mp3",
+            "words": [
+              {
+                "word": "systematic",
+                "phonetic": "/ˌsɪstəˈmætɪk/",
+                "meaning": "系统性的",
+                "example": "The study used a systematic method."
+              },
+              {
+                "word": "mental shortcuts",
+                "phonetic": "/ˈmentl ˈʃɔːrtkʌts/",
+                "meaning": "心理捷径",
+                "example": "We often use mental shortcuts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "p6",
+        "text": "Prominent examples include confirmation bias, the tendency to interpret new information in a way favorable to one’s preconceptions; and anchoring, the tendency to overly weight an initial piece of information, even when order does not matter. Anchoring helps explain why if you see a car priced at $20,000 and a second car priced at $8,000, you might conclude the second car is cheap, whereas if the first car cost $3,000 you might conclude that the second car is expensive.",
+        "translation": "典型例子包括确认偏见，即人们会用符合自己先入之见的方式解释新信息；以及锚定效应，即人们会过度重视第一条信息，即使顺序本身并不重要。锚定效应也能解释为什么当你看到一辆价格为 20000 美元的车和另一辆价格为 8000 美元的车时，你可能会觉得第二辆车很便宜；而如果第一辆车只卖 3000 美元，你就会觉得第二辆车很贵。",
+        "sentences": [
+          {
+            "id": "s10",
+            "text": "Prominent examples include confirmation bias, the tendency to interpret new information in a way favorable to one’s preconceptions; and anchoring, the tendency to overly weight an initial piece of information, even when order does not matter.",
+            "translation": "典型例子包括确认偏见，即人们会用符合自己先入之见的方式解释新信息；以及锚定效应，即人们会过度重视第一条信息，即使顺序本身并不重要。",
+            "audio": "/audio/s10.mp3",
+            "words": [
+              {
+                "word": "confirmation bias",
+                "phonetic": "/kənˌfɜːrˈmeɪʃən ˈbaɪəs/",
+                "meaning": "确认偏见",
+                "example": "Confirmation bias can block new ideas."
+              },
+              {
+                "word": "anchoring",
+                "phonetic": "/ˈæŋkərɪŋ/",
+                "meaning": "锚定效应",
+                "example": "Anchoring can change our judgment."
+              }
+            ]
+          },
+          {
+            "id": "s11",
+            "text": "Anchoring helps explain why if you see a car priced at $20,000 and a second car priced at $8,000, you might conclude the second car is cheap, whereas if the first car cost $3,000 you might conclude that the second car is expensive.",
+            "translation": "锚定效应也能解释为什么当你看到一辆价格为 20000 美元的车和另一辆价格为 8000 美元的车时，你可能会觉得第二辆车很便宜；而如果第一辆车只卖 3000 美元，你就会觉得第二辆车很贵。",
+            "audio": "/audio/s11.mp3",
+            "words": [
+              {
+                "word": "expensive",
+                "phonetic": "/ɪkˈspensɪv/",
+                "meaning": "昂贵的",
+                "example": "That car is expensive."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

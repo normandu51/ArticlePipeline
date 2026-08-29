@@ -1,0 +1,148 @@
+{
+        "abstract": "A state judge who as the district attorney authorized a death penalty case should be disqualified from reviewing it on appeal.",
+        "web_url": "https://www.nytimes.com/2016/03/01/opinion/should-a-judge-rule-on-his-own-case.html",
+        "snippet": "A state judge who as the district attorney authorized a death penalty case should be disqualified from reviewing it on appeal.",
+        "lead_paragraph": "It would be hard to imagine a more glaring judicial conflict of interest than the one the Supreme Court considered in a case out of Pennsylvania on Monday.",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2016/03/01/opinion/01tue4web/01tue4web-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "subType": "xlarge",
+            "crop_name": "articleLarge",
+            "legacy": {
+              "xlarge": "images/2016/03/01/opinion/01tue4web/01tue4web-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            }
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2016/03/01/opinion/01tue4web/01tue4web-jumbo.jpg",
+            "height": 682,
+            "width": 1024,
+            "subType": "jumbo",
+            "crop_name": "jumbo",
+            "legacy": {}
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2016/03/01/opinion/01tue4web/01tue4web-superJumbo.jpg",
+            "height": 1365,
+            "width": 2048,
+            "subType": "superJumbo",
+            "crop_name": "superJumbo",
+            "legacy": {}
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2016/03/01/opinion/01tue4web/01tue4web-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard",
+            "legacy": {
+              "thumbnail": "images/2016/03/01/opinion/01tue4web/01tue4web-thumbStandard.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2016/03/01/opinion/01tue4web/01tue4web-thumbLarge.jpg",
+            "height": 150,
+            "width": 150,
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge",
+            "legacy": {}
+          }
+        ],
+        "headline": {
+          "main": "Should a Judge Rule on His Own Case?",
+          "kicker": "Editorial",
+          "content_kicker": null,
+          "print_headline": "Should a Judge Rule on His Own Case?",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Courts and the Judiciary",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Conflicts of Interest",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "Supreme Court (US)",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Capital Punishment",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Pennsylvania",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Williams, Terrance",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Castille, Ronald D",
+            "rank": 7,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2016-03-01T00:33:17+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "byline": {
+          "original": "By The Editorial Board",
+          "person": [],
+          "organization": "The Editorial Board"
+        },
+        "type_of_material": "Editorial",
+        "_id": "nyt://article/f7d54b20-d8b6-5e23-a75a-c713d6f8fac3",
+        "word_count": 569,
+        "uri": "nyt://article/f7d54b20-d8b6-5e23-a75a-c713d6f8fac3"
+      }

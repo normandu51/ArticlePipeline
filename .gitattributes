@@ -1,0 +1,6 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.db-shm filter=lfs diff=lfs merge=lfs -text
+*.db-wal filter=lfs diff=lfs merge=lfs -text
+*.sqbpro filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text

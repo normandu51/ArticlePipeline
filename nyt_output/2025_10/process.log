@@ -1,0 +1,1372 @@
+2026-08-24 21:34:00,540 ERROR ERROR article_id=nyt://article/2090e468-8163-5f8b-aeef-dba7950df018 url=https://www.nytimes.com/2025/09/30/us/nevada-acting-us-attorney-chattah-disqualified.html message=[Errno 2] No such file or directory: '/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/nyt:/article/2090e468-8163-5f8b-aeef-dba7950df018.txt'
+2026-08-24 21:34:14,110 ERROR ERROR article_id=nyt://article/2f40871a-2a54-59e1-9ef6-d144993a72c1 url=https://www.nytimes.com/2025/09/30/us/politics/appeals-court-alien-enemies-act.html message=[Errno 2] No such file or directory: '/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/nyt:/article/2f40871a-2a54-59e1-9ef6-d144993a72c1.txt'
+2026-08-24 21:34:55,638 ERROR ERROR article_id=nyt://article/d3696d21-ae90-5e67-8cf5-35cd3b5ef27b url=https://www.nytimes.com/2025/09/30/business/bls-nominee-withdrawn.html message=[Errno 2] No such file or directory: '/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/nyt:/article/d3696d21-ae90-5e67-8cf5-35cd3b5ef27b.txt'
+2026-08-24 21:35:10,176 ERROR ERROR article_id=nyt://article/510ba91e-a609-55b2-85e2-163d61549b2b url=https://www.nytimes.com/2025/09/30/arts/music/sean-combs-diddy-conviction-stands.html message=[Errno 2] No such file or directory: '/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/nyt:/article/510ba91e-a609-55b2-85e2-163d61549b2b.txt'
+2026-08-24 21:35:25,328 ERROR ERROR article_id=nyt://article/74377e19-6479-5e35-ae1c-db50c5827809 url=https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html message=[Errno 2] No such file or directory: '/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/nyt:/article/74377e19-6479-5e35-ae1c-db50c5827809.txt'
+2026-08-24 21:43:52,550 INFO SUCCESS article_id=2090e468-8163-5f8b-aeef-dba7950df018 url=https://www.nytimes.com/2025/09/30/us/nevada-acting-us-attorney-chattah-disqualified.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2090e468-8163-5f8b-aeef-dba7950df018.txt
+2026-08-24 21:44:13,930 INFO SUCCESS article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1 url=https://www.nytimes.com/2025/09/30/us/politics/appeals-court-alien-enemies-act.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2f40871a-2a54-59e1-9ef6-d144993a72c1.txt
+2026-08-24 21:44:40,680 INFO SUCCESS article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b url=https://www.nytimes.com/2025/09/30/business/bls-nominee-withdrawn.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/d3696d21-ae90-5e67-8cf5-35cd3b5ef27b.txt
+2026-08-24 21:50:26,524 INFO SUCCESS article_id=2090e468-8163-5f8b-aeef-dba7950df018 url=https://www.nytimes.com/2025/09/30/us/nevada-acting-us-attorney-chattah-disqualified.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2090e468-8163-5f8b-aeef-dba7950df018.txt
+2026-08-24 21:51:02,381 INFO SUCCESS article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1 url=https://www.nytimes.com/2025/09/30/us/politics/appeals-court-alien-enemies-act.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2f40871a-2a54-59e1-9ef6-d144993a72c1.txt
+2026-08-24 21:51:27,250 INFO SUCCESS article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b url=https://www.nytimes.com/2025/09/30/business/bls-nominee-withdrawn.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/d3696d21-ae90-5e67-8cf5-35cd3b5ef27b.txt
+2026-08-24 21:52:07,197 INFO SUCCESS article_id=510ba91e-a609-55b2-85e2-163d61549b2b url=https://www.nytimes.com/2025/09/30/arts/music/sean-combs-diddy-conviction-stands.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/510ba91e-a609-55b2-85e2-163d61549b2b.txt
+2026-08-24 21:53:29,949 INFO SUCCESS article_id=74377e19-6479-5e35-ae1c-db50c5827809 url=https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/74377e19-6479-5e35-ae1c-db50c5827809.txt
+2026-08-24 21:53:46,997 INFO SUCCESS article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d url=https://www.nytimes.com/2025/09/30/style/fat-bear-week-winner-alaska-chunk.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/202c33d5-8cf4-5806-961e-d2f35ff5339d.txt
+2026-08-24 22:02:45,539 INFO SUCCESS article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98 url=https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/809eae53-def8-5a9a-bfbc-f8b0027abd98.txt
+2026-08-24 22:03:00,089 INFO SUCCESS article_id=739c2b00-cf98-52e2-9935-e02c364d74d9 url=https://www.nytimes.com/2025/09/30/crosswords/daily-puzzle-2025-10-01.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/739c2b00-cf98-52e2-9935-e02c364d74d9.txt
+2026-08-24 22:06:03,146 INFO SUCCESS article_id=739c2b00-cf98-52e2-9935-e02c364d74d9 url=https://www.nytimes.com/2025/09/30/crosswords/daily-puzzle-2025-10-01.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/739c2b00-cf98-52e2-9935-e02c364d74d9.txt
+2026-08-24 22:06:23,909 INFO SUCCESS article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d url=https://www.nytimes.com/2025/09/30/business/media/kimmel-colbert-trump.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/03b733fc-9752-53f0-9a8b-1b2b8305168d.txt
+2026-08-24 22:06:38,049 INFO SUCCESS article_id=80141a0b-7dd2-54c2-936d-4509699b2916 url=https://www.nytimes.com/2025/09/30/pageoneplus/quote-of-the-day-can-college-students-mingle-for-an-hour-without-phones.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/80141a0b-7dd2-54c2-936d-4509699b2916.txt
+2026-08-24 22:06:52,326 INFO SUCCESS article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8 url=https://www.nytimes.com/2025/10/01/world/asia/japan-smartphones-ban-toyoake.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/963c959d-1250-58bd-a0ff-8bf7fa0289d8.txt
+2026-08-26 20:50:55,663 INFO SUCCESS article_id=739c2b00-cf98-52e2-9935-e02c364d74d9 url=https://www.nytimes.com/2025/09/30/crosswords/daily-puzzle-2025-10-01.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/739c2b00-cf98-52e2-9935-e02c364d74d9.txt
+2026-08-26 20:51:12,650 INFO SUCCESS article_id=80141a0b-7dd2-54c2-936d-4509699b2916 url=https://www.nytimes.com/2025/09/30/pageoneplus/quote-of-the-day-can-college-students-mingle-for-an-hour-without-phones.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/80141a0b-7dd2-54c2-936d-4509699b2916.txt
+2026-08-26 20:51:30,927 INFO SUCCESS article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae url=https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c13fb52f-d8d5-5752-a33c-b57c348b35ae.txt
+2026-08-26 21:03:52,094 INFO SUCCESS article_id=3375f37c-db5c-554b-9816-046b75fd0a53 url=https://www.nytimes.com/2025/10/01/pageoneplus/corrections-oct-1-2025.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/3375f37c-db5c-554b-9816-046b75fd0a53.txt
+2026-08-26 21:04:07,202 INFO SUCCESS article_id=6cc10056-171d-517f-ac08-de07053ff170 url=https://www.nytimes.com/2025/10/01/world/europe/drone-wall-european-union-russia.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6cc10056-171d-517f-ac08-de07053ff170.txt
+2026-08-26 21:04:25,944 INFO SUCCESS article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770 url=https://www.nytimes.com/2025/10/01/opinion/human-rights-palestinians-international-criminal-court.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fda640ac-43f1-5dc5-aae3-bf6ac7864770.txt
+2026-08-26 21:04:49,596 INFO SUCCESS article_id=548e0bae-63c0-5d71-badd-545159bea689 url=https://www.nytimes.com/2025/10/01/opinion/venezuela-trump-maduro-regime-boats.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/548e0bae-63c0-5d71-badd-545159bea689.txt
+2026-08-26 21:05:11,035 INFO SUCCESS article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5 url=https://www.nytimes.com/2025/10/01/world/asia/south-korea-georgia-factory-visa.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e73c83bb-674d-522e-8f1d-28b53610d9b5.txt
+2026-08-26 21:05:28,240 INFO SUCCESS article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41 url=https://www.nytimes.com/2025/10/01/learning/word-of-the-day-cohesive.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2bd4e41a-e79b-5fef-b717-eaba66edcd41.txt
+2026-08-26 21:05:47,070 INFO SUCCESS article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d url=https://www.nytimes.com/2025/10/01/arts/television/ronny-chieng-pete-hegseth-military-late-night.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9ebe27b5-1411-5e78-9eab-c201c04ffe8d.txt
+2026-08-26 21:07:24,628 INFO SUCCESS article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f url=https://www.nytimes.com/2025/10/01/world/asia/afghanistan-internet-blackout-taliban.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6b0168b2-ebb4-50e5-8eff-2604f81c6d1f.txt
+2026-08-26 21:07:44,470 INFO SUCCESS article_id=e696259d-3386-598d-9ae3-468b896b5aa9 url=https://www.nytimes.com/2025/10/01/crosswords/spelling-bee-forum.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e696259d-3386-598d-9ae3-468b896b5aa9.txt
+2026-08-26 21:08:28,652 INFO SUCCESS article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e url=https://www.nytimes.com/2025/10/01/nyregion/new-jersey-dinosaur-sale.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0ac5ced8-b230-5806-8cd1-71968e9a749e.txt
+2026-08-26 21:10:59,870 INFO SUCCESS article_id=626dd854-64db-577c-87a5-e576ef85a88c url=https://www.nytimes.com/2025/10/01/nyregion/nyc-races-running-boom.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/626dd854-64db-577c-87a5-e576ef85a88c.txt
+2026-08-26 21:12:53,782 INFO SUCCESS article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa url=https://www.nytimes.com/2025/10/01/style/mary-tyler-moore-hat-clothes.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7a302d53-f006-548e-b488-d5b48d8fa4fa.txt
+2026-08-26 22:07:52,141 INFO BACKFILL article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:07:52,142 INFO BACKFILL article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:07:52,143 INFO BACKFILL article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:07:52,143 INFO BACKFILL article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:07:52,143 INFO BACKFILL article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:07:52,144 INFO BACKFILL article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:07:52,144 INFO BACKFILL article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:07:52,145 INFO BACKFILL article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:07:52,145 INFO BACKFILL article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:07:52,145 INFO BACKFILL article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:07:52,146 INFO BACKFILL article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:07:52,146 INFO BACKFILL article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:07:52,147 INFO BACKFILL article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:07:52,147 INFO BACKFILL article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:07:52,148 INFO BACKFILL article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:07:52,148 INFO BACKFILL article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:07:52,149 INFO BACKFILL article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:07:52,149 INFO BACKFILL article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:07:52,150 INFO BACKFILL article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:07:52,150 INFO BACKFILL article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:07:52,151 INFO BACKFILL article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:07:52,151 INFO BACKFILL article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:07:52,151 INFO BACKFILL article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:07:52,152 INFO BACKFILL article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:09:49,918 INFO SUCCESS article_id=076a6cc8-a6e9-5dc0-8424-595557397791 url=https://www.nytimes.com/2025/10/01/books/review/best-toddler-books.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/076a6cc8-a6e9-5dc0-8424-595557397791.txt
+2026-08-26 22:10:48,372 INFO SUCCESS article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e url=https://www.nytimes.com/2025/10/01/health/autism-spectrum-neurodiversity-kennedy.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0aab14e5-66b8-5cae-9997-6245bb642c5e.txt
+2026-08-26 22:11:27,706 INFO SUCCESS article_id=49a60c2d-dd52-502c-90ec-063cec794e6c url=https://www.nytimes.com/2025/10/01/books/horror-books-possession.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/49a60c2d-dd52-502c-90ec-063cec794e6c.txt
+2026-08-26 22:17:10,905 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:17:10,907 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:17:10,907 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:17:10,907 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:17:10,907 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:17:10,907 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:17:10,908 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:17:10,908 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:17:10,908 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:17:10,908 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:17:10,908 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:17:10,908 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:17:10,908 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:17:10,909 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:17:10,909 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:17:10,909 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:17:10,909 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:17:10,909 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:17:10,909 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:17:10,909 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:17:10,910 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:17:10,910 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:17:10,910 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:17:10,910 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:17:10,910 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:17:10,910 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:17:10,910 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:18:07,868 INFO SUCCESS article_id=ea20808b-270c-52ba-97b3-fc976de97061 url=https://www.nytimes.com/2025/10/01/t-magazine/influential-magazine-covers-nominations.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ea20808b-270c-52ba-97b3-fc976de97061.txt
+2026-08-26 22:18:37,031 INFO SUCCESS article_id=7786df79-fca9-5388-9305-d3b3d0f0812b url=https://www.nytimes.com/2025/10/01/well/cancer-young-people.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7786df79-fca9-5388-9305-d3b3d0f0812b.txt
+2026-08-26 22:18:59,521 INFO SUCCESS article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a url=https://www.nytimes.com/2025/10/01/arts/new-york-arts-predictions.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a.txt
+2026-08-26 22:19:20,942 INFO SUCCESS article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296 url=https://www.nytimes.com/2025/10/01/podcasts/gail-rice-escort.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b62eea47-54d2-5eb0-9bbd-fd83dfb85296.txt
+2026-08-26 22:19:40,829 INFO SUCCESS article_id=e9e337df-8344-523e-8e6b-06ca87883ac4 url=https://www.nytimes.com/2025/10/01/travel/las-vegas-tourism.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e9e337df-8344-523e-8e6b-06ca87883ac4.txt
+2026-08-26 22:20:03,020 INFO SUCCESS article_id=713faa21-65c8-53e9-b952-66a5ce03d222 url=https://www.nytimes.com/2025/10/01/magazine/los-angeles-dodgers-trump-latinos.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/713faa21-65c8-53e9-b952-66a5ce03d222.txt
+2026-08-26 22:20:28,481 INFO SUCCESS article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49 url=https://www.nytimes.com/2025/10/01/travel/bachelor-bachelorette-parties-getaways.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/3123eb04-5e4e-5d8f-aa54-25777f2e1a49.txt
+2026-08-26 22:20:57,819 INFO SUCCESS article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f url=https://www.nytimes.com/2025/10/01/arts/fun-things-to-do-nyc-october-2025.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f.txt
+2026-08-26 22:21:23,035 INFO SUCCESS article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7 url=https://www.nytimes.com/article/thomas-pynchon-books.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9d73014e-f0d2-5e5b-affc-ff6dc0b548f7.txt
+2026-08-26 22:21:44,006 INFO SUCCESS article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3 url=https://www.nytimes.com/2025/10/01/opinion/james-talarico-religious-left.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3.txt
+2026-08-26 22:22:30,355 INFO SUCCESS article_id=4bc0544b-7722-57cb-905b-f7691f691978 url=https://www.nytimes.com/2025/10/01/magazine/sushi-california-roll.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/4bc0544b-7722-57cb-905b-f7691f691978.txt
+2026-08-26 22:22:54,720 INFO SUCCESS article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430 url=https://www.nytimes.com/2025/10/01/movies/play-dirty-review.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ca9db773-21ce-5cf1-9505-f67fc1ca9430.txt
+2026-08-26 22:23:23,500 INFO SUCCESS article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639 url=https://www.nytimes.com/2025/10/01/realestate/grand-rapids-quality-of-life-and-affordable-too.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/f231f8fd-d4bc-52db-b69e-e37e986ae639.txt
+2026-08-26 22:23:47,293 INFO SUCCESS article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4 url=https://www.nytimes.com/2025/10/01/magazine/comedy-film-movie-theater-audience.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/762f47fa-4b75-5d89-b01b-d94c0a54d3f4.txt
+2026-08-26 22:24:13,570 INFO SUCCESS article_id=6de3e110-41b3-511c-896b-bad0e0626de3 url=https://www.nytimes.com/2025/10/01/arts/music/taylor-swift-max-martin-shellback-showgirl.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6de3e110-41b3-511c-896b-bad0e0626de3.txt
+2026-08-26 22:24:36,143 INFO SUCCESS article_id=20eb93b8-91be-58dc-a370-d98e781b494f url=https://www.nytimes.com/2025/10/01/books/review/water-mirror-echo-jeff-chang.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/20eb93b8-91be-58dc-a370-d98e781b494f.txt
+2026-08-26 22:24:58,067 INFO SUCCESS article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7 url=https://www.nytimes.com/2025/10/01/theater/caroline-review-chloe-grace-moretz-as-a-mother-starting-over.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7ca6f3d7-d99c-5539-88a7-b79a219e68c7.txt
+2026-08-26 22:25:14,795 INFO SUCCESS article_id=5253c234-aca1-59cc-9694-7614f0fb8866 url=https://www.nytimes.com/2025/10/01/arts/dance/paris-opera-ballet-hofesh-schecter-the-red-carpet.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5253c234-aca1-59cc-9694-7614f0fb8866.txt
+2026-08-26 22:25:39,055 INFO SUCCESS article_id=58de5fec-2c1e-5093-818e-ec9a951ba172 url=https://www.nytimes.com/2025/10/01/world/africa/sudan-el-fasher-war-doctor-rsf-killed.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/58de5fec-2c1e-5093-818e-ec9a951ba172.txt
+2026-08-26 22:26:04,824 INFO SUCCESS article_id=31f5e523-7d2d-5543-837e-1000b99245eb url=https://www.nytimes.com/2025/10/01/arts/music/nina-simone-jazz-music.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/31f5e523-7d2d-5543-837e-1000b99245eb.txt
+2026-08-26 22:26:36,720 INFO SUCCESS article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76 url=https://www.nytimes.com/2025/10/01/opinion/charlie-kirk-media-truth-trump.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/651ee91b-894f-5e5e-954a-5f4b3528ae76.txt
+2026-08-26 22:26:59,501 INFO SUCCESS article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916 url=https://www.nytimes.com/2025/10/01/realestate/1-7-million-homes-utah-california-maine.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/4423c866-7fe4-5edc-a33e-aae0f2e23916.txt
+2026-08-26 22:27:35,615 INFO SUCCESS article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260 url=https://www.nytimes.com/2025/10/01/arts/television/movies-tv-shows-october-2025-streaming.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e66efd62-7fb5-5c19-9ad7-e22badf47260.txt
+2026-08-26 22:27:51,313 ERROR ERROR article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8 url=https://www.nytimes.com/2025/10/01/arts/hades-2-review.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:28:26,332 INFO SUCCESS article_id=788de4f0-87f3-58a8-ad45-a1d634952af6 url=https://www.nytimes.com/2025/10/01/opinion/trump-2024-election-maga.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/788de4f0-87f3-58a8-ad45-a1d634952af6.txt
+2026-08-26 22:28:57,069 INFO SUCCESS article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd url=https://www.nytimes.com/2025/10/01/well/tell-us-about-your-experience-with-early-onset-cancer.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/600ec33e-f6f2-517f-b8b9-3858fbdce8fd.txt
+2026-08-26 22:29:24,566 INFO SUCCESS article_id=51b323be-3115-5767-98d6-4f704bb99857 url=https://www.nytimes.com/2025/10/01/style/milan-style-milanesi.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/51b323be-3115-5767-98d6-4f704bb99857.txt
+2026-08-26 22:29:46,593 INFO SUCCESS article_id=440f355c-9a2a-585c-9684-356aabf11cd8 url=https://www.nytimes.com/2025/10/01/opinion/government-shutdown-health-care-democrats.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/440f355c-9a2a-585c-9684-356aabf11cd8.txt
+2026-08-26 22:30:09,970 INFO SUCCESS article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81 url=https://www.nytimes.com/2025/10/01/arts/design/larry-bell-sculptures-madison-square-park.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/413862ee-455d-5dc8-a2e9-09b4683a6a81.txt
+2026-08-26 22:30:35,130 INFO SUCCESS article_id=20fafffa-5524-5dfa-918e-190f02600759 url=https://www.nytimes.com/2025/10/01/learning/what-concert-past-or-present-would-you-most-like-to-have-seen.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/20fafffa-5524-5dfa-918e-190f02600759.txt
+2026-08-26 22:31:06,092 INFO SUCCESS article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11 url=https://www.nytimes.com/2025/10/01/arts/music/sean-combs-diddy-sentencing-to-what-know.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b6762c0b-8145-5a8b-94a1-8f72327c0e11.txt
+2026-08-26 22:31:38,718 INFO SUCCESS article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9 url=https://www.nytimes.com/2025/10/01/nyregion/inflation-refund-checks-ny.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e2c5ef98-c2b1-5071-9c24-e64145171cc9.txt
+2026-08-26 22:32:01,983 INFO SUCCESS article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b url=https://www.nytimes.com/2025/10/01/opinion/richard-osman-aging.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/50d7a8de-e014-5f06-b507-d9f09dd1152b.txt
+2026-08-26 22:32:29,322 INFO SUCCESS article_id=dae950fc-d25b-512d-b782-c005caf4b98b url=https://www.nytimes.com/2025/10/01/business/federal-reserve-shutdown.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/dae950fc-d25b-512d-b782-c005caf4b98b.txt
+2026-08-26 22:32:51,701 INFO SUCCESS article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18 url=https://www.nytimes.com/2025/10/01/learning/locking-in.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/1fed8412-dc3d-5fb4-98cb-09422e400b18.txt
+2026-08-26 22:33:15,762 INFO SUCCESS article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd url=https://www.nytimes.com/2025/10/01/business/government-shutdown-social-security-trump.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ee010144-1b2b-56db-8e25-aad3e1db9bfd.txt
+2026-08-26 22:33:32,070 ERROR ERROR article_id=df09335e-b288-509e-b311-35160e1a991a url=https://www.nytimes.com/2025/10/01/arts/music/hayley-williams-paramore-popcast-interview.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:33:51,414 ERROR ERROR article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e url=https://www.nytimes.com/2025/10/01/world/asia/trapped-school-collapse-indonesia.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:34:04,337 ERROR ERROR article_id=ae128df4-bfb9-599f-9e63-e97155ea001d url=https://www.nytimes.com/2025/10/01/world/europe/oktoberfest-munich-bomb-threat-explosion.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:34:50,304 INFO SUCCESS article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e url=https://www.nytimes.com/2025/10/01/world/middleeast/gaza-city-exodus-aid.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e742f1c5-e8c4-52d3-8999-38c876dd482e.txt
+2026-08-26 22:35:04,663 ERROR ERROR article_id=7b248996-9489-500d-ac4c-433c8f9f1a2e url=https://www.nytimes.com/2025/10/01/style/saint-laurent-louis-vuitton-spring-2026-paris.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:35:18,910 ERROR ERROR article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42 url=https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:35:40,121 ERROR ERROR article_id=a8534acd-336f-535c-bafa-c5c6b8c808d9 url=https://www.nytimes.com/2025/10/01/crosswords/connections-companion-844.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:36:07,944 INFO SUCCESS article_id=85905248-cd00-5989-942b-b00bf0a2959a url=https://www.nytimes.com/2025/10/01/crosswords/strands-sidekick-578.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/85905248-cd00-5989-942b-b00bf0a2959a.txt
+2026-08-26 22:36:33,718 INFO SUCCESS article_id=c37d4beb-aad4-5249-878c-c08f110e6e15 url=https://www.nytimes.com/2025/10/01/crosswords/wordle-review-1566.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c37d4beb-aad4-5249-878c-c08f110e6e15.txt
+2026-08-26 22:37:02,142 INFO SUCCESS article_id=44918014-6344-5eeb-ae7f-88d06322c0da url=https://www.nytimes.com/2025/10/01/podcasts/the-daily/democrats-shutdown-schumer.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/44918014-6344-5eeb-ae7f-88d06322c0da.txt
+2026-08-26 22:37:48,356 INFO SUCCESS article_id=cf58f03d-23f9-59e1-8bea-cebd0e6b76e6 url=https://www.nytimes.com/2025/10/01/podcasts/the-headlines/shutdown-trump-military-italian-cooking.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/cf58f03d-23f9-59e1-8bea-cebd0e6b76e6.txt
+2026-08-26 22:38:17,587 INFO SUCCESS article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3 url=https://www.nytimes.com/2025/10/01/world/middleeast/tony-blair-gaza-peace-plan.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7bfc438b-8d41-5086-8b85-1fade9a085c3.txt
+2026-08-26 22:38:43,134 INFO SUCCESS article_id=e3abc266-e286-55b2-92eb-706693f92886 url=https://www.nytimes.com/2025/10/01/science/leeches-fossils-waukesha-wisconsin.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e3abc266-e286-55b2-92eb-706693f92886.txt
+2026-08-26 22:39:17,946 INFO SUCCESS article_id=303df95e-797f-51d8-aab3-14c80af60045 url=https://www.nytimes.com/live/2025/10/01/us/government-shutdown-trump-news/heres-the-latest path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/303df95e-797f-51d8-aab3-14c80af60045.txt
+2026-08-26 22:39:45,581 INFO SUCCESS article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982 url=https://www.nytimes.com/2025/10/01/briefing/the-federal-government-shut-down-overnight.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a473b4fb-6fe3-5241-a8a9-c3119f7a6982.txt
+2026-08-26 22:40:18,881 INFO SUCCESS article_id=8dc6e551-186f-5892-a488-3d5e21790503 url=https://www.nytimes.com/2025/10/01/business/government-shutdown-flights-air-travel.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8dc6e551-186f-5892-a488-3d5e21790503.txt
+2026-08-26 22:40:30,636 ERROR ERROR article_id=6c440081-2e87-5c6d-ac3c-4ffc7e829e2b url=https://www.nytimes.com/2025/10/01/world/middleeast/qatar-trump-executive-order.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:41:30,724 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:41:30,724 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:41:30,725 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:41:30,725 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:41:30,725 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:41:30,725 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:41:30,725 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:41:30,725 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:41:30,726 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:41:30,726 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:41:30,726 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:41:30,726 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:41:30,726 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:41:30,726 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:41:30,726 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:41:30,726 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:41:30,727 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:41:30,727 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:41:30,727 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:41:30,727 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:41:30,727 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:41:30,727 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:41:30,727 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:41:30,728 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:41:30,728 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:41:30,728 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:41:30,728 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:41:30,728 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:41:30,728 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:41:30,728 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:41:30,729 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:41:30,729 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:41:30,729 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:41:30,729 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:41:30,729 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:41:30,729 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:41:30,730 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:41:30,730 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:41:30,730 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:41:30,730 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:41:30,730 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:41:30,730 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:41:30,731 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:41:30,731 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:41:30,731 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:41:30,731 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:41:30,731 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:41:30,732 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:41:30,732 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:41:30,732 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:42:04,771 INFO SUCCESS article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8 url=https://www.nytimes.com/2025/10/01/arts/hades-2-review.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8.txt
+2026-08-26 22:42:04,772 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:42:04,772 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:42:04,772 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:42:04,772 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:42:04,772 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:42:04,773 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:42:04,773 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:42:04,773 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:42:04,773 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:42:04,773 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:42:04,774 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:42:04,774 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:42:23,576 ERROR ERROR article_id=df09335e-b288-509e-b311-35160e1a991a url=https://www.nytimes.com/2025/10/01/arts/music/hayley-williams-paramore-popcast-interview.html message=unsupported operand type(s) for +: 'NoneType' and 'str'
+2026-08-26 22:50:33,299 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:50:33,300 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:50:33,300 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:50:33,300 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:50:33,300 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:50:33,300 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:50:33,300 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:50:33,301 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:50:33,301 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:50:33,301 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:50:33,301 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:50:33,301 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:50:33,301 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:50:33,301 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:50:33,302 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:50:33,302 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:50:33,302 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:50:33,302 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:50:33,302 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:50:33,303 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:50:33,303 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:50:33,303 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:50:33,303 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:50:33,303 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:50:33,303 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:50:33,304 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:50:33,304 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:50:33,304 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:50:33,304 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:50:33,304 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:50:33,304 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:50:33,304 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:50:33,305 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:50:33,305 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:50:33,305 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:50:33,305 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:50:33,305 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:50:33,305 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:50:33,306 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:50:33,306 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:50:33,306 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:50:33,306 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:50:33,306 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:50:33,306 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:50:33,306 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:50:33,307 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:50:33,307 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:50:33,307 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:50:33,307 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:50:33,307 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:50:33,307 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 22:50:33,307 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:50:33,308 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:50:33,308 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:50:33,308 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:50:33,308 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:50:33,308 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:50:33,308 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:50:33,308 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:50:33,309 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:50:33,309 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:50:33,309 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:50:33,309 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:51:14,267 INFO SUCCESS article_id=df09335e-b288-509e-b311-35160e1a991a url=https://www.nytimes.com/2025/10/01/arts/music/hayley-williams-paramore-popcast-interview.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/df09335e-b288-509e-b311-35160e1a991a.txt
+2026-08-26 22:53:47,058 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:53:47,059 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:53:47,059 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:53:47,059 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:53:47,059 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:53:47,059 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:53:47,059 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:53:47,060 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:53:47,060 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:53:47,060 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:53:47,060 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:53:47,060 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:53:47,060 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:53:47,060 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:53:47,060 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:53:47,061 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:53:47,061 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:53:47,061 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:53:47,061 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:53:47,061 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:53:47,061 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:53:47,061 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:53:47,062 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:53:47,062 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:53:47,062 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:53:47,062 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:53:47,062 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:53:47,062 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:53:47,062 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:53:47,063 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:53:47,063 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:53:47,063 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:53:47,063 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:53:47,063 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:53:47,063 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:53:47,063 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:53:47,064 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:53:47,064 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:53:47,064 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:53:47,064 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:53:47,064 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:53:47,064 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:53:47,064 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:53:47,065 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:53:47,065 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:53:47,065 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:53:47,065 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:53:47,065 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:53:47,065 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:53:47,065 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:53:47,066 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 22:53:47,066 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:53:47,066 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:53:47,066 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:53:47,066 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:53:47,066 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:53:47,066 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:53:47,066 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:53:47,067 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:53:47,067 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:53:47,067 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:53:47,067 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:53:47,067 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:53:47,067 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-26 22:55:04,194 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:55:04,195 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:55:04,195 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:55:04,195 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:55:04,195 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:55:04,195 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:55:04,196 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:55:04,196 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:55:04,196 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:55:04,196 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:55:04,196 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:55:04,196 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:55:04,196 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:55:04,197 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:55:04,197 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:55:04,197 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:55:04,197 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:55:04,197 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:55:04,197 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:55:04,197 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:55:04,198 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:55:04,198 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:55:04,198 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:55:04,198 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:55:04,198 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:55:04,198 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:55:04,198 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:55:04,198 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:55:04,199 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:55:04,199 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:55:04,199 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:55:04,199 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:55:04,199 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:55:04,199 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:55:04,200 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:55:04,200 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:55:04,200 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:55:04,200 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:55:04,200 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:55:04,200 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:55:04,201 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:55:04,201 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:55:04,201 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:55:04,201 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:55:04,201 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:55:04,201 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:55:04,201 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:55:04,201 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:55:04,202 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:55:04,202 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:55:04,202 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 22:55:04,202 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:55:04,202 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:55:04,202 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:55:04,202 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:55:04,203 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:55:04,203 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:55:04,203 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:55:04,203 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:55:04,203 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:55:04,203 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:55:04,203 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:55:04,204 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:55:04,204 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-26 22:56:56,749 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:56:56,749 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:56:56,750 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:56:56,750 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:56:56,750 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:56:56,750 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:56:56,750 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:56:56,750 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:56:56,751 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:56:56,751 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:56:56,751 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:56:56,751 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:56:56,751 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:56:56,751 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:56:56,752 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:56:56,752 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:56:56,752 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:56:56,752 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:56:56,752 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:56:56,752 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:56:56,752 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:56:56,753 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:56:56,753 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:56:56,753 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:56:56,753 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:56:56,753 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:56:56,753 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:56:56,753 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:56:56,754 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:56:56,754 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:56:56,754 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:56:56,754 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:56:56,754 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:56:56,754 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:56:56,754 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:56:56,755 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:56:56,755 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:56:56,755 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:56:56,755 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:56:56,755 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:56:56,755 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:56:56,755 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:56:56,756 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:56:56,756 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:56:56,756 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:56:56,756 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:56:56,756 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:56:56,756 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:56:56,756 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:56:56,757 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:56:56,757 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 22:56:56,757 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:56:56,757 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:56:56,757 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:56:56,757 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:56:56,757 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:56:56,757 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:56:56,758 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:56:56,758 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:56:56,758 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:56:56,758 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:56:56,758 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:56:56,758 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:56:56,758 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-26 22:59:06,065 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 22:59:06,066 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 22:59:06,066 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 22:59:06,066 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 22:59:06,066 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 22:59:06,067 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 22:59:06,067 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 22:59:06,067 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 22:59:06,067 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 22:59:06,067 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 22:59:06,067 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 22:59:06,067 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 22:59:06,067 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 22:59:06,068 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 22:59:06,068 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 22:59:06,068 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 22:59:06,068 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 22:59:06,068 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 22:59:06,068 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 22:59:06,068 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 22:59:06,069 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 22:59:06,069 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 22:59:06,069 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 22:59:06,069 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 22:59:06,069 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 22:59:06,069 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 22:59:06,069 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 22:59:06,070 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 22:59:06,070 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 22:59:06,070 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 22:59:06,070 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 22:59:06,070 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 22:59:06,070 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 22:59:06,070 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 22:59:06,071 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 22:59:06,071 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 22:59:06,071 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 22:59:06,071 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 22:59:06,071 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 22:59:06,071 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 22:59:06,071 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 22:59:06,072 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 22:59:06,072 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 22:59:06,072 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 22:59:06,072 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 22:59:06,072 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 22:59:06,072 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 22:59:06,072 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 22:59:06,073 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 22:59:06,073 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 22:59:06,073 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 22:59:06,073 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 22:59:06,073 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 22:59:06,073 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 22:59:06,073 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 22:59:06,074 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 22:59:06,074 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 22:59:06,074 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 22:59:06,074 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 22:59:06,074 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 22:59:06,074 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 22:59:06,075 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 22:59:06,075 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 22:59:06,075 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-26 23:04:41,217 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-26 23:04:41,217 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-26 23:04:41,217 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-26 23:04:41,218 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-26 23:04:41,218 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-26 23:04:41,218 INFO SKIP article_id=202c33d5-8cf4-5806-961e-d2f35ff5339d
+2026-08-26 23:04:41,218 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-26 23:04:41,218 INFO SKIP article_id=739c2b00-cf98-52e2-9935-e02c364d74d9
+2026-08-26 23:04:41,218 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-26 23:04:41,218 INFO SKIP article_id=80141a0b-7dd2-54c2-936d-4509699b2916
+2026-08-26 23:04:41,219 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-26 23:04:41,219 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-26 23:04:41,219 INFO SKIP article_id=3375f37c-db5c-554b-9816-046b75fd0a53
+2026-08-26 23:04:41,219 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-26 23:04:41,219 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-26 23:04:41,219 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-26 23:04:41,220 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-26 23:04:41,220 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-26 23:04:41,220 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-26 23:04:41,220 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-26 23:04:41,220 INFO SKIP article_id=e696259d-3386-598d-9ae3-468b896b5aa9
+2026-08-26 23:04:41,220 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-26 23:04:41,220 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-26 23:04:41,221 INFO SKIP article_id=7a302d53-f006-548e-b488-d5b48d8fa4fa
+2026-08-26 23:04:41,221 INFO SKIP article_id=076a6cc8-a6e9-5dc0-8424-595557397791
+2026-08-26 23:04:41,221 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-26 23:04:41,221 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-26 23:04:41,221 INFO SKIP article_id=ea20808b-270c-52ba-97b3-fc976de97061
+2026-08-26 23:04:41,221 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-26 23:04:41,221 INFO SKIP article_id=ad7ce9c5-f71a-5d9a-a9d0-8bef33764b9a
+2026-08-26 23:04:41,222 INFO SKIP article_id=b62eea47-54d2-5eb0-9bbd-fd83dfb85296
+2026-08-26 23:04:41,222 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-26 23:04:41,222 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-26 23:04:41,222 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-26 23:04:41,222 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-26 23:04:41,222 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-26 23:04:41,223 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-26 23:04:41,223 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-26 23:04:41,223 INFO SKIP article_id=ca9db773-21ce-5cf1-9505-f67fc1ca9430
+2026-08-26 23:04:41,223 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-26 23:04:41,223 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-26 23:04:41,223 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-26 23:04:41,223 INFO SKIP article_id=20eb93b8-91be-58dc-a370-d98e781b494f
+2026-08-26 23:04:41,224 INFO SKIP article_id=7ca6f3d7-d99c-5539-88a7-b79a219e68c7
+2026-08-26 23:04:41,224 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-26 23:04:41,224 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-26 23:04:41,224 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-26 23:04:41,224 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-26 23:04:41,224 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-26 23:04:41,224 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-26 23:04:41,225 INFO SKIP article_id=c22e6f94-84cf-5cf6-8969-d8cd8c09c5e8
+2026-08-26 23:04:41,225 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-26 23:04:41,225 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-26 23:04:41,225 INFO SKIP article_id=51b323be-3115-5767-98d6-4f704bb99857
+2026-08-26 23:04:41,225 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-26 23:04:41,225 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-26 23:04:41,225 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-26 23:04:41,226 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-26 23:04:41,226 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-26 23:04:41,226 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-26 23:04:41,226 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-26 23:04:41,226 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-26 23:04:41,226 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-26 23:04:41,226 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-28 22:21:33,364 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-28 22:21:33,364 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-28 22:21:33,365 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-28 22:21:33,365 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-28 22:21:33,365 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-28 22:21:33,365 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-28 22:21:33,365 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-28 22:21:33,365 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-28 22:21:33,366 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-28 22:21:33,366 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-28 22:21:33,366 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-28 22:21:33,366 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-28 22:21:33,366 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-28 22:21:33,366 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-28 22:21:33,367 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-28 22:21:33,367 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-28 22:21:33,367 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-28 22:21:33,367 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-28 22:21:33,367 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-28 22:21:33,367 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-28 22:21:33,368 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-28 22:24:14,451 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-28 22:24:14,453 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-28 22:24:14,454 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-28 22:24:14,454 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-28 22:24:14,455 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-28 22:24:14,455 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-28 22:24:14,456 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-28 22:24:14,456 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-28 22:24:14,457 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-28 22:24:14,457 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-28 22:24:14,457 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-28 22:24:14,458 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-28 22:24:14,458 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-28 22:24:14,458 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-28 22:24:14,458 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-28 22:24:14,459 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-28 22:24:14,459 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-28 22:24:14,459 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-28 22:24:14,459 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-28 22:24:14,460 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-28 22:24:14,460 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-28 22:24:14,460 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-28 22:24:14,460 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-28 22:24:14,461 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-28 22:24:14,461 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-28 22:24:14,461 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-28 22:24:14,461 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-28 22:24:14,461 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-28 22:25:11,753 INFO SUCCESS article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e url=https://www.nytimes.com/2025/10/01/world/asia/trapped-school-collapse-indonesia.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e.txt
+2026-08-28 22:25:44,602 INFO SUCCESS article_id=ae128df4-bfb9-599f-9e63-e97155ea001d url=https://www.nytimes.com/2025/10/01/world/europe/oktoberfest-munich-bomb-threat-explosion.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ae128df4-bfb9-599f-9e63-e97155ea001d.txt
+2026-08-28 22:25:44,603 INFO SKIP article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e
+2026-08-28 22:26:21,795 INFO SUCCESS article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42 url=https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42.txt
+2026-08-28 22:26:21,795 INFO SKIP article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3
+2026-08-28 22:26:21,795 INFO SKIP article_id=e3abc266-e286-55b2-92eb-706693f92886
+2026-08-28 22:26:21,795 INFO SKIP article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982
+2026-08-28 22:26:21,796 INFO SKIP article_id=8dc6e551-186f-5892-a488-3d5e21790503
+2026-08-28 22:28:55,686 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-28 22:28:55,686 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-28 22:28:55,686 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-28 22:28:55,687 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-28 22:28:55,687 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-28 22:28:55,687 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-28 22:28:55,687 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-28 22:28:55,687 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-28 22:28:55,687 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-28 22:28:55,687 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-28 22:28:55,688 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-28 22:28:55,688 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-28 22:28:55,688 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-28 22:28:55,688 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-28 22:28:55,688 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-28 22:28:55,688 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-28 22:28:55,688 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-28 22:28:55,689 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-28 22:28:55,689 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-28 22:28:55,689 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-28 22:28:55,689 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-28 22:28:55,689 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-28 22:28:55,689 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-28 22:28:55,689 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-28 22:28:55,690 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-28 22:28:55,690 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-28 22:28:55,690 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-28 22:28:55,690 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-28 22:28:55,690 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-28 22:28:55,690 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-28 22:28:55,691 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-28 22:28:55,691 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-28 22:28:55,691 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-28 22:28:55,691 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-28 22:28:55,691 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-28 22:28:55,691 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-28 22:28:55,691 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-28 22:28:55,692 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-28 22:28:55,692 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-28 22:28:55,692 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-28 22:28:55,692 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-28 22:28:55,692 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-28 22:28:55,692 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-28 22:28:55,692 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-28 22:28:55,693 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-28 22:28:55,693 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-28 22:28:55,693 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-28 22:28:55,693 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-28 22:28:55,693 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-28 22:28:55,693 INFO SKIP article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e
+2026-08-28 22:28:55,693 INFO SKIP article_id=ae128df4-bfb9-599f-9e63-e97155ea001d
+2026-08-28 22:28:55,694 INFO SKIP article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e
+2026-08-28 22:28:55,694 INFO SKIP article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42
+2026-08-28 22:28:55,694 INFO SKIP article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3
+2026-08-28 22:28:55,694 INFO SKIP article_id=e3abc266-e286-55b2-92eb-706693f92886
+2026-08-28 22:28:55,694 INFO SKIP article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982
+2026-08-28 22:28:55,694 INFO SKIP article_id=8dc6e551-186f-5892-a488-3d5e21790503
+2026-08-28 22:31:04,676 INFO SUCCESS article_id=6c440081-2e87-5c6d-ac3c-4ffc7e829e2b url=https://www.nytimes.com/2025/10/01/world/middleeast/qatar-trump-executive-order.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6c440081-2e87-5c6d-ac3c-4ffc7e829e2b.txt
+2026-08-28 22:31:37,447 INFO SUCCESS article_id=431534dc-d182-58c8-aa30-893a4512ec55 url=https://www.nytimes.com/2025/10/01/business/dealbook/markets-shutdown-costs.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/431534dc-d182-58c8-aa30-893a4512ec55.txt
+2026-08-28 22:32:11,346 INFO SUCCESS article_id=e5be796f-a9b7-5697-8c14-43486b94027a url=https://www.nytimes.com/2025/10/01/us/politics/stocks-gold-government-shutdown.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e5be796f-a9b7-5697-8c14-43486b94027a.txt
+2026-08-28 22:32:43,419 INFO SUCCESS article_id=bf58c87c-cd23-525c-a50f-a8b0a4cde46e url=https://www.nytimes.com/2025/10/01/books/book-bans-pen-america.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/bf58c87c-cd23-525c-a50f-a8b0a4cde46e.txt
+2026-08-28 22:33:19,178 INFO SUCCESS article_id=7084ba4c-edb5-5554-b088-e837274775e6 url=https://www.nytimes.com/2025/10/01/opinion/erasure-working-women-federal-agency.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7084ba4c-edb5-5554-b088-e837274775e6.txt
+2026-08-28 22:33:56,982 INFO SUCCESS article_id=7494b848-6660-54de-b277-49683a7e35bc url=https://www.nytimes.com/2025/10/01/world/asia/philippines-earthquake-cebu.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7494b848-6660-54de-b277-49683a7e35bc.txt
+2026-08-28 22:34:39,546 INFO SUCCESS article_id=03cbf994-e1de-5f29-b41d-b0e99b53b953 url=https://www.nytimes.com/2025/10/01/nyregion/bronx-explosion-building-collapse.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/03cbf994-e1de-5f29-b41d-b0e99b53b953.txt
+2026-08-28 22:35:26,821 INFO SUCCESS article_id=2a759bb4-b854-5c51-a9d3-7a509c18bbf8 url=https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-aid-global-sumud-israel.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2a759bb4-b854-5c51-a9d3-7a509c18bbf8.txt
+2026-08-28 22:36:07,069 INFO SUCCESS article_id=de736f2e-d3c5-5c4a-abb1-5985f85d94e6 url=https://www.nytimes.com/2025/10/01/us/politics/charlie-kirk.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/de736f2e-d3c5-5c4a-abb1-5985f85d94e6.txt
+2026-08-28 22:37:05,347 INFO SUCCESS article_id=095dc002-25c6-501a-895c-be62c357e060 url=https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/095dc002-25c6-501a-895c-be62c357e060.txt
+2026-08-28 22:37:55,516 INFO SUCCESS article_id=8d7c398e-0cc2-53a2-a272-6a44385f08fc url=https://www.nytimes.com/2025/10/01/us/politics/supreme-court-lisa-cook-fed.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8d7c398e-0cc2-53a2-a272-6a44385f08fc.txt
+2026-08-28 22:38:34,768 INFO SUCCESS article_id=be7ef962-bb50-59cd-aa64-f9cd08b4b183 url=https://www.nytimes.com/2025/10/01/world/middleeast/qatar-royals-lawsuit-labor-racketeering.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/be7ef962-bb50-59cd-aa64-f9cd08b4b183.txt
+2026-08-28 22:39:06,108 INFO SUCCESS article_id=cff0d1b6-8482-5d5d-9fe9-37c91dcf1485 url=https://www.nytimes.com/2025/10/01/well/bathhouses-social-loneliness.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/cff0d1b6-8482-5d5d-9fe9-37c91dcf1485.txt
+2026-08-28 22:39:38,522 INFO SUCCESS article_id=f6be2782-86b8-58d9-b614-a252f02fbdf6 url=https://www.nytimes.com/2025/10/01/business/economy/spencer-pratt-palisades-fire-gavin-newsom.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/f6be2782-86b8-58d9-b614-a252f02fbdf6.txt
+2026-08-28 22:40:26,901 INFO SUCCESS article_id=fdedbfb7-d078-5852-847c-3d1b7637c312 url=https://www.nytimes.com/2025/10/01/arts/tina-turner-statue-brownsville-tennessee.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fdedbfb7-d078-5852-847c-3d1b7637c312.txt
+2026-08-28 22:41:06,234 INFO SUCCESS article_id=a9d96f77-c276-54fc-8449-562de45be7d7 url=https://www.nytimes.com/2025/10/01/nyregion/trump-nyc-subway-gateway-infrastructure-funding.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a9d96f77-c276-54fc-8449-562de45be7d7.txt
+2026-08-28 22:41:41,428 INFO SUCCESS article_id=df29880f-bacf-55f6-a759-e9509db05091 url=https://www.nytimes.com/2025/10/01/magazine/magazine-email/talk-to-daughter-about-weight-ethics.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/df29880f-bacf-55f6-a759-e9509db05091.txt
+2026-08-28 22:43:24,108 INFO SUCCESS article_id=8d57ecb0-98d3-5e71-8b42-09d20b534ad9 url=https://www.nytimes.com/2025/10/01/world/europe/pope-leo-climate-speech-trump.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8d57ecb0-98d3-5e71-8b42-09d20b534ad9.txt
+2026-08-28 22:43:54,403 INFO SUCCESS article_id=14269097-42fe-5fe9-a645-48ab8ed10fb2 url=https://www.nytimes.com/2025/10/01/business/republicans-college-tuition-consultants.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/14269097-42fe-5fe9-a645-48ab8ed10fb2.txt
+2026-08-28 22:44:34,359 INFO SUCCESS article_id=e1b50743-ecf4-5a7e-99d5-f00cf33d4159 url=https://www.nytimes.com/2025/10/01/arts/music/11000-strings-park-avenue-armory.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e1b50743-ecf4-5a7e-99d5-f00cf33d4159.txt
+2026-08-28 22:45:21,633 INFO SUCCESS article_id=5504e6dc-5169-5654-8dcd-b0a6b8561fdc url=https://www.nytimes.com/2025/10/01/us/past-government-shutdowns-length.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5504e6dc-5169-5654-8dcd-b0a6b8561fdc.txt
+2026-08-28 22:46:17,181 INFO SUCCESS article_id=91ecc540-7909-5a54-b66b-09c9fac7c77b url=https://www.nytimes.com/2025/10/01/us/politics/congress-shutdown-deadlock.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/91ecc540-7909-5a54-b66b-09c9fac7c77b.txt
+2026-08-28 22:47:20,482 INFO SUCCESS article_id=e4673ddd-26f9-5949-b0b7-dfac8f17135a url=https://www.nytimes.com/2025/10/01/opinion/trump-hegseth-military.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e4673ddd-26f9-5949-b0b7-dfac8f17135a.txt
+2026-08-28 22:47:53,041 INFO SUCCESS article_id=8ca5b4c9-4edc-5ce7-8f88-dc5a44ffa363 url=https://www.nytimes.com/2025/10/01/nyregion/nicolas-maduro-venezuela-charges-explainer.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8ca5b4c9-4edc-5ce7-8f88-dc5a44ffa363.txt
+2026-08-28 22:48:25,531 INFO SUCCESS article_id=68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4 url=https://www.nytimes.com/2025/10/01/nyregion/yankees-red-sox-wild-card-bronx.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4.txt
+2026-08-28 22:49:01,285 INFO SUCCESS article_id=d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b url=https://www.nytimes.com/2025/10/01/nyregion/government-shutdown-affects-new-york.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b.txt
+2026-08-28 22:50:40,987 INFO SUCCESS article_id=28cc79d1-78c0-56cc-a7cd-1793c3095eb4 url=https://www.nytimes.com/2025/10/01/us/politics/washington-dc-ice.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/28cc79d1-78c0-56cc-a7cd-1793c3095eb4.txt
+2026-08-28 22:51:13,965 INFO SUCCESS article_id=80445927-2db6-54e0-9213-0ab1655ffc7b url=https://www.nytimes.com/2025/10/01/us/politics/government-shutdown-epa-working.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/80445927-2db6-54e0-9213-0ab1655ffc7b.txt
+2026-08-28 22:51:42,293 INFO SUCCESS article_id=fe9404dd-0c67-5b5d-be3b-c36de3e9b287 url=https://www.nytimes.com/2025/10/01/science/earth/jane-goodall-dead.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fe9404dd-0c67-5b5d-be3b-c36de3e9b287.txt
+2026-08-28 22:52:04,298 INFO SUCCESS article_id=32262afc-5024-5b76-8469-cdd3a603a045 url=https://cooking.nytimes.com/article/dan-pelosi-party-tips-recipes path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/32262afc-5024-5b76-8469-cdd3a603a045.txt
+2026-08-28 22:52:47,389 INFO SUCCESS article_id=79610b0d-aa68-55dd-b3d6-3518f7b17672 url=https://www.nytimes.com/2025/10/01/world/europe/uk-grooming-gang-sentencing.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/79610b0d-aa68-55dd-b3d6-3518f7b17672.txt
+2026-08-28 22:53:22,347 INFO SUCCESS article_id=0de1a849-520d-5964-8688-cb89459d66c2 url=https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0de1a849-520d-5964-8688-cb89459d66c2.txt
+2026-08-28 22:53:54,143 INFO SUCCESS article_id=f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47 url=https://www.nytimes.com/2025/10/01/business/snapchat-storage-fee.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47.txt
+2026-08-28 22:54:32,206 INFO SUCCESS article_id=a73ff22b-3156-5591-8b87-b4f01bdc7a96 url=https://www.nytimes.com/2025/10/01/arts/trump-neh-firings.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a73ff22b-3156-5591-8b87-b4f01bdc7a96.txt
+2026-08-28 22:55:10,593 INFO SUCCESS article_id=988d7c2b-b69f-5ba0-bf6c-f15fddd68146 url=https://www.nytimes.com/2025/10/01/us/politics/furlough-small-business-administration-emails.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/988d7c2b-b69f-5ba0-bf6c-f15fddd68146.txt
+2026-08-28 22:56:03,006 INFO SUCCESS article_id=49397e0d-ab78-5461-afd6-6a832b576a3b url=https://www.nytimes.com/2025/10/01/opinion/kennedy-vaccines-autism.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/49397e0d-ab78-5461-afd6-6a832b576a3b.txt
+2026-08-28 22:56:43,637 INFO SUCCESS article_id=4a1e3360-80f9-5e27-b223-fb856f7419ba url=https://www.nytimes.com/2025/10/01/us/politics/democrats-shutdown-vote.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/4a1e3360-80f9-5e27-b223-fb856f7419ba.txt
+2026-08-28 22:57:16,506 INFO SUCCESS article_id=aecb338c-5d9e-55b3-bc2f-c1ad5416336d url=https://www.nytimes.com/2025/10/01/us/politics/federal-courts-slowing-shutdown.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/aecb338c-5d9e-55b3-bc2f-c1ad5416336d.txt
+2026-08-28 22:57:34,337 INFO SUCCESS article_id=96f80616-618b-596e-a8ad-60340e1da4f4 url=https://www.nytimes.com/2025/10/01/us/waymo-tickets-san-bruno.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/96f80616-618b-596e-a8ad-60340e1da4f4.txt
+2026-08-28 22:58:15,622 INFO SUCCESS article_id=3c59670c-d395-5886-83f4-50f7f9e1169d url=https://www.nytimes.com/2025/10/01/world/middleeast/gaza-flotilla-israel.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/3c59670c-d395-5886-83f4-50f7f9e1169d.txt
+2026-08-28 22:58:49,198 INFO SUCCESS article_id=b25b538b-ad29-53a4-9c56-73b0c83f02a7 url=https://www.nytimes.com/2025/10/01/books/and-tango-makes-three-escambia-county.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b25b538b-ad29-53a4-9c56-73b0c83f02a7.txt
+2026-08-28 22:59:26,645 INFO SUCCESS article_id=d4a3f915-1b1b-5052-82d8-eb66c39cbd5b url=https://www.nytimes.com/2025/10/01/us/politics/voice-america-shutdown.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/d4a3f915-1b1b-5052-82d8-eb66c39cbd5b.txt
+2026-08-28 22:59:59,913 INFO SUCCESS article_id=3a685d3d-e582-5f5a-8699-f7bbe21fdbb1 url=https://www.nytimes.com/2025/10/01/nyregion/immigration-court-government-shutdown-new-york.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/3a685d3d-e582-5f5a-8699-f7bbe21fdbb1.txt
+2026-08-28 23:00:41,881 INFO SUCCESS article_id=e6413f97-7ea0-5620-b6dd-995a3cb00905 url=https://www.nytimes.com/2025/10/01/arts/music/nirvana-nevermind-baby-lawsuit.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e6413f97-7ea0-5620-b6dd-995a3cb00905.txt
+2026-08-28 23:01:28,495 INFO SUCCESS article_id=b4742d8d-fbd6-5829-9760-48496e36ae5e url=https://www.nytimes.com/2025/10/01/opinion/congo-refugee-us-albinism.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b4742d8d-fbd6-5829-9760-48496e36ae5e.txt
+2026-08-28 23:02:09,660 INFO SUCCESS article_id=0dcce23b-3c51-5068-a332-e3d1af46939c url=https://www.nytimes.com/2025/10/01/world/courts-polarized-gaza-flotilla-israel-blockade-jane-goodall.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0dcce23b-3c51-5068-a332-e3d1af46939c.txt
+2026-08-28 23:02:51,035 INFO SUCCESS article_id=feb8519e-ede5-5bbe-8927-688fd64554b4 url=https://www.nytimes.com/2025/10/01/us/politics/vance-jeffries-deepfake-video.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/feb8519e-ede5-5bbe-8927-688fd64554b4.txt
+2026-08-28 23:03:45,252 INFO SUCCESS article_id=2cd64f3d-3fc7-5fd6-9b60-98b10265b065 url=https://www.nytimes.com/2025/10/01/us/politics/white-house-shutdown-punishment.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2cd64f3d-3fc7-5fd6-9b60-98b10265b065.txt
+2026-08-28 23:04:25,389 INFO SUCCESS article_id=9bf759dd-9f6c-5dbb-b3c8-ecd463711328 url=https://www.nytimes.com/2025/10/01/world/americas/marine-biologist-shark-bite-costa-rica.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9bf759dd-9f6c-5dbb-b3c8-ecd463711328.txt
+2026-08-28 23:05:10,402 INFO SUCCESS article_id=aea36ea3-6661-5a16-9fd3-a3957ff970c5 url=https://www.nytimes.com/2025/10/01/briefing/congress-shutdown-jane-goodall.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/aea36ea3-6661-5a16-9fd3-a3957ff970c5.txt
+2026-08-28 23:05:45,394 INFO SUCCESS article_id=6f684add-6188-5696-a76f-9e976c5c5956 url=https://www.nytimes.com/2025/10/01/science/edward-t-blake-dead.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6f684add-6188-5696-a76f-9e976c5c5956.txt
+2026-08-28 23:06:22,849 INFO SUCCESS article_id=9cc0dd95-4439-5d41-bd5f-b1286e754316 url=https://www.nytimes.com/2025/10/01/world/europe/london-police-chief-apology-officer-comments.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9cc0dd95-4439-5d41-bd5f-b1286e754316.txt
+2026-08-28 23:06:53,571 INFO SUCCESS article_id=9a9f83bb-02bc-585d-af98-237bbaffc782 url=https://www.nytimes.com/2025/10/01/world/africa/malema-south-africa-trump-guilty.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9a9f83bb-02bc-585d-af98-237bbaffc782.txt
+2026-08-28 23:07:33,455 INFO SUCCESS article_id=9de06f9b-af8d-56ae-ae92-9847980e8e54 url=https://www.nytimes.com/2025/10/01/us/trump-chicago-immigration-national-guard.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9de06f9b-af8d-56ae-ae92-9847980e8e54.txt
+2026-08-28 23:08:05,940 INFO SUCCESS article_id=c17c41a6-f24f-554b-9263-574ff14590d1 url=https://www.nytimes.com/2025/10/01/nyregion/brooklyn-bar-shooting-charges.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c17c41a6-f24f-554b-9263-574ff14590d1.txt
+2026-08-28 23:08:49,701 INFO SUCCESS article_id=cdd7b664-c9ba-5bc1-97f5-a2d5728e9dde url=https://www.nytimes.com/2025/10/01/health/trump-pfizer-prescription-drug-prices.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/cdd7b664-c9ba-5bc1-97f5-a2d5728e9dde.txt
+2026-08-28 23:09:22,100 INFO SUCCESS article_id=e0b297a8-ee13-59b2-8f8d-f80e88f89dc0 url=https://www.nytimes.com/2025/10/01/science/jane-goodall-photos.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e0b297a8-ee13-59b2-8f8d-f80e88f89dc0.txt
+2026-08-28 23:10:01,954 INFO SUCCESS article_id=6a69b477-f9fe-574e-b0f7-95ca643fb422 url=https://www.nytimes.com/2025/10/01/us/politics/politics-shutdown-democrats-trump.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6a69b477-f9fe-574e-b0f7-95ca643fb422.txt
+2026-08-28 23:10:42,238 INFO SUCCESS article_id=3deb4fc1-6982-541b-912d-c757f4335841 url=https://www.nytimes.com/2025/10/01/nyregion/jasmine-ray-memoir-eric-adams.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/3deb4fc1-6982-541b-912d-c757f4335841.txt
+2026-08-28 23:11:16,567 INFO SUCCESS article_id=2008c6f6-3146-55a9-8221-12f9325ad5e8 url=https://www.nytimes.com/2025/10/01/dining/what-to-do-with-all-those-apples.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2008c6f6-3146-55a9-8221-12f9325ad5e8.txt
+2026-08-28 23:11:50,931 INFO SUCCESS article_id=2bd2e896-0573-5f97-a882-9a2d73e5565c url=https://www.nytimes.com/2025/10/01/us/politics/trump-democrats-health-care.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2bd2e896-0573-5f97-a882-9a2d73e5565c.txt
+2026-08-28 23:12:21,579 INFO SUCCESS article_id=ba609baa-8ddd-5c22-a5ae-1e709180a885 url=https://www.nytimes.com/2025/10/01/us/politics/trump-military-founding-fathers.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ba609baa-8ddd-5c22-a5ae-1e709180a885.txt
+2026-08-28 23:13:02,084 INFO SUCCESS article_id=0fcce17c-d85d-50a2-b73a-bc337405f7ff url=https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0fcce17c-d85d-50a2-b73a-bc337405f7ff.txt
+2026-08-28 23:13:32,311 INFO SUCCESS article_id=5bb69dd1-0f7b-585a-888e-507ecac3f19a url=https://www.nytimes.com/2025/10/01/climate/jane-goodall-interviews.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5bb69dd1-0f7b-585a-888e-507ecac3f19a.txt
+2026-08-28 23:14:12,840 INFO SUCCESS article_id=bdc75988-0c0d-52b8-a2f7-a637c7b0ebaa url=https://www.nytimes.com/2025/10/01/science/jane-goodall-chimpanzees-career.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/bdc75988-0c0d-52b8-a2f7-a637c7b0ebaa.txt
+2026-08-28 23:14:39,505 INFO SUCCESS article_id=9b645da9-1bfb-523e-9658-625d7e4ef84a url=https://www.nytimes.com/2025/10/01/us/ntsb-philadelphia-septa-train-cars.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/9b645da9-1bfb-523e-9658-625d7e4ef84a.txt
+2026-08-28 23:16:39,303 INFO SUCCESS article_id=a7343ae7-571f-5cb8-b91e-b574bb655654 url=https://www.nytimes.com/2025/10/01/business/israel-gaza-war-social-media.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a7343ae7-571f-5cb8-b91e-b574bb655654.txt
+2026-08-28 23:17:02,218 INFO SUCCESS article_id=363eaa9c-d8c1-5317-bc74-082c632afcf1 url=https://www.nytimes.com/2025/10/01/world/asia/east-timor-us-aid-sewage.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/363eaa9c-d8c1-5317-bc74-082c632afcf1.txt
+2026-08-28 23:17:31,850 INFO SUCCESS article_id=fa3607de-149f-5e09-981d-8724b5eda71a url=https://www.nytimes.com/2025/10/02/nyregion/delta-plane-collision-laguardia.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fa3607de-149f-5e09-981d-8724b5eda71a.txt
+2026-08-28 23:18:01,412 INFO SUCCESS article_id=26f3d1a3-7d75-5d5b-8baf-fa2fab26a9dd url=https://www.nytimes.com/2025/10/02/us/politics/trump-college-funding.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/26f3d1a3-7d75-5d5b-8baf-fa2fab26a9dd.txt
+2026-08-28 23:18:26,507 INFO SUCCESS article_id=6584e4e4-2da2-5e98-9d2b-c405f9463579 url=https://www.nytimes.com/2025/10/02/opinion/poland-election-autocrat-russia-hungary.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6584e4e4-2da2-5e98-9d2b-c405f9463579.txt
+2026-08-28 23:19:02,532 INFO SUCCESS article_id=e5c5a77f-8261-5a71-8660-07172423282e url=https://www.nytimes.com/2025/10/02/opinion/brussels-belgium-european-union.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e5c5a77f-8261-5a71-8660-07172423282e.txt
+2026-08-28 23:19:18,530 INFO SUCCESS article_id=c1096b05-5f98-51fc-a3e7-bd9c4bfdd388 url=https://www.nytimes.com/2025/10/02/learning/word-of-the-day-extol.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c1096b05-5f98-51fc-a3e7-bd9c4bfdd388.txt
+2026-08-28 23:19:47,377 INFO SUCCESS article_id=8d72f7a7-7962-5656-a171-72ce26fcf345 url=https://www.nytimes.com/2025/10/02/nyregion/mamdani-schools-gifted-and-talented-program.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8d72f7a7-7962-5656-a171-72ce26fcf345.txt
+2026-08-28 23:20:15,231 INFO SUCCESS article_id=50639a01-cf0e-52c9-9db5-877516bc476f url=https://www.nytimes.com/2025/10/02/arts/television/colbert-government-shutdown.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/50639a01-cf0e-52c9-9db5-877516bc476f.txt
+2026-08-28 23:20:43,271 INFO SUCCESS article_id=cc46e0bf-d7a9-5e46-8aab-d859edf7d92a url=https://www.nytimes.com/2025/10/02/world/asia/indonesia-school-collapse.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/cc46e0bf-d7a9-5e46-8aab-d859edf7d92a.txt
+2026-08-28 23:21:09,087 INFO SUCCESS article_id=96071fef-04b5-5a38-bd31-c12f2d6b96f2 url=https://www.nytimes.com/2025/10/02/books/review/annie-lennox-retrospective.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/96071fef-04b5-5a38-bd31-c12f2d6b96f2.txt
+2026-08-28 23:21:46,887 INFO SUCCESS article_id=f994b1d6-bd71-53e6-a1d0-46460e861744 url=https://www.nytimes.com/2025/10/02/world/americas/mexico-morena-wealth-poor.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/f994b1d6-bd71-53e6-a1d0-46460e861744.txt
+2026-08-28 23:22:08,927 INFO SUCCESS article_id=7d7eba73-8d43-5f13-8575-557e15caff5e url=https://www.nytimes.com/2025/10/02/realestate/garage-renovation-rebuild.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7d7eba73-8d43-5f13-8575-557e15caff5e.txt
+2026-08-28 23:22:31,359 INFO SUCCESS article_id=17957db9-af87-5e38-afd5-bef8b83d9262 url=https://www.nytimes.com/2025/10/02/us/zizians-group-disappearance.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/17957db9-af87-5e38-afd5-bef8b83d9262.txt
+2026-08-28 23:22:53,973 INFO SUCCESS article_id=5062bdf9-b008-5bbe-a6cd-3dea43cc1ba1 url=https://www.nytimes.com/2025/10/02/arts/design/comic-books-puerto-rico-new-york-public-library.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5062bdf9-b008-5bbe-a6cd-3dea43cc1ba1.txt
+2026-08-28 23:23:19,925 INFO SUCCESS article_id=be87bc55-64c8-54f6-88fd-b50d6aad291c url=https://www.nytimes.com/2025/10/02/realestate/bathrooms-nyc-apartments.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/be87bc55-64c8-54f6-88fd-b50d6aad291c.txt
+2026-08-28 23:25:06,048 INFO SUCCESS article_id=a25c90c4-215b-552d-8250-55ceb9f549f1 url=https://www.nytimes.com/2025/10/02/opinion/northern-ireland-war-gaza-resolution.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a25c90c4-215b-552d-8250-55ceb9f549f1.txt
+2026-08-28 23:25:34,640 INFO SUCCESS article_id=aded90c4-56da-5b6e-a9ae-36a1a700a20c url=https://www.nytimes.com/2025/10/02/opinion/working-class-education-ohio.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/aded90c4-56da-5b6e-a9ae-36a1a700a20c.txt
+2026-08-28 23:26:30,040 INFO SUCCESS article_id=2346ed61-bcd2-5957-a15b-1189adaf830c url=https://www.nytimes.com/2025/10/02/arts/music/evan-dando-rumors-of-my-demise-lemonheads-album.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2346ed61-bcd2-5957-a15b-1189adaf830c.txt
+2026-08-28 23:26:57,809 INFO SUCCESS article_id=8d798d00-4813-54f3-98a8-c362a47ba8f3 url=https://www.nytimes.com/2025/10/02/arts/music/taylor-swift-life-of-a-showgirl-eras-tour.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8d798d00-4813-54f3-98a8-c362a47ba8f3.txt
+2026-08-28 23:27:30,577 INFO SUCCESS article_id=767181dd-73af-5c4c-834e-a068abcd93bb url=https://www.nytimes.com/2025/10/02/climate/climate-forward-hilda-heine.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/767181dd-73af-5c4c-834e-a068abcd93bb.txt
+2026-08-28 23:27:55,866 INFO SUCCESS article_id=e16f9c23-990f-5954-a286-b5cd031f0561 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-bob-mumgaard.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e16f9c23-990f-5954-a286-b5cd031f0561.txt
+2026-08-28 23:28:24,045 INFO SUCCESS article_id=a2bbcbdd-ebac-5901-ae4b-b75359488a19 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-andrew-forrest.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/a2bbcbdd-ebac-5901-ae4b-b75359488a19.txt
+2026-08-28 23:28:49,285 INFO SUCCESS article_id=fcd1631a-d4a7-5523-a760-468fd66c604d url=https://www.nytimes.com/2025/10/02/climate/climate-forward-scott-strazik.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fcd1631a-d4a7-5523-a760-468fd66c604d.txt
+2026-08-28 23:29:14,705 INFO SUCCESS article_id=ea5bc5fa-3f96-5b07-b7c2-8188b07c4a56 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-brian-schatz.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ea5bc5fa-3f96-5b07-b7c2-8188b07c4a56.txt
+2026-08-28 23:29:56,550 INFO SUCCESS article_id=5e079136-f3bc-551f-a82c-3b0281fac9d0 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-david-wallace-wells.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5e079136-f3bc-551f-a82c-3b0281fac9d0.txt
+2026-08-28 23:30:34,297 INFO SUCCESS article_id=4e474293-199d-5638-9878-54a0072c60b4 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-anthony-albanese.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/4e474293-199d-5638-9878-54a0072c60b4.txt
+2026-08-28 23:30:57,804 INFO SUCCESS article_id=766880cc-dc54-594e-b769-e92182665334 url=https://www.nytimes.com/2025/10/02/climate/climate-forward-rainn-wilson.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/766880cc-dc54-594e-b769-e92182665334.txt
+2026-08-28 23:31:20,874 INFO SUCCESS article_id=60a72942-249b-52d6-8888-93961697f0a9 url=https://www.nytimes.com/2025/10/02/realestate/housing-market-nyc.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/60a72942-249b-52d6-8888-93961697f0a9.txt
+2026-08-28 23:31:53,283 INFO SUCCESS article_id=8f479b90-12a2-56df-9c0c-9511769d96cc url=https://www.nytimes.com/2025/10/02/movies/channing-tatum-roofman.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8f479b90-12a2-56df-9c0c-9511769d96cc.txt
+2026-08-28 23:32:14,670 INFO SUCCESS article_id=8583ba9c-d019-5014-9752-93d1e827cbd3 url=https://www.nytimes.com/2025/10/02/realestate/housing-market-near-nyc.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8583ba9c-d019-5014-9752-93d1e827cbd3.txt
+2026-08-28 23:32:40,768 INFO SUCCESS article_id=b0869575-fa04-5d0f-a2ae-fec595bce1d2 url=https://www.nytimes.com/2025/10/02/arts/music/jennifer-koh-violinist-drawing.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b0869575-fa04-5d0f-a2ae-fec595bce1d2.txt
+2026-08-28 23:33:04,406 INFO SUCCESS article_id=e4d10c15-bcd7-5a25-ba7c-3f96bdf988b8 url=https://www.nytimes.com/2025/10/02/learning/do-you-enjoy-small-talk.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/e4d10c15-bcd7-5a25-ba7c-3f96bdf988b8.txt
+2026-08-28 23:33:27,138 INFO SUCCESS article_id=6e00e0e9-a9be-5b6b-9c19-0659de647e26 url=https://www.nytimes.com/2025/10/02/opinion/hasan-piker-interesting-times-ross-douthat.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/6e00e0e9-a9be-5b6b-9c19-0659de647e26.txt
+2026-08-28 23:33:55,470 INFO SUCCESS article_id=0217d8e2-4f5a-5751-a505-91c5bdb57bdc url=https://www.nytimes.com/2025/10/02/nyregion/the-shutdown-hits-new-york.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0217d8e2-4f5a-5751-a505-91c5bdb57bdc.txt
+2026-08-28 23:34:28,917 INFO SUCCESS article_id=129d53f1-9c19-5ef5-a670-c5c2eb638bad url=https://www.nytimes.com/2025/10/02/us/politics/times-siena-poll-political-polarization.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/129d53f1-9c19-5ef5-a670-c5c2eb638bad.txt
+2026-08-28 23:34:54,713 INFO SUCCESS article_id=436a64a2-4741-565a-a6d1-c33a5129f4a3 url=https://www.nytimes.com/2025/10/02/us/lds-church-michigan-grand-blanc-township.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/436a64a2-4741-565a-a6d1-c33a5129f4a3.txt
+2026-08-28 23:35:19,741 INFO SUCCESS article_id=1a2f6bd3-9641-5ec6-aa94-69d32c0eaf67 url=https://www.nytimes.com/2025/10/02/learning/friends-under-trees.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/1a2f6bd3-9641-5ec6-aa94-69d32c0eaf67.txt
+2026-08-28 23:35:57,119 INFO SUCCESS article_id=de3ad892-8038-549c-ad37-b3001f83575e url=https://www.nytimes.com/2025/10/02/opinion/taylor-swift-showgirl-release-history.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/de3ad892-8038-549c-ad37-b3001f83575e.txt
+2026-08-28 23:36:22,224 INFO SUCCESS article_id=63080d73-ec52-55ed-95e0-894109d5ad14 url=https://www.nytimes.com/2025/10/02/world/middleeast/nepal-gaza-hostage.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/63080d73-ec52-55ed-95e0-894109d5ad14.txt
+2026-08-28 23:36:54,947 INFO SUCCESS article_id=d6c11196-d412-5005-9be8-488e74397d37 url=https://www.nytimes.com/2025/10/02/technology/personaltech/iphone-robocalls-screener-android.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/d6c11196-d412-5005-9be8-488e74397d37.txt
+2026-08-28 23:37:23,989 INFO SUCCESS article_id=39eb4031-fa84-5a48-bb5b-042b8488e5e1 url=https://www.nytimes.com/2025/10/02/business/tariffs-lumber-furniture-housing-crisis.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/39eb4031-fa84-5a48-bb5b-042b8488e5e1.txt
+2026-08-28 23:37:52,722 INFO SUCCESS article_id=2a66c0c5-87fb-593c-843b-ed4aad07e41c url=https://www.nytimes.com/2025/10/02/world/middleeast/palestinian-voices-hamas-cease-fire.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2a66c0c5-87fb-593c-843b-ed4aad07e41c.txt
+2026-08-28 23:41:36,499 INFO SUCCESS article_id=b274fcf3-2803-559e-8ef0-f9be161d349c url=https://www.nytimes.com/2025/10/02/business/federal-reserve-independence-lisa-cook.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b274fcf3-2803-559e-8ef0-f9be161d349c.txt
+2026-08-28 23:42:00,509 INFO SUCCESS article_id=23cfbe7e-a9b9-56bf-9a29-af44b62be182 url=https://www.nytimes.com/2025/10/02/opinion/pete-hegseth-speech-dei.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/23cfbe7e-a9b9-56bf-9a29-af44b62be182.txt
+2026-08-28 23:42:27,899 INFO SUCCESS article_id=5c77ed94-e3d9-5f08-a98d-04f010d3a5da url=https://www.nytimes.com/2025/10/02/climate/climate-forward-andre-correa-do-lago.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/5c77ed94-e3d9-5f08-a98d-04f010d3a5da.txt
+2026-08-28 23:42:57,950 INFO SUCCESS article_id=b1b0f1ab-c0df-5b71-bdbd-4fb8cbe804b7 url=https://www.nytimes.com/2025/10/02/world/asia/philippines-earthquake-marcos-tents.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/b1b0f1ab-c0df-5b71-bdbd-4fb8cbe804b7.txt
+2026-08-28 23:43:29,917 INFO SUCCESS article_id=87cf3484-03c8-5d6e-b4b5-1d4548341738 url=https://www.nytimes.com/2025/10/02/world/europe/denmark-drones-prepping.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/87cf3484-03c8-5d6e-b4b5-1d4548341738.txt
+2026-08-28 23:43:55,024 INFO SUCCESS article_id=7bfea921-178b-5bb3-8adf-898dcb45c6a1 url=https://www.nytimes.com/2025/10/02/world/africa/madagascar-protests-president.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7bfea921-178b-5bb3-8adf-898dcb45c6a1.txt
+2026-08-28 23:44:21,270 INFO SUCCESS article_id=0f01dcca-3260-58ba-871d-84fed1c4ebc9 url=https://www.nytimes.com/2025/10/02/briefing/the-shutdown-explained.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/0f01dcca-3260-58ba-871d-84fed1c4ebc9.txt
+2026-08-28 23:44:45,907 INFO SUCCESS article_id=1ffb221a-0d32-5260-8923-ac62e74afc01 url=https://www.nytimes.com/2025/10/02/world/australia/australia-sunscreen-recall.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/1ffb221a-0d32-5260-8923-ac62e74afc01.txt
+2026-08-28 23:45:15,116 INFO SUCCESS article_id=f8ab32e6-3ca9-57de-add5-929b53040051 url=https://www.nytimes.com/2025/10/02/business/dealbook/trump-setback-fed-cook.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/f8ab32e6-3ca9-57de-add5-929b53040051.txt
+2026-08-28 23:45:43,831 INFO SUCCESS article_id=7ca7c176-e282-5e5d-960e-d2c86a3c91ba url=https://www.nytimes.com/2025/10/02/world/europe/uk-manchester-synagogue-attack.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/7ca7c176-e282-5e5d-960e-d2c86a3c91ba.txt
+2026-08-28 23:46:15,818 INFO SUCCESS article_id=70f4b14b-8847-54fa-952b-dca18e78d5f3 url=https://www.nytimes.com/2025/10/02/world/middleeast/saudi-comedy-festival-riyadh-free-speech.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/70f4b14b-8847-54fa-952b-dca18e78d5f3.txt
+2026-08-28 23:46:40,935 INFO SUCCESS article_id=8621802a-16fe-519c-a495-20cb7b293845 url=https://www.nytimes.com/2025/10/02/learning/science-practice-a-study-on-asteroid-samples-and-lifes-building-blocks.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/8621802a-16fe-519c-a495-20cb7b293845.txt
+2026-08-28 23:47:07,367 INFO SUCCESS article_id=c4793e56-0d2c-5ab2-8fdf-d5d1c203f745 url=https://www.nytimes.com/2025/10/02/arts/design/petrit-halilaj-wins-nasher-prize-for-sculpture.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/c4793e56-0d2c-5ab2-8fdf-d5d1c203f745.txt
+2026-08-29 09:32:46,912 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-29 09:32:46,915 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-29 09:32:46,915 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-29 09:32:46,916 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-29 09:32:46,916 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-29 09:32:46,916 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-29 09:32:46,916 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-29 09:32:46,916 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-29 09:32:46,917 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-29 09:32:46,917 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-29 09:32:46,917 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-29 09:32:46,917 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-29 09:32:46,917 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-29 09:32:46,917 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-29 09:32:46,917 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-29 09:32:46,917 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-29 09:32:46,918 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-29 09:32:46,918 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-29 09:32:46,918 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-29 09:32:46,918 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-29 09:32:46,918 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-29 09:32:46,919 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-29 09:32:46,919 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-29 09:32:46,919 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-29 09:32:46,919 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-29 09:32:46,920 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-29 09:32:46,920 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-29 09:32:46,920 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-29 09:32:46,920 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-29 09:32:46,920 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-29 09:32:46,920 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-29 09:32:46,920 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-29 09:32:46,921 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-29 09:32:46,921 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-29 09:32:46,921 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-29 09:32:46,921 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-29 09:32:46,921 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-29 09:32:46,921 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-29 09:32:46,922 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-29 09:32:46,922 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-29 09:32:46,922 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-29 09:32:46,922 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-29 09:32:46,922 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-29 09:32:46,922 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-29 09:32:46,922 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-29 09:32:46,923 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-29 09:32:46,923 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-29 09:32:46,923 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-29 09:32:46,923 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-29 09:32:46,923 INFO SKIP article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e
+2026-08-29 09:32:46,923 INFO SKIP article_id=ae128df4-bfb9-599f-9e63-e97155ea001d
+2026-08-29 09:32:46,923 INFO SKIP article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e
+2026-08-29 09:32:46,924 INFO SKIP article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42
+2026-08-29 09:32:46,924 INFO SKIP article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3
+2026-08-29 09:32:46,924 INFO SKIP article_id=e3abc266-e286-55b2-92eb-706693f92886
+2026-08-29 09:32:46,924 INFO SKIP article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982
+2026-08-29 09:32:46,924 INFO SKIP article_id=8dc6e551-186f-5892-a488-3d5e21790503
+2026-08-29 09:32:46,924 INFO SKIP article_id=6c440081-2e87-5c6d-ac3c-4ffc7e829e2b
+2026-08-29 09:32:46,925 INFO SKIP article_id=431534dc-d182-58c8-aa30-893a4512ec55
+2026-08-29 09:32:46,925 INFO SKIP article_id=e5be796f-a9b7-5697-8c14-43486b94027a
+2026-08-29 09:32:46,925 INFO SKIP article_id=bf58c87c-cd23-525c-a50f-a8b0a4cde46e
+2026-08-29 09:32:46,925 INFO SKIP article_id=7084ba4c-edb5-5554-b088-e837274775e6
+2026-08-29 09:32:46,925 INFO SKIP article_id=7494b848-6660-54de-b277-49683a7e35bc
+2026-08-29 09:32:46,925 INFO SKIP article_id=03cbf994-e1de-5f29-b41d-b0e99b53b953
+2026-08-29 09:32:46,925 INFO SKIP article_id=2a759bb4-b854-5c51-a9d3-7a509c18bbf8
+2026-08-29 09:32:46,926 INFO SKIP article_id=de736f2e-d3c5-5c4a-abb1-5985f85d94e6
+2026-08-29 09:32:46,926 INFO SKIP article_id=095dc002-25c6-501a-895c-be62c357e060
+2026-08-29 09:32:46,926 INFO SKIP article_id=8d7c398e-0cc2-53a2-a272-6a44385f08fc
+2026-08-29 09:32:46,926 INFO SKIP article_id=be7ef962-bb50-59cd-aa64-f9cd08b4b183
+2026-08-29 09:32:46,926 INFO SKIP article_id=cff0d1b6-8482-5d5d-9fe9-37c91dcf1485
+2026-08-29 09:32:46,926 INFO SKIP article_id=f6be2782-86b8-58d9-b614-a252f02fbdf6
+2026-08-29 09:32:46,927 INFO SKIP article_id=fdedbfb7-d078-5852-847c-3d1b7637c312
+2026-08-29 09:32:46,927 INFO SKIP article_id=a9d96f77-c276-54fc-8449-562de45be7d7
+2026-08-29 09:32:46,927 INFO SKIP article_id=df29880f-bacf-55f6-a759-e9509db05091
+2026-08-29 09:32:46,927 INFO SKIP article_id=8d57ecb0-98d3-5e71-8b42-09d20b534ad9
+2026-08-29 09:32:46,927 INFO SKIP article_id=14269097-42fe-5fe9-a645-48ab8ed10fb2
+2026-08-29 09:32:46,927 INFO SKIP article_id=e1b50743-ecf4-5a7e-99d5-f00cf33d4159
+2026-08-29 09:32:46,927 INFO SKIP article_id=5504e6dc-5169-5654-8dcd-b0a6b8561fdc
+2026-08-29 09:32:46,928 INFO SKIP article_id=91ecc540-7909-5a54-b66b-09c9fac7c77b
+2026-08-29 09:32:46,928 INFO SKIP article_id=e4673ddd-26f9-5949-b0b7-dfac8f17135a
+2026-08-29 09:32:46,928 INFO SKIP article_id=8ca5b4c9-4edc-5ce7-8f88-dc5a44ffa363
+2026-08-29 09:32:46,928 INFO SKIP article_id=68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4
+2026-08-29 09:32:46,928 INFO SKIP article_id=d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b
+2026-08-29 09:32:46,928 INFO SKIP article_id=28cc79d1-78c0-56cc-a7cd-1793c3095eb4
+2026-08-29 09:32:46,928 INFO SKIP article_id=80445927-2db6-54e0-9213-0ab1655ffc7b
+2026-08-29 09:32:46,929 INFO SKIP article_id=fe9404dd-0c67-5b5d-be3b-c36de3e9b287
+2026-08-29 09:32:46,929 INFO SKIP article_id=32262afc-5024-5b76-8469-cdd3a603a045
+2026-08-29 09:32:46,929 INFO SKIP article_id=79610b0d-aa68-55dd-b3d6-3518f7b17672
+2026-08-29 09:32:46,929 INFO SKIP article_id=0de1a849-520d-5964-8688-cb89459d66c2
+2026-08-29 09:32:46,929 INFO SKIP article_id=f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47
+2026-08-29 09:32:46,929 INFO SKIP article_id=a73ff22b-3156-5591-8b87-b4f01bdc7a96
+2026-08-29 09:32:46,930 INFO SKIP article_id=988d7c2b-b69f-5ba0-bf6c-f15fddd68146
+2026-08-29 09:32:46,930 INFO SKIP article_id=49397e0d-ab78-5461-afd6-6a832b576a3b
+2026-08-29 09:32:46,930 INFO SKIP article_id=4a1e3360-80f9-5e27-b223-fb856f7419ba
+2026-08-29 09:32:46,930 INFO SKIP article_id=aecb338c-5d9e-55b3-bc2f-c1ad5416336d
+2026-08-29 09:32:46,930 INFO SKIP article_id=96f80616-618b-596e-a8ad-60340e1da4f4
+2026-08-29 09:32:46,930 INFO SKIP article_id=3c59670c-d395-5886-83f4-50f7f9e1169d
+2026-08-29 09:32:46,930 INFO SKIP article_id=b25b538b-ad29-53a4-9c56-73b0c83f02a7
+2026-08-29 09:32:46,931 INFO SKIP article_id=d4a3f915-1b1b-5052-82d8-eb66c39cbd5b
+2026-08-29 09:32:46,931 INFO SKIP article_id=3a685d3d-e582-5f5a-8699-f7bbe21fdbb1
+2026-08-29 09:32:46,931 INFO SKIP article_id=e6413f97-7ea0-5620-b6dd-995a3cb00905
+2026-08-29 09:32:46,931 INFO SKIP article_id=b4742d8d-fbd6-5829-9760-48496e36ae5e
+2026-08-29 09:32:46,931 INFO SKIP article_id=0dcce23b-3c51-5068-a332-e3d1af46939c
+2026-08-29 09:32:46,931 INFO SKIP article_id=feb8519e-ede5-5bbe-8927-688fd64554b4
+2026-08-29 09:32:46,931 INFO SKIP article_id=2cd64f3d-3fc7-5fd6-9b60-98b10265b065
+2026-08-29 09:32:46,932 INFO SKIP article_id=9bf759dd-9f6c-5dbb-b3c8-ecd463711328
+2026-08-29 09:32:46,932 INFO SKIP article_id=aea36ea3-6661-5a16-9fd3-a3957ff970c5
+2026-08-29 09:32:46,932 INFO SKIP article_id=6f684add-6188-5696-a76f-9e976c5c5956
+2026-08-29 09:32:46,932 INFO SKIP article_id=9cc0dd95-4439-5d41-bd5f-b1286e754316
+2026-08-29 09:32:46,932 INFO SKIP article_id=9a9f83bb-02bc-585d-af98-237bbaffc782
+2026-08-29 09:32:46,932 INFO SKIP article_id=9de06f9b-af8d-56ae-ae92-9847980e8e54
+2026-08-29 09:32:46,933 INFO SKIP article_id=c17c41a6-f24f-554b-9263-574ff14590d1
+2026-08-29 09:32:46,933 INFO SKIP article_id=cdd7b664-c9ba-5bc1-97f5-a2d5728e9dde
+2026-08-29 09:32:46,933 INFO SKIP article_id=e0b297a8-ee13-59b2-8f8d-f80e88f89dc0
+2026-08-29 09:32:46,933 INFO SKIP article_id=6a69b477-f9fe-574e-b0f7-95ca643fb422
+2026-08-29 09:32:46,933 INFO SKIP article_id=3deb4fc1-6982-541b-912d-c757f4335841
+2026-08-29 09:32:46,933 INFO SKIP article_id=2008c6f6-3146-55a9-8221-12f9325ad5e8
+2026-08-29 09:32:46,933 INFO SKIP article_id=2bd2e896-0573-5f97-a882-9a2d73e5565c
+2026-08-29 09:32:46,934 INFO SKIP article_id=ba609baa-8ddd-5c22-a5ae-1e709180a885
+2026-08-29 09:32:46,934 INFO SKIP article_id=0fcce17c-d85d-50a2-b73a-bc337405f7ff
+2026-08-29 09:32:46,934 INFO SKIP article_id=5bb69dd1-0f7b-585a-888e-507ecac3f19a
+2026-08-29 09:32:46,934 INFO SKIP article_id=bdc75988-0c0d-52b8-a2f7-a637c7b0ebaa
+2026-08-29 09:32:46,934 INFO SKIP article_id=9b645da9-1bfb-523e-9658-625d7e4ef84a
+2026-08-29 09:32:46,934 INFO SKIP article_id=a7343ae7-571f-5cb8-b91e-b574bb655654
+2026-08-29 09:32:46,934 INFO SKIP article_id=363eaa9c-d8c1-5317-bc74-082c632afcf1
+2026-08-29 09:32:46,935 INFO SKIP article_id=fa3607de-149f-5e09-981d-8724b5eda71a
+2026-08-29 09:32:46,935 INFO SKIP article_id=26f3d1a3-7d75-5d5b-8baf-fa2fab26a9dd
+2026-08-29 09:32:46,935 INFO SKIP article_id=6584e4e4-2da2-5e98-9d2b-c405f9463579
+2026-08-29 09:32:46,935 INFO SKIP article_id=e5c5a77f-8261-5a71-8660-07172423282e
+2026-08-29 09:32:46,935 INFO SKIP article_id=c1096b05-5f98-51fc-a3e7-bd9c4bfdd388
+2026-08-29 09:32:46,935 INFO SKIP article_id=8d72f7a7-7962-5656-a171-72ce26fcf345
+2026-08-29 09:32:46,935 INFO SKIP article_id=50639a01-cf0e-52c9-9db5-877516bc476f
+2026-08-29 09:32:46,936 INFO SKIP article_id=cc46e0bf-d7a9-5e46-8aab-d859edf7d92a
+2026-08-29 09:32:46,936 INFO SKIP article_id=96071fef-04b5-5a38-bd31-c12f2d6b96f2
+2026-08-29 09:32:46,936 INFO SKIP article_id=f994b1d6-bd71-53e6-a1d0-46460e861744
+2026-08-29 09:32:46,936 INFO SKIP article_id=7d7eba73-8d43-5f13-8575-557e15caff5e
+2026-08-29 09:32:46,936 INFO SKIP article_id=17957db9-af87-5e38-afd5-bef8b83d9262
+2026-08-29 09:32:46,936 INFO SKIP article_id=5062bdf9-b008-5bbe-a6cd-3dea43cc1ba1
+2026-08-29 09:32:46,936 INFO SKIP article_id=be87bc55-64c8-54f6-88fd-b50d6aad291c
+2026-08-29 09:32:46,937 INFO SKIP article_id=a25c90c4-215b-552d-8250-55ceb9f549f1
+2026-08-29 09:32:46,937 INFO SKIP article_id=aded90c4-56da-5b6e-a9ae-36a1a700a20c
+2026-08-29 09:32:46,937 INFO SKIP article_id=2346ed61-bcd2-5957-a15b-1189adaf830c
+2026-08-29 09:32:46,937 INFO SKIP article_id=8d798d00-4813-54f3-98a8-c362a47ba8f3
+2026-08-29 09:32:46,937 INFO SKIP article_id=767181dd-73af-5c4c-834e-a068abcd93bb
+2026-08-29 09:32:46,937 INFO SKIP article_id=e16f9c23-990f-5954-a286-b5cd031f0561
+2026-08-29 09:32:46,937 INFO SKIP article_id=a2bbcbdd-ebac-5901-ae4b-b75359488a19
+2026-08-29 09:32:46,938 INFO SKIP article_id=fcd1631a-d4a7-5523-a760-468fd66c604d
+2026-08-29 09:32:46,938 INFO SKIP article_id=ea5bc5fa-3f96-5b07-b7c2-8188b07c4a56
+2026-08-29 09:32:46,938 INFO SKIP article_id=5e079136-f3bc-551f-a82c-3b0281fac9d0
+2026-08-29 09:32:46,938 INFO SKIP article_id=4e474293-199d-5638-9878-54a0072c60b4
+2026-08-29 09:32:46,938 INFO SKIP article_id=766880cc-dc54-594e-b769-e92182665334
+2026-08-29 09:32:46,938 INFO SKIP article_id=60a72942-249b-52d6-8888-93961697f0a9
+2026-08-29 09:32:46,938 INFO SKIP article_id=8f479b90-12a2-56df-9c0c-9511769d96cc
+2026-08-29 09:32:46,939 INFO SKIP article_id=8583ba9c-d019-5014-9752-93d1e827cbd3
+2026-08-29 09:32:46,939 INFO SKIP article_id=b0869575-fa04-5d0f-a2ae-fec595bce1d2
+2026-08-29 09:32:46,939 INFO SKIP article_id=e4d10c15-bcd7-5a25-ba7c-3f96bdf988b8
+2026-08-29 09:32:46,939 INFO SKIP article_id=6e00e0e9-a9be-5b6b-9c19-0659de647e26
+2026-08-29 09:32:46,939 INFO SKIP article_id=0217d8e2-4f5a-5751-a505-91c5bdb57bdc
+2026-08-29 09:32:46,939 INFO SKIP article_id=129d53f1-9c19-5ef5-a670-c5c2eb638bad
+2026-08-29 09:32:46,940 INFO SKIP article_id=436a64a2-4741-565a-a6d1-c33a5129f4a3
+2026-08-29 09:32:46,940 INFO SKIP article_id=1a2f6bd3-9641-5ec6-aa94-69d32c0eaf67
+2026-08-29 09:32:46,940 INFO SKIP article_id=de3ad892-8038-549c-ad37-b3001f83575e
+2026-08-29 09:32:46,940 INFO SKIP article_id=63080d73-ec52-55ed-95e0-894109d5ad14
+2026-08-29 09:32:46,940 INFO SKIP article_id=d6c11196-d412-5005-9be8-488e74397d37
+2026-08-29 09:32:46,940 INFO SKIP article_id=39eb4031-fa84-5a48-bb5b-042b8488e5e1
+2026-08-29 09:32:46,940 INFO SKIP article_id=2a66c0c5-87fb-593c-843b-ed4aad07e41c
+2026-08-29 09:32:46,941 INFO SKIP article_id=b274fcf3-2803-559e-8ef0-f9be161d349c
+2026-08-29 09:32:46,941 INFO SKIP article_id=23cfbe7e-a9b9-56bf-9a29-af44b62be182
+2026-08-29 09:32:46,941 INFO SKIP article_id=5c77ed94-e3d9-5f08-a98d-04f010d3a5da
+2026-08-29 09:32:46,941 INFO SKIP article_id=b1b0f1ab-c0df-5b71-bdbd-4fb8cbe804b7
+2026-08-29 09:32:46,941 INFO SKIP article_id=87cf3484-03c8-5d6e-b4b5-1d4548341738
+2026-08-29 09:32:46,941 INFO SKIP article_id=7bfea921-178b-5bb3-8adf-898dcb45c6a1
+2026-08-29 09:32:46,941 INFO SKIP article_id=0f01dcca-3260-58ba-871d-84fed1c4ebc9
+2026-08-29 09:32:46,942 INFO SKIP article_id=1ffb221a-0d32-5260-8923-ac62e74afc01
+2026-08-29 09:32:46,942 INFO SKIP article_id=f8ab32e6-3ca9-57de-add5-929b53040051
+2026-08-29 09:32:46,942 INFO SKIP article_id=7ca7c176-e282-5e5d-960e-d2c86a3c91ba
+2026-08-29 09:32:46,942 INFO SKIP article_id=70f4b14b-8847-54fa-952b-dca18e78d5f3
+2026-08-29 09:32:46,942 INFO SKIP article_id=8621802a-16fe-519c-a495-20cb7b293845
+2026-08-29 09:32:46,942 INFO SKIP article_id=c4793e56-0d2c-5ab2-8fdf-d5d1c203f745
+2026-08-29 09:36:37,885 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-29 09:36:37,885 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-29 09:36:37,885 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-29 09:36:37,886 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-29 09:36:37,886 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-29 09:36:37,886 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-29 09:36:37,886 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-29 09:36:37,886 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-29 09:36:37,886 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-29 09:36:37,887 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-29 09:36:37,887 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-29 09:36:37,887 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-29 09:36:37,887 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-29 09:36:37,887 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-29 09:36:37,887 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-29 09:36:37,887 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-29 09:36:37,887 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-29 09:36:37,888 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-29 09:36:37,888 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-29 09:36:37,888 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-29 09:36:37,888 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-29 09:36:37,888 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-29 09:36:37,888 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-29 09:36:37,889 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-29 09:36:37,889 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-29 09:36:37,889 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-29 09:36:37,889 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-29 09:36:37,889 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-29 09:36:37,889 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-29 09:36:37,890 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-29 09:36:37,890 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-29 09:36:37,890 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-29 09:36:37,890 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-29 09:36:37,890 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-29 09:36:37,890 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-29 09:36:37,890 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-29 09:36:37,890 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-29 09:36:37,891 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-29 09:36:37,891 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-29 09:36:37,891 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-29 09:36:37,891 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-29 09:36:37,891 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-29 09:36:37,891 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-29 09:36:37,892 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-29 09:36:37,892 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-29 09:36:37,892 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-29 09:36:37,892 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-29 09:36:37,892 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-29 09:36:37,892 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-29 09:36:37,892 INFO SKIP article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e
+2026-08-29 09:36:37,893 INFO SKIP article_id=ae128df4-bfb9-599f-9e63-e97155ea001d
+2026-08-29 09:36:37,893 INFO SKIP article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e
+2026-08-29 09:36:37,893 INFO SKIP article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42
+2026-08-29 09:36:37,893 INFO SKIP article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3
+2026-08-29 09:36:37,893 INFO SKIP article_id=e3abc266-e286-55b2-92eb-706693f92886
+2026-08-29 09:36:37,893 INFO SKIP article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982
+2026-08-29 09:36:37,893 INFO SKIP article_id=8dc6e551-186f-5892-a488-3d5e21790503
+2026-08-29 09:36:37,894 INFO SKIP article_id=6c440081-2e87-5c6d-ac3c-4ffc7e829e2b
+2026-08-29 09:36:37,894 INFO SKIP article_id=431534dc-d182-58c8-aa30-893a4512ec55
+2026-08-29 09:36:37,894 INFO SKIP article_id=e5be796f-a9b7-5697-8c14-43486b94027a
+2026-08-29 09:36:37,894 INFO SKIP article_id=bf58c87c-cd23-525c-a50f-a8b0a4cde46e
+2026-08-29 09:36:37,894 INFO SKIP article_id=7084ba4c-edb5-5554-b088-e837274775e6
+2026-08-29 09:36:37,894 INFO SKIP article_id=7494b848-6660-54de-b277-49683a7e35bc
+2026-08-29 09:36:37,894 INFO SKIP article_id=03cbf994-e1de-5f29-b41d-b0e99b53b953
+2026-08-29 09:36:37,895 INFO SKIP article_id=2a759bb4-b854-5c51-a9d3-7a509c18bbf8
+2026-08-29 09:36:37,895 INFO SKIP article_id=de736f2e-d3c5-5c4a-abb1-5985f85d94e6
+2026-08-29 09:36:37,895 INFO SKIP article_id=095dc002-25c6-501a-895c-be62c357e060
+2026-08-29 09:36:37,895 INFO SKIP article_id=8d7c398e-0cc2-53a2-a272-6a44385f08fc
+2026-08-29 09:36:37,895 INFO SKIP article_id=be7ef962-bb50-59cd-aa64-f9cd08b4b183
+2026-08-29 09:36:37,895 INFO SKIP article_id=cff0d1b6-8482-5d5d-9fe9-37c91dcf1485
+2026-08-29 09:36:37,895 INFO SKIP article_id=f6be2782-86b8-58d9-b614-a252f02fbdf6
+2026-08-29 09:36:37,896 INFO SKIP article_id=fdedbfb7-d078-5852-847c-3d1b7637c312
+2026-08-29 09:36:37,896 INFO SKIP article_id=a9d96f77-c276-54fc-8449-562de45be7d7
+2026-08-29 09:36:37,896 INFO SKIP article_id=df29880f-bacf-55f6-a759-e9509db05091
+2026-08-29 09:36:37,896 INFO SKIP article_id=8d57ecb0-98d3-5e71-8b42-09d20b534ad9
+2026-08-29 09:36:37,896 INFO SKIP article_id=14269097-42fe-5fe9-a645-48ab8ed10fb2
+2026-08-29 09:36:37,896 INFO SKIP article_id=e1b50743-ecf4-5a7e-99d5-f00cf33d4159
+2026-08-29 09:36:37,897 INFO SKIP article_id=5504e6dc-5169-5654-8dcd-b0a6b8561fdc
+2026-08-29 09:36:37,897 INFO SKIP article_id=91ecc540-7909-5a54-b66b-09c9fac7c77b
+2026-08-29 09:36:37,897 INFO SKIP article_id=e4673ddd-26f9-5949-b0b7-dfac8f17135a
+2026-08-29 09:36:37,897 INFO SKIP article_id=8ca5b4c9-4edc-5ce7-8f88-dc5a44ffa363
+2026-08-29 09:36:37,897 INFO SKIP article_id=68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4
+2026-08-29 09:36:37,897 INFO SKIP article_id=d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b
+2026-08-29 09:36:37,897 INFO SKIP article_id=28cc79d1-78c0-56cc-a7cd-1793c3095eb4
+2026-08-29 09:36:37,898 INFO SKIP article_id=80445927-2db6-54e0-9213-0ab1655ffc7b
+2026-08-29 09:36:37,898 INFO SKIP article_id=fe9404dd-0c67-5b5d-be3b-c36de3e9b287
+2026-08-29 09:36:37,898 INFO SKIP article_id=32262afc-5024-5b76-8469-cdd3a603a045
+2026-08-29 09:36:37,898 INFO SKIP article_id=79610b0d-aa68-55dd-b3d6-3518f7b17672
+2026-08-29 09:36:37,898 INFO SKIP article_id=0de1a849-520d-5964-8688-cb89459d66c2
+2026-08-29 09:36:37,898 INFO SKIP article_id=f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47
+2026-08-29 09:36:37,898 INFO SKIP article_id=a73ff22b-3156-5591-8b87-b4f01bdc7a96
+2026-08-29 09:36:37,899 INFO SKIP article_id=988d7c2b-b69f-5ba0-bf6c-f15fddd68146
+2026-08-29 09:36:37,899 INFO SKIP article_id=49397e0d-ab78-5461-afd6-6a832b576a3b
+2026-08-29 09:36:37,899 INFO SKIP article_id=4a1e3360-80f9-5e27-b223-fb856f7419ba
+2026-08-29 09:36:37,899 INFO SKIP article_id=aecb338c-5d9e-55b3-bc2f-c1ad5416336d
+2026-08-29 09:36:37,899 INFO SKIP article_id=96f80616-618b-596e-a8ad-60340e1da4f4
+2026-08-29 09:36:37,899 INFO SKIP article_id=3c59670c-d395-5886-83f4-50f7f9e1169d
+2026-08-29 09:36:37,899 INFO SKIP article_id=b25b538b-ad29-53a4-9c56-73b0c83f02a7
+2026-08-29 09:36:37,900 INFO SKIP article_id=d4a3f915-1b1b-5052-82d8-eb66c39cbd5b
+2026-08-29 09:36:37,900 INFO SKIP article_id=3a685d3d-e582-5f5a-8699-f7bbe21fdbb1
+2026-08-29 09:36:37,900 INFO SKIP article_id=e6413f97-7ea0-5620-b6dd-995a3cb00905
+2026-08-29 09:36:37,900 INFO SKIP article_id=b4742d8d-fbd6-5829-9760-48496e36ae5e
+2026-08-29 09:36:37,900 INFO SKIP article_id=0dcce23b-3c51-5068-a332-e3d1af46939c
+2026-08-29 09:36:37,900 INFO SKIP article_id=feb8519e-ede5-5bbe-8927-688fd64554b4
+2026-08-29 09:36:37,900 INFO SKIP article_id=2cd64f3d-3fc7-5fd6-9b60-98b10265b065
+2026-08-29 09:36:37,901 INFO SKIP article_id=9bf759dd-9f6c-5dbb-b3c8-ecd463711328
+2026-08-29 09:36:37,901 INFO SKIP article_id=aea36ea3-6661-5a16-9fd3-a3957ff970c5
+2026-08-29 09:36:37,901 INFO SKIP article_id=6f684add-6188-5696-a76f-9e976c5c5956
+2026-08-29 09:36:37,901 INFO SKIP article_id=9cc0dd95-4439-5d41-bd5f-b1286e754316
+2026-08-29 09:36:37,901 INFO SKIP article_id=9a9f83bb-02bc-585d-af98-237bbaffc782
+2026-08-29 09:36:37,901 INFO SKIP article_id=9de06f9b-af8d-56ae-ae92-9847980e8e54
+2026-08-29 09:36:37,901 INFO SKIP article_id=c17c41a6-f24f-554b-9263-574ff14590d1
+2026-08-29 09:36:37,902 INFO SKIP article_id=cdd7b664-c9ba-5bc1-97f5-a2d5728e9dde
+2026-08-29 09:36:37,902 INFO SKIP article_id=e0b297a8-ee13-59b2-8f8d-f80e88f89dc0
+2026-08-29 09:36:37,902 INFO SKIP article_id=6a69b477-f9fe-574e-b0f7-95ca643fb422
+2026-08-29 09:36:37,902 INFO SKIP article_id=3deb4fc1-6982-541b-912d-c757f4335841
+2026-08-29 09:36:37,902 INFO SKIP article_id=2008c6f6-3146-55a9-8221-12f9325ad5e8
+2026-08-29 09:36:37,902 INFO SKIP article_id=2bd2e896-0573-5f97-a882-9a2d73e5565c
+2026-08-29 09:36:37,902 INFO SKIP article_id=ba609baa-8ddd-5c22-a5ae-1e709180a885
+2026-08-29 09:36:37,903 INFO SKIP article_id=0fcce17c-d85d-50a2-b73a-bc337405f7ff
+2026-08-29 09:36:37,903 INFO SKIP article_id=5bb69dd1-0f7b-585a-888e-507ecac3f19a
+2026-08-29 09:36:37,903 INFO SKIP article_id=bdc75988-0c0d-52b8-a2f7-a637c7b0ebaa
+2026-08-29 09:36:37,903 INFO SKIP article_id=9b645da9-1bfb-523e-9658-625d7e4ef84a
+2026-08-29 09:36:37,903 INFO SKIP article_id=a7343ae7-571f-5cb8-b91e-b574bb655654
+2026-08-29 09:36:37,903 INFO SKIP article_id=363eaa9c-d8c1-5317-bc74-082c632afcf1
+2026-08-29 09:36:37,903 INFO SKIP article_id=fa3607de-149f-5e09-981d-8724b5eda71a
+2026-08-29 09:36:37,904 INFO SKIP article_id=26f3d1a3-7d75-5d5b-8baf-fa2fab26a9dd
+2026-08-29 09:36:37,904 INFO SKIP article_id=6584e4e4-2da2-5e98-9d2b-c405f9463579
+2026-08-29 09:36:37,904 INFO SKIP article_id=e5c5a77f-8261-5a71-8660-07172423282e
+2026-08-29 09:36:37,904 INFO SKIP article_id=c1096b05-5f98-51fc-a3e7-bd9c4bfdd388
+2026-08-29 09:36:37,904 INFO SKIP article_id=8d72f7a7-7962-5656-a171-72ce26fcf345
+2026-08-29 09:36:37,904 INFO SKIP article_id=50639a01-cf0e-52c9-9db5-877516bc476f
+2026-08-29 09:36:37,904 INFO SKIP article_id=cc46e0bf-d7a9-5e46-8aab-d859edf7d92a
+2026-08-29 09:36:37,905 INFO SKIP article_id=96071fef-04b5-5a38-bd31-c12f2d6b96f2
+2026-08-29 09:36:37,905 INFO SKIP article_id=f994b1d6-bd71-53e6-a1d0-46460e861744
+2026-08-29 09:36:37,905 INFO SKIP article_id=7d7eba73-8d43-5f13-8575-557e15caff5e
+2026-08-29 09:36:37,905 INFO SKIP article_id=17957db9-af87-5e38-afd5-bef8b83d9262
+2026-08-29 09:36:37,905 INFO SKIP article_id=5062bdf9-b008-5bbe-a6cd-3dea43cc1ba1
+2026-08-29 09:36:37,905 INFO SKIP article_id=be87bc55-64c8-54f6-88fd-b50d6aad291c
+2026-08-29 09:36:37,905 INFO SKIP article_id=a25c90c4-215b-552d-8250-55ceb9f549f1
+2026-08-29 09:36:37,906 INFO SKIP article_id=aded90c4-56da-5b6e-a9ae-36a1a700a20c
+2026-08-29 09:36:37,906 INFO SKIP article_id=2346ed61-bcd2-5957-a15b-1189adaf830c
+2026-08-29 09:36:37,906 INFO SKIP article_id=8d798d00-4813-54f3-98a8-c362a47ba8f3
+2026-08-29 09:36:37,906 INFO SKIP article_id=767181dd-73af-5c4c-834e-a068abcd93bb
+2026-08-29 09:36:37,906 INFO SKIP article_id=e16f9c23-990f-5954-a286-b5cd031f0561
+2026-08-29 09:36:37,906 INFO SKIP article_id=a2bbcbdd-ebac-5901-ae4b-b75359488a19
+2026-08-29 09:36:37,906 INFO SKIP article_id=fcd1631a-d4a7-5523-a760-468fd66c604d
+2026-08-29 09:36:37,907 INFO SKIP article_id=ea5bc5fa-3f96-5b07-b7c2-8188b07c4a56
+2026-08-29 09:36:37,907 INFO SKIP article_id=5e079136-f3bc-551f-a82c-3b0281fac9d0
+2026-08-29 09:36:37,907 INFO SKIP article_id=4e474293-199d-5638-9878-54a0072c60b4
+2026-08-29 09:36:37,907 INFO SKIP article_id=766880cc-dc54-594e-b769-e92182665334
+2026-08-29 09:36:37,907 INFO SKIP article_id=60a72942-249b-52d6-8888-93961697f0a9
+2026-08-29 09:36:37,907 INFO SKIP article_id=8f479b90-12a2-56df-9c0c-9511769d96cc
+2026-08-29 09:36:37,907 INFO SKIP article_id=8583ba9c-d019-5014-9752-93d1e827cbd3
+2026-08-29 09:36:37,908 INFO SKIP article_id=b0869575-fa04-5d0f-a2ae-fec595bce1d2
+2026-08-29 09:36:37,908 INFO SKIP article_id=e4d10c15-bcd7-5a25-ba7c-3f96bdf988b8
+2026-08-29 09:36:37,908 INFO SKIP article_id=6e00e0e9-a9be-5b6b-9c19-0659de647e26
+2026-08-29 09:36:37,908 INFO SKIP article_id=0217d8e2-4f5a-5751-a505-91c5bdb57bdc
+2026-08-29 09:36:37,908 INFO SKIP article_id=129d53f1-9c19-5ef5-a670-c5c2eb638bad
+2026-08-29 09:36:37,908 INFO SKIP article_id=436a64a2-4741-565a-a6d1-c33a5129f4a3
+2026-08-29 09:36:37,908 INFO SKIP article_id=1a2f6bd3-9641-5ec6-aa94-69d32c0eaf67
+2026-08-29 09:36:37,909 INFO SKIP article_id=de3ad892-8038-549c-ad37-b3001f83575e
+2026-08-29 09:36:37,909 INFO SKIP article_id=63080d73-ec52-55ed-95e0-894109d5ad14
+2026-08-29 09:36:37,909 INFO SKIP article_id=d6c11196-d412-5005-9be8-488e74397d37
+2026-08-29 09:36:37,909 INFO SKIP article_id=39eb4031-fa84-5a48-bb5b-042b8488e5e1
+2026-08-29 09:36:37,909 INFO SKIP article_id=2a66c0c5-87fb-593c-843b-ed4aad07e41c
+2026-08-29 09:36:37,909 INFO SKIP article_id=b274fcf3-2803-559e-8ef0-f9be161d349c
+2026-08-29 09:36:37,910 INFO SKIP article_id=23cfbe7e-a9b9-56bf-9a29-af44b62be182
+2026-08-29 09:36:37,910 INFO SKIP article_id=5c77ed94-e3d9-5f08-a98d-04f010d3a5da
+2026-08-29 09:36:37,910 INFO SKIP article_id=b1b0f1ab-c0df-5b71-bdbd-4fb8cbe804b7
+2026-08-29 09:36:37,910 INFO SKIP article_id=87cf3484-03c8-5d6e-b4b5-1d4548341738
+2026-08-29 09:36:37,910 INFO SKIP article_id=7bfea921-178b-5bb3-8adf-898dcb45c6a1
+2026-08-29 09:36:37,910 INFO SKIP article_id=0f01dcca-3260-58ba-871d-84fed1c4ebc9
+2026-08-29 09:36:37,910 INFO SKIP article_id=1ffb221a-0d32-5260-8923-ac62e74afc01
+2026-08-29 09:36:37,911 INFO SKIP article_id=f8ab32e6-3ca9-57de-add5-929b53040051
+2026-08-29 09:36:37,911 INFO SKIP article_id=7ca7c176-e282-5e5d-960e-d2c86a3c91ba
+2026-08-29 09:36:37,911 INFO SKIP article_id=70f4b14b-8847-54fa-952b-dca18e78d5f3
+2026-08-29 09:36:37,911 INFO SKIP article_id=8621802a-16fe-519c-a495-20cb7b293845
+2026-08-29 09:36:37,911 INFO SKIP article_id=c4793e56-0d2c-5ab2-8fdf-d5d1c203f745
+2026-08-29 09:36:58,511 INFO SUCCESS article_id=ea066348-895d-504e-b9f5-e6edae8282e9 url=https://www.nytimes.com/2025/10/02/business/tesla-evs-auto-sales.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/ea066348-895d-504e-b9f5-e6edae8282e9.txt
+2026-08-29 09:37:14,373 INFO SUCCESS article_id=050fe62d-9c83-550d-b646-359cafe046db url=https://www.nytimes.com/2025/10/02/us/politics/trump-vought-shutdown-cuts.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/050fe62d-9c83-550d-b646-359cafe046db.txt
+2026-08-29 09:37:27,295 INFO SUCCESS article_id=fd2a7f45-61f1-575d-9866-55740a960c04 url=https://www.nytimes.com/2025/10/02/world/africa/morocco-protests-gen-z.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/fd2a7f45-61f1-575d-9866-55740a960c04.txt
+2026-08-29 09:40:24,680 INFO SKIP article_id=2090e468-8163-5f8b-aeef-dba7950df018
+2026-08-29 09:40:24,680 INFO SKIP article_id=2f40871a-2a54-59e1-9ef6-d144993a72c1
+2026-08-29 09:40:24,680 INFO SKIP article_id=d3696d21-ae90-5e67-8cf5-35cd3b5ef27b
+2026-08-29 09:40:24,681 INFO SKIP article_id=510ba91e-a609-55b2-85e2-163d61549b2b
+2026-08-29 09:40:24,681 INFO SKIP article_id=74377e19-6479-5e35-ae1c-db50c5827809
+2026-08-29 09:40:24,681 INFO SKIP article_id=809eae53-def8-5a9a-bfbc-f8b0027abd98
+2026-08-29 09:40:24,681 INFO SKIP article_id=03b733fc-9752-53f0-9a8b-1b2b8305168d
+2026-08-29 09:40:24,681 INFO SKIP article_id=963c959d-1250-58bd-a0ff-8bf7fa0289d8
+2026-08-29 09:40:24,681 INFO SKIP article_id=c13fb52f-d8d5-5752-a33c-b57c348b35ae
+2026-08-29 09:40:24,681 INFO SKIP article_id=6cc10056-171d-517f-ac08-de07053ff170
+2026-08-29 09:40:24,682 INFO SKIP article_id=fda640ac-43f1-5dc5-aae3-bf6ac7864770
+2026-08-29 09:40:24,682 INFO SKIP article_id=548e0bae-63c0-5d71-badd-545159bea689
+2026-08-29 09:40:24,682 INFO SKIP article_id=e73c83bb-674d-522e-8f1d-28b53610d9b5
+2026-08-29 09:40:24,682 INFO SKIP article_id=2bd4e41a-e79b-5fef-b717-eaba66edcd41
+2026-08-29 09:40:24,682 INFO SKIP article_id=9ebe27b5-1411-5e78-9eab-c201c04ffe8d
+2026-08-29 09:40:24,682 INFO SKIP article_id=6b0168b2-ebb4-50e5-8eff-2604f81c6d1f
+2026-08-29 09:40:24,682 INFO SKIP article_id=0ac5ced8-b230-5806-8cd1-71968e9a749e
+2026-08-29 09:40:24,682 INFO SKIP article_id=626dd854-64db-577c-87a5-e576ef85a88c
+2026-08-29 09:40:24,683 INFO SKIP article_id=0aab14e5-66b8-5cae-9997-6245bb642c5e
+2026-08-29 09:40:24,683 INFO SKIP article_id=49a60c2d-dd52-502c-90ec-063cec794e6c
+2026-08-29 09:40:24,683 INFO SKIP article_id=7786df79-fca9-5388-9305-d3b3d0f0812b
+2026-08-29 09:40:24,683 INFO SKIP article_id=e9e337df-8344-523e-8e6b-06ca87883ac4
+2026-08-29 09:40:24,683 INFO SKIP article_id=713faa21-65c8-53e9-b952-66a5ce03d222
+2026-08-29 09:40:24,683 INFO SKIP article_id=3123eb04-5e4e-5d8f-aa54-25777f2e1a49
+2026-08-29 09:40:24,684 INFO SKIP article_id=a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f
+2026-08-29 09:40:24,684 INFO SKIP article_id=9d73014e-f0d2-5e5b-affc-ff6dc0b548f7
+2026-08-29 09:40:24,684 INFO SKIP article_id=6e6b6a66-9275-5aa9-81c0-8ec1b73ed7d3
+2026-08-29 09:40:24,684 INFO SKIP article_id=4bc0544b-7722-57cb-905b-f7691f691978
+2026-08-29 09:40:24,684 INFO SKIP article_id=f231f8fd-d4bc-52db-b69e-e37e986ae639
+2026-08-29 09:40:24,684 INFO SKIP article_id=762f47fa-4b75-5d89-b01b-d94c0a54d3f4
+2026-08-29 09:40:24,684 INFO SKIP article_id=6de3e110-41b3-511c-896b-bad0e0626de3
+2026-08-29 09:40:24,685 INFO SKIP article_id=5253c234-aca1-59cc-9694-7614f0fb8866
+2026-08-29 09:40:24,685 INFO SKIP article_id=58de5fec-2c1e-5093-818e-ec9a951ba172
+2026-08-29 09:40:24,685 INFO SKIP article_id=31f5e523-7d2d-5543-837e-1000b99245eb
+2026-08-29 09:40:24,685 INFO SKIP article_id=651ee91b-894f-5e5e-954a-5f4b3528ae76
+2026-08-29 09:40:24,685 INFO SKIP article_id=4423c866-7fe4-5edc-a33e-aae0f2e23916
+2026-08-29 09:40:24,685 INFO SKIP article_id=e66efd62-7fb5-5c19-9ad7-e22badf47260
+2026-08-29 09:40:24,685 INFO SKIP article_id=788de4f0-87f3-58a8-ad45-a1d634952af6
+2026-08-29 09:40:24,686 INFO SKIP article_id=600ec33e-f6f2-517f-b8b9-3858fbdce8fd
+2026-08-29 09:40:24,686 INFO SKIP article_id=440f355c-9a2a-585c-9684-356aabf11cd8
+2026-08-29 09:40:24,686 INFO SKIP article_id=413862ee-455d-5dc8-a2e9-09b4683a6a81
+2026-08-29 09:40:24,686 INFO SKIP article_id=20fafffa-5524-5dfa-918e-190f02600759
+2026-08-29 09:40:24,686 INFO SKIP article_id=b6762c0b-8145-5a8b-94a1-8f72327c0e11
+2026-08-29 09:40:24,686 INFO SKIP article_id=e2c5ef98-c2b1-5071-9c24-e64145171cc9
+2026-08-29 09:40:24,686 INFO SKIP article_id=50d7a8de-e014-5f06-b507-d9f09dd1152b
+2026-08-29 09:40:24,687 INFO SKIP article_id=dae950fc-d25b-512d-b782-c005caf4b98b
+2026-08-29 09:40:24,687 INFO SKIP article_id=1fed8412-dc3d-5fb4-98cb-09422e400b18
+2026-08-29 09:40:24,687 INFO SKIP article_id=ee010144-1b2b-56db-8e25-aad3e1db9bfd
+2026-08-29 09:40:24,687 INFO SKIP article_id=df09335e-b288-509e-b311-35160e1a991a
+2026-08-29 09:40:24,687 INFO SKIP article_id=c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e
+2026-08-29 09:40:24,687 INFO SKIP article_id=ae128df4-bfb9-599f-9e63-e97155ea001d
+2026-08-29 09:40:24,687 INFO SKIP article_id=e742f1c5-e8c4-52d3-8999-38c876dd482e
+2026-08-29 09:40:24,688 INFO SKIP article_id=e9478bf1-d27c-5e78-8cdc-3e1d5a49fb42
+2026-08-29 09:40:24,688 INFO SKIP article_id=7bfc438b-8d41-5086-8b85-1fade9a085c3
+2026-08-29 09:40:24,688 INFO SKIP article_id=e3abc266-e286-55b2-92eb-706693f92886
+2026-08-29 09:40:24,688 INFO SKIP article_id=a473b4fb-6fe3-5241-a8a9-c3119f7a6982
+2026-08-29 09:40:24,688 INFO SKIP article_id=8dc6e551-186f-5892-a488-3d5e21790503
+2026-08-29 09:40:24,688 INFO SKIP article_id=6c440081-2e87-5c6d-ac3c-4ffc7e829e2b
+2026-08-29 09:40:24,689 INFO SKIP article_id=431534dc-d182-58c8-aa30-893a4512ec55
+2026-08-29 09:40:24,689 INFO SKIP article_id=e5be796f-a9b7-5697-8c14-43486b94027a
+2026-08-29 09:40:24,689 INFO SKIP article_id=bf58c87c-cd23-525c-a50f-a8b0a4cde46e
+2026-08-29 09:40:24,689 INFO SKIP article_id=7084ba4c-edb5-5554-b088-e837274775e6
+2026-08-29 09:40:24,689 INFO SKIP article_id=7494b848-6660-54de-b277-49683a7e35bc
+2026-08-29 09:40:24,689 INFO SKIP article_id=03cbf994-e1de-5f29-b41d-b0e99b53b953
+2026-08-29 09:40:24,690 INFO SKIP article_id=2a759bb4-b854-5c51-a9d3-7a509c18bbf8
+2026-08-29 09:40:24,690 INFO SKIP article_id=de736f2e-d3c5-5c4a-abb1-5985f85d94e6
+2026-08-29 09:40:24,690 INFO SKIP article_id=095dc002-25c6-501a-895c-be62c357e060
+2026-08-29 09:40:24,690 INFO SKIP article_id=8d7c398e-0cc2-53a2-a272-6a44385f08fc
+2026-08-29 09:40:24,690 INFO SKIP article_id=be7ef962-bb50-59cd-aa64-f9cd08b4b183
+2026-08-29 09:40:24,690 INFO SKIP article_id=cff0d1b6-8482-5d5d-9fe9-37c91dcf1485
+2026-08-29 09:40:24,691 INFO SKIP article_id=f6be2782-86b8-58d9-b614-a252f02fbdf6
+2026-08-29 09:40:24,691 INFO SKIP article_id=fdedbfb7-d078-5852-847c-3d1b7637c312
+2026-08-29 09:40:24,691 INFO SKIP article_id=a9d96f77-c276-54fc-8449-562de45be7d7
+2026-08-29 09:40:24,691 INFO SKIP article_id=df29880f-bacf-55f6-a759-e9509db05091
+2026-08-29 09:40:24,691 INFO SKIP article_id=8d57ecb0-98d3-5e71-8b42-09d20b534ad9
+2026-08-29 09:40:24,691 INFO SKIP article_id=14269097-42fe-5fe9-a645-48ab8ed10fb2
+2026-08-29 09:40:24,691 INFO SKIP article_id=e1b50743-ecf4-5a7e-99d5-f00cf33d4159
+2026-08-29 09:40:24,692 INFO SKIP article_id=5504e6dc-5169-5654-8dcd-b0a6b8561fdc
+2026-08-29 09:40:24,692 INFO SKIP article_id=91ecc540-7909-5a54-b66b-09c9fac7c77b
+2026-08-29 09:40:24,692 INFO SKIP article_id=e4673ddd-26f9-5949-b0b7-dfac8f17135a
+2026-08-29 09:40:24,692 INFO SKIP article_id=8ca5b4c9-4edc-5ce7-8f88-dc5a44ffa363
+2026-08-29 09:40:24,692 INFO SKIP article_id=68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4
+2026-08-29 09:40:24,692 INFO SKIP article_id=d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b
+2026-08-29 09:40:24,693 INFO SKIP article_id=28cc79d1-78c0-56cc-a7cd-1793c3095eb4
+2026-08-29 09:40:24,693 INFO SKIP article_id=80445927-2db6-54e0-9213-0ab1655ffc7b
+2026-08-29 09:40:24,693 INFO SKIP article_id=fe9404dd-0c67-5b5d-be3b-c36de3e9b287
+2026-08-29 09:40:24,693 INFO SKIP article_id=32262afc-5024-5b76-8469-cdd3a603a045
+2026-08-29 09:40:24,693 INFO SKIP article_id=79610b0d-aa68-55dd-b3d6-3518f7b17672
+2026-08-29 09:40:24,693 INFO SKIP article_id=0de1a849-520d-5964-8688-cb89459d66c2
+2026-08-29 09:40:24,693 INFO SKIP article_id=f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47
+2026-08-29 09:40:24,693 INFO SKIP article_id=a73ff22b-3156-5591-8b87-b4f01bdc7a96
+2026-08-29 09:40:24,694 INFO SKIP article_id=988d7c2b-b69f-5ba0-bf6c-f15fddd68146
+2026-08-29 09:40:24,694 INFO SKIP article_id=49397e0d-ab78-5461-afd6-6a832b576a3b
+2026-08-29 09:40:24,694 INFO SKIP article_id=4a1e3360-80f9-5e27-b223-fb856f7419ba
+2026-08-29 09:40:24,694 INFO SKIP article_id=aecb338c-5d9e-55b3-bc2f-c1ad5416336d
+2026-08-29 09:40:24,694 INFO SKIP article_id=96f80616-618b-596e-a8ad-60340e1da4f4
+2026-08-29 09:40:24,694 INFO SKIP article_id=3c59670c-d395-5886-83f4-50f7f9e1169d
+2026-08-29 09:40:24,694 INFO SKIP article_id=b25b538b-ad29-53a4-9c56-73b0c83f02a7
+2026-08-29 09:40:24,695 INFO SKIP article_id=d4a3f915-1b1b-5052-82d8-eb66c39cbd5b
+2026-08-29 09:40:24,695 INFO SKIP article_id=3a685d3d-e582-5f5a-8699-f7bbe21fdbb1
+2026-08-29 09:40:24,695 INFO SKIP article_id=e6413f97-7ea0-5620-b6dd-995a3cb00905
+2026-08-29 09:40:24,695 INFO SKIP article_id=b4742d8d-fbd6-5829-9760-48496e36ae5e
+2026-08-29 09:40:24,695 INFO SKIP article_id=0dcce23b-3c51-5068-a332-e3d1af46939c
+2026-08-29 09:40:24,695 INFO SKIP article_id=feb8519e-ede5-5bbe-8927-688fd64554b4
+2026-08-29 09:40:24,695 INFO SKIP article_id=2cd64f3d-3fc7-5fd6-9b60-98b10265b065
+2026-08-29 09:40:24,696 INFO SKIP article_id=9bf759dd-9f6c-5dbb-b3c8-ecd463711328
+2026-08-29 09:40:24,696 INFO SKIP article_id=aea36ea3-6661-5a16-9fd3-a3957ff970c5
+2026-08-29 09:40:24,696 INFO SKIP article_id=6f684add-6188-5696-a76f-9e976c5c5956
+2026-08-29 09:40:24,696 INFO SKIP article_id=9cc0dd95-4439-5d41-bd5f-b1286e754316
+2026-08-29 09:40:24,696 INFO SKIP article_id=9a9f83bb-02bc-585d-af98-237bbaffc782
+2026-08-29 09:40:24,696 INFO SKIP article_id=9de06f9b-af8d-56ae-ae92-9847980e8e54
+2026-08-29 09:40:24,696 INFO SKIP article_id=c17c41a6-f24f-554b-9263-574ff14590d1
+2026-08-29 09:40:24,697 INFO SKIP article_id=cdd7b664-c9ba-5bc1-97f5-a2d5728e9dde
+2026-08-29 09:40:24,697 INFO SKIP article_id=e0b297a8-ee13-59b2-8f8d-f80e88f89dc0
+2026-08-29 09:40:24,697 INFO SKIP article_id=6a69b477-f9fe-574e-b0f7-95ca643fb422
+2026-08-29 09:40:24,697 INFO SKIP article_id=3deb4fc1-6982-541b-912d-c757f4335841
+2026-08-29 09:40:24,697 INFO SKIP article_id=2008c6f6-3146-55a9-8221-12f9325ad5e8
+2026-08-29 09:40:24,697 INFO SKIP article_id=2bd2e896-0573-5f97-a882-9a2d73e5565c
+2026-08-29 09:40:24,697 INFO SKIP article_id=ba609baa-8ddd-5c22-a5ae-1e709180a885
+2026-08-29 09:40:24,698 INFO SKIP article_id=0fcce17c-d85d-50a2-b73a-bc337405f7ff
+2026-08-29 09:40:24,698 INFO SKIP article_id=5bb69dd1-0f7b-585a-888e-507ecac3f19a
+2026-08-29 09:40:24,698 INFO SKIP article_id=bdc75988-0c0d-52b8-a2f7-a637c7b0ebaa
+2026-08-29 09:40:24,698 INFO SKIP article_id=9b645da9-1bfb-523e-9658-625d7e4ef84a
+2026-08-29 09:40:24,698 INFO SKIP article_id=a7343ae7-571f-5cb8-b91e-b574bb655654
+2026-08-29 09:40:24,698 INFO SKIP article_id=363eaa9c-d8c1-5317-bc74-082c632afcf1
+2026-08-29 09:40:24,698 INFO SKIP article_id=fa3607de-149f-5e09-981d-8724b5eda71a
+2026-08-29 09:40:24,699 INFO SKIP article_id=26f3d1a3-7d75-5d5b-8baf-fa2fab26a9dd
+2026-08-29 09:40:24,699 INFO SKIP article_id=6584e4e4-2da2-5e98-9d2b-c405f9463579
+2026-08-29 09:40:24,699 INFO SKIP article_id=e5c5a77f-8261-5a71-8660-07172423282e
+2026-08-29 09:40:24,699 INFO SKIP article_id=c1096b05-5f98-51fc-a3e7-bd9c4bfdd388
+2026-08-29 09:40:24,699 INFO SKIP article_id=8d72f7a7-7962-5656-a171-72ce26fcf345
+2026-08-29 09:40:24,699 INFO SKIP article_id=50639a01-cf0e-52c9-9db5-877516bc476f
+2026-08-29 09:40:24,699 INFO SKIP article_id=cc46e0bf-d7a9-5e46-8aab-d859edf7d92a
+2026-08-29 09:40:24,699 INFO SKIP article_id=96071fef-04b5-5a38-bd31-c12f2d6b96f2
+2026-08-29 09:40:24,700 INFO SKIP article_id=f994b1d6-bd71-53e6-a1d0-46460e861744
+2026-08-29 09:40:24,700 INFO SKIP article_id=7d7eba73-8d43-5f13-8575-557e15caff5e
+2026-08-29 09:40:24,700 INFO SKIP article_id=17957db9-af87-5e38-afd5-bef8b83d9262
+2026-08-29 09:40:24,700 INFO SKIP article_id=5062bdf9-b008-5bbe-a6cd-3dea43cc1ba1
+2026-08-29 09:40:24,700 INFO SKIP article_id=be87bc55-64c8-54f6-88fd-b50d6aad291c
+2026-08-29 09:40:24,700 INFO SKIP article_id=a25c90c4-215b-552d-8250-55ceb9f549f1
+2026-08-29 09:40:24,700 INFO SKIP article_id=aded90c4-56da-5b6e-a9ae-36a1a700a20c
+2026-08-29 09:40:24,701 INFO SKIP article_id=2346ed61-bcd2-5957-a15b-1189adaf830c
+2026-08-29 09:40:24,701 INFO SKIP article_id=8d798d00-4813-54f3-98a8-c362a47ba8f3
+2026-08-29 09:40:24,701 INFO SKIP article_id=767181dd-73af-5c4c-834e-a068abcd93bb
+2026-08-29 09:40:24,701 INFO SKIP article_id=e16f9c23-990f-5954-a286-b5cd031f0561
+2026-08-29 09:40:24,701 INFO SKIP article_id=a2bbcbdd-ebac-5901-ae4b-b75359488a19
+2026-08-29 09:40:24,701 INFO SKIP article_id=fcd1631a-d4a7-5523-a760-468fd66c604d
+2026-08-29 09:40:24,701 INFO SKIP article_id=ea5bc5fa-3f96-5b07-b7c2-8188b07c4a56
+2026-08-29 09:40:24,702 INFO SKIP article_id=5e079136-f3bc-551f-a82c-3b0281fac9d0
+2026-08-29 09:40:24,702 INFO SKIP article_id=4e474293-199d-5638-9878-54a0072c60b4
+2026-08-29 09:40:24,702 INFO SKIP article_id=766880cc-dc54-594e-b769-e92182665334
+2026-08-29 09:40:24,702 INFO SKIP article_id=60a72942-249b-52d6-8888-93961697f0a9
+2026-08-29 09:40:24,702 INFO SKIP article_id=8f479b90-12a2-56df-9c0c-9511769d96cc
+2026-08-29 09:40:24,702 INFO SKIP article_id=8583ba9c-d019-5014-9752-93d1e827cbd3
+2026-08-29 09:40:24,702 INFO SKIP article_id=b0869575-fa04-5d0f-a2ae-fec595bce1d2
+2026-08-29 09:40:24,703 INFO SKIP article_id=e4d10c15-bcd7-5a25-ba7c-3f96bdf988b8
+2026-08-29 09:40:24,703 INFO SKIP article_id=6e00e0e9-a9be-5b6b-9c19-0659de647e26
+2026-08-29 09:40:24,703 INFO SKIP article_id=0217d8e2-4f5a-5751-a505-91c5bdb57bdc
+2026-08-29 09:40:24,703 INFO SKIP article_id=129d53f1-9c19-5ef5-a670-c5c2eb638bad
+2026-08-29 09:40:24,703 INFO SKIP article_id=436a64a2-4741-565a-a6d1-c33a5129f4a3
+2026-08-29 09:40:24,704 INFO SKIP article_id=1a2f6bd3-9641-5ec6-aa94-69d32c0eaf67
+2026-08-29 09:40:24,704 INFO SKIP article_id=de3ad892-8038-549c-ad37-b3001f83575e
+2026-08-29 09:40:24,704 INFO SKIP article_id=63080d73-ec52-55ed-95e0-894109d5ad14
+2026-08-29 09:40:24,704 INFO SKIP article_id=d6c11196-d412-5005-9be8-488e74397d37
+2026-08-29 09:40:24,704 INFO SKIP article_id=39eb4031-fa84-5a48-bb5b-042b8488e5e1
+2026-08-29 09:40:24,704 INFO SKIP article_id=2a66c0c5-87fb-593c-843b-ed4aad07e41c
+2026-08-29 09:40:24,704 INFO SKIP article_id=b274fcf3-2803-559e-8ef0-f9be161d349c
+2026-08-29 09:40:24,705 INFO SKIP article_id=23cfbe7e-a9b9-56bf-9a29-af44b62be182
+2026-08-29 09:40:24,705 INFO SKIP article_id=5c77ed94-e3d9-5f08-a98d-04f010d3a5da
+2026-08-29 09:40:24,705 INFO SKIP article_id=b1b0f1ab-c0df-5b71-bdbd-4fb8cbe804b7
+2026-08-29 09:40:24,705 INFO SKIP article_id=87cf3484-03c8-5d6e-b4b5-1d4548341738
+2026-08-29 09:40:24,705 INFO SKIP article_id=7bfea921-178b-5bb3-8adf-898dcb45c6a1
+2026-08-29 09:40:24,705 INFO SKIP article_id=0f01dcca-3260-58ba-871d-84fed1c4ebc9
+2026-08-29 09:40:24,705 INFO SKIP article_id=1ffb221a-0d32-5260-8923-ac62e74afc01
+2026-08-29 09:40:24,706 INFO SKIP article_id=f8ab32e6-3ca9-57de-add5-929b53040051
+2026-08-29 09:40:24,706 INFO SKIP article_id=7ca7c176-e282-5e5d-960e-d2c86a3c91ba
+2026-08-29 09:40:24,706 INFO SKIP article_id=70f4b14b-8847-54fa-952b-dca18e78d5f3
+2026-08-29 09:40:24,706 INFO SKIP article_id=8621802a-16fe-519c-a495-20cb7b293845
+2026-08-29 09:40:24,706 INFO SKIP article_id=c4793e56-0d2c-5ab2-8fdf-d5d1c203f745
+2026-08-29 09:40:24,706 INFO SKIP article_id=ea066348-895d-504e-b9f5-e6edae8282e9
+2026-08-29 09:40:24,706 INFO SKIP article_id=050fe62d-9c83-550d-b646-359cafe046db
+2026-08-29 09:40:24,707 INFO SKIP article_id=fd2a7f45-61f1-575d-9866-55740a960c04
+2026-08-29 09:40:39,460 INFO SUCCESS article_id=71d3ae35-4171-5293-9b5a-ab1bc10d891c url=https://www.nytimes.com/2025/10/02/us/los-angeles-olympics-oklahoma-city.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/71d3ae35-4171-5293-9b5a-ab1bc10d891c.txt
+2026-08-29 09:40:56,097 INFO SUCCESS article_id=2cd77679-404b-564e-b4aa-261211241cc0 url=https://www.nytimes.com/2025/10/02/us/politics/government-shutdown-spending-bill-impasse.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/2cd77679-404b-564e-b4aa-261211241cc0.txt
+2026-08-29 09:41:13,248 INFO SUCCESS article_id=88af8c88-6289-5639-8182-998278382f7c url=https://www.nytimes.com/2025/10/02/well/jane-goodall-aging-long-life.html path=/Users/pengdu/PycharmProjects/ArticleExtraction/nyt_output/2025_10/88af8c88-6289-5639-8182-998278382f7c.txt
