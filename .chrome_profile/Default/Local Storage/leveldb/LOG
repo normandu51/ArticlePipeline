@@ -1,7 +1,0 @@
-2026/08/29-16:08:01.995 49ace Reusing MANIFEST /Users/pengdu/PycharmProjects/ArticleExtraction/.chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/29-16:08:01.997 49ace Recovering log #27
-2026/08/29-16:08:01.998 49ace Level-0 table #30: started
-2026/08/29-16:08:02.006 49ace Level-0 table #30: 116969 bytes OK
-2026/08/29-16:08:02.007 49ace Recovering log #29
-2026/08/29-16:08:02.007 49ace Reusing old log /Users/pengdu/PycharmProjects/ArticleExtraction/.chrome_profile/Default/Local Storage/leveldb/000029.log 
-2026/08/29-16:08:02.009 49ace Delete type=0 #27
