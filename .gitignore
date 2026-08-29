@@ -10,3 +10,9 @@ dist
 # Kokoro TTS model — runtime dependency, downloaded separately (see KOKORO_SETUP.md)
 tts/Kokoro/Kokoro-82M/
 tts/Output/
+
+# SQLite databases / project DB — runtime data, kept on disk only
+articles.db
+articles.db-shm
+articles.db-wal
+articles.sqbpro
