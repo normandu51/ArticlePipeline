@@ -3,3 +3,6 @@ node_modules
 dist
 */.DS_Store
 .DS_Store
+
+# Kokoro TTS model — runtime dependency, downloaded separately (see KOKORO_SETUP.md)
+tts/Kokoro/Kokoro-82M/
