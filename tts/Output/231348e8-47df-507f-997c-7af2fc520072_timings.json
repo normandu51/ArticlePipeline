@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "article_id": "231348e8-47df-507f-997c-7af2fc520072",
+    "headline": "OpenAI Completes Deal That Values It at $500 Billion",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/231348e8-47df-507f-997c-7af2fc520072_kokoro.wav",
+    "total_duration": 49.5,
+    "sentence_count": 3,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:07:38.185991"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "OpenAI has completed a deal to sell employees\u2019 shares to investors that values the artificial intelligence company at $500 billion, said two people familiar with the agreement.",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 0.0,
+      "end_time": 13.675,
+      "duration": 13.675,
+      "phoneme_count": 196
+    },
+    {
+      "id": 1,
+      "sentence": "The deal makes OpenAI the world\u2019s most valuable privately held company, according to data from the start-up tracker CB Insights, ousting SpaceX, the rocket company founded by Elon Musk.",
+      "paragraph_id": 1,
+      "word_count": 29,
+      "start_time": 13.675,
+      "end_time": 27.7,
+      "duration": 14.025,
+      "phoneme_count": 200
+    },
+    {
+      "id": 2,
+      "sentence": "Current and former OpenAI employees agreed to sell roughly $6.6 billion in shares to investors, including the Japanese conglomerate SoftBank and the venture capital firm Thrive Capital, said the people, who spoke on the condition of anonymity because they were not authorized to discuss the agreement.",
+      "paragraph_id": 2,
+      "word_count": 46,
+      "start_time": 27.7,
+      "end_time": 49.5,
+      "duration": 21.8,
+      "phoneme_count": 324
+    }
+  ]
+}

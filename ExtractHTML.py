@@ -1,4 +1,12 @@
+"""Extract clean article text from NYT archive pages.
+
+All tunable values — extraction filters, noise patterns, body selectors,
+ancestor-exclusion rules and driver/network settings — live in
+``extract_config.py``. This module only contains the generic pipeline.
+"""
+
 import argparse
+import fnmatch
 import json
 import logging
 import os
@@ -10,10 +18,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.by import By
 
-from block_detection import is_block_page
+import extract_config as config
 from article_store import (
     DEFAULT_DB_PATH,
     get_connection,
@@ -24,54 +30,34 @@ from article_store import (
     mark_failed,
     upsert_metadata,
 )
-SECTION_NAMES = ["Gameplay","Corrections","Style","T Magazine"]
-MATERIEL_TYPES = ["Review", "Correction", "Quote", "Live Blog Post"]
-NEWS_DESKS = ["TStyle","Projects and Initiatives","Podcasts","Games"]
-
-NOISE_PATTERNS = {
-    "advertisement",
-    "subscribe to",
-    "sign up",
-    "get our free",
-    "daily newsletter",
-    "follow us",
-    "share this article",
-    "read more",
-    "continue reading",
-    "log in",
-    "register",
-    "members-only",
-    "articles left",
-    "subscribe to the times to read as many articles as you like.",
-}
+from block_detection import is_block_page
 
 
 def find_chrome_binary():
-    """Find Chrome/Chromium binary in common locations."""
-    chrome_paths = [
-        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-        "/Applications/Chromium.app/Contents/MacOS/Chromium",
-        "/usr/bin/chromium-browser",
-        "/snap/bin/chromium",
-    ]
-    for path in chrome_paths:
+    """Find Chrome/Chromium binary among the configured locations."""
+    for path in config.CHROME_BINARY_PATHS:
         if os.path.exists(path):
             return path
     return None
 
 
 def find_chromedriver():
-    """Find ChromeDriver in common locations."""
-    driver_paths = [
-        "/usr/local/bin/chromedriver",
-        "/opt/homebrew/bin/chromedriver",
-        str(Path.home() / ".wdm" / "chromedriver"),
-        "./chromedriver",
-    ]
-    for path in driver_paths:
+    """Find ChromeDriver among the configured locations."""
+    for path in config.CHROMEDRIVER_PATHS:
         if os.path.exists(path):
             return path
     return None
+
+
+def get_chrome_profile_dir():
+    """Return the persistent Chrome profile directory.
+
+    The environment variable ``CHROME_PROFILE_ENV_VAR`` takes precedence over
+    the config default, so operators can override the profile per run.
+    """
+    return os.environ.get(
+        config.CHROME_PROFILE_ENV_VAR, config.DEFAULT_CHROME_PROFILE_DIR
+    )
 
 
 def build_chrome_options(chrome_binary):
@@ -82,12 +68,10 @@ def build_chrome_options(chrome_binary):
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option("useAutomationExtension", False)
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    )
+    options.add_argument(f"user-agent={config.USER_AGENT}")
     options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")
+    options.add_argument(f"--window-size={config.WINDOW_SIZE}")
+    options.add_argument(f"--user-data-dir={get_chrome_profile_dir()}")
     return options
 
 
@@ -105,15 +89,56 @@ def create_driver():
     return webdriver.Chrome(options=chrome_options)
 
 
+def matches_noise_pattern(line):
+    """Return True if `line` matches any configured NOISE_PATTERNS wildcard.
+
+    Matching is case-insensitive and supports fnmatch wildcards
+    ('*' matches any run of characters, '?' matches a single character).
+    """
+    lowered = line.strip().lower()
+    return any(
+        fnmatch.fnmatchcase(lowered, pattern) for pattern in config.NOISE_PATTERNS
+    )
+
+
+def _matches_rule(element, rule):
+    """Return True when `element` satisfies every filter in `rule`.
+
+    A rule is a dict of attribute filters. ``tag`` compares the element name,
+    ``class`` checks class-name membership, and any other key is compared by
+    attribute value (e.g. ``name``).
+    """
+    for key, expected in rule.items():
+        if key == "tag":
+            if element.name != expected:
+                return False
+        elif key == "class":
+            if expected not in (element.get("class") or []):
+                return False
+        else:
+            if element.get(key) != expected:
+                return False
+    return True
+
+
+def is_in_excluded_container(paragraph):
+    """Return True if `paragraph` has an ancestor matching an exclusion rule.
+
+    Exclusion rules come from ``config.EXCLUDED_ANCESTOR_RULES``. A paragraph
+    is dropped when any of its ancestors satisfies all the filters of at least
+    one rule — for example the default ``{'class': 'interactive-body'}``, which
+    excludes widget UI from interactive articles. Only the class attribute is
+    matched by default; ``name="interactive-body"`` is treated as prose.
+    """
+    for ancestor in paragraph.parents:
+        if any(_matches_rule(ancestor, rule) for rule in config.EXCLUDED_ANCESTOR_RULES):
+            return True
+    return False
+
+
 def clean_article_text(soup):
-    selectors = [
-        ("section", {"name": "articleBody"}),
-        ("section", {"class": "meteredContent"}),
-        ("main", None),
-        ("article", None),
-    ]
     article = None
-    for tag, attrs in selectors:
+    for tag, attrs in config.BODY_SELECTORS:
         article = soup.find(tag, attrs) if attrs else soup.find(tag)
         if article:
             break
@@ -121,11 +146,15 @@ def clean_article_text(soup):
     if not article:
         raise RuntimeError("Article body not found")
 
-    content_lines = [paragraph.get_text().strip() for paragraph in article.find_all("p")]
+    content_lines = [
+        paragraph.get_text().strip()
+        for paragraph in article.find_all("p")
+        if not is_in_excluded_container(paragraph)
+    ]
     cleaned_lines = [
         line
         for line in content_lines
-        if line and line.lower() not in NOISE_PATTERNS
+        if line and not matches_noise_pattern(line)
     ]
     if not cleaned_lines:
         raise RuntimeError("Article body is empty")
@@ -146,15 +175,20 @@ def extract_article(url):
             },
         )
         driver.get(url)
-        time.sleep(random.uniform(7, 11))
+        time.sleep(random.uniform(*config.LOAD_SLEEP_RANGE))
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         try:
             return clean_article_text(soup)
         except RuntimeError as extraction_error:
-            pass
+            # Block detection is advisory: a false positive must not discard
+            # content that was successfully extracted, so it only changes the
+            # error message when extraction already failed.
+            if is_block_page(soup):
+                raise RuntimeError(f"Blocked page for {url}: {extraction_error}")
+            raise RuntimeError(f"Failed to extract article {url}: {extraction_error}")
     finally:
-        time.sleep(random.uniform(2, 5))
+        time.sleep(random.uniform(*config.QUIT_SLEEP_RANGE))
         driver.quit()
 
 
@@ -184,6 +218,26 @@ def configure_logger(log_path):
     return logger
 
 
+def should_exclude_document(doc):
+    """Return True when an archive doc should be skipped by the pipeline.
+
+    A doc is excluded when it matches any configured filter: its
+    ``document_type`` is not 'Article', or its section / subsection /
+    type_of_material / news_desk is in the corresponding config list.
+    """
+    if doc.get("document_type") != "Article":
+        return True
+    if doc.get("section_name") in config.SECTION_NAMES:
+        return True
+    if doc.get("subsection_name") in config.SUBSECTIONS:
+        return True
+    if doc.get("type_of_material") in config.MATERIEL_TYPES:
+        return True
+    if doc.get("news_desk") in config.NEWS_DESKS:
+        return True
+    return False
+
+
 def process_source_json(source_json, db_path=DEFAULT_DB_PATH):
     source_path = Path(source_json)
     month = source_path.stem
@@ -197,7 +251,7 @@ def process_source_json(source_json, db_path=DEFAULT_DB_PATH):
             documents = json.load(input_file)["response"]["docs"]
 
         for document in documents:
-            if (document.get("section_name") in SECTION_NAMES or document.get("document_type")!="Article") or document.get("type_of_material") in MATERIEL_TYPES or document.get("news_desk") in NEWS_DESKS:
+            if should_exclude_document(document):
                 continue
             article_uri = document.get("_id")
             url = document.get("web_url")

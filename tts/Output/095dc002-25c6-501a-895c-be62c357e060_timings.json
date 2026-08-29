@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "095dc002-25c6-501a-895c-be62c357e060",
+    "headline": "Spam and Scams Proliferate in Facebook\u2019s Political Ads",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/095dc002-25c6-501a-895c-be62c357e060_kokoro.wav",
+    "total_duration": 89.55,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:02:05.703187"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "An ad that appeared in thousands of Facebook feeds this summer featured an altered video of the White House press secretary, Karoline Leavitt, at a regular press briefing.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 0.0,
+      "end_time": 11.975,
+      "duration": 11.975,
+      "phoneme_count": 166
+    },
+    {
+      "id": 1,
+      "sentence": "In it, she appeared to say Americans could claim a $5,000 relief check on an official government site.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 11.975,
+      "end_time": 19.675,
+      "duration": 7.7,
+      "phoneme_count": 112
+    },
+    {
+      "id": 2,
+      "sentence": "An arrow that then appeared instead led to an advertiser called Get Covered Today.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 19.675,
+      "end_time": 25.7,
+      "duration": 6.025,
+      "phoneme_count": 81
+    },
+    {
+      "id": 3,
+      "sentence": "Similar ads showed fabricated videos of Senators Bernie Sanders of Vermont and Elizabeth Warren of Massachusetts promising similar rebates that did not exist. \u201cThis is not a gimmick,\u201d the impersonation of Ms.",
+      "paragraph_id": 1,
+      "word_count": 32,
+      "start_time": 25.7,
+      "end_time": 41.3,
+      "duration": 15.6,
+      "phoneme_count": 219
+    },
+    {
+      "id": 4,
+      "sentence": "Warren says.",
+      "paragraph_id": 1,
+      "word_count": 2,
+      "start_time": 41.3,
+      "end_time": 43.05,
+      "duration": 1.75,
+      "phoneme_count": 12
+    },
+    {
+      "id": 5,
+      "sentence": "In fact, it was.",
+      "paragraph_id": 2,
+      "word_count": 4,
+      "start_time": 43.05,
+      "end_time": 45.025,
+      "duration": 1.975,
+      "phoneme_count": 17
+    },
+    {
+      "id": 6,
+      "sentence": "Even so, the company behind the ads and others like it were among the top political advertisers on Facebook, according to an analysis by the Tech Transparency Project, a nonprofit focused on holding large technology companies accountable.",
+      "paragraph_id": 3,
+      "word_count": 37,
+      "start_time": 45.025,
+      "end_time": 61.85,
+      "duration": 16.825,
+      "phoneme_count": 246
+    },
+    {
+      "id": 7,
+      "sentence": "The ads are a lucrative part of Facebook\u2019s advertising revenue that, the project\u2019s researchers and others say, has led the company to turn a blind eye to a flood of low-quality or deceptive content, spam and in some cases outright fraud on the platform.",
+      "paragraph_id": 4,
+      "word_count": 44,
+      "start_time": 61.85,
+      "end_time": 79.6,
+      "duration": 17.75,
+      "phoneme_count": 257
+    },
+    {
+      "id": 8,
+      "sentence": "\u201cMeta is very aware of these types of scams,\u201d said Katie A.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 79.6,
+      "end_time": 84.175,
+      "duration": 4.575,
+      "phoneme_count": 60
+    },
+    {
+      "id": 9,
+      "sentence": "Paul, director of the Tech Transparency Project. \u201cThey just didn\u2019t care.\u201d",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 84.175,
+      "end_time": 89.55,
+      "duration": 5.375,
+      "phoneme_count": 77
+    }
+  ]
+}

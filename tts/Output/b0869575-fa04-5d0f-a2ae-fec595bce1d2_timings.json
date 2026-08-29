@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "article_id": "b0869575-fa04-5d0f-a2ae-fec595bce1d2",
+    "headline": "Where an Artist Draws a Crowd, and the Crowd Draws the Artist",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/b0869575-fa04-5d0f-a2ae-fec595bce1d2_kokoro.wav",
+    "total_duration": 81.1,
+    "sentence_count": 8,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:04:58.376048"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The violinist Jennifer Koh stood at the center of an illustrator\u2019s studio in Brooklyn on a recent evening and dug into the opening chords of Bach\u2019s Chaconne.",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 0.0,
+      "end_time": 10.8,
+      "duration": 10.8,
+      "phoneme_count": 158
+    },
+    {
+      "id": 1,
+      "sentence": "I was barely listening.",
+      "paragraph_id": 0,
+      "word_count": 4,
+      "start_time": 10.8,
+      "end_time": 12.925,
+      "duration": 2.125,
+      "phoneme_count": 23
+    },
+    {
+      "id": 2,
+      "sentence": "I was too busy trying to capture the tilt of her pink-coiffed head on the chin rest and the curve of her shoulder, which flexed and dipped with each stroke of her bow.",
+      "paragraph_id": 1,
+      "word_count": 33,
+      "start_time": 12.925,
+      "end_time": 23.7,
+      "duration": 10.775,
+      "phoneme_count": 163
+    },
+    {
+      "id": 3,
+      "sentence": "Occasionally, I stole glances at the more confident sketches materializing on desks around me.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 23.7,
+      "end_time": 31.075,
+      "duration": 7.375,
+      "phoneme_count": 97
+    },
+    {
+      "id": 4,
+      "sentence": "As I worked tentative lines onto the page, my eyes darting between my drawing and the ever-changing shape of my subject, I felt confronted with the limits of my attention.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 31.075,
+      "end_time": 42.7,
+      "duration": 11.625,
+      "phoneme_count": 170
+    },
+    {
+      "id": 5,
+      "sentence": "I had joined Seen Here, a monthly series organized by the illustrator Julia Rothman and the journalist Joshua David Stein, in which performers \u2014 flamenco dancers, a balloon sculptor and now a violinist \u2014 are invited to demonstrate and talk about their work while a roomful of professional and amateur artists tries to render them in the medium of their choice.",
+      "paragraph_id": 2,
+      "word_count": 61,
+      "start_time": 42.7,
+      "end_time": 67.175,
+      "duration": 24.475,
+      "phoneme_count": 364
+    },
+    {
+      "id": 6,
+      "sentence": "For most, it is figure drawing with a twist.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 67.175,
+      "end_time": 70.525,
+      "duration": 3.35,
+      "phoneme_count": 45
+    },
+    {
+      "id": 7,
+      "sentence": "For me, it was a chance to set aside my usual music critic\u2019s tool kit \u2014 ears, words, judgment \u2014 to experience a performance with my eyes.",
+      "paragraph_id": 2,
+      "word_count": 27,
+      "start_time": 70.525,
+      "end_time": 81.1,
+      "duration": 10.575,
+      "phoneme_count": 145
+    }
+  ]
+}

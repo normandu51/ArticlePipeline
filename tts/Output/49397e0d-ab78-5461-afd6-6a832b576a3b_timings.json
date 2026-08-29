@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "article_id": "49397e0d-ab78-5461-afd6-6a832b576a3b",
+    "headline": "Kennedy Crusaded on Linking Vaccines and Autism. So What Happened?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/49397e0d-ab78-5461-afd6-6a832b576a3b_kokoro.wav",
+    "total_duration": 273.875,
+    "sentence_count": 23,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:19:56.833922"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "In September, after months of mostly out-of-sight maneuvering, the Make America Healthy Again movement stepped forthrightly into the policy spotlight.",
+      "paragraph_id": 0,
+      "word_count": 20,
+      "start_time": 0.0,
+      "end_time": 10.4,
+      "duration": 10.4,
+      "phoneme_count": 148
+    },
+    {
+      "id": 1,
+      "sentence": "The flurry of news marks a chapter\u2019s end in the saga of Robert F.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 10.4,
+      "end_time": 15.275,
+      "duration": 4.875,
+      "phoneme_count": 67
+    },
+    {
+      "id": 2,
+      "sentence": "Kennedy Jr.\u2019s public health reign: In just five days in September, we got the most substantive meeting of his reconstituted Advisory Committee on Immunization Practices, now stuffed with vaccine skeptics, and a much- anticipated Department of Health and Human Services announcement on the causes of autism, rolled out to much fanfare by the president.",
+      "paragraph_id": 0,
+      "word_count": 54,
+      "start_time": 15.275,
+      "end_time": 39.225,
+      "duration": 23.95,
+      "phoneme_count": 364
+    },
+    {
+      "id": 3,
+      "sentence": "So it\u2019s not a bad time for a first-act assessment.",
+      "paragraph_id": 1,
+      "word_count": 10,
+      "start_time": 39.225,
+      "end_time": 42.95,
+      "duration": 3.725,
+      "phoneme_count": 52
+    },
+    {
+      "id": 4,
+      "sentence": "The ACIP session on Sept. 18 and 19 had loomed for months as an enormously consequential event, with the panel considering changes to the conventional immunization schedule, opening up the possibility that the country\u2019s basic, familiar vaccine protocol would be taken apart or sabotaged.",
+      "paragraph_id": 1,
+      "word_count": 44,
+      "start_time": 42.95,
+      "end_time": 64.15,
+      "duration": 21.2,
+      "phoneme_count": 305
+    },
+    {
+      "id": 5,
+      "sentence": "The meeting is now behind us, an absolute embarrassment of bad science, disingenuous argumentation and basic bureaucratic dysfunction. (See here and here and here for some colorful summaries.)",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 64.15,
+      "end_time": 78.525,
+      "duration": 14.375,
+      "phoneme_count": 199
+    },
+    {
+      "id": 6,
+      "sentence": "But the meeting also produced some concrete outcomes, in the form of votes on two sets of recommendations.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 78.525,
+      "end_time": 85.8,
+      "duration": 7.275,
+      "phoneme_count": 109
+    },
+    {
+      "id": 7,
+      "sentence": "And in the grand scheme of things, those were actually kind of fine.",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 85.8,
+      "end_time": 90.475,
+      "duration": 4.675,
+      "phoneme_count": 66
+    },
+    {
+      "id": 8,
+      "sentence": "At first blush, this looks like a bit of a puzzle, especially for those most worried about MAHA\u2019s war on public health.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 90.475,
+      "end_time": 99.125,
+      "duration": 8.65,
+      "phoneme_count": 125
+    },
+    {
+      "id": 9,
+      "sentence": "Kennedy has been crusading against vaccines for decades, and his elevation to health and human services secretary brought forward the possibility of drastic change, even revolution.",
+      "paragraph_id": 2,
+      "word_count": 26,
+      "start_time": 99.125,
+      "end_time": 112.375,
+      "duration": 13.25,
+      "phoneme_count": 187
+    },
+    {
+      "id": 10,
+      "sentence": "So where is it?",
+      "paragraph_id": 2,
+      "word_count": 4,
+      "start_time": 112.375,
+      "end_time": 114.2,
+      "duration": 1.825,
+      "phoneme_count": 15
+    },
+    {
+      "id": 11,
+      "sentence": "To many watching closely, the meetings were a disaster.",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 114.2,
+      "end_time": 118.45,
+      "duration": 4.25,
+      "phoneme_count": 52
+    },
+    {
+      "id": 12,
+      "sentence": "To those paying a little less attention or just skimming the headlines, it looked a little different.",
+      "paragraph_id": 3,
+      "word_count": 17,
+      "start_time": 118.45,
+      "end_time": 124.75,
+      "duration": 6.3,
+      "phoneme_count": 95
+    },
+    {
+      "id": 13,
+      "sentence": "The panel voted to separate into two shots what had been available as a single shot for measles, mumps, rubella and varicella (better known as chickenpox) for children under the age of 4 and voted to change the recommendation for Covid shots, which few Americans plan to get anyway, so that only people age 65 or older and those with certain medical conditions would be officially encouraged to be vaccinated and all others just prompted to discuss the matter with their doctors.",
+      "paragraph_id": 3,
+      "word_count": 82,
+      "start_time": 124.75,
+      "end_time": 155.4,
+      "duration": 30.65,
+      "phoneme_count": 496
+    },
+    {
+      "id": 14,
+      "sentence": "The panel punted on making any changes to recommendations about the hepatitis B vaccine, which has long preoccupied anti-vaxxers and vaccine skeptics.",
+      "paragraph_id": 3,
+      "word_count": 22,
+      "start_time": 155.4,
+      "end_time": 166.775,
+      "duration": 11.375,
+      "phoneme_count": 158
+    },
+    {
+      "id": 15,
+      "sentence": "This meant that aside from the chickenpox tweak, the routine immunization schedule has been left, for now, unchanged.",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 166.775,
+      "end_time": 175.175,
+      "duration": 8.4,
+      "phoneme_count": 115
+    },
+    {
+      "id": 16,
+      "sentence": "The shambolic news conference introducing the much-hyped autism \u201creport\u201d on Sept. 22 could be described in almost exactly the same way, as a cloud of chaos around what qualifies, all things considered, as a relatively cautious set of policy changes.",
+      "paragraph_id": 4,
+      "word_count": 40,
+      "start_time": 175.175,
+      "end_time": 194.0,
+      "duration": 18.825,
+      "phoneme_count": 262
+    },
+    {
+      "id": 17,
+      "sentence": "Speaking extemporaneously in front of his visibly uncomfortable public-health leadership team, President Trump wove from subject to subject and ranted so ignorantly and irresponsibly about vaccines, he felt compelled to make a joking apology to Kennedy. \u201cI hope I didn\u2019t ruin his day,\u201d he said \u2014 a hint that the group had planned to avoid the subject of vaccines entirely in the news conference, whatever Kennedy\u2019s feelings about them.",
+      "paragraph_id": 4,
+      "word_count": 69,
+      "start_time": 194.0,
+      "end_time": 222.375,
+      "duration": 28.375,
+      "phoneme_count": 451
+    },
+    {
+      "id": 18,
+      "sentence": "But the sound and fury accompanied the introduction of a fact sheet that did not detail the supposed risks of vaccination, warning only about possible consequences of Tylenol use in pregnancy (and doing so in relatively qualified terms).",
+      "paragraph_id": 5,
+      "word_count": 38,
+      "start_time": 222.375,
+      "end_time": 239.6,
+      "duration": 17.225,
+      "phoneme_count": 247
+    },
+    {
+      "id": 19,
+      "sentence": "This is not messaging I would have co-signed, and it isn\u2019t in line with the science as I read it.",
+      "paragraph_id": 5,
+      "word_count": 20,
+      "start_time": 239.6,
+      "end_time": 245.875,
+      "duration": 6.275,
+      "phoneme_count": 93
+    },
+    {
+      "id": 20,
+      "sentence": "But it also isn\u2019t the aggressive and explicit war on vaccines that many Americans \u2014 me included \u2014 feared.",
+      "paragraph_id": 5,
+      "word_count": 19,
+      "start_time": 245.875,
+      "end_time": 253.575,
+      "duration": 7.7,
+      "phoneme_count": 111
+    },
+    {
+      "id": 21,
+      "sentence": "It has more in common with Trump\u2019s chaotic 2020 Covid news conferences, which highlighted hydroxychloroquine and disinfectants, and seems to illustrate Steve Bannon\u2019s battle plan for the information war, applied now to science and public health.",
+      "paragraph_id": 5,
+      "word_count": 36,
+      "start_time": 253.575,
+      "end_time": 270.7,
+      "duration": 17.125,
+      "phoneme_count": 259
+    },
+    {
+      "id": 22,
+      "sentence": "That is, flood the zone with excrement.",
+      "paragraph_id": 5,
+      "word_count": 7,
+      "start_time": 270.7,
+      "end_time": 273.875,
+      "duration": 3.175,
+      "phoneme_count": 39
+    }
+  ]
+}

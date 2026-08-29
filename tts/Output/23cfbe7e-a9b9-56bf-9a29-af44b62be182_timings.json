@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "article_id": "23cfbe7e-a9b9-56bf-9a29-af44b62be182",
+    "headline": "Incompetence Isn\u2019t an Upgrade Over D.E.I.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/23cfbe7e-a9b9-56bf-9a29-af44b62be182_kokoro.wav",
+    "total_duration": 115.325,
+    "sentence_count": 17,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:08:22.590333"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "On Tuesday morning, Defense Secretary Pete Hegseth summoned hundreds of American generals and admirals from across the world to a military base in Virginia for a blistering, mandatory briefing.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 14.625,
+      "duration": 14.625,
+      "phoneme_count": 203
+    },
+    {
+      "id": 1,
+      "sentence": "He railed against poor physical fitness standards, he called for more lethality and aggression in the military, and he \u2014 of course \u2014 decried diversity, equity and inclusion.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 14.625,
+      "end_time": 26.975,
+      "duration": 12.35,
+      "phoneme_count": 173
+    },
+    {
+      "id": 2,
+      "sentence": "\u201cNo more identity months,\u201d he said, \u201cD.E.I. offices, dudes in dresses.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 26.975,
+      "end_time": 32.675,
+      "duration": 5.7,
+      "phoneme_count": 73
+    },
+    {
+      "id": 3,
+      "sentence": "No more climate change worship.",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 32.675,
+      "end_time": 35.375,
+      "duration": 2.7,
+      "phoneme_count": 31
+    },
+    {
+      "id": 4,
+      "sentence": "No more division, distraction or gender delusions.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 35.375,
+      "end_time": 39.525,
+      "duration": 4.15,
+      "phoneme_count": 52
+    },
+    {
+      "id": 5,
+      "sentence": "No more debris.\u201d",
+      "paragraph_id": 1,
+      "word_count": 3,
+      "start_time": 39.525,
+      "end_time": 41.475,
+      "duration": 1.95,
+      "phoneme_count": 17
+    },
+    {
+      "id": 6,
+      "sentence": "\u201cAs I\u2019ve said before and will say again,\u201d he continued, \u201cwe are done with that shit.\u201d",
+      "paragraph_id": 2,
+      "word_count": 16,
+      "start_time": 41.475,
+      "end_time": 47.45,
+      "duration": 5.975,
+      "phoneme_count": 83
+    },
+    {
+      "id": 7,
+      "sentence": "But as he spoke, I kept thinking \u2026 isn\u2019t this the same person who shared almost certainly classified information about an imminent American military strike on a group text in a civilian messaging app called Signal?",
+      "paragraph_id": 3,
+      "word_count": 36,
+      "start_time": 47.45,
+      "end_time": 62.3,
+      "duration": 14.85,
+      "phoneme_count": 222
+    },
+    {
+      "id": 8,
+      "sentence": "And didn\u2019t that group \u2014 incredibly enough \u2014 include Jeffrey Goldberg, the editor in chief of The Atlantic?",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 62.3,
+      "end_time": 69.525,
+      "duration": 7.225,
+      "phoneme_count": 107
+    },
+    {
+      "id": 9,
+      "sentence": "Didn\u2019t that mean that, thanks in large part to Hegseth, the safety of the entire mission turned on the security of a civilian app and the integrity of a civilian journalist?",
+      "paragraph_id": 4,
+      "word_count": 31,
+      "start_time": 69.525,
+      "end_time": 81.225,
+      "duration": 11.7,
+      "phoneme_count": 175
+    },
+    {
+      "id": 10,
+      "sentence": "It\u2019s difficult to put into words the sheer incompetence of that moment.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 81.225,
+      "end_time": 86.25,
+      "duration": 5.025,
+      "phoneme_count": 73
+    },
+    {
+      "id": 11,
+      "sentence": "If I\u2019d done something that colossally stupid during my military career, it would have ended my career, instantly.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 86.25,
+      "end_time": 94.25,
+      "duration": 8.0,
+      "phoneme_count": 113
+    },
+    {
+      "id": 12,
+      "sentence": "It most likely would have led to prosecution.",
+      "paragraph_id": 5,
+      "word_count": 8,
+      "start_time": 94.25,
+      "end_time": 97.7,
+      "duration": 3.45,
+      "phoneme_count": 47
+    },
+    {
+      "id": 13,
+      "sentence": "I should know: I\u2019ve helped discipline soldiers for less egregious misconduct \u2014 far less.",
+      "paragraph_id": 5,
+      "word_count": 14,
+      "start_time": 97.7,
+      "end_time": 103.65,
+      "duration": 5.95,
+      "phoneme_count": 86
+    },
+    {
+      "id": 14,
+      "sentence": "A senior leader committed gross misconduct and put lives at risk.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 103.65,
+      "end_time": 108.675,
+      "duration": 5.025,
+      "phoneme_count": 69
+    },
+    {
+      "id": 15,
+      "sentence": "He was never formally held accountable.",
+      "paragraph_id": 6,
+      "word_count": 6,
+      "start_time": 108.675,
+      "end_time": 111.925,
+      "duration": 3.25,
+      "phoneme_count": 41
+    },
+    {
+      "id": 16,
+      "sentence": "That is not what a meritocracy looks like.",
+      "paragraph_id": 6,
+      "word_count": 8,
+      "start_time": 111.925,
+      "end_time": 115.325,
+      "duration": 3.4,
+      "phoneme_count": 45
+    }
+  ]
+}

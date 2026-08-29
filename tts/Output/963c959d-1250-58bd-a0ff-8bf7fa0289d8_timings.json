@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "article_id": "963c959d-1250-58bd-a0ff-8bf7fa0289d8",
+    "headline": "Can This City Make Residents Put Down Their Smartphones?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/963c959d-1250-58bd-a0ff-8bf7fa0289d8_kokoro.wav",
+    "total_duration": 108.075,
+    "sentence_count": 11,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:56:01.685468"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The idea came to Masafumi Kouki, the energetic mayor of the Japanese city of Toyoake, on a summer day as he pondered rising truancy rates at local schools.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 0.0,
+      "end_time": 11.675,
+      "duration": 11.675,
+      "phoneme_count": 160
+    },
+    {
+      "id": 1,
+      "sentence": "Toyoake\u2019s nearly 68,000 residents, especially children, seemed increasingly addicted to their digital devices, he thought, so why not try to reduce the amount of time they spent staring at screens?",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 11.675,
+      "end_time": 26.375,
+      "duration": 14.7,
+      "phoneme_count": 203
+    },
+    {
+      "id": 2,
+      "sentence": "Within a few days, Mr.",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 26.375,
+      "end_time": 28.65,
+      "duration": 2.275,
+      "phoneme_count": 27
+    },
+    {
+      "id": 3,
+      "sentence": "Kouki and his staff had drafted a 2,400-character ordinance limiting the use of smartphones, tablets, game consoles and computers to two hours per day for Toyoake\u2019s residents, not counting work and school hours.",
+      "paragraph_id": 1,
+      "word_count": 33,
+      "start_time": 28.65,
+      "end_time": 44.925,
+      "duration": 16.275,
+      "phoneme_count": 234
+    },
+    {
+      "id": 4,
+      "sentence": "The ordinance, which goes into effect on Wednesday, will make Toyoake one of the first cities in Japan to attempt to use the platform of the government to get its citizens to put down their phones.",
+      "paragraph_id": 1,
+      "word_count": 36,
+      "start_time": 44.925,
+      "end_time": 57.7,
+      "duration": 12.775,
+      "phoneme_count": 196
+    },
+    {
+      "id": 5,
+      "sentence": "\u201cIt\u2019s so sad to end your day looking at your smartphone all the time at home,\u201d Mr.",
+      "paragraph_id": 2,
+      "word_count": 17,
+      "start_time": 57.7,
+      "end_time": 63.225,
+      "duration": 5.525,
+      "phoneme_count": 85
+    },
+    {
+      "id": 6,
+      "sentence": "Kouki said in an interview this week in Toyoake, an industrial suburb of Nagoya. \u201cI hope that citizens change their behavior.\u201d",
+      "paragraph_id": 2,
+      "word_count": 21,
+      "start_time": 63.225,
+      "end_time": 72.375,
+      "duration": 9.15,
+      "phoneme_count": 125
+    },
+    {
+      "id": 7,
+      "sentence": "Toyoake\u2019s ordinance, which was approved in a 12-7 vote by the city assembly last week, is largely symbolic.",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 72.375,
+      "end_time": 80.55,
+      "duration": 8.175,
+      "phoneme_count": 112
+    },
+    {
+      "id": 8,
+      "sentence": "The authorities will not track residents\u2019 smartphone use and there will be no penalties, city officials say, for exceeding the two-hour recommendation.",
+      "paragraph_id": 3,
+      "word_count": 22,
+      "start_time": 80.55,
+      "end_time": 91.225,
+      "duration": 10.675,
+      "phoneme_count": 144
+    },
+    {
+      "id": 9,
+      "sentence": "But in Japan, there is heavy social pressure to follow official guidelines.",
+      "paragraph_id": 4,
+      "word_count": 12,
+      "start_time": 91.225,
+      "end_time": 96.75,
+      "duration": 5.525,
+      "phoneme_count": 71
+    },
+    {
+      "id": 10,
+      "sentence": "And Toyoake\u2019s leaders hope residents will voluntarily reduce their use of digital devices \u2014 and choose to get more sleep and spend time with family members instead.",
+      "paragraph_id": 4,
+      "word_count": 27,
+      "start_time": 96.75,
+      "end_time": 108.075,
+      "duration": 11.325,
+      "phoneme_count": 165
+    }
+  ]
+}

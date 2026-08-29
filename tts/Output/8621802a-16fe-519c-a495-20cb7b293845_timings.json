@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "article_id": "8621802a-16fe-519c-a495-20cb7b293845",
+    "headline": "Science Practice | A Study on Asteroid Samples and Life\u2019s Building Blocks",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8621802a-16fe-519c-a495-20cb7b293845_kokoro.wav",
+    "total_duration": 207.05,
+    "sentence_count": 35,
+    "paragraph_count": 19,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:50:47.322778"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Do you think life exists beyond Earth?",
+      "paragraph_id": 0,
+      "word_count": 7,
+      "start_time": 0.0,
+      "end_time": 3.05,
+      "duration": 3.05,
+      "phoneme_count": 40
+    },
+    {
+      "id": 1,
+      "sentence": "Why do you think the way you do?",
+      "paragraph_id": 0,
+      "word_count": 8,
+      "start_time": 3.05,
+      "end_time": 5.475,
+      "duration": 2.425,
+      "phoneme_count": 31
+    },
+    {
+      "id": 2,
+      "sentence": "What do you think might be the best way for scientists to try to prove if life exists beyond Earth?",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 5.475,
+      "end_time": 12.275,
+      "duration": 6.8,
+      "phoneme_count": 101
+    },
+    {
+      "id": 3,
+      "sentence": "Read the New York Times article \u201cLurking Inside an Asteroid: Life\u2019s Ingredients,\u201d published on Jan. 29.",
+      "paragraph_id": 2,
+      "word_count": 16,
+      "start_time": 12.275,
+      "end_time": 20.725,
+      "duration": 8.45,
+      "phoneme_count": 116
+    },
+    {
+      "id": 4,
+      "sentence": "It begins:",
+      "paragraph_id": 2,
+      "word_count": 2,
+      "start_time": 20.725,
+      "end_time": 22.425,
+      "duration": 1.7,
+      "phoneme_count": 12
+    },
+    {
+      "id": 5,
+      "sentence": "Our solar system contains planets, dwarf planets, asteroids and comets \u2014 but only one world is known to harbor life.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 22.425,
+      "end_time": 31.45,
+      "duration": 9.025,
+      "phoneme_count": 128
+    },
+    {
+      "id": 6,
+      "sentence": "Scientists have long debated whether Earth is truly unique.",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 31.45,
+      "end_time": 35.675,
+      "duration": 4.225,
+      "phoneme_count": 59
+    },
+    {
+      "id": 7,
+      "sentence": "Perhaps our planet just happened to have the right combination of ingredients, conditions and timing to allow life to emerge.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 35.675,
+      "end_time": 44.275,
+      "duration": 8.6,
+      "phoneme_count": 126
+    },
+    {
+      "id": 8,
+      "sentence": "But a pinch of grit from a distant asteroid collected by a NASA spacecraft holds hints that our planet may not be so special.",
+      "paragraph_id": 4,
+      "word_count": 24,
+      "start_time": 44.275,
+      "end_time": 53.0,
+      "duration": 8.725,
+      "phoneme_count": 136
+    },
+    {
+      "id": 9,
+      "sentence": "A team of researchers reported in the journal Nature on Wednesday that the asteroid, known as Bennu, contains a wealth of organic molecules, including many crucial building blocks of life.",
+      "paragraph_id": 4,
+      "word_count": 30,
+      "start_time": 53.0,
+      "end_time": 65.975,
+      "duration": 12.975,
+      "phoneme_count": 187
+    },
+    {
+      "id": 10,
+      "sentence": "The chemistry that produced them might be going on today on the ice moons of Jupiter and Saturn.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 65.975,
+      "end_time": 72.775,
+      "duration": 6.8,
+      "phoneme_count": 96
+    },
+    {
+      "id": 11,
+      "sentence": "\u201cOur odds of finding life elsewhere are increasing,\u201d said Daniel Glavin, a senior scientist for sample return at NASA\u2019s Goddard Space Flight Center and a co-author of the two papers.",
+      "paragraph_id": 5,
+      "word_count": 30,
+      "start_time": 72.775,
+      "end_time": 85.875,
+      "duration": 13.1,
+      "phoneme_count": 185
+    },
+    {
+      "id": 12,
+      "sentence": "1.",
+      "paragraph_id": 6,
+      "word_count": 1,
+      "start_time": 85.875,
+      "end_time": 87.15,
+      "duration": 1.275,
+      "phoneme_count": 5
+    },
+    {
+      "id": 13,
+      "sentence": "What was the scientific question that researchers wanted to answer?",
+      "paragraph_id": 6,
+      "word_count": 10,
+      "start_time": 87.15,
+      "end_time": 91.9,
+      "duration": 4.75,
+      "phoneme_count": 66
+    },
+    {
+      "id": 14,
+      "sentence": "2.",
+      "paragraph_id": 7,
+      "word_count": 1,
+      "start_time": 91.9,
+      "end_time": 93.075,
+      "duration": 1.175,
+      "phoneme_count": 4
+    },
+    {
+      "id": 15,
+      "sentence": "How did researchers plan and carry out their investigation?",
+      "paragraph_id": 7,
+      "word_count": 9,
+      "start_time": 93.075,
+      "end_time": 97.675,
+      "duration": 4.6,
+      "phoneme_count": 59
+    },
+    {
+      "id": 16,
+      "sentence": "3.",
+      "paragraph_id": 8,
+      "word_count": 1,
+      "start_time": 97.675,
+      "end_time": 99.0,
+      "duration": 1.325,
+      "phoneme_count": 5
+    },
+    {
+      "id": 17,
+      "sentence": "What new data did the investigation yield? (Data is the factual information collected during observations, experiments or studies.)",
+      "paragraph_id": 8,
+      "word_count": 18,
+      "start_time": 99.0,
+      "end_time": 108.95,
+      "duration": 9.95,
+      "phoneme_count": 139
+    },
+    {
+      "id": 18,
+      "sentence": "4.",
+      "paragraph_id": 9,
+      "word_count": 1,
+      "start_time": 108.95,
+      "end_time": 110.225,
+      "duration": 1.275,
+      "phoneme_count": 5
+    },
+    {
+      "id": 19,
+      "sentence": "What explanation did researchers construct, using the data, to answer their original question?",
+      "paragraph_id": 9,
+      "word_count": 13,
+      "start_time": 110.225,
+      "end_time": 117.3,
+      "duration": 7.075,
+      "phoneme_count": 97
+    },
+    {
+      "id": 20,
+      "sentence": "5.",
+      "paragraph_id": 10,
+      "word_count": 1,
+      "start_time": 117.3,
+      "end_time": 118.65,
+      "duration": 1.35,
+      "phoneme_count": 5
+    },
+    {
+      "id": 21,
+      "sentence": "What significance does this research have for science, the world or our lives?",
+      "paragraph_id": 10,
+      "word_count": 13,
+      "start_time": 118.65,
+      "end_time": 124.175,
+      "duration": 5.525,
+      "phoneme_count": 76
+    },
+    {
+      "id": 22,
+      "sentence": "6.",
+      "paragraph_id": 11,
+      "word_count": 1,
+      "start_time": 124.175,
+      "end_time": 125.425,
+      "duration": 1.25,
+      "phoneme_count": 6
+    },
+    {
+      "id": 23,
+      "sentence": "What is one thing you learned about this study or about how scientists approach their work?",
+      "paragraph_id": 11,
+      "word_count": 16,
+      "start_time": 125.425,
+      "end_time": 131.275,
+      "duration": 5.85,
+      "phoneme_count": 86
+    },
+    {
+      "id": 24,
+      "sentence": "7.",
+      "paragraph_id": 12,
+      "word_count": 1,
+      "start_time": 131.275,
+      "end_time": 132.675,
+      "duration": 1.4,
+      "phoneme_count": 7
+    },
+    {
+      "id": 25,
+      "sentence": "What further questions do you have about this research and its significance?",
+      "paragraph_id": 12,
+      "word_count": 12,
+      "start_time": 132.675,
+      "end_time": 137.675,
+      "duration": 5.0,
+      "phoneme_count": 74
+    },
+    {
+      "id": 26,
+      "sentence": "This study used samples from the asteroid Bennu to try to figure out if asteroids might hold crucial building blocks of life.",
+      "paragraph_id": 13,
+      "word_count": 22,
+      "start_time": 137.675,
+      "end_time": 146.4,
+      "duration": 8.725,
+      "phoneme_count": 130
+    },
+    {
+      "id": 27,
+      "sentence": "Collaborate with others to propose another scientific investigation about life beyond Earth.",
+      "paragraph_id": 13,
+      "word_count": 12,
+      "start_time": 146.4,
+      "end_time": 154.025,
+      "duration": 7.625,
+      "phoneme_count": 93
+    },
+    {
+      "id": 28,
+      "sentence": "For example, a scientist might want to investigate whether Ceres, a 580-mile-wide dwarf planet in the asteroid belt, might have even more complex molecules in its interior, and perhaps even living cells.",
+      "paragraph_id": 13,
+      "word_count": 32,
+      "start_time": 154.025,
+      "end_time": 169.575,
+      "duration": 15.55,
+      "phoneme_count": 232
+    },
+    {
+      "id": 29,
+      "sentence": "What scientific question might you want to answer?",
+      "paragraph_id": 14,
+      "word_count": 8,
+      "start_time": 169.575,
+      "end_time": 173.125,
+      "duration": 3.55,
+      "phoneme_count": 50
+    },
+    {
+      "id": 30,
+      "sentence": "Briefly describe how you might design a study using similar techniques mentioned in the article to try to answer that question.",
+      "paragraph_id": 15,
+      "word_count": 21,
+      "start_time": 173.125,
+      "end_time": 182.175,
+      "duration": 9.05,
+      "phoneme_count": 126
+    },
+    {
+      "id": 31,
+      "sentence": "More?",
+      "paragraph_id": 16,
+      "word_count": 1,
+      "start_time": 182.175,
+      "end_time": 183.45,
+      "duration": 1.275,
+      "phoneme_count": 5
+    },
+    {
+      "id": 32,
+      "sentence": "\u2022 Science Practice, a new resource aligned with the Science and Engineering Practices for the Next Generation Science Standards, aims to help students better understand how scientists actively gather evidence-based knowledge and solve problems.",
+      "paragraph_id": 17,
+      "word_count": 34,
+      "start_time": 183.45,
+      "end_time": 199.975,
+      "duration": 16.525,
+      "phoneme_count": 241
+    },
+    {
+      "id": 33,
+      "sentence": "Learn more about this feature in this introductory post.",
+      "paragraph_id": 17,
+      "word_count": 9,
+      "start_time": 199.975,
+      "end_time": 204.075,
+      "duration": 4.1,
+      "phoneme_count": 56
+    },
+    {
+      "id": 34,
+      "sentence": "\u2022 See all the lesson plans in this series.",
+      "paragraph_id": 18,
+      "word_count": 9,
+      "start_time": 204.075,
+      "end_time": 207.05,
+      "duration": 2.975,
+      "phoneme_count": 39
+    }
+  ]
+}

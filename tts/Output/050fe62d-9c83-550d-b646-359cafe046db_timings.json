@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "050fe62d-9c83-550d-b646-359cafe046db",
+    "headline": "Trump Calls Shutdown an \u2018Unprecedented Opportunity,\u2019 and Eyes Deep Cuts",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/050fe62d-9c83-550d-b646-359cafe046db_kokoro.wav",
+    "total_duration": 143.325,
+    "sentence_count": 18,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:01:52.039004"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "President Trump said on Thursday that he would meet with his budget chief to determine which \u201cDemocrat agencies\u201d he could try to cut, relishing the government shutdown as an \u201cunprecedented opportunity\u201d to achieve his agenda and dismantle federal programs.",
+      "paragraph_id": 0,
+      "word_count": 39,
+      "start_time": 0.0,
+      "end_time": 17.75,
+      "duration": 17.75,
+      "phoneme_count": 260
+    },
+    {
+      "id": 1,
+      "sentence": "Mr.",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 17.75,
+      "end_time": 19.175,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 2,
+      "sentence": "Trump did not specify in a post on social media whether he sought to slash spending or lay off federal workers, both of which he has threatened since federal funding lapsed.",
+      "paragraph_id": 1,
+      "word_count": 31,
+      "start_time": 19.175,
+      "end_time": 31.15,
+      "duration": 11.975,
+      "phoneme_count": 177
+    },
+    {
+      "id": 3,
+      "sentence": "Rather, the president said his discussion with Russell T.",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 31.15,
+      "end_time": 35.375,
+      "duration": 4.225,
+      "phoneme_count": 56
+    },
+    {
+      "id": 4,
+      "sentence": "Vought, the White House budget director, would touch on \u201cwhether or not those cuts will be temporary or permanent.\u201d",
+      "paragraph_id": 1,
+      "word_count": 19,
+      "start_time": 35.375,
+      "end_time": 43.15,
+      "duration": 7.775,
+      "phoneme_count": 110
+    },
+    {
+      "id": 5,
+      "sentence": "Shortly after, Karoline Leavitt, the White House press secretary, signaled anew that Mr.",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 43.15,
+      "end_time": 49.525,
+      "duration": 6.375,
+      "phoneme_count": 91
+    },
+    {
+      "id": 6,
+      "sentence": "Trump is eyeing another round of mass federal layoffs.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 49.525,
+      "end_time": 53.7,
+      "duration": 4.175,
+      "phoneme_count": 54
+    },
+    {
+      "id": 7,
+      "sentence": "She told reporters that it was \u201clikely\u201d the government could shed workers by the \u201cthousands\u201d if the shutdown continues, adding that the president would further refine the plan Thursday.",
+      "paragraph_id": 2,
+      "word_count": 29,
+      "start_time": 53.7,
+      "end_time": 66.5,
+      "duration": 12.8,
+      "phoneme_count": 180
+    },
+    {
+      "id": 8,
+      "sentence": "The comments from Mr.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 66.5,
+      "end_time": 68.625,
+      "duration": 2.125,
+      "phoneme_count": 25
+    },
+    {
+      "id": 9,
+      "sentence": "Trump and his top aides underscored their desire to take advantage of the governmentwide closure, which began at midnight on Wednesday.",
+      "paragraph_id": 3,
+      "word_count": 21,
+      "start_time": 68.625,
+      "end_time": 77.975,
+      "duration": 9.35,
+      "phoneme_count": 136
+    },
+    {
+      "id": 10,
+      "sentence": "Rather than try to broker a resolution, the president has focused on leveraging the standoff, aiming to carry out his long-sought reconfiguration of Washington while inflicting pain on his political adversaries.",
+      "paragraph_id": 3,
+      "word_count": 31,
+      "start_time": 77.975,
+      "end_time": 92.9,
+      "duration": 14.925,
+      "phoneme_count": 215
+    },
+    {
+      "id": 11,
+      "sentence": "\u201cI don\u2019t think it\u2019s unreasonable for the president to use all the levers,\u201d said Scott Bessent, the Treasury secretary, during an appearance on CNBC on Thursday.",
+      "paragraph_id": 4,
+      "word_count": 26,
+      "start_time": 92.9,
+      "end_time": 104.3,
+      "duration": 11.4,
+      "phoneme_count": 172
+    },
+    {
+      "id": 12,
+      "sentence": "He declined to offer specifics about the layoffs or cuts the president was considering.",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 104.3,
+      "end_time": 110.475,
+      "duration": 6.175,
+      "phoneme_count": 90
+    },
+    {
+      "id": 13,
+      "sentence": "But Mr.",
+      "paragraph_id": 4,
+      "word_count": 2,
+      "start_time": 110.475,
+      "end_time": 112.15,
+      "duration": 1.675,
+      "phoneme_count": 12
+    },
+    {
+      "id": 14,
+      "sentence": "Bessent nonetheless acknowledged that a shutdown could hurt the U.S. economy.",
+      "paragraph_id": 4,
+      "word_count": 11,
+      "start_time": 112.15,
+      "end_time": 117.85,
+      "duration": 5.7,
+      "phoneme_count": 73
+    },
+    {
+      "id": 15,
+      "sentence": "On Capitol Hill, senior Democratic lawmakers responded to Mr.",
+      "paragraph_id": 5,
+      "word_count": 9,
+      "start_time": 117.85,
+      "end_time": 123.325,
+      "duration": 5.475,
+      "phoneme_count": 72
+    },
+    {
+      "id": 16,
+      "sentence": "Trump\u2019s ultimatums with outrage.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 123.325,
+      "end_time": 126.25,
+      "duration": 2.925,
+      "phoneme_count": 33
+    },
+    {
+      "id": 17,
+      "sentence": "Senator Patty Murray of Washington, the top Democrat on the chamber\u2019s appropriations panel, faulted the White House for using federal workers as bargaining chips, and questioned the legality of any firings conducted while the government remains closed.",
+      "paragraph_id": 5,
+      "word_count": 37,
+      "start_time": 126.25,
+      "end_time": 143.325,
+      "duration": 17.075,
+      "phoneme_count": 253
+    }
+  ]
+}

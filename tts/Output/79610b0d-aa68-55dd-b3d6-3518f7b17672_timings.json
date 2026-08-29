@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "article_id": "79610b0d-aa68-55dd-b3d6-3518f7b17672",
+    "headline": "U.K. \u2018Grooming Gang\u2019 Leader Sentenced to 35 Years for Rape",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/79610b0d-aa68-55dd-b3d6-3518f7b17672_kokoro.wav",
+    "total_duration": 136.75,
+    "sentence_count": 11,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:38:55.966787"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The ringleader of a group of men who raped and abused two teenage girls in the northern English town of Rochdale was sentenced to 35 years in prison on Wednesday, in the latest criminal case in Britain seeking accountability for decades of offending by so-called \u201cgrooming gangs.\u201d",
+      "paragraph_id": 0,
+      "word_count": 47,
+      "start_time": 0.0,
+      "end_time": 19.25,
+      "duration": 19.25,
+      "phoneme_count": 288
+    },
+    {
+      "id": 1,
+      "sentence": "Mohammed Zahid, now 65, was sentenced alongside six other men for raping the girls, whom he targeted from the age of 13 after they started working at his market stall.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 19.25,
+      "end_time": 32.175,
+      "duration": 12.925,
+      "phoneme_count": 188
+    },
+    {
+      "id": 2,
+      "sentence": "Prosecutors said that Mr.",
+      "paragraph_id": 2,
+      "word_count": 4,
+      "start_time": 32.175,
+      "end_time": 34.675,
+      "duration": 2.5,
+      "phoneme_count": 31
+    },
+    {
+      "id": 3,
+      "sentence": "Zahid gave the victims gifts and money before sexually abusing and raping them.",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 34.675,
+      "end_time": 40.775,
+      "duration": 6.1,
+      "phoneme_count": 84
+    },
+    {
+      "id": 4,
+      "sentence": "In a period between 2001 and 2006, the girls were separately taken to different addresses and remote locations where they were plied with alcohol and forced to have sex with a network of local market traders and taxi drivers.",
+      "paragraph_id": 2,
+      "word_count": 39,
+      "start_time": 40.775,
+      "end_time": 57.675,
+      "duration": 16.9,
+      "phoneme_count": 255
+    },
+    {
+      "id": 5,
+      "sentence": "Rochdale was among the first British towns to be revealed as a hub of sexual grooming gangs by investigative journalists in the early 2010s, prompting a nationwide scandal and years of prosecutions and inquiries into why the perpetrators were not stopped sooner.",
+      "paragraph_id": 3,
+      "word_count": 42,
+      "start_time": 57.675,
+      "end_time": 76.2,
+      "duration": 18.525,
+      "phoneme_count": 276
+    },
+    {
+      "id": 6,
+      "sentence": "Like many gang members prosecuted in other areas of England, the men sentenced on Wednesday were mostly of Pakistani heritage and deployed tactics described by experts as the \u201cboyfriend model.\u201d Perpetrators gained the trust of vulnerable girls by offering them food, alcohol, cigarettes or other inducements, developed a relationship of dependency, and then forced them into sexual activity with other men.",
+      "paragraph_id": 4,
+      "word_count": 61,
+      "start_time": 76.2,
+      "end_time": 103.575,
+      "duration": 27.375,
+      "phoneme_count": 428
+    },
+    {
+      "id": 7,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 103.575,
+      "end_time": 105.0,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 8,
+      "sentence": "Zahid and his co-defendants were investigated by a child sexual exploitation investigations unit within the Greater Manchester Police that was formed in 2021, the police said in a statement.",
+      "paragraph_id": 5,
+      "word_count": 29,
+      "start_time": 105.0,
+      "end_time": 119.35,
+      "duration": 14.35,
+      "phoneme_count": 214
+    },
+    {
+      "id": 9,
+      "sentence": "The force said it was one of two major investigations that have so far resulted in 32 offenders being jailed for a combined total of 474 years for grooming gang activity in Rochdale.",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 119.35,
+      "end_time": 133.825,
+      "duration": 14.475,
+      "phoneme_count": 216
+    },
+    {
+      "id": 10,
+      "sentence": "Twenty more men are awaiting trial.",
+      "paragraph_id": 5,
+      "word_count": 6,
+      "start_time": 133.825,
+      "end_time": 136.75,
+      "duration": 2.925,
+      "phoneme_count": 36
+    }
+  ]
+}

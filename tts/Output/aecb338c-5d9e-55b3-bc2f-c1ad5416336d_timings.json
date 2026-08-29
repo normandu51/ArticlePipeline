@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "article_id": "aecb338c-5d9e-55b3-bc2f-c1ad5416336d",
+    "headline": "How the Government Shutdown Is Slowing the Federal Courts",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/aecb338c-5d9e-55b3-bc2f-c1ad5416336d_kokoro.wav",
+    "total_duration": 57.275,
+    "sentence_count": 5,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:04:34.714653"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Hours into its first day, the government shutdown has already started to exert drag on cases moving through the federal judiciary.",
+      "paragraph_id": 0,
+      "word_count": 21,
+      "start_time": 0.0,
+      "end_time": 9.3,
+      "duration": 9.3,
+      "phoneme_count": 137
+    },
+    {
+      "id": 1,
+      "sentence": "In a raft of new filings made at courthouses across the country on Wednesday, Justice Department lawyers asked judges to pause their cases, arguing that the department didn\u2019t have enough personnel to handle them because of the lack of Congressionally approved funding.",
+      "paragraph_id": 1,
+      "word_count": 42,
+      "start_time": 9.3,
+      "end_time": 26.725,
+      "duration": 17.425,
+      "phoneme_count": 262
+    },
+    {
+      "id": 2,
+      "sentence": "And in Federal District Court for the District of Columbia, one of the judiciary\u2019s most prominent trial courts, Chief Judge James E.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 26.725,
+      "end_time": 35.925,
+      "duration": 9.2,
+      "phoneme_count": 138
+    },
+    {
+      "id": 3,
+      "sentence": "Boasberg issued on Wednesday a new standing order extending deadlines through the duration of the shutdown for the government to meet filing and discovery deadlines.",
+      "paragraph_id": 2,
+      "word_count": 25,
+      "start_time": 35.925,
+      "end_time": 47.475,
+      "duration": 11.55,
+      "phoneme_count": 162
+    },
+    {
+      "id": 4,
+      "sentence": "The purpose of the order, he wrote, was to \u201cminimize expenditures of scarce judicial resources\u201d on individual requests for extensions.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 47.475,
+      "end_time": 57.275,
+      "duration": 9.8,
+      "phoneme_count": 141
+    }
+  ]
+}

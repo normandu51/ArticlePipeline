@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "788de4f0-87f3-58a8-ad45-a1d634952af6",
+    "headline": "\u2018The Most Epic Political Victory Our Country Has Ever Seen\u2019 Is Nothing of the Kind",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/788de4f0-87f3-58a8-ad45-a1d634952af6_kokoro.wav",
+    "total_duration": 152.675,
+    "sentence_count": 13,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:38:33.944736"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Donald Trump won the 2024 presidential election with 49.8 percent of the national popular vote \u2014 compared with 48.3 percent for Vice President Kamala Harris \u2014 and 312 electoral votes to Harris\u2019s 226.",
+      "paragraph_id": 0,
+      "word_count": 33,
+      "start_time": 0.0,
+      "end_time": 18.65,
+      "duration": 18.65,
+      "phoneme_count": 295
+    },
+    {
+      "id": 1,
+      "sentence": "In the 20 presidential elections since the end of World War II, Trump had the fourth-narrowest margin in the popular vote and seventh-narrowest in the Electoral College.",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 18.65,
+      "end_time": 30.625,
+      "duration": 11.975,
+      "phoneme_count": 176
+    },
+    {
+      "id": 2,
+      "sentence": "And yet this objective fact about the 2024 election \u2014 that it was a narrow result in a closely divided nation \u2014 does not seem to matter all that much to the nation\u2019s politics.",
+      "paragraph_id": 1,
+      "word_count": 34,
+      "start_time": 30.625,
+      "end_time": 43.45,
+      "duration": 12.825,
+      "phoneme_count": 192
+    },
+    {
+      "id": 3,
+      "sentence": "Two views of the 2024 presidential results predominate in our political discourse.",
+      "paragraph_id": 2,
+      "word_count": 12,
+      "start_time": 43.45,
+      "end_time": 50.45,
+      "duration": 7.0,
+      "phoneme_count": 102
+    },
+    {
+      "id": 4,
+      "sentence": "The first, held by the president, his allies and his administration, is that the election was an overwhelming landslide \u2014 a historic landslide \u2014 the most devastating victory a candidate has ever won in American political history.",
+      "paragraph_id": 3,
+      "word_count": 37,
+      "start_time": 50.45,
+      "end_time": 67.375,
+      "duration": 16.925,
+      "phoneme_count": 242
+    },
+    {
+      "id": 5,
+      "sentence": "Or as Trump put it, \u201cWe achieved the most epic political victory our country has ever seen.\u201d In February he told audiences at the Conservative Political Action Conference that he had earned \u201cmuch more\u201d than his 77 million votes and that his poll numbers were the highest \u201cthat any Republican president has ever had.\u201d His allies and aides, likewise, repeatedly refer to last year\u2019s election as \u201chistoric\u201d or a \u201cmandate\u201d of some sort.",
+      "paragraph_id": 4,
+      "word_count": 73,
+      "start_time": 67.375,
+      "end_time": 96.3,
+      "duration": 28.925,
+      "phoneme_count": 459
+    },
+    {
+      "id": 6,
+      "sentence": "In this vision, Trump\u2019s victory was so total \u2014 so complete \u2014 that the 2024 election was an enabling act for everything he wants to do.",
+      "paragraph_id": 5,
+      "word_count": 26,
+      "start_time": 96.3,
+      "end_time": 106.825,
+      "duration": 10.525,
+      "phoneme_count": 154
+    },
+    {
+      "id": 7,
+      "sentence": "Does Trump want to illegally slash large parts of the federal bureaucracy and impound congressional appropriations?",
+      "paragraph_id": 5,
+      "word_count": 16,
+      "start_time": 106.825,
+      "end_time": 115.025,
+      "duration": 8.2,
+      "phoneme_count": 117
+    },
+    {
+      "id": 8,
+      "sentence": "Oh, he had a mandate.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 115.025,
+      "end_time": 117.15,
+      "duration": 2.125,
+      "phoneme_count": 22
+    },
+    {
+      "id": 9,
+      "sentence": "Does he want to end diversity efforts not just in the federal government but across the entire society?",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 117.15,
+      "end_time": 124.725,
+      "duration": 7.575,
+      "phoneme_count": 111
+    },
+    {
+      "id": 10,
+      "sentence": "Well, the American people delivered a landslide victory to him.",
+      "paragraph_id": 5,
+      "word_count": 10,
+      "start_time": 124.725,
+      "end_time": 129.7,
+      "duration": 4.975,
+      "phoneme_count": 66
+    },
+    {
+      "id": 11,
+      "sentence": "His every move \u2014 his every action \u2014 is justified by the supposed scale of his electoral success.",
+      "paragraph_id": 6,
+      "word_count": 18,
+      "start_time": 129.7,
+      "end_time": 137.0,
+      "duration": 7.3,
+      "phoneme_count": 99
+    },
+    {
+      "id": 12,
+      "sentence": "Even the Constitution is supposed to bend in the face of his 312 electoral votes, hence his effort to end the 14th Amendment\u2019s guarantee of birthright citizenship by executive fiat, now before the Supreme Court.",
+      "paragraph_id": 6,
+      "word_count": 35,
+      "start_time": 137.0,
+      "end_time": 152.675,
+      "duration": 15.675,
+      "phoneme_count": 236
+    }
+  ]
+}

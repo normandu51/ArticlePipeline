@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "6b0168b2-ebb4-50e5-8eff-2604f81c6d1f",
+    "headline": "Afghan Internet Back After 2-Day Blackout Tied to Taliban",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6b0168b2-ebb4-50e5-8eff-2604f81c6d1f_kokoro.wav",
+    "total_duration": 84.3,
+    "sentence_count": 7,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:32:02.031627"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Internet access was restored across parts of Afghanistan on Wednesday, two days after a sudden nationwide shutdown paralyzed the economy, grounded planes and led to swirling rumors about the reasons behind the blackout.",
+      "paragraph_id": 0,
+      "word_count": 33,
+      "start_time": 0.0,
+      "end_time": 15.85,
+      "duration": 15.85,
+      "phoneme_count": 227
+    },
+    {
+      "id": 1,
+      "sentence": "The internet outage, coupled with a suspension of cellphone services, deepened a sense of dread and uncertainty for millions of Afghans already feeling isolated by the drastic restrictions on individual freedoms imposed by the Taliban government.",
+      "paragraph_id": 1,
+      "word_count": 36,
+      "start_time": 15.85,
+      "end_time": 33.375,
+      "duration": 17.525,
+      "phoneme_count": 253
+    },
+    {
+      "id": 2,
+      "sentence": "The absence of public communication from Taliban figures and the claims by government that they could explain neither the shutdown nor the service resumption sowed confusion and anger.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 33.375,
+      "end_time": 46.15,
+      "duration": 12.775,
+      "phoneme_count": 183
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cI want the government to make it clear: Why is the internet cut off?",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 46.15,
+      "end_time": 50.8,
+      "duration": 4.65,
+      "phoneme_count": 73
+    },
+    {
+      "id": 4,
+      "sentence": "And how long it will last?\u201d Aqa Gul Panjshiri, a trader importing food items, care products and cigarettes into Afghanistan, said before service resumed on Wednesday.",
+      "paragraph_id": 3,
+      "word_count": 26,
+      "start_time": 50.8,
+      "end_time": 63.325,
+      "duration": 12.525,
+      "phoneme_count": 176
+    },
+    {
+      "id": 5,
+      "sentence": "Zabihullah Mujahid, the Taliban\u2019s spokesman, and Hamdullah Fitrat, his deputy, did not respond to multiple requests for comments.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 63.325,
+      "end_time": 72.975,
+      "duration": 9.65,
+      "phoneme_count": 140
+    },
+    {
+      "id": 6,
+      "sentence": "\u201cI still don\u2019t have the reason for the internet cutoff,\u201d Inayatullah Alokozay, the spokesman for the Afghan ministry of telecommunications, said Wednesday evening.",
+      "paragraph_id": 5,
+      "word_count": 23,
+      "start_time": 72.975,
+      "end_time": 84.3,
+      "duration": 11.325,
+      "phoneme_count": 163
+    }
+  ]
+}

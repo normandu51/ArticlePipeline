@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "e742f1c5-e8c4-52d3-8999-38c876dd482e",
+    "headline": "As Israel Pounds Gaza City, an Overwhelming Exodus",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/e742f1c5-e8c4-52d3-8999-38c876dd482e_kokoro.wav",
+    "total_duration": 61.0,
+    "sentence_count": 7,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:26:32.997857"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "As Israel\u2019s full-scale assault in Gaza City began last month, Khitam Ayyad fled from her home there barefoot and without her possessions, heading to an area in southern Gaza that the Israeli military had designated as a \u201chumanitarian zone.\u201d",
+      "paragraph_id": 0,
+      "word_count": 39,
+      "start_time": 0.0,
+      "end_time": 17.75,
+      "duration": 17.75,
+      "phoneme_count": 244
+    },
+    {
+      "id": 1,
+      "sentence": "The military said that tents, food and medical care would be provided to those fleeing the fighting in the north.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 17.75,
+      "end_time": 25.05,
+      "duration": 7.3,
+      "phoneme_count": 107
+    },
+    {
+      "id": 2,
+      "sentence": "But when Ms.",
+      "paragraph_id": 2,
+      "word_count": 3,
+      "start_time": 25.05,
+      "end_time": 26.675,
+      "duration": 1.625,
+      "phoneme_count": 14
+    },
+    {
+      "id": 3,
+      "sentence": "Ayyad reached the southern city of Khan Younis, one of the humanitarian areas, she said she found it overcrowded with desperate people who were being offered little help.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 26.675,
+      "end_time": 38.0,
+      "duration": 11.325,
+      "phoneme_count": 168
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cWe are exposed to the sun and the heat,\u201d she said.",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 38.0,
+      "end_time": 41.55,
+      "duration": 3.55,
+      "phoneme_count": 50
+    },
+    {
+      "id": 5,
+      "sentence": "There was no space for her to build a shelter, she added, and \u201cno proper food or water.\u201d",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 41.55,
+      "end_time": 47.675,
+      "duration": 6.125,
+      "phoneme_count": 90
+    },
+    {
+      "id": 6,
+      "sentence": "The Israeli military has said that its ground assault to take control of Gaza City, which began on Sept. 16, is an effort to rout one of the last remaining Hamas strongholds in Gaza.",
+      "paragraph_id": 4,
+      "word_count": 34,
+      "start_time": 47.675,
+      "end_time": 61.0,
+      "duration": 13.325,
+      "phoneme_count": 195
+    }
+  ]
+}

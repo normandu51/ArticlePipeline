@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "feb8519e-ede5-5bbe-8927-688fd64554b4",
+    "headline": "Vance Laughs Off Fake Video of Hakeem Jeffries: \u2018I Think It\u2019s Funny\u2019",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/feb8519e-ede5-5bbe-8927-688fd64554b4_kokoro.wav",
+    "total_duration": 105.55,
+    "sentence_count": 18,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:34:47.202297"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Vice President JD Vance on Wednesday laughed off an A.I.-generated video that President Trump shared on social media, saying the president was \u201cjoking\u201d when he posted a meme of Representative Hakeem Jeffries, the House minority leader, with a fake mustache and a sombrero.",
+      "paragraph_id": 0,
+      "word_count": 43,
+      "start_time": 0.0,
+      "end_time": 19.2,
+      "duration": 19.2,
+      "phoneme_count": 280
+    },
+    {
+      "id": 1,
+      "sentence": "Mr.",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 19.2,
+      "end_time": 20.625,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 2,
+      "sentence": "Jeffries has said the video was racist and bigoted.",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 20.625,
+      "end_time": 24.7,
+      "duration": 4.075,
+      "phoneme_count": 52
+    },
+    {
+      "id": 3,
+      "sentence": "Asked for his response to that, Mr.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 24.7,
+      "end_time": 27.6,
+      "duration": 2.9,
+      "phoneme_count": 39
+    },
+    {
+      "id": 4,
+      "sentence": "Vance said, \u201cI don\u2019t even know what that means.\u201d",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 27.6,
+      "end_time": 31.2,
+      "duration": 3.6,
+      "phoneme_count": 49
+    },
+    {
+      "id": 5,
+      "sentence": "Speaking at a White House press briefing, Mr.",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 31.2,
+      "end_time": 34.75,
+      "duration": 3.55,
+      "phoneme_count": 45
+    },
+    {
+      "id": 6,
+      "sentence": "Vance characterized the post as making light of lawmakers\u2019 policy differences.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 34.75,
+      "end_time": 40.575,
+      "duration": 5.825,
+      "phoneme_count": 78
+    },
+    {
+      "id": 7,
+      "sentence": "The video, which was posted on Monday and falsely accuses Democrats of trying to give free health care to undocumented immigrants, depicts Mr.",
+      "paragraph_id": 2,
+      "word_count": 23,
+      "start_time": 40.575,
+      "end_time": 51.225,
+      "duration": 10.65,
+      "phoneme_count": 155
+    },
+    {
+      "id": 8,
+      "sentence": "Jeffries, who is Black, as Mexican, with mariachi music playing in the background.",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 51.225,
+      "end_time": 57.45,
+      "duration": 6.225,
+      "phoneme_count": 83
+    },
+    {
+      "id": 9,
+      "sentence": "\u201cOh, I think it\u2019s funny,\u201d Mr.",
+      "paragraph_id": 3,
+      "word_count": 6,
+      "start_time": 57.45,
+      "end_time": 59.925,
+      "duration": 2.475,
+      "phoneme_count": 33
+    },
+    {
+      "id": 10,
+      "sentence": "Vance said. \u201cThe president\u2019s joking, and we\u2019re having a good time.\u201d",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 59.925,
+      "end_time": 64.6,
+      "duration": 4.675,
+      "phoneme_count": 65
+    },
+    {
+      "id": 11,
+      "sentence": "\u201cYou can negotiate in good faith while also poking a little bit of fun at some of the absurdities of the Democrats\u2019 positions, and even poking some fun at the absurdity of the Democrats themselves,\u201d Mr.",
+      "paragraph_id": 4,
+      "word_count": 36,
+      "start_time": 64.6,
+      "end_time": 78.025,
+      "duration": 13.425,
+      "phoneme_count": 209
+    },
+    {
+      "id": 12,
+      "sentence": "Vance added.",
+      "paragraph_id": 4,
+      "word_count": 2,
+      "start_time": 78.025,
+      "end_time": 79.8,
+      "duration": 1.775,
+      "phoneme_count": 12
+    },
+    {
+      "id": 13,
+      "sentence": "He asserted that Americans understood that Mr.",
+      "paragraph_id": 5,
+      "word_count": 7,
+      "start_time": 79.8,
+      "end_time": 83.45,
+      "duration": 3.65,
+      "phoneme_count": 51
+    },
+    {
+      "id": 14,
+      "sentence": "Jeffries did not actually come to the White House wearing a sombrero and a \u201cblack curly animation mustache.\u201d",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 83.45,
+      "end_time": 91.2,
+      "duration": 7.75,
+      "phoneme_count": 109
+    },
+    {
+      "id": 15,
+      "sentence": "\u201cWe\u2019re all trying to do a very important job for the American people,\u201d Mr.",
+      "paragraph_id": 6,
+      "word_count": 14,
+      "start_time": 91.2,
+      "end_time": 96.65,
+      "duration": 5.45,
+      "phoneme_count": 81
+    },
+    {
+      "id": 16,
+      "sentence": "Vance said. \u201cThe president of the United States likes to have a little bit of fun when he\u2019s doing it.",
+      "paragraph_id": 6,
+      "word_count": 20,
+      "start_time": 96.65,
+      "end_time": 103.2,
+      "duration": 6.55,
+      "phoneme_count": 103
+    },
+    {
+      "id": 17,
+      "sentence": "And I think that\u2019s OK.\u201d",
+      "paragraph_id": 6,
+      "word_count": 5,
+      "start_time": 103.2,
+      "end_time": 105.55,
+      "duration": 2.35,
+      "phoneme_count": 26
+    }
+  ]
+}

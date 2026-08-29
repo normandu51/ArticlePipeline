@@ -1,0 +1,546 @@
+{
+  "metadata": {
+    "article_id": "32262afc-5024-5b76-8469-cdd3a603a045",
+    "headline": "This Simple Checklist Makes Throwing Parties Easy",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/32262afc-5024-5b76-8469-cdd3a603a045_kokoro.wav",
+    "total_duration": 377.575,
+    "sentence_count": 53,
+    "paragraph_count": 31,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:14:48.347171"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Use this guide to plan any type of gathering and start with this effortless but stunning fall menu.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 0.0,
+      "end_time": 6.85,
+      "duration": 6.85,
+      "phoneme_count": 99
+    },
+    {
+      "id": 1,
+      "sentence": "Dan Pelosi, also known as \u201cGrossyPelosi,\"  is a New York Times best-selling author and recipe developer who splits his time between New York City and upstate New York.",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 6.85,
+      "end_time": 19.3,
+      "duration": 12.45,
+      "phoneme_count": 177
+    },
+    {
+      "id": 2,
+      "sentence": "Dan\u2019s approachable and tasty recipes are meant to be shared and celebrated with the ones you love.",
+      "paragraph_id": 1,
+      "word_count": 17,
+      "start_time": 19.3,
+      "end_time": 26.25,
+      "duration": 6.95,
+      "phoneme_count": 97
+    },
+    {
+      "id": 3,
+      "sentence": "Published Oct. 1, 2025 Updated Oct. 1, 2025",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 26.25,
+      "end_time": 32.425,
+      "duration": 6.175,
+      "phoneme_count": 84
+    },
+    {
+      "id": 4,
+      "sentence": "Putting together a party doesn\u2019t have to be hard \u2014 and it shouldn\u2019t be.",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 32.425,
+      "end_time": 37.25,
+      "duration": 4.825,
+      "phoneme_count": 70
+    },
+    {
+      "id": 5,
+      "sentence": "You can be thoughtful and organized in such a way that your guests don\u2019t know this effortless event was, in reality, well planned.",
+      "paragraph_id": 3,
+      "word_count": 23,
+      "start_time": 37.25,
+      "end_time": 46.175,
+      "duration": 8.925,
+      "phoneme_count": 124
+    },
+    {
+      "id": 6,
+      "sentence": "When having a party, start with a menu like the fall one below, anchored by savory roasted salmon and surrounded by beautiful vegetables.",
+      "paragraph_id": 3,
+      "word_count": 23,
+      "start_time": 46.175,
+      "end_time": 56.025,
+      "duration": 9.85,
+      "phoneme_count": 139
+    },
+    {
+      "id": 7,
+      "sentence": "Hosting a party is about so much more than just putting food on the table: It\u2019s about creating an atmosphere where everyone feels welcome, relaxed and ready to have a great time \u2014 including you.",
+      "paragraph_id": 4,
+      "word_count": 35,
+      "start_time": 56.025,
+      "end_time": 68.9,
+      "duration": 12.875,
+      "phoneme_count": 194
+    },
+    {
+      "id": 8,
+      "sentence": "Instead of cramming all the chores into a couple of stressful days, break them down into this checklist of easy-to-accomplish tasks leading up to the get-together.",
+      "paragraph_id": 5,
+      "word_count": 26,
+      "start_time": 68.9,
+      "end_time": 79.825,
+      "duration": 10.925,
+      "phoneme_count": 158
+    },
+    {
+      "id": 9,
+      "sentence": "That way, instead of feeling a sense of impending doom, you\u2019re building the party prep into the natural flow of your day-to-day.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 79.825,
+      "end_time": 88.5,
+      "duration": 8.675,
+      "phoneme_count": 122
+    },
+    {
+      "id": 10,
+      "sentence": "Not every party needs to be planned a month ahead, and sometimes you\u2019re just entertaining on a whim.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 88.5,
+      "end_time": 95.675,
+      "duration": 7.175,
+      "phoneme_count": 101
+    },
+    {
+      "id": 11,
+      "sentence": "That\u2019s where the beauty of this guide shines.",
+      "paragraph_id": 5,
+      "word_count": 8,
+      "start_time": 95.675,
+      "end_time": 98.725,
+      "duration": 3.05,
+      "phoneme_count": 39
+    },
+    {
+      "id": 12,
+      "sentence": "Whether you\u2019ve got weeks (follow the timeline below) or a few hours (trim and condense the tasks), use this go-to checklist to keep things simple and stress-free.",
+      "paragraph_id": 5,
+      "word_count": 27,
+      "start_time": 98.725,
+      "end_time": 109.8,
+      "duration": 11.075,
+      "phoneme_count": 158
+    },
+    {
+      "id": 13,
+      "sentence": "Make the guest list: Send invitations with all the details.",
+      "paragraph_id": 6,
+      "word_count": 10,
+      "start_time": 109.8,
+      "end_time": 114.45,
+      "duration": 4.65,
+      "phoneme_count": 59
+    },
+    {
+      "id": 14,
+      "sentence": "Plan the menu: Choose dishes that feel exciting, using what\u2019s in season or on theme.",
+      "paragraph_id": 7,
+      "word_count": 15,
+      "start_time": 114.45,
+      "end_time": 120.925,
+      "duration": 6.475,
+      "phoneme_count": 83
+    },
+    {
+      "id": 15,
+      "sentence": "Remember to ask your guests about any restrictions or allergies.",
+      "paragraph_id": 7,
+      "word_count": 10,
+      "start_time": 120.925,
+      "end_time": 125.65,
+      "duration": 4.725,
+      "phoneme_count": 65
+    },
+    {
+      "id": 16,
+      "sentence": "Shop early: Get the pantry staples, like flour, sugar and canned goods, crossed off the list now; it will be a big help later.",
+      "paragraph_id": 8,
+      "word_count": 24,
+      "start_time": 125.65,
+      "end_time": 134.6,
+      "duration": 8.95,
+      "phoneme_count": 130
+    },
+    {
+      "id": 17,
+      "sentence": "Confirm the guest list: Send a reminder and finalize your head count.",
+      "paragraph_id": 9,
+      "word_count": 12,
+      "start_time": 134.6,
+      "end_time": 139.65,
+      "duration": 5.05,
+      "phoneme_count": 72
+    },
+    {
+      "id": 18,
+      "sentence": "Lock the menu: Make your full shopping list, planning when you\u2019ll shop for your most perishable items, and organize your prep and cooking schedule, assigning each task to a specific day.",
+      "paragraph_id": 10,
+      "word_count": 31,
+      "start_time": 139.65,
+      "end_time": 152.0,
+      "duration": 12.35,
+      "phoneme_count": 181
+    },
+    {
+      "id": 19,
+      "sentence": "Do a deep clean: Clean all the common areas and, if coats are going on the bed (when and why did that become a universal thing?), be sure that room is clean, too.",
+      "paragraph_id": 11,
+      "word_count": 33,
+      "start_time": 152.0,
+      "end_time": 163.5,
+      "duration": 11.5,
+      "phoneme_count": 165
+    },
+    {
+      "id": 20,
+      "sentence": "Make a serving plan: Check that you have the tabletop essentials (plates, flatware, glasses, serveware, serving utensils, water, corkscrew with bottle opener, napkins and, if you\u2019d like, tablecloths or place mats, candles and flowers).",
+      "paragraph_id": 12,
+      "word_count": 34,
+      "start_time": 163.5,
+      "end_time": 179.9,
+      "duration": 16.4,
+      "phoneme_count": 240
+    },
+    {
+      "id": 21,
+      "sentence": "If you need anything special, pick it up now so you\u2019re not scrambling.",
+      "paragraph_id": 12,
+      "word_count": 13,
+      "start_time": 179.9,
+      "end_time": 184.775,
+      "duration": 4.875,
+      "phoneme_count": 71
+    },
+    {
+      "id": 22,
+      "sentence": "Set up the space: Do final, quick clean; move any furniture; arrange seating; set the table; make flower arrangements if you have them.",
+      "paragraph_id": 13,
+      "word_count": 23,
+      "start_time": 184.775,
+      "end_time": 194.3,
+      "duration": 9.525,
+      "phoneme_count": 135
+    },
+    {
+      "id": 23,
+      "sentence": "Organize your dishes: Wash and dry the items you\u2019ll use to serve, and organize them in the kitchen so they\u2019re ready for plating as each dish is done.",
+      "paragraph_id": 14,
+      "word_count": 28,
+      "start_time": 194.3,
+      "end_time": 204.4,
+      "duration": 10.1,
+      "phoneme_count": 143
+    },
+    {
+      "id": 24,
+      "sentence": "Cook away: Don\u2019t save it all for tomorrow!",
+      "paragraph_id": 15,
+      "word_count": 8,
+      "start_time": 204.4,
+      "end_time": 207.625,
+      "duration": 3.225,
+      "phoneme_count": 41
+    },
+    {
+      "id": 25,
+      "sentence": "Anything that can be made ahead should be made ahead.",
+      "paragraph_id": 15,
+      "word_count": 10,
+      "start_time": 207.625,
+      "end_time": 211.375,
+      "duration": 3.75,
+      "phoneme_count": 50
+    },
+    {
+      "id": 26,
+      "sentence": "Most things taste better the next day anyway.",
+      "paragraph_id": 15,
+      "word_count": 8,
+      "start_time": 211.375,
+      "end_time": 214.75,
+      "duration": 3.375,
+      "phoneme_count": 47
+    },
+    {
+      "id": 27,
+      "sentence": "Choose an outfit: Pick out what you\u2019re going to wear and get it ready for its debut.",
+      "paragraph_id": 16,
+      "word_count": 17,
+      "start_time": 214.75,
+      "end_time": 220.325,
+      "duration": 5.575,
+      "phoneme_count": 81
+    },
+    {
+      "id": 28,
+      "sentence": "Trust me, day of, you don\u2019t want to spend more time in the closet than you have to.",
+      "paragraph_id": 16,
+      "word_count": 18,
+      "start_time": 220.325,
+      "end_time": 225.725,
+      "duration": 5.4,
+      "phoneme_count": 83
+    },
+    {
+      "id": 29,
+      "sentence": "Make the final touches: Light the (unscented) candles if you\u2019re using them, start the playlist and double-check you have everything you need so you can send out an S.O.S. text now, before anyone arrives, if you need to.",
+      "paragraph_id": 17,
+      "word_count": 38,
+      "start_time": 225.725,
+      "end_time": 240.45,
+      "duration": 14.725,
+      "phoneme_count": 217
+    },
+    {
+      "id": 30,
+      "sentence": "Take out the trash: Be sure you\u2019re starting the party with empty, odor-free bins.",
+      "paragraph_id": 18,
+      "word_count": 14,
+      "start_time": 240.45,
+      "end_time": 246.15,
+      "duration": 5.7,
+      "phoneme_count": 79
+    },
+    {
+      "id": 31,
+      "sentence": "Don\u2019t forget the bathroom trash, too.",
+      "paragraph_id": 18,
+      "word_count": 6,
+      "start_time": 246.15,
+      "end_time": 249.1,
+      "duration": 2.95,
+      "phoneme_count": 37
+    },
+    {
+      "id": 32,
+      "sentence": "Get dressed: Pause all the other prep to put on your outfit, check your hair and fix your lipstick.",
+      "paragraph_id": 19,
+      "word_count": 19,
+      "start_time": 249.1,
+      "end_time": 255.75,
+      "duration": 6.65,
+      "phoneme_count": 100
+    },
+    {
+      "id": 33,
+      "sentence": "Your guests are about to arrive, and you don\u2019t want to be caught half-dressed.",
+      "paragraph_id": 19,
+      "word_count": 14,
+      "start_time": 255.75,
+      "end_time": 260.65,
+      "duration": 4.9,
+      "phoneme_count": 72
+    },
+    {
+      "id": 34,
+      "sentence": "Take a deep breath: You\u2019ve got this.",
+      "paragraph_id": 20,
+      "word_count": 7,
+      "start_time": 260.65,
+      "end_time": 263.4,
+      "duration": 2.75,
+      "phoneme_count": 33
+    },
+    {
+      "id": 35,
+      "sentence": "If there was ever a time to Live, Laugh, Love, it\u2019s right now.",
+      "paragraph_id": 20,
+      "word_count": 13,
+      "start_time": 263.4,
+      "end_time": 267.95,
+      "duration": 4.55,
+      "phoneme_count": 59
+    },
+    {
+      "id": 36,
+      "sentence": "This nonalcoholic version of the classic negroni features grapefruit juice for bitterness, hibiscus tea for floral and tannic notes, a little sugar for sweetness and black peppercorns for that subtle, satisfying burn.",
+      "paragraph_id": 21,
+      "word_count": 32,
+      "start_time": 267.95,
+      "end_time": 283.425,
+      "duration": 15.475,
+      "phoneme_count": 221
+    },
+    {
+      "id": 37,
+      "sentence": "Brew the tea a day ahead and mix the drinks right before serving.",
+      "paragraph_id": 21,
+      "word_count": 13,
+      "start_time": 283.425,
+      "end_time": 288.225,
+      "duration": 4.8,
+      "phoneme_count": 65
+    },
+    {
+      "id": 38,
+      "sentence": "Recipe: Nonalcoholic Negroni",
+      "paragraph_id": 22,
+      "word_count": 3,
+      "start_time": 288.225,
+      "end_time": 291.25,
+      "duration": 3.025,
+      "phoneme_count": 33
+    },
+    {
+      "id": 39,
+      "sentence": "When roasted, delicata, acorn and kabocha squash have a dense and creamy texture and stunning orange hue.",
+      "paragraph_id": 23,
+      "word_count": 17,
+      "start_time": 291.25,
+      "end_time": 299.225,
+      "duration": 7.975,
+      "phoneme_count": 109
+    },
+    {
+      "id": 40,
+      "sentence": "Roasted chickpeas add a crispy crunch, and a mixture of lightly pickled shallots, cooling mint and salty feta will make you see squash in a whole new light.",
+      "paragraph_id": 23,
+      "word_count": 28,
+      "start_time": 299.225,
+      "end_time": 309.875,
+      "duration": 10.65,
+      "phoneme_count": 153
+    },
+    {
+      "id": 41,
+      "sentence": "Make the chickpeas a day ahead.",
+      "paragraph_id": 23,
+      "word_count": 6,
+      "start_time": 309.875,
+      "end_time": 312.475,
+      "duration": 2.6,
+      "phoneme_count": 29
+    },
+    {
+      "id": 42,
+      "sentence": "Recipe: Roast Squash With Crispy Chickpeas and Feta",
+      "paragraph_id": 24,
+      "word_count": 8,
+      "start_time": 312.475,
+      "end_time": 316.6,
+      "duration": 4.125,
+      "phoneme_count": 54
+    },
+    {
+      "id": 43,
+      "sentence": "This roasted salmon rests in a floral, herby and briny mix of fresh orange juice, olive oil and roughly chopped olives and parsley after it comes out of the oven, ensuring every bite is moist and flavorful.",
+      "paragraph_id": 25,
+      "word_count": 37,
+      "start_time": 316.6,
+      "end_time": 331.65,
+      "duration": 15.05,
+      "phoneme_count": 211
+    },
+    {
+      "id": 44,
+      "sentence": "Salt the salmon a day ahead to ensure it stays juicy.",
+      "paragraph_id": 25,
+      "word_count": 11,
+      "start_time": 331.65,
+      "end_time": 335.575,
+      "duration": 3.925,
+      "phoneme_count": 53
+    },
+    {
+      "id": 45,
+      "sentence": "Recipe: Roast Salmon With Smashed Olives",
+      "paragraph_id": 26,
+      "word_count": 6,
+      "start_time": 335.575,
+      "end_time": 338.975,
+      "duration": 3.4,
+      "phoneme_count": 41
+    },
+    {
+      "id": 46,
+      "sentence": "Deeply charring broccoli gives it an almost smoky flavor, and cutting Parmesan into large chunks instead of grating it delivers bulky bites.",
+      "paragraph_id": 27,
+      "word_count": 22,
+      "start_time": 338.975,
+      "end_time": 348.85,
+      "duration": 9.875,
+      "phoneme_count": 145
+    },
+    {
+      "id": 47,
+      "sentence": "A bold anchovy vinaigrette wraps everything in a bright and briny lift.",
+      "paragraph_id": 27,
+      "word_count": 12,
+      "start_time": 348.85,
+      "end_time": 354.1,
+      "duration": 5.25,
+      "phoneme_count": 73
+    },
+    {
+      "id": 48,
+      "sentence": "Blanch the broccoli a day ahead.",
+      "paragraph_id": 27,
+      "word_count": 6,
+      "start_time": 354.1,
+      "end_time": 356.8,
+      "duration": 2.7,
+      "phoneme_count": 31
+    },
+    {
+      "id": 49,
+      "sentence": "Recipe: Charred Broccoli With Anchovy Vinaigrette",
+      "paragraph_id": 28,
+      "word_count": 6,
+      "start_time": 356.8,
+      "end_time": 360.6,
+      "duration": 3.8,
+      "phoneme_count": 49
+    },
+    {
+      "id": 50,
+      "sentence": "Pignoli cookies are the royalty of Italian cookies: They\u2019re encrusted in toasty pine nuts on the outside and feature next-level chewiness on the inside.",
+      "paragraph_id": 29,
+      "word_count": 24,
+      "start_time": 360.6,
+      "end_time": 371.7,
+      "duration": 11.1,
+      "phoneme_count": 148
+    },
+    {
+      "id": 51,
+      "sentence": "The cookies can be baked up to two days ahead.",
+      "paragraph_id": 29,
+      "word_count": 10,
+      "start_time": 371.7,
+      "end_time": 375.1,
+      "duration": 3.4,
+      "phoneme_count": 45
+    },
+    {
+      "id": 52,
+      "sentence": "Recipe: Pignoli Cookies",
+      "paragraph_id": 30,
+      "word_count": 3,
+      "start_time": 375.1,
+      "end_time": 377.575,
+      "duration": 2.475,
+      "phoneme_count": 25
+    }
+  ]
+}

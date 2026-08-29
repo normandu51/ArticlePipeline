@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "article_id": "d3696d21-ae90-5e67-8cf5-35cd3b5ef27b",
+    "headline": "White House Pulls Pick to Lead Labor Data Agency",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/d3696d21-ae90-5e67-8cf5-35cd3b5ef27b_kokoro.wav",
+    "total_duration": 129.625,
+    "sentence_count": 21,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:15:58.395678"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The White House has withdrawn the nomination of E.J.",
+      "paragraph_id": 0,
+      "word_count": 9,
+      "start_time": 0.0,
+      "end_time": 3.875,
+      "duration": 3.875,
+      "phoneme_count": 49
+    },
+    {
+      "id": 1,
+      "sentence": "Antoni, a conservative economist, to serve as the leader of the Bureau of Labor Statistics, the federal agency whose previous director was fired by President Trump after issuing an unfavorable jobs report.",
+      "paragraph_id": 0,
+      "word_count": 32,
+      "start_time": 3.875,
+      "end_time": 19.45,
+      "duration": 15.575,
+      "phoneme_count": 217
+    },
+    {
+      "id": 2,
+      "sentence": "A White House official confirmed the withdrawal late Tuesday, but offered no reason for the sudden change, saying only that Mr.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 19.45,
+      "end_time": 28.65,
+      "duration": 9.2,
+      "phoneme_count": 124
+    },
+    {
+      "id": 3,
+      "sentence": "Antoni was a \u201cbrilliant economist\u201d and that Mr.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 28.65,
+      "end_time": 32.75,
+      "duration": 4.1,
+      "phoneme_count": 52
+    },
+    {
+      "id": 4,
+      "sentence": "Trump would announce a new nominee soon.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 32.75,
+      "end_time": 35.75,
+      "duration": 3.0,
+      "phoneme_count": 38
+    },
+    {
+      "id": 5,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 35.75,
+      "end_time": 37.175,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 6,
+      "sentence": "Trump tapped Mr.",
+      "paragraph_id": 2,
+      "word_count": 3,
+      "start_time": 37.175,
+      "end_time": 39.125,
+      "duration": 1.95,
+      "phoneme_count": 20
+    },
+    {
+      "id": 7,
+      "sentence": "Antoni in August, shortly after ousting Erika McEntarfer, the previous B.L.S. commissioner, over unsubstantiated claims that the bureau had \u201crigged\u201d data.",
+      "paragraph_id": 2,
+      "word_count": 21,
+      "start_time": 39.125,
+      "end_time": 51.325,
+      "duration": 12.2,
+      "phoneme_count": 161
+    },
+    {
+      "id": 8,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 51.325,
+      "end_time": 52.75,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 9,
+      "sentence": "Trump had seized on a report that month showing that hiring had been weaker than reported over the summer \u2014 a large but otherwise normal revision that the president nonetheless claimed as evidence of bias at the agency.",
+      "paragraph_id": 2,
+      "word_count": 38,
+      "start_time": 52.75,
+      "end_time": 67.775,
+      "duration": 15.025,
+      "phoneme_count": 219
+    },
+    {
+      "id": 10,
+      "sentence": "From the start, Mr.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 67.775,
+      "end_time": 69.8,
+      "duration": 2.025,
+      "phoneme_count": 24
+    },
+    {
+      "id": 11,
+      "sentence": "Antoni had been a divisive pick.",
+      "paragraph_id": 3,
+      "word_count": 6,
+      "start_time": 69.8,
+      "end_time": 72.65,
+      "duration": 2.85,
+      "phoneme_count": 32
+    },
+    {
+      "id": 12,
+      "sentence": "A doctor in economics, he had no prior experience working in the government, having spent most of his career as a highly partisan economic analyst and commentator.",
+      "paragraph_id": 3,
+      "word_count": 27,
+      "start_time": 72.65,
+      "end_time": 84.35,
+      "duration": 11.7,
+      "phoneme_count": 175
+    },
+    {
+      "id": 13,
+      "sentence": "Most past commissioners, by contrast, have been statistical experts with little public profile before leading the agency.",
+      "paragraph_id": 3,
+      "word_count": 17,
+      "start_time": 84.35,
+      "end_time": 93.275,
+      "duration": 8.925,
+      "phoneme_count": 125
+    },
+    {
+      "id": 14,
+      "sentence": "\u201cTypically, frankly, you\u2019re getting a data nerd,\u201d said Erica L.",
+      "paragraph_id": 4,
+      "word_count": 10,
+      "start_time": 93.275,
+      "end_time": 97.5,
+      "duration": 4.225,
+      "phoneme_count": 64
+    },
+    {
+      "id": 15,
+      "sentence": "Groshen, who ran the agency under President Barack Obama.",
+      "paragraph_id": 4,
+      "word_count": 9,
+      "start_time": 97.5,
+      "end_time": 102.25,
+      "duration": 4.75,
+      "phoneme_count": 63
+    },
+    {
+      "id": 16,
+      "sentence": "But Mr.",
+      "paragraph_id": 5,
+      "word_count": 2,
+      "start_time": 102.25,
+      "end_time": 103.925,
+      "duration": 1.675,
+      "phoneme_count": 12
+    },
+    {
+      "id": 17,
+      "sentence": "Antoni had shared Mr.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 103.925,
+      "end_time": 106.25,
+      "duration": 2.325,
+      "phoneme_count": 25
+    },
+    {
+      "id": 18,
+      "sentence": "Trump\u2019s criticisms of B.L.S. and frequently attacked its reports and methodologies.",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 106.25,
+      "end_time": 112.65,
+      "duration": 6.4,
+      "phoneme_count": 89
+    },
+    {
+      "id": 19,
+      "sentence": "That troubled economists and other experts from across the political spectrum, who further decried Mr.",
+      "paragraph_id": 5,
+      "word_count": 15,
+      "start_time": 112.65,
+      "end_time": 120.125,
+      "duration": 7.475,
+      "phoneme_count": 111
+    },
+    {
+      "id": 20,
+      "sentence": "Antoni\u2019s lack of management experience and his history of distorting economic statistics to support his political arguments.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 120.125,
+      "end_time": 129.625,
+      "duration": 9.5,
+      "phoneme_count": 132
+    }
+  ]
+}

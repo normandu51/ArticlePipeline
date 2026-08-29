@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "7a302d53-f006-548e-b488-d5b48d8fa4fa",
+    "headline": "She Turned the World On With Her Smile. But Where Will the Hat Land?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/7a302d53-f006-548e-b488-d5b48d8fa4fa_kokoro.wav",
+    "total_duration": 111.2,
+    "sentence_count": 13,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:39:12.034372"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Hollywood is filled with small-time crooks: stars who boast on red carpets and late-night talk shows about swiping mementos from set.",
+      "paragraph_id": 0,
+      "word_count": 21,
+      "start_time": 0.0,
+      "end_time": 9.55,
+      "duration": 9.55,
+      "phoneme_count": 134
+    },
+    {
+      "id": 1,
+      "sentence": "Bryan Cranston made off with Walter White\u2019s pork pie hat from \u201cBreaking Bad\u201d; Ariana Grande lifted a pair of prosthetic ears from \u201cWicked.\u201d",
+      "paragraph_id": 0,
+      "word_count": 23,
+      "start_time": 9.55,
+      "end_time": 19.3,
+      "duration": 9.75,
+      "phoneme_count": 144
+    },
+    {
+      "id": 2,
+      "sentence": "One might assume that Mary Tyler Moore would have wanted The Hat from the opening titles of her 1970s hit series, \u201cThe Mary Tyler Moore Show.\u201d In what may be the most famous freeze frame in television history, Ms.",
+      "paragraph_id": 1,
+      "word_count": 39,
+      "start_time": 19.3,
+      "end_time": 34.025,
+      "duration": 14.725,
+      "phoneme_count": 225
+    },
+    {
+      "id": 3,
+      "sentence": "Moore\u2019s character, a Midwestern sunburst named Mary Richards, removes her tufted tam-o\u2019-shanter and, right in the thick of bustling Minneapolis foot traffic, tosses it skyward \u2014 as purely ebullient an image as Hollywood has ever produced.",
+      "paragraph_id": 1,
+      "word_count": 36,
+      "start_time": 34.025,
+      "end_time": 51.6,
+      "duration": 17.575,
+      "phoneme_count": 242
+    },
+    {
+      "id": 4,
+      "sentence": "The moment has been aped by \u201cScrubs\u201d and \u201cThe Simpsons,\u201d and immortalized in bronze at the site of the throw.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 51.6,
+      "end_time": 59.225,
+      "duration": 7.625,
+      "phoneme_count": 107
+    },
+    {
+      "id": 5,
+      "sentence": "In an opening title sequence that was forever being tweaked throughout the show\u2019s seven seasons, The Hat was a constant.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 59.225,
+      "end_time": 67.15,
+      "duration": 7.925,
+      "phoneme_count": 115
+    },
+    {
+      "id": 6,
+      "sentence": "So: How did she manage to keep it?",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 67.15,
+      "end_time": 69.85,
+      "duration": 2.7,
+      "phoneme_count": 35
+    },
+    {
+      "id": 7,
+      "sentence": "\u201cWell, you have to remember: She owned the company,\u201d her husband, S.",
+      "paragraph_id": 3,
+      "word_count": 12,
+      "start_time": 69.85,
+      "end_time": 74.35,
+      "duration": 4.5,
+      "phoneme_count": 68
+    },
+    {
+      "id": 8,
+      "sentence": "Robert Levine, gently explained. \u201cI think someone put it in an envelope for her.\u201d",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 74.35,
+      "end_time": 80.425,
+      "duration": 6.075,
+      "phoneme_count": 88
+    },
+    {
+      "id": 9,
+      "sentence": "Fair enough.",
+      "paragraph_id": 4,
+      "word_count": 2,
+      "start_time": 80.425,
+      "end_time": 82.05,
+      "duration": 1.625,
+      "phoneme_count": 11
+    },
+    {
+      "id": 10,
+      "sentence": "As the eponymous MTM of MTM Enterprises (the production company behind all 168 episodes of the show\u2019s 1970-77 run), Ms.",
+      "paragraph_id": 4,
+      "word_count": 20,
+      "start_time": 82.05,
+      "end_time": 94.975,
+      "duration": 12.925,
+      "phoneme_count": 181
+    },
+    {
+      "id": 11,
+      "sentence": "Moore did not exactly need to break into the costume department after dark to claim her piece of history.",
+      "paragraph_id": 4,
+      "word_count": 19,
+      "start_time": 94.975,
+      "end_time": 102.2,
+      "duration": 7.225,
+      "phoneme_count": 112
+    },
+    {
+      "id": 12,
+      "sentence": "But neither did she treat the woolen cap like a conversation piece or hunting trophy: She did not, for instance, bring it out at parties.",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 102.2,
+      "end_time": 111.2,
+      "duration": 9.0,
+      "phoneme_count": 139
+    }
+  ]
+}

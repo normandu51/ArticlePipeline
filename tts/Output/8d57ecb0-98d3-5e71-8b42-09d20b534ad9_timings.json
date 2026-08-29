@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "8d57ecb0-98d3-5e71-8b42-09d20b534ad9",
+    "headline": "Pope Leo Calls for Unity on Climate at a Divided Moment",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8d57ecb0-98d3-5e71-8b42-09d20b534ad9_kokoro.wav",
+    "total_duration": 131.325,
+    "sentence_count": 7,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:52:19.020517"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "In his first significant address on climate change, Pope Leo called on Catholics and citizens of the world on Wednesday to carry on the environmental advocacy of his predecessor, Francis, and not to treat it as a \u201cdivisive\u201d issue.",
+      "paragraph_id": 0,
+      "word_count": 39,
+      "start_time": 0.0,
+      "end_time": 16.8,
+      "duration": 16.8,
+      "phoneme_count": 238
+    },
+    {
+      "id": 1,
+      "sentence": "Leo spoke at the opening ceremony of a climate conference to commemorate the 10th anniversary of Laudato Si, a groundbreaking papal document on the urgent need to protect the health of the planet. \u201cThe challenges identified in Laudato Si are in fact even more relevant today than they were 10 years ago,\u201d he said.",
+      "paragraph_id": 1,
+      "word_count": 54,
+      "start_time": 16.8,
+      "end_time": 38.05,
+      "duration": 21.25,
+      "phoneme_count": 320
+    },
+    {
+      "id": 2,
+      "sentence": "Speaking for just over 10 minutes in an auditorium where he shared a stage with the actor and former governor of California, Arnold Schwarzenegger, and Brazil\u2019s climate minister, on the grounds of the papal summer residence of Castel Gandolfo, about 17 miles southeast of the Vatican, Leo focused on the action that individuals and local communities can take to alleviate increasing climate pressure.",
+      "paragraph_id": 2,
+      "word_count": 63,
+      "start_time": 38.05,
+      "end_time": 64.575,
+      "duration": 26.525,
+      "phoneme_count": 416
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cEveryone in society, through nongovernmental organizations and advocacy groups, must put pressure on governments to develop and implement more rigorous regulations, procedures and controls,\u201d he said. \u201cCitizens need to take an active role in political decision making at national, regional and local levels.",
+      "paragraph_id": 3,
+      "word_count": 43,
+      "start_time": 64.575,
+      "end_time": 86.325,
+      "duration": 21.75,
+      "phoneme_count": 322
+    },
+    {
+      "id": 4,
+      "sentence": "Only then will it be possible to mitigate the damage done to the environment.\u201d",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 86.325,
+      "end_time": 91.95,
+      "duration": 5.625,
+      "phoneme_count": 78
+    },
+    {
+      "id": 5,
+      "sentence": "Wednesday\u2019s speech showed that the new pope is committed to keeping the issue of climate change at the heart of public dialogue.",
+      "paragraph_id": 4,
+      "word_count": 22,
+      "start_time": 91.95,
+      "end_time": 100.225,
+      "duration": 8.275,
+      "phoneme_count": 116
+    },
+    {
+      "id": 6,
+      "sentence": "Leo, who was elected in May as the first pope from the United States, has remained measured on many potentially controversial issues, and his most forceful comments on Wednesday were references to the words of Francis. \u201cWhat must be done now to ensure that caring for our common home and listening to the cry of the earth and the poor do not appear as mere passing trends or, worse still, that they be seen and felt as divisive issues?\u201d he said, echoing some of Francis\u2019 most famous phrases.",
+      "paragraph_id": 5,
+      "word_count": 88,
+      "start_time": 100.225,
+      "end_time": 131.325,
+      "duration": 31.1,
+      "phoneme_count": 495
+    }
+  ]
+}

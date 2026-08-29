@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "8d7c398e-0cc2-53a2-a272-6a44385f08fc",
+    "headline": "Supreme Court Allows Lisa Cook to Remain at Fed, for Now",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8d7c398e-0cc2-53a2-a272-6a44385f08fc_kokoro.wav",
+    "total_duration": 140.875,
+    "sentence_count": 18,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:54:26.257550"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The Supreme Court on Wednesday declined to allow President Trump to immediately remove Lisa Cook from the Federal Reserve Board, saying it would instead review the administration\u2019s efforts to oust her and reshape the central bank at oral arguments in January.",
+      "paragraph_id": 0,
+      "word_count": 41,
+      "start_time": 0.0,
+      "end_time": 17.4,
+      "duration": 17.4,
+      "phoneme_count": 263
+    },
+    {
+      "id": 1,
+      "sentence": "Top former Fed and Treasury officials and Ms.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 17.4,
+      "end_time": 21.15,
+      "duration": 3.75,
+      "phoneme_count": 48
+    },
+    {
+      "id": 2,
+      "sentence": "Cook\u2019s legal team had warned the Supreme Court that permitting Mr.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 21.15,
+      "end_time": 25.925,
+      "duration": 4.775,
+      "phoneme_count": 67
+    },
+    {
+      "id": 3,
+      "sentence": "Trump to fire her while litigation over her status was underway would spur economic turmoil and undermine public confidence in the Fed.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 25.925,
+      "end_time": 36.3,
+      "duration": 10.375,
+      "phoneme_count": 144
+    },
+    {
+      "id": 4,
+      "sentence": "While the Supreme Court\u2019s conservative majority has repeatedly cleared the way for the president to fire leaders of other independent agencies, the justices have recently signaled that the central bank is uniquely independent.",
+      "paragraph_id": 2,
+      "word_count": 33,
+      "start_time": 36.3,
+      "end_time": 51.45,
+      "duration": 15.15,
+      "phoneme_count": 229
+    },
+    {
+      "id": 5,
+      "sentence": "In its two-sentence, unsigned order on Wednesday, the court deferred ruling on Ms.",
+      "paragraph_id": 3,
+      "word_count": 13,
+      "start_time": 51.45,
+      "end_time": 57.9,
+      "duration": 6.45,
+      "phoneme_count": 82
+    },
+    {
+      "id": 6,
+      "sentence": "Cook\u2019s status until after it heard arguments in the matter in January.",
+      "paragraph_id": 3,
+      "word_count": 12,
+      "start_time": 57.9,
+      "end_time": 63.175,
+      "duration": 5.275,
+      "phoneme_count": 78
+    },
+    {
+      "id": 7,
+      "sentence": "The decision to take up the case means the justices will confront at least three testing Mr.",
+      "paragraph_id": 3,
+      "word_count": 17,
+      "start_time": 63.175,
+      "end_time": 69.775,
+      "duration": 6.6,
+      "phoneme_count": 94
+    },
+    {
+      "id": 8,
+      "sentence": "Trump\u2019s policies in their new term, which begins on Monday.",
+      "paragraph_id": 3,
+      "word_count": 10,
+      "start_time": 69.775,
+      "end_time": 74.25,
+      "duration": 4.475,
+      "phoneme_count": 60
+    },
+    {
+      "id": 9,
+      "sentence": "The court is already set to review some of the president\u2019s most sweeping tariffs and his ouster of a leader of the Federal Trade Commission.",
+      "paragraph_id": 3,
+      "word_count": 25,
+      "start_time": 74.25,
+      "end_time": 83.3,
+      "duration": 9.05,
+      "phoneme_count": 139
+    },
+    {
+      "id": 10,
+      "sentence": "The legal battle over Ms.",
+      "paragraph_id": 4,
+      "word_count": 5,
+      "start_time": 83.3,
+      "end_time": 85.775,
+      "duration": 2.475,
+      "phoneme_count": 27
+    },
+    {
+      "id": 11,
+      "sentence": "Cook\u2019s firing has major implications for the central bank and its ability to set interest rates free from political interference.",
+      "paragraph_id": 4,
+      "word_count": 20,
+      "start_time": 85.775,
+      "end_time": 94.525,
+      "duration": 8.75,
+      "phoneme_count": 136
+    },
+    {
+      "id": 12,
+      "sentence": "Every living former Fed chair \u2014 Alan Greenspan, Ben Bernanke and Janet L.",
+      "paragraph_id": 4,
+      "word_count": 13,
+      "start_time": 94.525,
+      "end_time": 100.15,
+      "duration": 5.625,
+      "phoneme_count": 79
+    },
+    {
+      "id": 13,
+      "sentence": "Yellen \u2014 joined former Treasury secretaries nominated by presidents of both parties to tell the justices in a court filing that Ms.",
+      "paragraph_id": 4,
+      "word_count": 22,
+      "start_time": 100.15,
+      "end_time": 110.175,
+      "duration": 10.025,
+      "phoneme_count": 136
+    },
+    {
+      "id": 14,
+      "sentence": "Cook should be allowed to stay on the job while her case was being reviewed to ensure \u201cstability of the system that governs monetary policy in this country.\u201d",
+      "paragraph_id": 4,
+      "word_count": 28,
+      "start_time": 110.175,
+      "end_time": 120.9,
+      "duration": 10.725,
+      "phoneme_count": 155
+    },
+    {
+      "id": 15,
+      "sentence": "In the months since he returned to the White House, Mr.",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 120.9,
+      "end_time": 124.875,
+      "duration": 3.975,
+      "phoneme_count": 55
+    },
+    {
+      "id": 16,
+      "sentence": "Trump has put public pressure on the Fed far exceeding that of his predecessors, with repeated demands that it lower borrowing costs.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 124.875,
+      "end_time": 133.85,
+      "duration": 8.975,
+      "phoneme_count": 136
+    },
+    {
+      "id": 17,
+      "sentence": "The president has also taken steps to add a political loyalist to the central bank\u2019s Board of Governors.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 133.85,
+      "end_time": 140.875,
+      "duration": 7.025,
+      "phoneme_count": 109
+    }
+  ]
+}

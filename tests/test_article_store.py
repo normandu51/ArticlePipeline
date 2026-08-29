@@ -104,6 +104,28 @@ def test_mark_extracted_upserts_row_when_metadata_missing(conn):
     assert row["extracted_text"] == "Legacy text"
 
 
+def test_mark_extracted_clears_error_when_word_count_ok(conn):
+    upsert_metadata(conn, make_doc(), "abc-123", "2025_10")  # word_count = 1200
+    mark_extracted(conn, "abc-123", "word " * 10)
+    row = get_article(conn, "abc-123")
+    assert row["error"] is None
+
+
+def test_mark_extracted_sets_error_when_word_count_exceeded(conn):
+    upsert_metadata(conn, make_doc(), "abc-123", "2025_10")  # word_count = 1200
+    mark_extracted(conn, "abc-123", "word " * 1201)
+    row = get_article(conn, "abc-123")
+    assert row["status"] == "extracted"
+    assert row["extracted_text"] is not None
+    assert row["error"] == "Word count exceeded"
+
+
+def test_mark_extracted_no_word_count_check_without_metadata(conn):
+    mark_extracted(conn, "legacy-id", "word " * 500)
+    row = get_article(conn, "legacy-id")
+    assert row["error"] is None
+
+
 def test_has_extracted_text_false_when_no_row(conn):
     assert has_extracted_text(conn, "missing-id") is False
 

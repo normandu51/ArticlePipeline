@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "8f479b90-12a2-56df-9c0c-9511769d96cc",
+    "headline": "Does Channing Tatum Know How Good He Is?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8f479b90-12a2-56df-9c0c-9511769d96cc_kokoro.wav",
+    "total_duration": 129.475,
+    "sentence_count": 13,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:55:05.401362"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "When it comes to great acting, some people like to measure the distance between the performer and the role: The more significant the transformation, the more successful the performance.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 11.675,
+      "duration": 11.675,
+      "phoneme_count": 180
+    },
+    {
+      "id": 1,
+      "sentence": "I won\u2019t argue that point, though a better metric to measure might be the distance between the actor and the audience.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 11.675,
+      "end_time": 19.1,
+      "duration": 7.425,
+      "phoneme_count": 110
+    },
+    {
+      "id": 2,
+      "sentence": "Channing Tatum closes that particular gap to a millimeter: When someone wounds him \u2014 whether with a punch or a rejection \u2014 you\u2019re not watching it happen to someone else.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 19.1,
+      "end_time": 30.25,
+      "duration": 11.15,
+      "phoneme_count": 170
+    },
+    {
+      "id": 3,
+      "sentence": "It happens to you, too.",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 30.25,
+      "end_time": 32.475,
+      "duration": 2.225,
+      "phoneme_count": 23
+    },
+    {
+      "id": 4,
+      "sentence": "Not every movie star has that gift, but in \u201cRoofman\u201d (in theaters Oct. 10) he makes the most of it.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 32.475,
+      "end_time": 39.75,
+      "duration": 7.275,
+      "phoneme_count": 107
+    },
+    {
+      "id": 5,
+      "sentence": "Based on a true story, the film stars Tatum as Jeffrey Manchester, a down-on-his-luck war veteran who carried out a series of unusually polite McDonald\u2019s robberies in the early 2000s.",
+      "paragraph_id": 2,
+      "word_count": 30,
+      "start_time": 39.75,
+      "end_time": 53.325,
+      "duration": 13.575,
+      "phoneme_count": 194
+    },
+    {
+      "id": 6,
+      "sentence": "Though he\u2019s eventually busted and sent to prison, Manchester escapes and hides out for months at a Toys \u201cR\u201d Us store, where he falls for a beleaguered employee (Kirsten Dunst).",
+      "paragraph_id": 2,
+      "word_count": 30,
+      "start_time": 53.325,
+      "end_time": 65.425,
+      "duration": 12.1,
+      "phoneme_count": 176
+    },
+    {
+      "id": 7,
+      "sentence": "There are comic high points \u2014 including a frantic and naked scramble when Manchester is caught showering in the store after hours \u2014 but most of the movie operates in a grounded, lived-in register that suits Tatum down to his bones.",
+      "paragraph_id": 3,
+      "word_count": 41,
+      "start_time": 65.425,
+      "end_time": 80.85,
+      "duration": 15.425,
+      "phoneme_count": 231
+    },
+    {
+      "id": 8,
+      "sentence": "Other actors might have tackled the material with a wink, but Tatum plays Manchester like a real guy, communicating all he needs to with a flinch, a blink or a head hung just a little lower.",
+      "paragraph_id": 3,
+      "word_count": 36,
+      "start_time": 80.85,
+      "end_time": 93.975,
+      "duration": 13.125,
+      "phoneme_count": 194
+    },
+    {
+      "id": 9,
+      "sentence": "This kind of naturalism, which Tatum refined in several films with Steven Soderbergh, rarely gets its due: Make it look effortless and people assume it must be easy.",
+      "paragraph_id": 4,
+      "word_count": 28,
+      "start_time": 93.975,
+      "end_time": 105.65,
+      "duration": 11.675,
+      "phoneme_count": 170
+    },
+    {
+      "id": 10,
+      "sentence": "But these days, the sincerity that is Tatum\u2019s stock in trade is in short supply.",
+      "paragraph_id": 4,
+      "word_count": 15,
+      "start_time": 105.65,
+      "end_time": 111.55,
+      "duration": 5.9,
+      "phoneme_count": 78
+    },
+    {
+      "id": 11,
+      "sentence": "Between \u201cLogan Lucky\u201d in 2017 and \u201cDog\u201d in 2022, when Tatum stepped back from leading roles, I was struck by how thin the field looked in his absence.",
+      "paragraph_id": 4,
+      "word_count": 28,
+      "start_time": 111.55,
+      "end_time": 123.775,
+      "duration": 12.225,
+      "phoneme_count": 179
+    },
+    {
+      "id": 12,
+      "sentence": "Most of the men cast in parts he might have played felt glib by comparison.",
+      "paragraph_id": 4,
+      "word_count": 15,
+      "start_time": 123.775,
+      "end_time": 129.475,
+      "duration": 5.7,
+      "phoneme_count": 78
+    }
+  ]
+}

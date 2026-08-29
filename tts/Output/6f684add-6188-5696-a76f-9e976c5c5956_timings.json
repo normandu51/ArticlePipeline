@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "article_id": "6f684add-6188-5696-a76f-9e976c5c5956",
+    "headline": "Edward T. Blake, 80, Dies; Forensic Expert Sparked Innocence Movement",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6f684add-6188-5696-a76f-9e976c5c5956_kokoro.wav",
+    "total_duration": 95.825,
+    "sentence_count": 14,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:34:11.555336"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The forensic scientist Edward T.",
+      "paragraph_id": 0,
+      "word_count": 5,
+      "start_time": 0.0,
+      "end_time": 2.925,
+      "duration": 2.925,
+      "phoneme_count": 34
+    },
+    {
+      "id": 1,
+      "sentence": "Blake displayed a miniature balance scale at his lab.",
+      "paragraph_id": 0,
+      "word_count": 9,
+      "start_time": 2.925,
+      "end_time": 6.9,
+      "duration": 3.975,
+      "phoneme_count": 54
+    },
+    {
+      "id": 2,
+      "sentence": "The pan on each side held a card.",
+      "paragraph_id": 0,
+      "word_count": 8,
+      "start_time": 6.9,
+      "end_time": 9.725,
+      "duration": 2.825,
+      "phoneme_count": 35
+    },
+    {
+      "id": 3,
+      "sentence": "One read: \u201cThe opinions of forensic scientists.\u201d The other: \u201cThe opinions of lawyers.\u201d",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 9.725,
+      "end_time": 16.175,
+      "duration": 6.45,
+      "phoneme_count": 86
+    },
+    {
+      "id": 4,
+      "sentence": "Dr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 16.175,
+      "end_time": 17.65,
+      "duration": 1.475,
+      "phoneme_count": 7
+    },
+    {
+      "id": 5,
+      "sentence": "Blake\u2019s scale tilted heavily toward the scientists.",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 17.65,
+      "end_time": 21.325,
+      "duration": 3.675,
+      "phoneme_count": 49
+    },
+    {
+      "id": 6,
+      "sentence": "\u201cMost of us believe that the opinions of lawyers aren\u2019t worth very much,\u201d he said on an episode of the public radio show \u201cInside Out.\u201d \u201cBecause lawyers believe that under the umbrella of advocacy they can lie through their teeth.\u201d",
+      "paragraph_id": 3,
+      "word_count": 40,
+      "start_time": 21.325,
+      "end_time": 36.65,
+      "duration": 15.325,
+      "phoneme_count": 220
+    },
+    {
+      "id": 7,
+      "sentence": "To Dr.",
+      "paragraph_id": 4,
+      "word_count": 2,
+      "start_time": 36.65,
+      "end_time": 38.275,
+      "duration": 1.625,
+      "phoneme_count": 10
+    },
+    {
+      "id": 8,
+      "sentence": "Blake, the most reliable source of courtroom truth was DNA, and he pioneered a way to make it even more powerful.",
+      "paragraph_id": 4,
+      "word_count": 21,
+      "start_time": 38.275,
+      "end_time": 46.575,
+      "duration": 8.3,
+      "phoneme_count": 119
+    },
+    {
+      "id": 9,
+      "sentence": "As the first forensic scientist to use polymerase chain reaction testing on crime-scene DNA, he was able to wring answers from evidence samples that were old, minuscule or severely degraded.",
+      "paragraph_id": 4,
+      "word_count": 30,
+      "start_time": 46.575,
+      "end_time": 60.275,
+      "duration": 13.7,
+      "phoneme_count": 200
+    },
+    {
+      "id": 10,
+      "sentence": "His use of PCR, as the test is commonly known, sparked a movement that has freed thousands of wrongfully convicted people.",
+      "paragraph_id": 5,
+      "word_count": 21,
+      "start_time": 60.275,
+      "end_time": 69.55,
+      "duration": 9.275,
+      "phoneme_count": 126
+    },
+    {
+      "id": 11,
+      "sentence": "Dr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 69.55,
+      "end_time": 71.025,
+      "duration": 1.475,
+      "phoneme_count": 7
+    },
+    {
+      "id": 12,
+      "sentence": "Blake\u2019s testing alone helped to exonerate more than 50, including several sentenced to death.",
+      "paragraph_id": 5,
+      "word_count": 14,
+      "start_time": 71.025,
+      "end_time": 77.725,
+      "duration": 6.7,
+      "phoneme_count": 97
+    },
+    {
+      "id": 13,
+      "sentence": "Peter Neufeld, the co-founder of the Innocence Project, told The New Yorker in 2000 that in forensic science \u201cthere are a bunch of .300 hitters, and then there\u2019s Ted Williams,\u201d referring to the batter considered to be the best in baseball history.",
+      "paragraph_id": 6,
+      "word_count": 42,
+      "start_time": 77.725,
+      "end_time": 95.825,
+      "duration": 18.1,
+      "phoneme_count": 265
+    }
+  ]
+}

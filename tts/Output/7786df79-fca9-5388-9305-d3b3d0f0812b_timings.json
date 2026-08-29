@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "article_id": "7786df79-fca9-5388-9305-d3b3d0f0812b",
+    "headline": "Why Are More Young People Getting Cancer?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/7786df79-fca9-5388-9305-d3b3d0f0812b_kokoro.wav",
+    "total_duration": 135.125,
+    "sentence_count": 17,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:37:38.425073"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Ten years ago, Dr.",
+      "paragraph_id": 0,
+      "word_count": 4,
+      "start_time": 0.0,
+      "end_time": 2.175,
+      "duration": 2.175,
+      "phoneme_count": 24
+    },
+    {
+      "id": 1,
+      "sentence": "Kimryn Rathmell, a kidney oncologist who was then at Vanderbilt University, noticed a startling trend: Many younger patients were coming to her with kidney cancer, including an 18-year-old with metastatic disease, which Dr.",
+      "paragraph_id": 0,
+      "word_count": 33,
+      "start_time": 2.175,
+      "end_time": 19.0,
+      "duration": 16.825,
+      "phoneme_count": 239
+    },
+    {
+      "id": 2,
+      "sentence": "Rathmell had never seen in someone so young.",
+      "paragraph_id": 0,
+      "word_count": 8,
+      "start_time": 19.0,
+      "end_time": 22.475,
+      "duration": 3.475,
+      "phoneme_count": 45
+    },
+    {
+      "id": 3,
+      "sentence": "She assumed these patients had been disproportionately referred to big cancer centers like hers.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 22.475,
+      "end_time": 29.15,
+      "duration": 6.675,
+      "phoneme_count": 95
+    },
+    {
+      "id": 4,
+      "sentence": "But this spring, when researchers at the National Cancer Institute published a report showing that, between 2010 and 2019, rates of 14 cancers increased among people under 50 in the United States, the significance of her experience came into focus.",
+      "paragraph_id": 1,
+      "word_count": 40,
+      "start_time": 29.15,
+      "end_time": 47.425,
+      "duration": 18.275,
+      "phoneme_count": 279
+    },
+    {
+      "id": 5,
+      "sentence": "\u201cI realized that what I was seeing was a trend that was happening everywhere,\u201d said Dr.",
+      "paragraph_id": 2,
+      "word_count": 16,
+      "start_time": 47.425,
+      "end_time": 53.45,
+      "duration": 6.025,
+      "phoneme_count": 90
+    },
+    {
+      "id": 6,
+      "sentence": "Rathmell, a former director of the N.C.I. who now leads the cancer program at Ohio State.",
+      "paragraph_id": 2,
+      "word_count": 16,
+      "start_time": 53.45,
+      "end_time": 60.525,
+      "duration": 7.075,
+      "phoneme_count": 94
+    },
+    {
+      "id": 7,
+      "sentence": "The data were striking.",
+      "paragraph_id": 2,
+      "word_count": 4,
+      "start_time": 60.525,
+      "end_time": 62.7,
+      "duration": 2.175,
+      "phoneme_count": 22
+    },
+    {
+      "id": 8,
+      "sentence": "\u201cIt makes me think differently even about a cancer I\u2019ve studied for decades,\u201d she said.",
+      "paragraph_id": 3,
+      "word_count": 15,
+      "start_time": 62.7,
+      "end_time": 68.675,
+      "duration": 5.975,
+      "phoneme_count": 90
+    },
+    {
+      "id": 9,
+      "sentence": "For years, studies and news articles have noted rising rates of \u201cearly-onset\u201d cancers, generally defined as those occurring in adults under 50 years old.",
+      "paragraph_id": 4,
+      "word_count": 24,
+      "start_time": 68.675,
+      "end_time": 80.175,
+      "duration": 11.5,
+      "phoneme_count": 160
+    },
+    {
+      "id": 10,
+      "sentence": "But the breadth of the trend over time and place, and across more than a dozen cancer types \u2014 including breast, colorectal, kidney, pancreatic, stomach, testicular and uterine cancer \u2014 is finally becoming clear.",
+      "paragraph_id": 4,
+      "word_count": 34,
+      "start_time": 80.175,
+      "end_time": 95.225,
+      "duration": 15.05,
+      "phoneme_count": 220
+    },
+    {
+      "id": 11,
+      "sentence": "Early-onset cancers remain rare.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 95.225,
+      "end_time": 98.25,
+      "duration": 3.025,
+      "phoneme_count": 34
+    },
+    {
+      "id": 12,
+      "sentence": "But data show that their global incidence has risen since 1990, amounting to thousands more new cases each year.",
+      "paragraph_id": 5,
+      "word_count": 19,
+      "start_time": 98.25,
+      "end_time": 106.675,
+      "duration": 8.425,
+      "phoneme_count": 121
+    },
+    {
+      "id": 13,
+      "sentence": "For example, in 2019, there were 4,800 more early-onset breast cancer cases in the United States than would have been expected had 2010 rates persisted.",
+      "paragraph_id": 5,
+      "word_count": 25,
+      "start_time": 106.675,
+      "end_time": 119.15,
+      "duration": 12.475,
+      "phoneme_count": 194
+    },
+    {
+      "id": 14,
+      "sentence": "More screening and better detection probably explain some of the rise.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 119.15,
+      "end_time": 124.25,
+      "duration": 5.1,
+      "phoneme_count": 70
+    },
+    {
+      "id": 15,
+      "sentence": "But scientists say there are signs that something else, something more, is going on.",
+      "paragraph_id": 6,
+      "word_count": 14,
+      "start_time": 124.25,
+      "end_time": 130.025,
+      "duration": 5.775,
+      "phoneme_count": 80
+    },
+    {
+      "id": 16,
+      "sentence": "Increasingly, they are marshaling their efforts to discover what that is.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 130.025,
+      "end_time": 135.125,
+      "duration": 5.1,
+      "phoneme_count": 67
+    }
+  ]
+}

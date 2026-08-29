@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "626dd854-64db-577c-87a5-e576ef85a88c",
+    "headline": "Running Boom Makes Race Bibs a \u2018Precious New York City Resource\u2019",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/626dd854-64db-577c-87a5-e576ef85a88c_kokoro.wav",
+    "total_duration": 106.925,
+    "sentence_count": 13,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:29:42.317066"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Nicole Lopez-Watson had set multiple alarms and reminders.",
+      "paragraph_id": 0,
+      "word_count": 8,
+      "start_time": 0.0,
+      "end_time": 5.175,
+      "duration": 5.175,
+      "phoneme_count": 63
+    },
+    {
+      "id": 1,
+      "sentence": "She checked her schedule over and over to ensure she would be able to get to her computer by noon.",
+      "paragraph_id": 0,
+      "word_count": 20,
+      "start_time": 5.175,
+      "end_time": 11.75,
+      "duration": 6.575,
+      "phoneme_count": 98
+    },
+    {
+      "id": 2,
+      "sentence": "She was not trying to get presale tickets to see Beyonc\u00e9 or Taylor Swift.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 11.75,
+      "end_time": 17.2,
+      "duration": 5.45,
+      "phoneme_count": 76
+    },
+    {
+      "id": 3,
+      "sentence": "She was hoping to register for a road race in New York City.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 17.2,
+      "end_time": 21.625,
+      "duration": 4.425,
+      "phoneme_count": 63
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cIn 2019, I could pick and choose whichever races I wanted and it was just never an issue,\u201d said Ms.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 21.625,
+      "end_time": 29.575,
+      "duration": 7.95,
+      "phoneme_count": 114
+    },
+    {
+      "id": 5,
+      "sentence": "Lopez-Watson, who lives in the Bronx.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 29.575,
+      "end_time": 32.65,
+      "duration": 3.075,
+      "phoneme_count": 39
+    },
+    {
+      "id": 6,
+      "sentence": "Now, she said, \u201cthe anticipation of when the races are going to be released gives me so much anxiety.\u201d",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 32.65,
+      "end_time": 40.3,
+      "duration": 7.65,
+      "phoneme_count": 102
+    },
+    {
+      "id": 7,
+      "sentence": "It\u2019s a problem that New York Road Runners, which stages the New York City Marathon and dozens of other races every year, has acknowledged.",
+      "paragraph_id": 3,
+      "word_count": 24,
+      "start_time": 40.3,
+      "end_time": 50.1,
+      "duration": 9.8,
+      "phoneme_count": 141
+    },
+    {
+      "id": 8,
+      "sentence": "Thanks to yet another running boom fueled by the pandemic and the newfound popularity of running clubs, getting a race bib for an N.Y.R.R. event has become a race in itself.",
+      "paragraph_id": 3,
+      "word_count": 31,
+      "start_time": 50.1,
+      "end_time": 63.075,
+      "duration": 12.975,
+      "phoneme_count": 182
+    },
+    {
+      "id": 9,
+      "sentence": "While the popularity of running is not limited to New York City, it may be especially pronounced in a dense city whose marathon has a side-door entrance for locals who complete multiple N.Y.R.R. races.",
+      "paragraph_id": 4,
+      "word_count": 34,
+      "start_time": 63.075,
+      "end_time": 76.875,
+      "duration": 13.8,
+      "phoneme_count": 210
+    },
+    {
+      "id": 10,
+      "sentence": "In 2019, it took an average of 121 days for an N.Y.R.R. race to sell out, Rob Simmelkjaer, the organization\u2019s chief executive, said in an interview.",
+      "paragraph_id": 5,
+      "word_count": 26,
+      "start_time": 76.875,
+      "end_time": 89.875,
+      "duration": 13.0,
+      "phoneme_count": 189
+    },
+    {
+      "id": 11,
+      "sentence": "This year, races have sold out in an average of four days.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 89.875,
+      "end_time": 94.275,
+      "duration": 4.4,
+      "phoneme_count": 59
+    },
+    {
+      "id": 12,
+      "sentence": "Some of the most popular races, such as the Brooklyn Half Marathon and the New York City Half Marathon, are in such high demand that the sign-up queues have crashed the N.Y.R.R. website.",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 94.275,
+      "end_time": 106.925,
+      "duration": 12.65,
+      "phoneme_count": 189
+    }
+  ]
+}

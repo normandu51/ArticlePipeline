@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "510ba91e-a609-55b2-85e2-163d61549b2b",
+    "headline": "Judge Denies Sean Combs\u2019s Request to Vacate Conviction",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/510ba91e-a609-55b2-85e2-163d61549b2b_kokoro.wav",
+    "total_duration": 111.6,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:21:39.625650"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "A federal judge on Tuesday denied a request by Sean Combs to vacate a jury\u2019s verdict from this summer and acquit him of prostitution-related charges, clearing the way for the music mogul to be sentenced on Friday.",
+      "paragraph_id": 0,
+      "word_count": 37,
+      "start_time": 0.0,
+      "end_time": 15.05,
+      "duration": 15.05,
+      "phoneme_count": 220
+    },
+    {
+      "id": 1,
+      "sentence": "In July, after an eight-week trial, a jury found Mr.",
+      "paragraph_id": 1,
+      "word_count": 10,
+      "start_time": 15.05,
+      "end_time": 19.5,
+      "duration": 4.45,
+      "phoneme_count": 57
+    },
+    {
+      "id": 2,
+      "sentence": "Combs guilty of transporting people across state lines for the purposes of prostitution.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 19.5,
+      "end_time": 26.1,
+      "duration": 6.6,
+      "phoneme_count": 89
+    },
+    {
+      "id": 3,
+      "sentence": "Those charges related to elaborate, drug-filled sex marathons that he arranged, known as \u201cfreak-offs\u201d or \u201chotel nights,\u201d during which he watched his girlfriends have sex with male escorts.",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 26.1,
+      "end_time": 39.6,
+      "duration": 13.5,
+      "phoneme_count": 186
+    },
+    {
+      "id": 4,
+      "sentence": "Two women \u2014 Casandra Ventura and a woman who used the pseudonym Jane \u2014 testified that they felt pressured and manipulated into the sexual encounters.",
+      "paragraph_id": 2,
+      "word_count": 25,
+      "start_time": 39.6,
+      "end_time": 50.5,
+      "duration": 10.9,
+      "phoneme_count": 156
+    },
+    {
+      "id": 5,
+      "sentence": "But the jury did not find that they had been coerced and acquitted Mr.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 50.5,
+      "end_time": 55.2,
+      "duration": 4.7,
+      "phoneme_count": 73
+    },
+    {
+      "id": 6,
+      "sentence": "Combs of the more serious counts of sex trafficking and racketeering conspiracy, which could have resulted in a life sentence.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 55.2,
+      "end_time": 63.375,
+      "duration": 8.175,
+      "phoneme_count": 122
+    },
+    {
+      "id": 7,
+      "sentence": "The mogul\u2019s lawyers then asked the judge overseeing the case, Arun Subramanian, to acquit him or order a new trial based solely on the prostitution charges, arguing that he had been unjustly charged under the federal Mann Act for consensual sexual activity between adults.",
+      "paragraph_id": 3,
+      "word_count": 44,
+      "start_time": 63.375,
+      "end_time": 82.9,
+      "duration": 19.525,
+      "phoneme_count": 283
+    },
+    {
+      "id": 8,
+      "sentence": "But in his decision released on Tuesday, the judge ruled that he did not find any reason to accept the defense\u2019s argument, setting the stage for his sentencing decision on Friday.",
+      "paragraph_id": 4,
+      "word_count": 31,
+      "start_time": 82.9,
+      "end_time": 95.3,
+      "duration": 12.4,
+      "phoneme_count": 183
+    },
+    {
+      "id": 9,
+      "sentence": "\u201cThe government at trial presented overwhelming evidence of Combs\u2019s guilt under the Mann Act on many occasions with respect to both Ventura and Jane,\u201d Judge Subramanian wrote, adding that \u201cthe government proved its case many times over.\u201d",
+      "paragraph_id": 5,
+      "word_count": 37,
+      "start_time": 95.3,
+      "end_time": 111.6,
+      "duration": 16.3,
+      "phoneme_count": 243
+    }
+  ]
+}

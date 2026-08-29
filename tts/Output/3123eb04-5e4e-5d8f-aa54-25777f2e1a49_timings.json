@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "article_id": "3123eb04-5e4e-5d8f-aa54-25777f2e1a49",
+    "headline": "Surfing, Not Shots: Bachelor and Bachelorette Parties Go Outdoors",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/3123eb04-5e4e-5d8f-aa54-25777f2e1a49_kokoro.wav",
+    "total_duration": 152.375,
+    "sentence_count": 15,
+    "paragraph_count": 8,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:13:30.572050"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "You don\u2019t have to be able to quote every line of \u201cThe Hangover\u201d to know that bachelor parties can get out of hand.",
+      "paragraph_id": 0,
+      "word_count": 23,
+      "start_time": 0.0,
+      "end_time": 7.425,
+      "duration": 7.425,
+      "phoneme_count": 114
+    },
+    {
+      "id": 1,
+      "sentence": "For many future brides and grooms, wild nights of overindulgence and questionable matching outfits have become as much a part of the wedding rites as bow ties and bouquets.",
+      "paragraph_id": 1,
+      "word_count": 29,
+      "start_time": 7.425,
+      "end_time": 19.4,
+      "duration": 11.975,
+      "phoneme_count": 171
+    },
+    {
+      "id": 2,
+      "sentence": "But that\u2019s starting to change.",
+      "paragraph_id": 2,
+      "word_count": 5,
+      "start_time": 19.4,
+      "end_time": 21.85,
+      "duration": 2.45,
+      "phoneme_count": 29
+    },
+    {
+      "id": 3,
+      "sentence": "A growing number of bachelors and bachelorettes, typically those who are a little older and have enough money to travel, are choosing to bid farewell to single life by bringing their loved ones together for destination gatherings centered on more wholesome experiences \u2014 glamping instead of gambling, surfing instead of doing shots.",
+      "paragraph_id": 2,
+      "word_count": 52,
+      "start_time": 21.85,
+      "end_time": 43.35,
+      "duration": 21.5,
+      "phoneme_count": 327
+    },
+    {
+      "id": 4,
+      "sentence": "Jolie Golub, a co-founder of BachBoss, a company that has helped plan more than 350 bachelor and bachelorette parties, says about 40 percent of its events, up from about a third of them in 2023, now focus on activities other than partying, with an increasing number of inquiries into places \u201cwith a focus on nature and wellness.\u201d",
+      "paragraph_id": 3,
+      "word_count": 57,
+      "start_time": 43.35,
+      "end_time": 67.575,
+      "duration": 24.225,
+      "phoneme_count": 373
+    },
+    {
+      "id": 5,
+      "sentence": "Couples in their 30s and older, she said, particularly gravitate toward hiking, yoga, glamping, fishing and golf outings.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 67.575,
+      "end_time": 76.575,
+      "duration": 9.0,
+      "phoneme_count": 125
+    },
+    {
+      "id": 6,
+      "sentence": "It helps that their friends may also want to celebrate \u201cin a way that doesn\u2019t leave them hung over and exhausted at the end of the weekend,\u201d she said.",
+      "paragraph_id": 4,
+      "word_count": 29,
+      "start_time": 76.575,
+      "end_time": 86.025,
+      "duration": 9.45,
+      "phoneme_count": 150
+    },
+    {
+      "id": 7,
+      "sentence": "Here\u2019s how some couples traded bacchanalia for bonding at their bachelor and bachelorette getaways.",
+      "paragraph_id": 5,
+      "word_count": 14,
+      "start_time": 86.025,
+      "end_time": 92.775,
+      "duration": 6.75,
+      "phoneme_count": 97
+    },
+    {
+      "id": 8,
+      "sentence": "Costa Rica",
+      "paragraph_id": 6,
+      "word_count": 2,
+      "start_time": 92.775,
+      "end_time": 94.6,
+      "duration": 1.825,
+      "phoneme_count": 12
+    },
+    {
+      "id": 9,
+      "sentence": "Gina Maruskin, 52 of Milford, Mich., took seven friends to Surf Synergy, in Jaco, Costa Rica, in February 2024 for a week of \u201cfun girlie bonding\u201d on surfboards.",
+      "paragraph_id": 7,
+      "word_count": 28,
+      "start_time": 94.6,
+      "end_time": 108.75,
+      "duration": 14.15,
+      "phoneme_count": 201
+    },
+    {
+      "id": 10,
+      "sentence": "Members of her group, all around 50, stayed together in bungalows, and each woman had a dedicated surfing coach who provided a private lesson and a review of videos of their progress and technique each day. \u201cWe were cheering and yelling for each other, seeing each other getting up on the surfboard.",
+      "paragraph_id": 7,
+      "word_count": 52,
+      "start_time": 108.75,
+      "end_time": 128.4,
+      "duration": 19.65,
+      "phoneme_count": 297
+    },
+    {
+      "id": 11,
+      "sentence": "It was such a beautiful bond,\u201d said Ms.",
+      "paragraph_id": 7,
+      "word_count": 8,
+      "start_time": 128.4,
+      "end_time": 131.725,
+      "duration": 3.325,
+      "phoneme_count": 42
+    },
+    {
+      "id": 12,
+      "sentence": "Maruskin.",
+      "paragraph_id": 7,
+      "word_count": 1,
+      "start_time": 131.725,
+      "end_time": 133.425,
+      "duration": 1.7,
+      "phoneme_count": 12
+    },
+    {
+      "id": 13,
+      "sentence": "When they weren\u2019t in the waves, the women took part in resort-organized activities like massages, yoga and a rainforest hike. \u201cWe came out of there knowing each other in such a different way,\u201d she said.",
+      "paragraph_id": 7,
+      "word_count": 35,
+      "start_time": 133.425,
+      "end_time": 146.75,
+      "duration": 13.325,
+      "phoneme_count": 197
+    },
+    {
+      "id": 14,
+      "sentence": "The bride-to-be enjoyed her time at the resort so much that she had her wedding there.",
+      "paragraph_id": 7,
+      "word_count": 16,
+      "start_time": 146.75,
+      "end_time": 152.375,
+      "duration": 5.625,
+      "phoneme_count": 79
+    }
+  ]
+}

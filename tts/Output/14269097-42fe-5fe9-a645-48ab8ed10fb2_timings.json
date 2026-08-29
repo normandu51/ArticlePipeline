@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "14269097-42fe-5fe9-a645-48ab8ed10fb2",
+    "headline": "Republicans Take Aim at \u2018Industry Behind the Curtain\u2019 of College Prices",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/14269097-42fe-5fe9-a645-48ab8ed10fb2_kokoro.wav",
+    "total_duration": 106.675,
+    "sentence_count": 7,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:04:54.103360"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The chairmen of the House and Senate Judiciary Committees sent letters Wednesday to two consulting firms \u2014 along with the College Board, Oracle and a company called Ellucian \u2014 seeking information about any tuition pricing algorithms they have built and the college applicants\u2019 data that feeds them.",
+      "paragraph_id": 0,
+      "word_count": 47,
+      "start_time": 0.0,
+      "end_time": 20.075,
+      "duration": 20.075,
+      "phoneme_count": 291
+    },
+    {
+      "id": 1,
+      "sentence": "The consulting companies, with names like EAB and Ruffalo Noel Levitz, may be unfamiliar to college applicants and their families.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 20.075,
+      "end_time": 29.85,
+      "duration": 9.775,
+      "phoneme_count": 134
+    },
+    {
+      "id": 2,
+      "sentence": "But colleges know the consultants well, since most schools hire one of the two firms, or smaller consulting companies, to help them attract students and plot financial aid offers.",
+      "paragraph_id": 1,
+      "word_count": 29,
+      "start_time": 29.85,
+      "end_time": 42.525,
+      "duration": 12.675,
+      "phoneme_count": 184
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cColleges that agree to use a common pricing formula or algorithm, or knowingly do so through a third-party company, are likely violating the antitrust laws,\u201d said the letters, which were signed by Representatives Jim Jordan and Scott Fitzgerald and Senators Charles E.",
+      "paragraph_id": 2,
+      "word_count": 42,
+      "start_time": 42.525,
+      "end_time": 60.2,
+      "duration": 17.675,
+      "phoneme_count": 271
+    },
+    {
+      "id": 4,
+      "sentence": "Grassley and Mike Lee, all Republicans.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 60.2,
+      "end_time": 63.575,
+      "duration": 3.375,
+      "phoneme_count": 39
+    },
+    {
+      "id": 5,
+      "sentence": "The demands cite reporting in The New York Times in May, which pointed to past comments by an EAB executive who had described its work as \u201ca form of arbitrage\u201d and added that its financial aid optimization strategies were \u201clike working in the financial markets.\u201d",
+      "paragraph_id": 3,
+      "word_count": 45,
+      "start_time": 63.575,
+      "end_time": 81.775,
+      "duration": 18.2,
+      "phoneme_count": 271
+    },
+    {
+      "id": 6,
+      "sentence": "EAB boasts of up to 200 variables that colleges and universities can use when setting an individual admitted student\u2019s price, drawing from data on over 350 clients and 1.5 billion \u201cstudent interactions.\u201d Ruffalo Noel Levitz has over 1,900 clients feeding its software models for everything from financial aid to fund-raising.",
+      "paragraph_id": 4,
+      "word_count": 50,
+      "start_time": 81.775,
+      "end_time": 106.675,
+      "duration": 24.9,
+      "phoneme_count": 402
+    }
+  ]
+}

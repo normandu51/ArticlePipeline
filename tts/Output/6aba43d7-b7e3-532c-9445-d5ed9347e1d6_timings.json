@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "6aba43d7-b7e3-532c-9445-d5ed9347e1d6",
+    "headline": "Democrats Pull Away From AIPAC, Reflecting a Broader Shift",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6aba43d7-b7e3-532c-9445-d5ed9347e1d6_kokoro.wav",
+    "total_duration": 122.1,
+    "sentence_count": 13,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:31:46.712444"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "For 17 years, Representative Hakeem Jeffries, Democrat of New York and the minority leader, has been taking polite meetings with J Street, the center-left lobbying group that promotes a two-state solution in the Middle East.",
+      "paragraph_id": 0,
+      "word_count": 35,
+      "start_time": 0.0,
+      "end_time": 15.575,
+      "duration": 15.575,
+      "phoneme_count": 231
+    },
+    {
+      "id": 1,
+      "sentence": "But in all those years of relationship building, Mr.",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 15.575,
+      "end_time": 19.725,
+      "duration": 4.15,
+      "phoneme_count": 54
+    },
+    {
+      "id": 2,
+      "sentence": "Jeffries never sought the group\u2019s endorsement.",
+      "paragraph_id": 1,
+      "word_count": 6,
+      "start_time": 19.725,
+      "end_time": 23.125,
+      "duration": 3.4,
+      "phoneme_count": 42
+    },
+    {
+      "id": 3,
+      "sentence": "He was more closely associated with AIPAC, the hard-line pro-Israel lobbying organization that has long supported him financially, and has in the past discouraged lawmakers it backs from aligning themselves formally with a group that holds a different stance on Israel.",
+      "paragraph_id": 1,
+      "word_count": 41,
+      "start_time": 23.125,
+      "end_time": 41.575,
+      "duration": 18.45,
+      "phoneme_count": 275
+    },
+    {
+      "id": 4,
+      "sentence": "That changed last month, when Mr.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 41.575,
+      "end_time": 44.675,
+      "duration": 3.1,
+      "phoneme_count": 37
+    },
+    {
+      "id": 5,
+      "sentence": "Jeffries for the first time was open to and accepted J Street\u2019s official support.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 44.675,
+      "end_time": 50.825,
+      "duration": 6.15,
+      "phoneme_count": 82
+    },
+    {
+      "id": 6,
+      "sentence": "It was a coup for J Street, which is highly critical of the current Israeli government and seeking to establish itself as the mainstream voice about Israel on Capitol Hill.",
+      "paragraph_id": 2,
+      "word_count": 30,
+      "start_time": 50.825,
+      "end_time": 62.975,
+      "duration": 12.15,
+      "phoneme_count": 174
+    },
+    {
+      "id": 7,
+      "sentence": "J Street\u2019s endorsement of Mr.",
+      "paragraph_id": 3,
+      "word_count": 5,
+      "start_time": 62.975,
+      "end_time": 65.825,
+      "duration": 2.85,
+      "phoneme_count": 34
+    },
+    {
+      "id": 8,
+      "sentence": "Jeffries attracted little attention on Capitol Hill, where the group already backs well over half of Democratic members of Congress and the rest of the House Democratic leadership team.",
+      "paragraph_id": 3,
+      "word_count": 29,
+      "start_time": 65.825,
+      "end_time": 78.4,
+      "duration": 12.575,
+      "phoneme_count": 188
+    },
+    {
+      "id": 9,
+      "sentence": "Mr.",
+      "paragraph_id": 4,
+      "word_count": 1,
+      "start_time": 78.4,
+      "end_time": 79.825,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 10,
+      "sentence": "Jeffries is so closely associated with the American Israel Public Affairs Committee that the radio host Charlamagne Tha God recently mocked him as \u201cAIPAC Shakur.\u201d So the fact that he would take such a step is a symbol of a broader sea change occurring in Congress when it comes to Israel and the clout of what has for decades been the most powerful pro-Israel group in American politics.",
+      "paragraph_id": 4,
+      "word_count": 68,
+      "start_time": 79.825,
+      "end_time": 105.625,
+      "duration": 25.8,
+      "phoneme_count": 397
+    },
+    {
+      "id": 11,
+      "sentence": "(Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 105.625,
+      "end_time": 107.075,
+      "duration": 1.45,
+      "phoneme_count": 8
+    },
+    {
+      "id": 12,
+      "sentence": "Jeffries, in a statement, said that \u201cCharlatan the Fraud has no idea what he\u2019s talking about, as music industry luminaries like Birdman, Beanie Sigel, Fredro Starr and NBA YoungBoy have repeatedly made clear.\u201d)",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 107.075,
+      "end_time": 122.1,
+      "duration": 15.025,
+      "phoneme_count": 217
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "article_id": "1456cde8-4f84-5e5c-8586-0609bc10e437",
+    "headline": "Ordering Wine Can Be Pricey. At These 12 Restaurants, It\u2019s a Deal.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/1456cde8-4f84-5e5c-8586-0609bc10e437_kokoro.wav",
+    "total_duration": 105.875,
+    "sentence_count": 12,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:05:09.461019"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Economic inequality in the United States has grown steadily for 50 years as the income for the richest has skyrocketed while staying relatively steady for everybody else.",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 0.0,
+      "end_time": 12.45,
+      "duration": 12.45,
+      "phoneme_count": 177
+    },
+    {
+      "id": 1,
+      "sentence": "Restaurant wine lists reflect this disparity as they seem increasingly aimed at the wealthiest consumers.",
+      "paragraph_id": 0,
+      "word_count": 15,
+      "start_time": 12.45,
+      "end_time": 19.85,
+      "duration": 7.4,
+      "phoneme_count": 102
+    },
+    {
+      "id": 2,
+      "sentence": "At many good restaurants these days, it\u2019s become difficult to find exciting bottles for under $100.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 19.85,
+      "end_time": 27.5,
+      "duration": 7.65,
+      "phoneme_count": 117
+    },
+    {
+      "id": 3,
+      "sentence": "Food has gotten more expensive, too, with the $150 steak and the $80 chicken now commonplace.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 27.5,
+      "end_time": 36.15,
+      "duration": 8.65,
+      "phoneme_count": 122
+    },
+    {
+      "id": 4,
+      "sentence": "Diners at least have options, with less expensive selections generally available.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 36.15,
+      "end_time": 42.275,
+      "duration": 6.125,
+      "phoneme_count": 81
+    },
+    {
+      "id": 5,
+      "sentence": "But too many restaurants today seem to ignore those wine lovers who can\u2019t or won\u2019t spend a lot.",
+      "paragraph_id": 1,
+      "word_count": 18,
+      "start_time": 42.275,
+      "end_time": 48.975,
+      "duration": 6.7,
+      "phoneme_count": 97
+    },
+    {
+      "id": 6,
+      "sentence": "It\u2019s not simply a matter of inflation and tariffs, which hadn\u2019t necessarily kicked in when the bottles on today\u2019s wine lists were purchased.",
+      "paragraph_id": 2,
+      "word_count": 23,
+      "start_time": 48.975,
+      "end_time": 58.4,
+      "duration": 9.425,
+      "phoneme_count": 141
+    },
+    {
+      "id": 7,
+      "sentence": "Partly, many restaurant owners have changed what used to be the industry standard for pricing wine to help subsidize the rest of their operation.",
+      "paragraph_id": 2,
+      "word_count": 24,
+      "start_time": 58.4,
+      "end_time": 68.525,
+      "duration": 10.125,
+      "phoneme_count": 148
+    },
+    {
+      "id": 8,
+      "sentence": "It has long been typical for restaurants to triple the wholesale price of a bottle (which is roughly double retail).",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 68.525,
+      "end_time": 76.45,
+      "duration": 7.925,
+      "phoneme_count": 115
+    },
+    {
+      "id": 9,
+      "sentence": "More expensive wines are often marked up somewhat less.",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 76.45,
+      "end_time": 80.675,
+      "duration": 4.225,
+      "phoneme_count": 57
+    },
+    {
+      "id": 10,
+      "sentence": "But nowadays, I see restaurant lists on which even the least expensive bottles have been marked up four or five times their wholesale price.",
+      "paragraph_id": 3,
+      "word_count": 24,
+      "start_time": 80.675,
+      "end_time": 89.875,
+      "duration": 9.2,
+      "phoneme_count": 140
+    },
+    {
+      "id": 11,
+      "sentence": "\u201cSome people will mark it up four times, and some greedy owners will mark it up five times,\u201d said Ed Szymanski, the chef and owner, with his wife, Patricia Howard, of Dame, Lord\u2019s and Crevette in New York. \u201cThat\u2019s very disingenuous.\u201d",
+      "paragraph_id": 4,
+      "word_count": 41,
+      "start_time": 89.875,
+      "end_time": 105.875,
+      "duration": 16.0,
+      "phoneme_count": 237
+    }
+  ]
+}

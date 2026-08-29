@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "article_id": "2a759bb4-b854-5c51-a9d3-7a509c18bbf8",
+    "headline": "Israel Intercepted the Flotilla Headed to Gaza: What to Know",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/2a759bb4-b854-5c51-a9d3-7a509c18bbf8_kokoro.wav",
+    "total_duration": 62.075,
+    "sentence_count": 6,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:11:55.352463"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The Israeli Navy detained hundreds of activists from around the world on Thursday after intercepting a flotilla of small boats that was trying to take humanitarian aid to Gaza.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 12.5,
+      "duration": 12.5,
+      "phoneme_count": 183
+    },
+    {
+      "id": 1,
+      "sentence": "The widely publicized mission, involving dozens of boats and activists including Greta Thunberg, aimed to breach an Israeli blockade of Gaza that has been in place for nearly two decades.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 12.5,
+      "end_time": 25.975,
+      "duration": 13.475,
+      "phoneme_count": 187
+    },
+    {
+      "id": 2,
+      "sentence": "Israel has imposed stringent restrictions on the entry of humanitarian aid since the war in Gaza began two years ago, and for several months this year, it prevented food from being brought in.",
+      "paragraph_id": 2,
+      "word_count": 33,
+      "start_time": 25.975,
+      "end_time": 39.375,
+      "duration": 13.4,
+      "phoneme_count": 201
+    },
+    {
+      "id": 3,
+      "sentence": "Several world leaders condemned the detention of the activists, which sparked protests in several cities.",
+      "paragraph_id": 3,
+      "word_count": 15,
+      "start_time": 39.375,
+      "end_time": 46.625,
+      "duration": 7.25,
+      "phoneme_count": 107
+    },
+    {
+      "id": 4,
+      "sentence": "Israel\u2019s foreign ministry said on Thursday that all but one of the boats had been stopped and that none had breached the blockade.",
+      "paragraph_id": 4,
+      "word_count": 23,
+      "start_time": 46.625,
+      "end_time": 54.975,
+      "duration": 8.35,
+      "phoneme_count": 125
+    },
+    {
+      "id": 5,
+      "sentence": "It said all the detained activists were \u201csafe and in good health\u201d and would soon be deported to Europe.",
+      "paragraph_id": 4,
+      "word_count": 19,
+      "start_time": 54.975,
+      "end_time": 62.075,
+      "duration": 7.1,
+      "phoneme_count": 100
+    }
+  ]
+}

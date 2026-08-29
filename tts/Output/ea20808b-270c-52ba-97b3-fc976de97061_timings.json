@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "article_id": "ea20808b-270c-52ba-97b3-fc976de97061",
+    "headline": "Everything Our Experts Considered When Choosing the 25 Most Influential Magazine Covers",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/ea20808b-270c-52ba-97b3-fc976de97061_kokoro.wav",
+    "total_duration": 131.0,
+    "sentence_count": 22,
+    "paragraph_count": 14,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:28:49.002282"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "To create the latest T 25 list, of influential magazine covers, we first asked our panelists \u2014 Gayle King, the editor at large for Oprah Daily and a co-host of \u201cCBS Mornings\u201d; Adam Moss, the former editor of New York magazine and The New York Times Magazine; Patrick Li, T\u2019s creative director; David Remnick, the editor of The New Yorker; and Martha Rosler, a conceptual artist who has long made work about mass media \u2014 to submit ballots of at least 10 covers that they felt were worth discussing in order to narrow down to a list of finalists.",
+      "paragraph_id": 0,
+      "word_count": 99,
+      "start_time": 0.0,
+      "end_time": 24.55,
+      "duration": 24.55,
+      "phoneme_count": 373
+    },
+    {
+      "id": 1,
+      "sentence": "Below are all of their nominees, with the jury members ordered alphabetically and their selections chronologically, along with a little more commentary (which has been edited and condensed) about a few that almost made the cut \u2026 or caused debate for other reasons.",
+      "paragraph_id": 0,
+      "word_count": 43,
+      "start_time": 24.55,
+      "end_time": 42.325,
+      "duration": 17.775,
+      "phoneme_count": 259
+    },
+    {
+      "id": 2,
+      "sentence": "1. \u201c50,000 March on Montgomery,\u201d Ebony, May 1965",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 42.325,
+      "end_time": 48.175,
+      "duration": 5.85,
+      "phoneme_count": 79
+    },
+    {
+      "id": 3,
+      "sentence": "2. \u201cThe Blunt Reality of War in Vietnam,\u201d Life, Nov. 26, 1965",
+      "paragraph_id": 2,
+      "word_count": 12,
+      "start_time": 48.175,
+      "end_time": 55.025,
+      "duration": 6.85,
+      "phoneme_count": 96
+    },
+    {
+      "id": 4,
+      "sentence": "Adam Moss: This is a great photo.",
+      "paragraph_id": 3,
+      "word_count": 7,
+      "start_time": 55.025,
+      "end_time": 58.25,
+      "duration": 3.225,
+      "phoneme_count": 34
+    },
+    {
+      "id": 5,
+      "sentence": "I would say it\u2019s a very good cover, but it\u2019s not introducing an idea.",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 58.25,
+      "end_time": 63.425,
+      "duration": 5.175,
+      "phoneme_count": 72
+    },
+    {
+      "id": 6,
+      "sentence": "Kurt Soller: But isn\u2019t photo editing and the act of choosing an image important?",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 63.425,
+      "end_time": 69.125,
+      "duration": 5.7,
+      "phoneme_count": 82
+    },
+    {
+      "id": 7,
+      "sentence": "You think of certain magazine covers, like the one Gayle chose: Those images are the ones people remember from the Vietnam War.",
+      "paragraph_id": 4,
+      "word_count": 22,
+      "start_time": 69.125,
+      "end_time": 78.35,
+      "duration": 9.225,
+      "phoneme_count": 128
+    },
+    {
+      "id": 8,
+      "sentence": "Gayle King: Yeah.",
+      "paragraph_id": 5,
+      "word_count": 3,
+      "start_time": 78.35,
+      "end_time": 80.4,
+      "duration": 2.05,
+      "phoneme_count": 16
+    },
+    {
+      "id": 9,
+      "sentence": "3. \u201cTo The Moon and Back,\u201d Life, Aug. 11, 1969",
+      "paragraph_id": 6,
+      "word_count": 10,
+      "start_time": 80.4,
+      "end_time": 85.625,
+      "duration": 5.225,
+      "phoneme_count": 70
+    },
+    {
+      "id": 10,
+      "sentence": "4. \u201cAlong Afghanistan\u2019s War-Torn Frontier,\u201d National Geographic, June 1985",
+      "paragraph_id": 7,
+      "word_count": 9,
+      "start_time": 85.625,
+      "end_time": 92.875,
+      "duration": 7.25,
+      "phoneme_count": 94
+    },
+    {
+      "id": 11,
+      "sentence": "King: I love that cover.",
+      "paragraph_id": 8,
+      "word_count": 5,
+      "start_time": 92.875,
+      "end_time": 95.275,
+      "duration": 2.4,
+      "phoneme_count": 26
+    },
+    {
+      "id": 12,
+      "sentence": "I can\u2019t look at that without giving myself a moment to just take it in.",
+      "paragraph_id": 8,
+      "word_count": 15,
+      "start_time": 95.275,
+      "end_time": 100.1,
+      "duration": 4.825,
+      "phoneme_count": 75
+    },
+    {
+      "id": 13,
+      "sentence": "David Remnick: I think someone caught up with her later.",
+      "paragraph_id": 9,
+      "word_count": 10,
+      "start_time": 100.1,
+      "end_time": 104.225,
+      "duration": 4.125,
+      "phoneme_count": 58
+    },
+    {
+      "id": 14,
+      "sentence": "King: Let\u2019s just say her eyes were not as arresting.",
+      "paragraph_id": 10,
+      "word_count": 10,
+      "start_time": 104.225,
+      "end_time": 108.025,
+      "duration": 3.8,
+      "phoneme_count": 51
+    },
+    {
+      "id": 15,
+      "sentence": "But it\u2019s showing that there\u2019s still beauty in such a war-torn place.",
+      "paragraph_id": 10,
+      "word_count": 12,
+      "start_time": 108.025,
+      "end_time": 112.35,
+      "duration": 4.325,
+      "phoneme_count": 63
+    },
+    {
+      "id": 16,
+      "sentence": "5.",
+      "paragraph_id": 11,
+      "word_count": 1,
+      "start_time": 112.35,
+      "end_time": 113.7,
+      "duration": 1.35,
+      "phoneme_count": 5
+    },
+    {
+      "id": 17,
+      "sentence": "Demi Moore, Vanity Fair, August 1991",
+      "paragraph_id": 11,
+      "word_count": 6,
+      "start_time": 113.7,
+      "end_time": 117.7,
+      "duration": 4.0,
+      "phoneme_count": 53
+    },
+    {
+      "id": 18,
+      "sentence": "6.",
+      "paragraph_id": 12,
+      "word_count": 1,
+      "start_time": 117.7,
+      "end_time": 118.95,
+      "duration": 1.25,
+      "phoneme_count": 6
+    },
+    {
+      "id": 19,
+      "sentence": "Ellen DeGeneres, Time, April 14, 1997",
+      "paragraph_id": 12,
+      "word_count": 6,
+      "start_time": 118.95,
+      "end_time": 123.775,
+      "duration": 4.825,
+      "phoneme_count": 63
+    },
+    {
+      "id": 20,
+      "sentence": "7.",
+      "paragraph_id": 13,
+      "word_count": 1,
+      "start_time": 123.775,
+      "end_time": 125.175,
+      "duration": 1.4,
+      "phoneme_count": 7
+    },
+    {
+      "id": 21,
+      "sentence": "Brandi Chastain, Sports Illustrated, July 19, 1999",
+      "paragraph_id": 13,
+      "word_count": 7,
+      "start_time": 125.175,
+      "end_time": 131.0,
+      "duration": 5.825,
+      "phoneme_count": 75
+    }
+  ]
+}

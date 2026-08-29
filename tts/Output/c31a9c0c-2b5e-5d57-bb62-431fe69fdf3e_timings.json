@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "article_id": "c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e",
+    "headline": "Time Running Out for Trapped Students After School Collapse in Indonesia",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/c31a9c0c-2b5e-5d57-bb62-431fe69fdf3e_kokoro.wav",
+    "total_duration": 40.0,
+    "sentence_count": 3,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:12:20.978246"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Disaster crews in Indonesia were racing to save students still alive under piles of rubble two days after an Islamic boarding school collapsed during a prayer service, killing at least three of their classmates and injuring dozens more.",
+      "paragraph_id": 0,
+      "word_count": 38,
+      "start_time": 0.0,
+      "end_time": 16.325,
+      "duration": 16.325,
+      "phoneme_count": 235
+    },
+    {
+      "id": 1,
+      "sentence": "Indonesia\u2019s National Search and Rescue Agency estimated that 91 people were still trapped or feared dead at the Al Khoziny school in East Java Province, which collapsed Monday afternoon.",
+      "paragraph_id": 1,
+      "word_count": 29,
+      "start_time": 16.325,
+      "end_time": 30.15,
+      "duration": 13.825,
+      "phoneme_count": 194
+    },
+    {
+      "id": 2,
+      "sentence": "Officials blamed \u201ctechnological failure\u201d for the collapse of the low-rise building, which had been undergoing construction work to add a fourth floor.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 30.15,
+      "end_time": 40.0,
+      "duration": 9.85,
+      "phoneme_count": 144
+    }
+  ]
+}

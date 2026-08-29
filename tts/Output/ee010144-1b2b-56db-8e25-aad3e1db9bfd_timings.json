@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "ee010144-1b2b-56db-8e25-aad3e1db9bfd",
+    "headline": "How Social Security Will Be Affected by a Government Shutdown",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/ee010144-1b2b-56db-8e25-aad3e1db9bfd_kokoro.wav",
+    "total_duration": 130.0,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:29:21.459762"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The failure to reach a budget agreement will shut down much of the federal government on Wednesday, but that won\u2019t stop the flow of several critical benefits, including Social Security retirement and disability payments, which are sent to more than 74 million people each month.",
+      "paragraph_id": 0,
+      "word_count": 45,
+      "start_time": 0.0,
+      "end_time": 18.125,
+      "duration": 18.125,
+      "phoneme_count": 292
+    },
+    {
+      "id": 1,
+      "sentence": "Applying for benefits will also still be possible, either online, over the phone or at the agency\u2019s field offices, which generally remain open in the event of a budgetary lapse.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 18.125,
+      "end_time": 31.325,
+      "duration": 13.2,
+      "phoneme_count": 176
+    },
+    {
+      "id": 2,
+      "sentence": "\u201cWe will continue activities critical to our direct-service operations and those needed to ensure accurate and timely payment of benefits,\u201d according to a recent document from Tom Holland, Social Security\u2019s chief financial officer.",
+      "paragraph_id": 2,
+      "word_count": 33,
+      "start_time": 31.325,
+      "end_time": 47.225,
+      "duration": 15.9,
+      "phoneme_count": 237
+    },
+    {
+      "id": 3,
+      "sentence": "The letter described the agency\u2019s contingency plan in the event of a federal shutdown.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 47.225,
+      "end_time": 53.75,
+      "duration": 6.525,
+      "phoneme_count": 87
+    },
+    {
+      "id": 4,
+      "sentence": "Both Social Security and Medicare are not subject to annual budget negotiations by Congress \u2014 their funding is mandatory because it has already been authorized by the Social Security Act. (Social Security\u2019s dedicated revenue source is generated largely by payroll taxes, which are split by workers and their employers.",
+      "paragraph_id": 3,
+      "word_count": 49,
+      "start_time": 53.75,
+      "end_time": 76.125,
+      "duration": 22.375,
+      "phoneme_count": 331
+    },
+    {
+      "id": 5,
+      "sentence": "Medicare is partly funded by the same revenue stream.)",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 76.125,
+      "end_time": 80.575,
+      "duration": 4.45,
+      "phoneme_count": 57
+    },
+    {
+      "id": 6,
+      "sentence": "That means retirement, survivor and disability benefits will continue uninterrupted.",
+      "paragraph_id": 4,
+      "word_count": 10,
+      "start_time": 80.575,
+      "end_time": 87.1,
+      "duration": 6.525,
+      "phoneme_count": 91
+    },
+    {
+      "id": 7,
+      "sentence": "Supplemental Security Income, a needs-based program for poor or disabled beneficiaries that is administered by the agency, works a bit differently: It is funded through appropriations made by Congress, but those payments are available through December, experts said.",
+      "paragraph_id": 4,
+      "word_count": 38,
+      "start_time": 87.1,
+      "end_time": 105.95,
+      "duration": 18.85,
+      "phoneme_count": 271
+    },
+    {
+      "id": 8,
+      "sentence": "Still, some of the Social Security Administration\u2019s more general services will be put on hold.",
+      "paragraph_id": 5,
+      "word_count": 15,
+      "start_time": 105.95,
+      "end_time": 112.825,
+      "duration": 6.875,
+      "phoneme_count": 99
+    },
+    {
+      "id": 9,
+      "sentence": "They include benefit verification, benefit updates that are unrelated to the adjudication of benefits, corrections to an earnings record and the replacement of Medicare cards, according to the agency\u2019s letter explaining its contingency plans.",
+      "paragraph_id": 5,
+      "word_count": 34,
+      "start_time": 112.825,
+      "end_time": 130.0,
+      "duration": 17.175,
+      "phoneme_count": 245
+    }
+  ]
+}

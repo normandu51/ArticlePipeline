@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "article_id": "2346ed61-bcd2-5957-a15b-1189adaf830c",
+    "headline": "Evan Dando Is Back From the Brink",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/2346ed61-bcd2-5957-a15b-1189adaf830c_kokoro.wav",
+    "total_duration": 132.825,
+    "sentence_count": 11,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:08:00.482365"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Evan Dando begins his new memoir, \u201cRumors of My Demise,\u201d in February 2021, back when the Lemonheads frontman was strung out on drugs and residing in a grim trailer on Martha\u2019s Vineyard off the coast of Massachusetts.",
+      "paragraph_id": 0,
+      "word_count": 37,
+      "start_time": 0.0,
+      "end_time": 16.2,
+      "duration": 16.2,
+      "phoneme_count": 245
+    },
+    {
+      "id": 1,
+      "sentence": "\u201cI was in horrible shape, losing teeth,\u201d he writes, \u201cand living off cheeseburgers \u2014 which I could barely chew \u2014 Marlboro Reds, purple Powerade (two for the price of one at Cumberland Farms), and a $200 daily drug budget.\u201d",
+      "paragraph_id": 1,
+      "word_count": 39,
+      "start_time": 16.2,
+      "end_time": 32.275,
+      "duration": 16.075,
+      "phoneme_count": 240
+    },
+    {
+      "id": 2,
+      "sentence": "It had been a protracted fall from grace.",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 32.275,
+      "end_time": 35.35,
+      "duration": 3.075,
+      "phoneme_count": 42
+    },
+    {
+      "id": 3,
+      "sentence": "In 1992, the Lemonheads achieved modern rock radio success \u2014 and Dando reached Gen X sex symbol status \u2014 with the release of the group\u2019s fifth album, \u201cIt\u2019s a Shame About Ray,\u201d highlighted by a melancholic title track and a jaunty cover of Simon & Garfunkel\u2019s \u201cMrs.",
+      "paragraph_id": 2,
+      "word_count": 47,
+      "start_time": 35.35,
+      "end_time": 55.475,
+      "duration": 20.125,
+      "phoneme_count": 287
+    },
+    {
+      "id": 4,
+      "sentence": "Robinson\u201d that was tacked on to later pressings at management\u2019s insistence.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 55.475,
+      "end_time": 60.975,
+      "duration": 5.5,
+      "phoneme_count": 74
+    },
+    {
+      "id": 5,
+      "sentence": "Its follow-up the next year, \u201cCome on Feel the Lemonheads,\u201d featured the jangly gem \u201cInto Your Arms,\u201d originally by the Australian duo Love Positions.",
+      "paragraph_id": 2,
+      "word_count": 24,
+      "start_time": 60.975,
+      "end_time": 71.775,
+      "duration": 10.8,
+      "phoneme_count": 154
+    },
+    {
+      "id": 6,
+      "sentence": "The remake spent nine weeks at No. 1 on the Billboard modern rock chart.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 71.775,
+      "end_time": 77.225,
+      "duration": 5.45,
+      "phoneme_count": 81
+    },
+    {
+      "id": 7,
+      "sentence": "In 1996, the Lemonheads put out their major-label swan song, \u201cCar Button Cloth,\u201d which was coolly received by both critics and the public.",
+      "paragraph_id": 3,
+      "word_count": 23,
+      "start_time": 77.225,
+      "end_time": 88.075,
+      "duration": 10.85,
+      "phoneme_count": 155
+    },
+    {
+      "id": 8,
+      "sentence": "The band went on an extended hiatus in 1997, re-emerging in 2006 with a self-titled album.",
+      "paragraph_id": 3,
+      "word_count": 16,
+      "start_time": 88.075,
+      "end_time": 96.825,
+      "duration": 8.75,
+      "phoneme_count": 127
+    },
+    {
+      "id": 9,
+      "sentence": "The group\u2019s last two LPs \u2014 \u201cVarshons\u201d in 2009 and \u201cVarshons II\u201d a full 10 years later \u2014 were both covers records.",
+      "paragraph_id": 3,
+      "word_count": 22,
+      "start_time": 96.825,
+      "end_time": 106.425,
+      "duration": 9.6,
+      "phoneme_count": 134
+    },
+    {
+      "id": 10,
+      "sentence": "Dando, the only constant in the Lemonheads, a \u201ccollective\u201d that has counted dozens of members over the years, said the creative drought was the result of a heroin addiction dating to his mid-20s. \u201cIt makes your conversation between your heart and your head stop, and your conversation between the world and you stop,\u201d Dando, now 58, said in an interview in July. \u201cAnd there\u2019s all these reissue tours to go on anyway.\u201d",
+      "paragraph_id": 4,
+      "word_count": 72,
+      "start_time": 106.425,
+      "end_time": 132.825,
+      "duration": 26.4,
+      "phoneme_count": 431
+    }
+  ]
+}

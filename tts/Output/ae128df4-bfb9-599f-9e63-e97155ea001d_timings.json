@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "ae128df4-bfb9-599f-9e63-e97155ea001d",
+    "headline": "Bomb Threat Delays Oktoberfest in Munich",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/ae128df4-bfb9-599f-9e63-e97155ea001d_kokoro.wav",
+    "total_duration": 69.025,
+    "sentence_count": 7,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:03:49.959424"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The German authorities temporarily closed the Oktoberfest grounds in Munich on Wednesday because of a bomb threat that they said was linked to an explosion in a residential area of the city.",
+      "paragraph_id": 0,
+      "word_count": 32,
+      "start_time": 0.0,
+      "end_time": 12.9,
+      "duration": 12.9,
+      "phoneme_count": 190
+    },
+    {
+      "id": 1,
+      "sentence": "The Munich police said in a statement that firefighters and medical workers were initially called to a burning building at 4:40 a.m. on Wednesday in the north of the city after neighbors reported hearing explosions.",
+      "paragraph_id": 1,
+      "word_count": 35,
+      "start_time": 12.9,
+      "end_time": 28.075,
+      "duration": 15.175,
+      "phoneme_count": 219
+    },
+    {
+      "id": 2,
+      "sentence": "Those emergency responders found several fire-damaged vehicles in front of the house and \u201cexplosive traps\u201d inside the building, along with a \u201cnonspecific\u201d bomb threat, the police added.",
+      "paragraph_id": 1,
+      "word_count": 27,
+      "start_time": 28.075,
+      "end_time": 41.025,
+      "duration": 12.95,
+      "phoneme_count": 185
+    },
+    {
+      "id": 3,
+      "sentence": "The authorities said that they believe the episode was linked to a domestic dispute.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 41.025,
+      "end_time": 46.675,
+      "duration": 5.65,
+      "phoneme_count": 79
+    },
+    {
+      "id": 4,
+      "sentence": "The bomb threat was written by a 57-year-old German man, according to the police.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 46.675,
+      "end_time": 52.95,
+      "duration": 6.275,
+      "phoneme_count": 89
+    },
+    {
+      "id": 5,
+      "sentence": "They said the man had shot his mother and daughter, then set his parents\u2019 house on fire before driving to a nearby lake where he shot himself.",
+      "paragraph_id": 2,
+      "word_count": 27,
+      "start_time": 52.95,
+      "end_time": 62.225,
+      "duration": 9.275,
+      "phoneme_count": 142
+    },
+    {
+      "id": 6,
+      "sentence": "The police did not name the man, saying only that he had died but that both women had survived.",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 62.225,
+      "end_time": 69.025,
+      "duration": 6.8,
+      "phoneme_count": 96
+    }
+  ]
+}

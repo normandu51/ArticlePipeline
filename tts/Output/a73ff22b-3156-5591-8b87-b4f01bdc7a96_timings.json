@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "a73ff22b-3156-5591-8b87-b4f01bdc7a96",
+    "headline": "Trump Fires Members of Humanities Council",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/a73ff22b-3156-5591-8b87-b4f01bdc7a96_kokoro.wav",
+    "total_duration": 87.95,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:02:08.469193"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The White House has fired members of an outside advisory group to the National Endowment for the Humanities, the latest effort to bring the agency in line with President Trump\u2019s priorities.",
+      "paragraph_id": 0,
+      "word_count": 31,
+      "start_time": 0.0,
+      "end_time": 13.025,
+      "duration": 13.025,
+      "phoneme_count": 189
+    },
+    {
+      "id": 1,
+      "sentence": "The firings were made in an email sent Wednesday morning to members of the National Council on the Humanities by Mary Sprowls, a staff member at the White House\u2019s Office of Presidential Personnel.",
+      "paragraph_id": 1,
+      "word_count": 33,
+      "start_time": 13.025,
+      "end_time": 26.575,
+      "duration": 13.55,
+      "phoneme_count": 197
+    },
+    {
+      "id": 2,
+      "sentence": "\u201cOn behalf of President Donald J.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 26.575,
+      "end_time": 29.575,
+      "duration": 3.0,
+      "phoneme_count": 38
+    },
+    {
+      "id": 3,
+      "sentence": "Trump, I am writing to inform you that your position as a member of the National Council on the Humanities is terminated, effective immediately,\u201d she wrote in the email, which was reviewed by The New York Times. \u201cThank you for your service.\u201d",
+      "paragraph_id": 2,
+      "word_count": 42,
+      "start_time": 29.575,
+      "end_time": 45.25,
+      "duration": 15.675,
+      "phoneme_count": 235
+    },
+    {
+      "id": 4,
+      "sentence": "The council, whose members typically include 26 private citizens drawn mostly from the scholarly world, meets several times a year to advise the endowment\u2019s chair on grants, as well as on ways to promote and strengthen the humanities more generally.",
+      "paragraph_id": 3,
+      "word_count": 40,
+      "start_time": 45.25,
+      "end_time": 62.375,
+      "duration": 17.125,
+      "phoneme_count": 261
+    },
+    {
+      "id": 5,
+      "sentence": "It was not immediately clear how many members, all of whom were confirmed by the Senate, were dismissed.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 62.375,
+      "end_time": 69.4,
+      "duration": 7.025,
+      "phoneme_count": 103
+    },
+    {
+      "id": 6,
+      "sentence": "The endowment\u2019s website currently lists just four members, all appointed during Mr.",
+      "paragraph_id": 4,
+      "word_count": 12,
+      "start_time": 69.4,
+      "end_time": 75.225,
+      "duration": 5.825,
+      "phoneme_count": 88
+    },
+    {
+      "id": 7,
+      "sentence": "Trump\u2019s first term.",
+      "paragraph_id": 4,
+      "word_count": 3,
+      "start_time": 75.225,
+      "end_time": 77.175,
+      "duration": 1.95,
+      "phoneme_count": 21
+    },
+    {
+      "id": 8,
+      "sentence": "The White House did not immediately respond to a request for comment.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 77.175,
+      "end_time": 82.375,
+      "duration": 5.2,
+      "phoneme_count": 70
+    },
+    {
+      "id": 9,
+      "sentence": "The endowment itself is currently closed because of the government shutdown.",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 82.375,
+      "end_time": 87.95,
+      "duration": 5.575,
+      "phoneme_count": 75
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "6c440081-2e87-5c6d-ac3c-4ffc7e829e2b",
+    "headline": "Trump Promises to Defend Qatar, a Reassurance After Israel\u2019s Strike",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6c440081-2e87-5c6d-ac3c-4ffc7e829e2b_kokoro.wav",
+    "total_duration": 112.5,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:32:22.389324"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The Trump administration has issued an executive order in which it pledged to guarantee Qatar\u2019s security \u2014 including by taking military action \u2014 if the country were to come under attack.",
+      "paragraph_id": 0,
+      "word_count": 31,
+      "start_time": 0.0,
+      "end_time": 12.8,
+      "duration": 12.8,
+      "phoneme_count": 191
+    },
+    {
+      "id": 1,
+      "sentence": "The order, dated Sept. 29, 2025, was signed three weeks after Israel launched airstrikes targeting Hamas leaders in Qatar, which outraged Qatari and American officials and raised questions about the strength of U.S. security guarantees for the Gulf nation.",
+      "paragraph_id": 1,
+      "word_count": 39,
+      "start_time": 12.8,
+      "end_time": 31.775,
+      "duration": 18.975,
+      "phoneme_count": 284
+    },
+    {
+      "id": 2,
+      "sentence": "The executive order appeared to be aimed at reassuring Qatar that such a strike would not happen again.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 31.775,
+      "end_time": 38.975,
+      "duration": 7.2,
+      "phoneme_count": 102
+    },
+    {
+      "id": 3,
+      "sentence": "It states that any attack on Qatar would be treated as \u201ca threat to the peace and security of the United States.\u201d",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 38.975,
+      "end_time": 46.775,
+      "duration": 7.8,
+      "phoneme_count": 114
+    },
+    {
+      "id": 4,
+      "sentence": "Qatar hosts the largest U.S. military installation in the Middle East and, like many of its Gulf neighbors, has regarded the United States as a key guarantor of its security.",
+      "paragraph_id": 3,
+      "word_count": 30,
+      "start_time": 46.775,
+      "end_time": 59.2,
+      "duration": 12.425,
+      "phoneme_count": 185
+    },
+    {
+      "id": 5,
+      "sentence": "That made the recent attack by Israel, a close American ally, particularly shocking to Qatari officials.",
+      "paragraph_id": 3,
+      "word_count": 16,
+      "start_time": 59.2,
+      "end_time": 67.15,
+      "duration": 7.95,
+      "phoneme_count": 106
+    },
+    {
+      "id": 6,
+      "sentence": "If Qatar were attacked, the executive order says, the United States should \u201ctake all lawful and appropriate measures \u2014 including diplomatic, economic, and, if necessary, military \u2014 to defend the interests of the United States and of the State of Qatar.\u201d",
+      "paragraph_id": 4,
+      "word_count": 41,
+      "start_time": 67.15,
+      "end_time": 84.45,
+      "duration": 17.3,
+      "phoneme_count": 261
+    },
+    {
+      "id": 7,
+      "sentence": "Prime Minister Benjamin Netanyahu of Israel defended the strikes in September, saying they were part of Israel\u2019s oft-stated mission to avenge the Hamas-led attack on southern Israel on Oct. 7, 2023, which killed about 1,200 people and ignited the war in Gaza.",
+      "paragraph_id": 5,
+      "word_count": 42,
+      "start_time": 84.45,
+      "end_time": 104.925,
+      "duration": 20.475,
+      "phoneme_count": 305
+    },
+    {
+      "id": 8,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 104.925,
+      "end_time": 106.35,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 9,
+      "sentence": "Netanyahu has accused the Qatari government of providing a \u201csafe haven\u201d to Hamas.",
+      "paragraph_id": 5,
+      "word_count": 13,
+      "start_time": 106.35,
+      "end_time": 112.5,
+      "duration": 6.15,
+      "phoneme_count": 86
+    }
+  ]
+}

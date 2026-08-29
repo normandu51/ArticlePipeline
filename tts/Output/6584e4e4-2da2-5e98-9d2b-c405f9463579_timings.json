@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "article_id": "6584e4e4-2da2-5e98-9d2b-c405f9463579",
+    "headline": "This Is What Autocrats Dread",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6584e4e4-2da2-5e98-9d2b-c405f9463579_kokoro.wav",
+    "total_duration": 184.225,
+    "sentence_count": 25,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:30:53.086815"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Ahead of Poland\u2019s 2023 parliamentary election, the future of the country\u2019s democracy was in doubt.",
+      "paragraph_id": 0,
+      "word_count": 15,
+      "start_time": 0.0,
+      "end_time": 7.9,
+      "duration": 7.9,
+      "phoneme_count": 113
+    },
+    {
+      "id": 1,
+      "sentence": "Well before the contest, the governing party, Law and Justice, had launched a sweeping campaign to put the opposition at a disadvantage.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 7.9,
+      "end_time": 17.8,
+      "duration": 9.9,
+      "phoneme_count": 134
+    },
+    {
+      "id": 2,
+      "sentence": "The party had stacked the judiciary with allies.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 17.8,
+      "end_time": 21.275,
+      "duration": 3.475,
+      "phoneme_count": 47
+    },
+    {
+      "id": 3,
+      "sentence": "State media outlets cast the opposition leader, Donald Tusk, as a foreign agent.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 21.275,
+      "end_time": 27.525,
+      "duration": 6.25,
+      "phoneme_count": 84
+    },
+    {
+      "id": 4,
+      "sentence": "Security services investigated domestic critics.",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 27.525,
+      "end_time": 31.975,
+      "duration": 4.45,
+      "phoneme_count": 55
+    },
+    {
+      "id": 5,
+      "sentence": "Fearing state retaliation, business executives grew reluctant to donate to the opposition; many opted instead to support Law and Justice.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 31.975,
+      "end_time": 42.35,
+      "duration": 10.375,
+      "phoneme_count": 141
+    },
+    {
+      "id": 6,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 42.35,
+      "end_time": 43.775,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 7,
+      "sentence": "Tusk and his broad coalition fought back.",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 43.775,
+      "end_time": 46.95,
+      "duration": 3.175,
+      "phoneme_count": 41
+    },
+    {
+      "id": 8,
+      "sentence": "Undeterred, they highlighted the corruption, high inflation and strict anti-abortion policies that many voters associated with Law and Justice.",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 46.95,
+      "end_time": 57.3,
+      "duration": 10.35,
+      "phoneme_count": 138
+    },
+    {
+      "id": 9,
+      "sentence": "At rallies, Mr.",
+      "paragraph_id": 2,
+      "word_count": 3,
+      "start_time": 57.3,
+      "end_time": 59.3,
+      "duration": 2.0,
+      "phoneme_count": 19
+    },
+    {
+      "id": 10,
+      "sentence": "Tusk championed a view of Polish patriotism grounded in democracy and European integration, which contrasted sharply with Law and Justice\u2019s anti-immigrant, anti-European message of a Poland under siege.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 59.3,
+      "end_time": 74.475,
+      "duration": 15.175,
+      "phoneme_count": 210
+    },
+    {
+      "id": 11,
+      "sentence": "When the election came, a remarkable 74 percent of the electorate turned out, and Mr.",
+      "paragraph_id": 2,
+      "word_count": 15,
+      "start_time": 74.475,
+      "end_time": 81.275,
+      "duration": 6.8,
+      "phoneme_count": 100
+    },
+    {
+      "id": 12,
+      "sentence": "Tusk\u2019s coalition won.",
+      "paragraph_id": 2,
+      "word_count": 3,
+      "start_time": 81.275,
+      "end_time": 83.5,
+      "duration": 2.225,
+      "phoneme_count": 23
+    },
+    {
+      "id": 13,
+      "sentence": "Polish democracy, which had appeared on the brink of collapse, had survived.",
+      "paragraph_id": 2,
+      "word_count": 12,
+      "start_time": 83.5,
+      "end_time": 88.875,
+      "duration": 5.375,
+      "phoneme_count": 74
+    },
+    {
+      "id": 14,
+      "sentence": "The defeat of Law and Justice in 2023 was an example of an overlooked phenomenon: Autocrats, whether aspiring or entrenched, can lose elections.",
+      "paragraph_id": 3,
+      "word_count": 23,
+      "start_time": 88.875,
+      "end_time": 100.8,
+      "duration": 11.925,
+      "phoneme_count": 162
+    },
+    {
+      "id": 15,
+      "sentence": "Defeating them can be an uphill battle.",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 100.8,
+      "end_time": 103.925,
+      "duration": 3.125,
+      "phoneme_count": 39
+    },
+    {
+      "id": 16,
+      "sentence": "Authoritarian regimes that hold elections usually manipulate the process to their advantage.",
+      "paragraph_id": 4,
+      "word_count": 12,
+      "start_time": 103.925,
+      "end_time": 111.075,
+      "duration": 7.15,
+      "phoneme_count": 94
+    },
+    {
+      "id": 17,
+      "sentence": "They prosecute opposition members, target the independent news media and use state-aligned outlets to spread disinformation.",
+      "paragraph_id": 4,
+      "word_count": 16,
+      "start_time": 111.075,
+      "end_time": 120.0,
+      "duration": 8.925,
+      "phoneme_count": 130
+    },
+    {
+      "id": 18,
+      "sentence": "They co-opt the judiciary and generate fear about the consequences of supporting the opposition.",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 120.0,
+      "end_time": 126.9,
+      "duration": 6.9,
+      "phoneme_count": 96
+    },
+    {
+      "id": 19,
+      "sentence": "In extreme cases, they declare states of emergency, deploy the military and even fabricate vote counts.",
+      "paragraph_id": 4,
+      "word_count": 16,
+      "start_time": 126.9,
+      "end_time": 134.825,
+      "duration": 7.925,
+      "phoneme_count": 107
+    },
+    {
+      "id": 20,
+      "sentence": "This playbook has worked in places like Vladimir Putin\u2019s Russia, Viktor Orban\u2019s Hungary and Nicol\u00e1s Maduro\u2019s Venezuela.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 134.825,
+      "end_time": 144.175,
+      "duration": 9.35,
+      "phoneme_count": 128
+    },
+    {
+      "id": 21,
+      "sentence": "But in other countries, the democratic opposition has overcome authoritarian rule and prevailed at the ballot box.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 144.175,
+      "end_time": 152.525,
+      "duration": 8.35,
+      "phoneme_count": 116
+    },
+    {
+      "id": 22,
+      "sentence": "These cases, while they have distinct national contexts, can also help provide a road map for democratic movements today.",
+      "paragraph_id": 5,
+      "word_count": 19,
+      "start_time": 152.525,
+      "end_time": 161.375,
+      "duration": 8.85,
+      "phoneme_count": 125
+    },
+    {
+      "id": 23,
+      "sentence": "As a base line, the opposition must unify.",
+      "paragraph_id": 6,
+      "word_count": 8,
+      "start_time": 161.375,
+      "end_time": 165.125,
+      "duration": 3.75,
+      "phoneme_count": 46
+    },
+    {
+      "id": 24,
+      "sentence": "American history offers an example: In the Jim Crow South, the conservative Democratic Party engaged in rampant voter intimidation, ballot stuffing and other authoritarian tactics to manipulate elections throughout the late 19th and early 20th centuries.",
+      "paragraph_id": 6,
+      "word_count": 36,
+      "start_time": 165.125,
+      "end_time": 184.225,
+      "duration": 19.1,
+      "phoneme_count": 269
+    }
+  ]
+}

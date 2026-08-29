@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "article_id": "d6c11196-d412-5005-9be8-488e74397d37",
+    "headline": "We Finally Have Free Anti-Robocall Tools That Work",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/d6c11196-d412-5005-9be8-488e74397d37_kokoro.wav",
+    "total_duration": 136.075,
+    "sentence_count": 14,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:16:58.519004"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "When I received a phone call from an unknown number this week, I didn\u2019t have to pick up the phone to find out it was a robocaller impersonating a utility company with an offer to reduce my bill.",
+      "paragraph_id": 0,
+      "word_count": 38,
+      "start_time": 0.0,
+      "end_time": 13.1,
+      "duration": 13.1,
+      "phoneme_count": 198
+    },
+    {
+      "id": 1,
+      "sentence": "A robot spoke on my behalf and told me what the caller had said.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 13.1,
+      "end_time": 17.925,
+      "duration": 4.825,
+      "phoneme_count": 68
+    },
+    {
+      "id": 2,
+      "sentence": "I was testing a call-screening tool for iPhones that is included with Apple\u2019s iOS 26 software system, which arrived last month.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 17.925,
+      "end_time": 27.725,
+      "duration": 9.8,
+      "phoneme_count": 139
+    },
+    {
+      "id": 3,
+      "sentence": "Since activating the feature a few weeks ago, I\u2019ve hardly noticed when calls from unfamiliar digits come in.",
+      "paragraph_id": 1,
+      "word_count": 18,
+      "start_time": 27.725,
+      "end_time": 35.3,
+      "duration": 7.575,
+      "phoneme_count": 113
+    },
+    {
+      "id": 4,
+      "sentence": "The new tool does its job without ringing my handset.",
+      "paragraph_id": 1,
+      "word_count": 10,
+      "start_time": 35.3,
+      "end_time": 39.3,
+      "duration": 4.0,
+      "phoneme_count": 53
+    },
+    {
+      "id": 5,
+      "sentence": "Call screening should come in handy for lots of smartphone users.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 39.3,
+      "end_time": 44.1,
+      "duration": 4.8,
+      "phoneme_count": 67
+    },
+    {
+      "id": 6,
+      "sentence": "Like millions of people across the country, I\u2019ve been bombarded with an uncountable number of spam calls for the last decade.",
+      "paragraph_id": 2,
+      "word_count": 21,
+      "start_time": 44.1,
+      "end_time": 52.7,
+      "duration": 8.6,
+      "phoneme_count": 126
+    },
+    {
+      "id": 7,
+      "sentence": "Past tools I\u2019ve tested, such as apps that filtered out calls from numbers identified as scammers, were ineffective.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 52.7,
+      "end_time": 61.375,
+      "duration": 8.675,
+      "phoneme_count": 116
+    },
+    {
+      "id": 8,
+      "sentence": "Some owners of Android phones are in luck, too.",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 61.375,
+      "end_time": 65.025,
+      "duration": 3.65,
+      "phoneme_count": 46
+    },
+    {
+      "id": 9,
+      "sentence": "Many users of Google\u2019s Pixel phones have had access to a similar call screener for a few years, and this week, Google said it had expanded the tool\u2019s availability to more countries, including Australia, Canada and Ireland. (Unfortunately, most other Android phones still lack this technology.)",
+      "paragraph_id": 3,
+      "word_count": 46,
+      "start_time": 65.025,
+      "end_time": 85.75,
+      "duration": 20.725,
+      "phoneme_count": 300
+    },
+    {
+      "id": 10,
+      "sentence": "Robocalls continue to be a problem because as soon as solutions emerge, scammers come up with new ways to harass us.",
+      "paragraph_id": 4,
+      "word_count": 21,
+      "start_time": 85.75,
+      "end_time": 94.4,
+      "duration": 8.65,
+      "phoneme_count": 119
+    },
+    {
+      "id": 11,
+      "sentence": "Scam calls were momentarily in decline last year after phone carriers used technology to prevent them and regulators cracked down on robocaller operations.",
+      "paragraph_id": 4,
+      "word_count": 23,
+      "start_time": 94.4,
+      "end_time": 106.425,
+      "duration": 12.025,
+      "phoneme_count": 165
+    },
+    {
+      "id": 12,
+      "sentence": "But the shady calls have been on the rise again this year, largely because new artificial intelligence made it easier to impersonate voices of people pretending to have information about student loans, credit reports and missed deliveries.",
+      "paragraph_id": 4,
+      "word_count": 37,
+      "start_time": 106.425,
+      "end_time": 122.55,
+      "duration": 16.125,
+      "phoneme_count": 238
+    },
+    {
+      "id": 13,
+      "sentence": "Though the call screeners from Apple and Google are imperfect solutions (more on this later), they go a long way toward offering smartphone owners a much-needed respite from those persistent scammers.",
+      "paragraph_id": 5,
+      "word_count": 31,
+      "start_time": 122.55,
+      "end_time": 136.075,
+      "duration": 13.525,
+      "phoneme_count": 192
+    }
+  ]
+}

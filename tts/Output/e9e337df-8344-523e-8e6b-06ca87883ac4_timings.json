@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "e9e337df-8344-523e-8e6b-06ca87883ac4",
+    "headline": "What\u2019s Wrong With Las Vegas?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/e9e337df-8344-523e-8e6b-06ca87883ac4_kokoro.wav",
+    "total_duration": 160.95,
+    "sentence_count": 18,
+    "paragraph_count": 13,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:27:52.623292"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Just north of the Las Vegas Strip lies a graveyard of relics that recalls the boomtown\u2019s lofty ambitions.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 0.0,
+      "end_time": 7.85,
+      "duration": 7.85,
+      "phoneme_count": 107
+    },
+    {
+      "id": 1,
+      "sentence": "Dented metal signs, neon bulbs humming, lie in the desert dust, welcoming you to a city as varied as its defunct businesses: the bright pink feathers of the original Flamingo Las Vegas Hotel and Casino; the Red Barn\u2019s crimson cherry in a martini glass, homage to one of the city\u2019s first gay bars; the dancing \u201cHappy Shirt\u201d of Steiner Cleaners, Liberace\u2019s one-time laundry.",
+      "paragraph_id": 1,
+      "word_count": 63,
+      "start_time": 7.85,
+      "end_time": 34.75,
+      "duration": 26.9,
+      "phoneme_count": 383
+    },
+    {
+      "id": 2,
+      "sentence": "They are reminders of long-closed places in a city that has reinvented itself time and time again.",
+      "paragraph_id": 2,
+      "word_count": 17,
+      "start_time": 34.75,
+      "end_time": 42.05,
+      "duration": 7.3,
+      "phoneme_count": 100
+    },
+    {
+      "id": 3,
+      "sentence": "According to its brochure, the Neon Museum preserved these mementos to celebrate Las Vegas\u2019s \u201cvibrant past, present and future.\u201d But for many, the word that describes the city\u2019s present is not quite \u201cvibrant.\u201d",
+      "paragraph_id": 3,
+      "word_count": 33,
+      "start_time": 42.05,
+      "end_time": 57.625,
+      "duration": 15.575,
+      "phoneme_count": 220
+    },
+    {
+      "id": 4,
+      "sentence": "Mark Rumpler, 66, an Elvis impersonator for almost two decades, had a different word: \u201cRough.\u201d",
+      "paragraph_id": 4,
+      "word_count": 15,
+      "start_time": 57.625,
+      "end_time": 65.55,
+      "duration": 7.925,
+      "phoneme_count": 112
+    },
+    {
+      "id": 5,
+      "sentence": "\u201cIt was a turbulent summer,\u201d said Sean McBurney, the chief commercial officer of Caesars Entertainment, which operates multiple Strip casinos and resorts, including Caesars Palace.",
+      "paragraph_id": 5,
+      "word_count": 25,
+      "start_time": 65.55,
+      "end_time": 78.525,
+      "duration": 12.975,
+      "phoneme_count": 187
+    },
+    {
+      "id": 6,
+      "sentence": "Aaron Berger, the Neon Museum\u2019s executive director, said that Vegas\u2019s growing pains aren\u2019t new.",
+      "paragraph_id": 6,
+      "word_count": 14,
+      "start_time": 78.525,
+      "end_time": 86.125,
+      "duration": 7.6,
+      "phoneme_count": 99
+    },
+    {
+      "id": 7,
+      "sentence": "He noted that Las Vegas began as a railroad town in 1905, becoming the link between Los Angeles and Salt Lake City during the Gold Rush, before it turned to gambling and hospitality, opening its first themed resort on the Strip in 1941.",
+      "paragraph_id": 6,
+      "word_count": 43,
+      "start_time": 86.125,
+      "end_time": 104.55,
+      "duration": 18.425,
+      "phoneme_count": 276
+    },
+    {
+      "id": 8,
+      "sentence": "The city pivoted to entertainment, then fine dining in the 1990s, before becoming what it is now: a sports mecca, home to the N.H.L.\u2019s Golden Knights beginning in 2017, followed by the W.N.B.A.\u2019s Aces in 2018, the N.F.L.\u2019s Raiders in 2020 and currently getting ready for the arrival of M.L.B.\u2019s A\u2019s in 2028.",
+      "paragraph_id": 6,
+      "word_count": 53,
+      "start_time": 104.55,
+      "end_time": 129.875,
+      "duration": 25.325,
+      "phoneme_count": 375
+    },
+    {
+      "id": 9,
+      "sentence": "We are having trouble retrieving the article content.",
+      "paragraph_id": 7,
+      "word_count": 8,
+      "start_time": 129.875,
+      "end_time": 134.1,
+      "duration": 4.225,
+      "phoneme_count": 53
+    },
+    {
+      "id": 10,
+      "sentence": "Please enable JavaScript in your browser settings.",
+      "paragraph_id": 8,
+      "word_count": 7,
+      "start_time": 134.1,
+      "end_time": 138.0,
+      "duration": 3.9,
+      "phoneme_count": 50
+    },
+    {
+      "id": 11,
+      "sentence": "Thank you for your patience while we verify access.",
+      "paragraph_id": 9,
+      "word_count": 9,
+      "start_time": 138.0,
+      "end_time": 141.925,
+      "duration": 3.925,
+      "phoneme_count": 50
+    },
+    {
+      "id": 12,
+      "sentence": "If you are in Reader mode please exit and\u00a0log into\u00a0your Times account, or\u00a0subscribe\u00a0for all of The Times.",
+      "paragraph_id": 9,
+      "word_count": 21,
+      "start_time": 141.925,
+      "end_time": 149.35,
+      "duration": 7.425,
+      "phoneme_count": 104
+    },
+    {
+      "id": 13,
+      "sentence": "Thank you for your patience while we verify access.",
+      "paragraph_id": 10,
+      "word_count": 9,
+      "start_time": 149.35,
+      "end_time": 153.275,
+      "duration": 3.925,
+      "phoneme_count": 50
+    },
+    {
+      "id": 14,
+      "sentence": "Already a subscriber?",
+      "paragraph_id": 11,
+      "word_count": 3,
+      "start_time": 153.275,
+      "end_time": 155.575,
+      "duration": 2.3,
+      "phoneme_count": 23
+    },
+    {
+      "id": 15,
+      "sentence": "Log in.",
+      "paragraph_id": 11,
+      "word_count": 2,
+      "start_time": 155.575,
+      "end_time": 157.175,
+      "duration": 1.6,
+      "phoneme_count": 9
+    },
+    {
+      "id": 16,
+      "sentence": "Want all of The Times?",
+      "paragraph_id": 12,
+      "word_count": 5,
+      "start_time": 157.175,
+      "end_time": 159.25,
+      "duration": 2.075,
+      "phoneme_count": 22
+    },
+    {
+      "id": 17,
+      "sentence": "Subscribe.",
+      "paragraph_id": 12,
+      "word_count": 1,
+      "start_time": 159.25,
+      "end_time": 160.95,
+      "duration": 1.7,
+      "phoneme_count": 10
+    }
+  ]
+}

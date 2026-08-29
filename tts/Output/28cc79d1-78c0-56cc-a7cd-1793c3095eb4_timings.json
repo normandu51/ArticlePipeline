@@ -1,0 +1,996 @@
+{
+  "metadata": {
+    "article_id": "28cc79d1-78c0-56cc-a7cd-1793c3095eb4",
+    "headline": "How Washington Became a Testing Ground for ICE",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/28cc79d1-78c0-56cc-a7cd-1793c3095eb4_kokoro.wav",
+    "total_duration": 971.2,
+    "sentence_count": 98,
+    "paragraph_count": 61,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:11:17.783756"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "A man from El Salvador was stopped for allegedly driving a landscaping truck through federal parkland.",
+      "paragraph_id": 0,
+      "word_count": 16,
+      "start_time": 0.0,
+      "end_time": 7.25,
+      "duration": 7.25,
+      "phoneme_count": 104
+    },
+    {
+      "id": 1,
+      "sentence": "A Honduran man was pulled over when the police said he ran a stop sign as his family left a local park.",
+      "paragraph_id": 0,
+      "word_count": 22,
+      "start_time": 7.25,
+      "end_time": 14.875,
+      "duration": 7.625,
+      "phoneme_count": 110
+    },
+    {
+      "id": 2,
+      "sentence": "A Jordanian man was detained while working in a food truck on the National Mall during a crackdown on unlicensed vendors.",
+      "paragraph_id": 0,
+      "word_count": 21,
+      "start_time": 14.875,
+      "end_time": 23.925,
+      "duration": 9.05,
+      "phoneme_count": 124
+    },
+    {
+      "id": 3,
+      "sentence": "President Trump\u2019s deployment of federal law enforcement officers in August across Washington \u2014 intended, officials said, to lower crime \u2014 transformed what was one of the largest sanctuary cities in the country into a test case for Immigration and Customs Enforcement as it expands its efforts in major urban centers.",
+      "paragraph_id": 1,
+      "word_count": 50,
+      "start_time": 23.925,
+      "end_time": 46.0,
+      "duration": 22.075,
+      "phoneme_count": 328
+    },
+    {
+      "id": 4,
+      "sentence": "The agency sharply increased its arrests in the city by working alongside the local police and other federal agencies to identify immigrants during stops for minor traffic violations, according to law enforcement officials, lawyers for detained migrants, internal immigration records and witness accounts.",
+      "paragraph_id": 2,
+      "word_count": 43,
+      "start_time": 46.0,
+      "end_time": 67.125,
+      "duration": 21.125,
+      "phoneme_count": 308
+    },
+    {
+      "id": 5,
+      "sentence": "ICE had made only 85 arrests in Washington from Jan. 20 through the end of July, according to data obtained by the Deportation Data Project.",
+      "paragraph_id": 3,
+      "word_count": 25,
+      "start_time": 67.125,
+      "end_time": 78.625,
+      "duration": 11.5,
+      "phoneme_count": 153
+    },
+    {
+      "id": 6,
+      "sentence": "But from early August until mid-September, ICE made around 1,200 arrests, according to officials with knowledge of the data.",
+      "paragraph_id": 3,
+      "word_count": 19,
+      "start_time": 78.625,
+      "end_time": 88.4,
+      "duration": 9.775,
+      "phoneme_count": 142
+    },
+    {
+      "id": 7,
+      "sentence": "One key to the strategy: ICE\u2019s close partnership with both the Metropolitan Police Department and the U.S.",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 88.4,
+      "end_time": 96.2,
+      "duration": 7.8,
+      "phoneme_count": 110
+    },
+    {
+      "id": 8,
+      "sentence": "Park Police, according to a New York Times review of dozens of videos filmed by witnesses in Washington.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 96.2,
+      "end_time": 104.025,
+      "duration": 7.825,
+      "phoneme_count": 106
+    },
+    {
+      "id": 9,
+      "sentence": "At other times, the agency operated alone, with masked officers detaining people in sometimes aggressive encounters that drew angry protests from neighbors.",
+      "paragraph_id": 4,
+      "word_count": 22,
+      "start_time": 104.025,
+      "end_time": 115.75,
+      "duration": 11.725,
+      "phoneme_count": 155
+    },
+    {
+      "id": 10,
+      "sentence": "Last week, an immigrants rights organization sued the Department of Homeland Security, accusing the agency of targeting people for their ethnicity, making arrests without probable cause and sowing \u201cterror in Latino and other communities across the District.\u201d",
+      "paragraph_id": 5,
+      "word_count": 37,
+      "start_time": 115.75,
+      "end_time": 133.675,
+      "duration": 17.925,
+      "phoneme_count": 260
+    },
+    {
+      "id": 11,
+      "sentence": "The department called allegations that it had engaged in racial profiling \u201cdisgusting, reckless, and categorically FALSE.\u201d",
+      "paragraph_id": 6,
+      "word_count": 16,
+      "start_time": 133.675,
+      "end_time": 142.475,
+      "duration": 8.8,
+      "phoneme_count": 121
+    },
+    {
+      "id": 12,
+      "sentence": "As the administration works to deepen police cooperation on immigrant enforcement throughout the country, the effort in Washington shows how migrants stopped by local law enforcement for low-level infractions can swiftly be detained by ICE \u2014 a boost for an agency struggling to meet the White House\u2019s demands for higher arrest numbers.",
+      "paragraph_id": 7,
+      "word_count": 52,
+      "start_time": 142.475,
+      "end_time": 164.275,
+      "duration": 21.8,
+      "phoneme_count": 331
+    },
+    {
+      "id": 13,
+      "sentence": "Since January, ICE has signed more than 520 agreements in 35 states that allow local law enforcement to collaborate with federal officials on immigration enforcement during routine patrols.",
+      "paragraph_id": 8,
+      "word_count": 28,
+      "start_time": 164.275,
+      "end_time": 178.975,
+      "duration": 14.7,
+      "phoneme_count": 217
+    },
+    {
+      "id": 14,
+      "sentence": "However, the administration has faced resistance to such arrangements from liberal cities with so-called sanctuary policies, which ban the police from assisting immigration agents.",
+      "paragraph_id": 9,
+      "word_count": 24,
+      "start_time": 178.975,
+      "end_time": 191.65,
+      "duration": 12.675,
+      "phoneme_count": 179
+    },
+    {
+      "id": 15,
+      "sentence": "To get around that in Washington, the Trump administration exploited the city\u2019s tenuous status as a federal district, compelling the police to cooperate with ICE by declaring a \u201ccrime emergency.\u201d Previously, under Washington\u2019s sanctuary city law, local police officers had not been permitted to cooperate with federal immigration enforcement authorities.",
+      "paragraph_id": 10,
+      "word_count": 50,
+      "start_time": 191.65,
+      "end_time": 216.25,
+      "duration": 24.6,
+      "phoneme_count": 360
+    },
+    {
+      "id": 16,
+      "sentence": "It also took advantage of the array of federal law enforcement already operating in the region, including the U.S.",
+      "paragraph_id": 11,
+      "word_count": 19,
+      "start_time": 216.25,
+      "end_time": 224.325,
+      "duration": 8.075,
+      "phoneme_count": 117
+    },
+    {
+      "id": 17,
+      "sentence": "Park Police, which also has officers in New York and San Francisco.",
+      "paragraph_id": 11,
+      "word_count": 12,
+      "start_time": 224.325,
+      "end_time": 229.65,
+      "duration": 5.325,
+      "phoneme_count": 71
+    },
+    {
+      "id": 18,
+      "sentence": "During the surge, Interior Secretary Doug Burgum deputized immigration officers to patrol with Park Police officers and granted the Park Police authority to pursue fleeing offenders.",
+      "paragraph_id": 11,
+      "word_count": 26,
+      "start_time": 229.65,
+      "end_time": 243.25,
+      "duration": 13.6,
+      "phoneme_count": 187
+    },
+    {
+      "id": 19,
+      "sentence": "Tricia McLaughlin, a homeland security spokeswoman, said in a statement that immigration officials in Washington had \u201carrested gang members, kidnappers, drug traffickers and other violent thugs.\u201d She highlighted the department\u2019s collaboration with the local police, the Park Police and other law enforcement agencies, adding, \u201cCriminal aliens are a public safety threat, and there should be no place for sanctuary policies that place crime over the community.\u201d",
+      "paragraph_id": 12,
+      "word_count": 66,
+      "start_time": 243.25,
+      "end_time": 272.975,
+      "duration": 29.725,
+      "phoneme_count": 460
+    },
+    {
+      "id": 20,
+      "sentence": "The Department of Homeland Security did not respond to questions about how many of the 1,200 people detained for immigration violations in Washington had also been accused of committing other crimes.",
+      "paragraph_id": 13,
+      "word_count": 31,
+      "start_time": 272.975,
+      "end_time": 288.0,
+      "duration": 15.025,
+      "phoneme_count": 222
+    },
+    {
+      "id": 21,
+      "sentence": "While Mayor Muriel Bowser has said that local police officers would stop assisting immigration enforcement when Mr.",
+      "paragraph_id": 14,
+      "word_count": 17,
+      "start_time": 288.0,
+      "end_time": 296.675,
+      "duration": 8.675,
+      "phoneme_count": 119
+    },
+    {
+      "id": 22,
+      "sentence": "Trump\u2019s emergency order expired on Sept. 10, the federal deployment has opened the door to more cooperation.",
+      "paragraph_id": 14,
+      "word_count": 17,
+      "start_time": 296.675,
+      "end_time": 304.825,
+      "duration": 8.15,
+      "phoneme_count": 115
+    },
+    {
+      "id": 23,
+      "sentence": "The Metropolitan Police Department has left in place a policy change allowing officers to share information with federal immigration authorities about people not in custody, such as during traffic stops, according to Daniel Gleick, a spokesman for the mayor\u2019s office.",
+      "paragraph_id": 15,
+      "word_count": 40,
+      "start_time": 304.825,
+      "end_time": 323.1,
+      "duration": 18.275,
+      "phoneme_count": 265
+    },
+    {
+      "id": 24,
+      "sentence": "And the police department continues to work with a federal task force focused on Washington that includes officers from homeland security, the mayor acknowledged on Wednesday.",
+      "paragraph_id": 15,
+      "word_count": 26,
+      "start_time": 323.1,
+      "end_time": 335.5,
+      "duration": 12.4,
+      "phoneme_count": 177
+    },
+    {
+      "id": 25,
+      "sentence": "\u201cWe never wanted M.P.D. to patrol with homeland security agencies, but they are part of the task force, and that should change,\u201d she told reporters.",
+      "paragraph_id": 16,
+      "word_count": 25,
+      "start_time": 335.5,
+      "end_time": 346.325,
+      "duration": 10.825,
+      "phoneme_count": 154
+    },
+    {
+      "id": 26,
+      "sentence": "Mr.",
+      "paragraph_id": 17,
+      "word_count": 1,
+      "start_time": 346.325,
+      "end_time": 347.75,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 27,
+      "sentence": "Trump has also threatened to once again take over the city\u2019s police department if the mayor does not cooperate on immigration enforcement.",
+      "paragraph_id": 17,
+      "word_count": 22,
+      "start_time": 347.75,
+      "end_time": 357.15,
+      "duration": 9.4,
+      "phoneme_count": 141
+    },
+    {
+      "id": 28,
+      "sentence": "And ICE officials, who continue to work with other federal agencies in Washington, said they did not plan to let up. \u201cWe\u2019re going to continue our operations in the D.C. metro area,\u201d Marcos Charles, who leads ICE\u2019s enforcement and removal operations, said in an interview.",
+      "paragraph_id": 18,
+      "word_count": 45,
+      "start_time": 357.15,
+      "end_time": 376.15,
+      "duration": 19.0,
+      "phoneme_count": 283
+    },
+    {
+      "id": 29,
+      "sentence": "One of the first visible signs of ICE\u2019s presence in Washington came at \u201csafety compliance\u201d checkpoints set up on major streets at rush hour, after dark outside popular restaurants and during the day in residential zones.",
+      "paragraph_id": 19,
+      "word_count": 36,
+      "start_time": 376.15,
+      "end_time": 391.875,
+      "duration": 15.725,
+      "phoneme_count": 228
+    },
+    {
+      "id": 30,
+      "sentence": "Videos show officers working alongside local police officers as drivers were told to pull over their cars or scooters for minor infractions.",
+      "paragraph_id": 19,
+      "word_count": 22,
+      "start_time": 391.875,
+      "end_time": 402.15,
+      "duration": 10.275,
+      "phoneme_count": 143
+    },
+    {
+      "id": 31,
+      "sentence": "Immigration officers were also frequently seen in videos accompanying local police officers during routine traffic stops.",
+      "paragraph_id": 20,
+      "word_count": 16,
+      "start_time": 402.15,
+      "end_time": 411.55,
+      "duration": 9.4,
+      "phoneme_count": 123
+    },
+    {
+      "id": 32,
+      "sentence": "The Times obtained videos from witnesses who recorded them, or from the lawyers of the people arrested, and verified their locations, names and legal status with federal law enforcement officials.",
+      "paragraph_id": 21,
+      "word_count": 30,
+      "start_time": 411.55,
+      "end_time": 425.075,
+      "duration": 13.525,
+      "phoneme_count": 193
+    },
+    {
+      "id": 33,
+      "sentence": "Some witnesses who shared videos with The Times requested that their names be withheld out of fear of retaliation.",
+      "paragraph_id": 21,
+      "word_count": 19,
+      "start_time": 425.075,
+      "end_time": 433.175,
+      "duration": 8.1,
+      "phoneme_count": 111
+    },
+    {
+      "id": 34,
+      "sentence": "In one case, Aaron, a 41-year-old Honduran man, was driving away from a local park on Sept. 8 with his wife and two young children when he was pulled over for failing to make a full stop at an intersection.",
+      "paragraph_id": 22,
+      "word_count": 40,
+      "start_time": 433.175,
+      "end_time": 448.175,
+      "duration": 15.0,
+      "phoneme_count": 223
+    },
+    {
+      "id": 35,
+      "sentence": "Videos of the incident show a police vehicle parked directly behind his car, followed by two Customs and Border Protection vehicles.",
+      "paragraph_id": 23,
+      "word_count": 21,
+      "start_time": 448.175,
+      "end_time": 457.875,
+      "duration": 9.7,
+      "phoneme_count": 135
+    },
+    {
+      "id": 36,
+      "sentence": "Federal officers determined that he did not have legal status and detained him, records show.",
+      "paragraph_id": 24,
+      "word_count": 15,
+      "start_time": 457.875,
+      "end_time": 464.5,
+      "duration": 6.625,
+      "phoneme_count": 96
+    },
+    {
+      "id": 37,
+      "sentence": "Aaron, who asked to be identified by only his first name out of fear of retribution, said he had lived in Washington for six years, building a life in the immigrant-rich Columbia Heights neighborhood.",
+      "paragraph_id": 25,
+      "word_count": 34,
+      "start_time": 464.5,
+      "end_time": 477.8,
+      "duration": 13.3,
+      "phoneme_count": 200
+    },
+    {
+      "id": 38,
+      "sentence": "He worked as a maintenance worker, fixing HVAC systems, and coached soccer.",
+      "paragraph_id": 25,
+      "word_count": 12,
+      "start_time": 477.8,
+      "end_time": 483.375,
+      "duration": 5.575,
+      "phoneme_count": 79
+    },
+    {
+      "id": 39,
+      "sentence": "In an interview from inside an ICE detention facility in Virginia, Aaron said he had no idea how his family would pay for rent and food without him.",
+      "paragraph_id": 26,
+      "word_count": 28,
+      "start_time": 483.375,
+      "end_time": 493.775,
+      "duration": 10.4,
+      "phoneme_count": 153
+    },
+    {
+      "id": 40,
+      "sentence": "\u201cI mean, I\u2019m destroyed, completely destroyed,\u201d he said. \u201cThey changed my life \u2014 I think forever.\u201d",
+      "paragraph_id": 27,
+      "word_count": 16,
+      "start_time": 493.775,
+      "end_time": 500.725,
+      "duration": 6.95,
+      "phoneme_count": 96
+    },
+    {
+      "id": 41,
+      "sentence": "Some police officials are worried about the long-term impact of the work with immigration authorities.",
+      "paragraph_id": 28,
+      "word_count": 15,
+      "start_time": 500.725,
+      "end_time": 507.7,
+      "duration": 6.975,
+      "phoneme_count": 97
+    },
+    {
+      "id": 42,
+      "sentence": "One police official, who spoke on the condition of anonymity because they were not authorized to speak publicly, voiced concerns that the department\u2019s forced alliance with ICE could shatter trust between local police officers and the immigrant community.",
+      "paragraph_id": 28,
+      "word_count": 38,
+      "start_time": 507.7,
+      "end_time": 524.575,
+      "duration": 16.875,
+      "phoneme_count": 248
+    },
+    {
+      "id": 43,
+      "sentence": "The primary role of the Park Police, a division of the National Park Service, is protecting national parklands, federal buildings and monuments in Washington, New York and San Francisco.",
+      "paragraph_id": 29,
+      "word_count": 29,
+      "start_time": 524.575,
+      "end_time": 538.05,
+      "duration": 13.475,
+      "phoneme_count": 193
+    },
+    {
+      "id": 44,
+      "sentence": "But under the current administration, the agency has stepped up its role in immigration enforcement, a shift from its traditional focus, according to former officers.",
+      "paragraph_id": 29,
+      "word_count": 25,
+      "start_time": 538.05,
+      "end_time": 549.7,
+      "duration": 11.65,
+      "phoneme_count": 169
+    },
+    {
+      "id": 45,
+      "sentence": "Videos collected and verified by The Times show members of the Park Police, trailed by homeland security agents, initiating traffic stops of landscaping, construction and food delivery vehicles around the city.",
+      "paragraph_id": 30,
+      "word_count": 31,
+      "start_time": 549.7,
+      "end_time": 564.7,
+      "duration": 15.0,
+      "phoneme_count": 218
+    },
+    {
+      "id": 46,
+      "sentence": "On Aug. 20, Park Police officers pulled over a truck that bore the logo of a Maryland landscaping business as it drove through Rock Creek Park, a national park that bisects the District of Columbia.",
+      "paragraph_id": 31,
+      "word_count": 35,
+      "start_time": 564.7,
+      "end_time": 579.1,
+      "duration": 14.4,
+      "phoneme_count": 204
+    },
+    {
+      "id": 47,
+      "sentence": "The officers said the vehicle was pulled over because its tags were obscured, and asked to see the identification of those inside the truck, according to the driver, a U.S. citizen who spoke on the condition of anonymity out of fear of retaliation.",
+      "paragraph_id": 32,
+      "word_count": 43,
+      "start_time": 579.1,
+      "end_time": 596.175,
+      "duration": 17.075,
+      "phoneme_count": 248
+    },
+    {
+      "id": 48,
+      "sentence": "When one member of the landscaping crew failed to provide a valid ID, he was pulled from the passenger seat, according to the driver, who filmed the arrest on his phone.",
+      "paragraph_id": 33,
+      "word_count": 31,
+      "start_time": 596.175,
+      "end_time": 607.875,
+      "duration": 11.7,
+      "phoneme_count": 170
+    },
+    {
+      "id": 49,
+      "sentence": "\u201cThis is an illegal detention,\u201d he can be heard shouting in the video.",
+      "paragraph_id": 34,
+      "word_count": 13,
+      "start_time": 607.875,
+      "end_time": 612.925,
+      "duration": 5.05,
+      "phoneme_count": 69
+    },
+    {
+      "id": 50,
+      "sentence": "Ms.",
+      "paragraph_id": 35,
+      "word_count": 1,
+      "start_time": 612.925,
+      "end_time": 614.2,
+      "duration": 1.275,
+      "phoneme_count": 4
+    },
+    {
+      "id": 51,
+      "sentence": "McLaughlin, the homeland security spokeswoman, said officers discovered during the stop that the man was a Honduran immigrant who had entered the United States illegally, adding that he had resisted arrest.",
+      "paragraph_id": 35,
+      "word_count": 31,
+      "start_time": 614.2,
+      "end_time": 628.6,
+      "duration": 14.4,
+      "phoneme_count": 210
+    },
+    {
+      "id": 52,
+      "sentence": "The next day, the landscaping company sent its clients an email saying that it would be forced to pause work in Washington \u201cuntil we can determine how to ensure the safety of our team.\u201d",
+      "paragraph_id": 36,
+      "word_count": 34,
+      "start_time": 628.6,
+      "end_time": 640.825,
+      "duration": 12.225,
+      "phoneme_count": 187
+    },
+    {
+      "id": 53,
+      "sentence": "Rock Creek Park, a forested greenway typically frequented by cyclists and joggers, has been a major area of focus of the joint immigration operations.",
+      "paragraph_id": 37,
+      "word_count": 24,
+      "start_time": 640.825,
+      "end_time": 651.85,
+      "duration": 11.025,
+      "phoneme_count": 155
+    },
+    {
+      "id": 54,
+      "sentence": "In late August, a junk removal truck driving through the park was pulled over by Park Police officers working with agents from Homeland Security Investigations.",
+      "paragraph_id": 38,
+      "word_count": 25,
+      "start_time": 651.85,
+      "end_time": 663.15,
+      "duration": 11.3,
+      "phoneme_count": 163
+    },
+    {
+      "id": 55,
+      "sentence": "The alleged violation: driving a commercial vehicle through a federal park.",
+      "paragraph_id": 38,
+      "word_count": 11,
+      "start_time": 663.15,
+      "end_time": 668.7,
+      "duration": 5.55,
+      "phoneme_count": 72
+    },
+    {
+      "id": 56,
+      "sentence": "The two men inside the truck, one from Nicaragua and the other from Egypt, were placed in custody pending deportation, the Department of Homeland Security said.",
+      "paragraph_id": 39,
+      "word_count": 26,
+      "start_time": 668.7,
+      "end_time": 680.325,
+      "duration": 11.625,
+      "phoneme_count": 167
+    },
+    {
+      "id": 57,
+      "sentence": "A few days later, a Park Police officer pulled over Erminio Guevara, a native of El Salvador, for driving a landscaping truck through the same park.",
+      "paragraph_id": 40,
+      "word_count": 26,
+      "start_time": 680.325,
+      "end_time": 691.35,
+      "duration": 11.025,
+      "phoneme_count": 153
+    },
+    {
+      "id": 58,
+      "sentence": "A local resident filmed Mr.",
+      "paragraph_id": 40,
+      "word_count": 5,
+      "start_time": 691.35,
+      "end_time": 694.15,
+      "duration": 2.8,
+      "phoneme_count": 33
+    },
+    {
+      "id": 59,
+      "sentence": "Guevara as he was being arrested and loaded into an unmarked S.U.V.",
+      "paragraph_id": 40,
+      "word_count": 12,
+      "start_time": 694.15,
+      "end_time": 699.6,
+      "duration": 5.45,
+      "phoneme_count": 73
+    },
+    {
+      "id": 60,
+      "sentence": "She asked the officers why he was being detained and whether they had racially profiled him.",
+      "paragraph_id": 40,
+      "word_count": 16,
+      "start_time": 699.6,
+      "end_time": 706.05,
+      "duration": 6.45,
+      "phoneme_count": 88
+    },
+    {
+      "id": 61,
+      "sentence": "They did not respond.",
+      "paragraph_id": 40,
+      "word_count": 4,
+      "start_time": 706.05,
+      "end_time": 708.2,
+      "duration": 2.15,
+      "phoneme_count": 23
+    },
+    {
+      "id": 62,
+      "sentence": "According to the department, Mr.",
+      "paragraph_id": 41,
+      "word_count": 5,
+      "start_time": 708.2,
+      "end_time": 710.975,
+      "duration": 2.775,
+      "phoneme_count": 35
+    },
+    {
+      "id": 63,
+      "sentence": "Guevara admitted to entering the United States illegally in 2001.",
+      "paragraph_id": 41,
+      "word_count": 10,
+      "start_time": 710.975,
+      "end_time": 717.05,
+      "duration": 6.075,
+      "phoneme_count": 79
+    },
+    {
+      "id": 64,
+      "sentence": "Since early August, residents have sent hundreds of videos, photos and tips to D.C.",
+      "paragraph_id": 42,
+      "word_count": 14,
+      "start_time": 717.05,
+      "end_time": 723.35,
+      "duration": 6.3,
+      "phoneme_count": 89
+    },
+    {
+      "id": 65,
+      "sentence": "Migrant Solidarity Mutual Aid, an immigrant support group that set up an ICE tip hotline.",
+      "paragraph_id": 42,
+      "word_count": 15,
+      "start_time": 723.35,
+      "end_time": 730.375,
+      "duration": 7.025,
+      "phoneme_count": 98
+    },
+    {
+      "id": 66,
+      "sentence": "Amy Fischer, who leads the organization, said the footage reflected a dramatic surge in dragnet-style arrest tactics.",
+      "paragraph_id": 43,
+      "word_count": 17,
+      "start_time": 730.375,
+      "end_time": 738.975,
+      "duration": 8.6,
+      "phoneme_count": 119
+    },
+    {
+      "id": 67,
+      "sentence": "\u201cWe just saw the roving patrols arresting anybody that looked brown, basically,\u201d Ms.",
+      "paragraph_id": 44,
+      "word_count": 13,
+      "start_time": 738.975,
+      "end_time": 744.375,
+      "duration": 5.4,
+      "phoneme_count": 86
+    },
+    {
+      "id": 68,
+      "sentence": "Fischer said.",
+      "paragraph_id": 44,
+      "word_count": 2,
+      "start_time": 744.375,
+      "end_time": 746.025,
+      "duration": 1.65,
+      "phoneme_count": 12
+    },
+    {
+      "id": 69,
+      "sentence": "The Department of Homeland Security has rejected such claims, saying that it uses \u201creasonable suspicion\u201d to make arrests.",
+      "paragraph_id": 45,
+      "word_count": 18,
+      "start_time": 746.025,
+      "end_time": 755.0,
+      "duration": 8.975,
+      "phoneme_count": 125
+    },
+    {
+      "id": 70,
+      "sentence": "\u201cWhat makes someone a target for immigration enforcement is if they are illegally in the U.S. \u2014 NOT their skin color, race, or ethnicity,\u201d the agency wrote in a social media post.",
+      "paragraph_id": 46,
+      "word_count": 32,
+      "start_time": 755.0,
+      "end_time": 767.7,
+      "duration": 12.7,
+      "phoneme_count": 181
+    },
+    {
+      "id": 71,
+      "sentence": "The Park Police\u2019s partnership with ICE has drawn the agency into the administration\u2019s aggressive public campaign against undocumented immigrants.",
+      "paragraph_id": 47,
+      "word_count": 19,
+      "start_time": 767.7,
+      "end_time": 778.45,
+      "duration": 10.75,
+      "phoneme_count": 147
+    },
+    {
+      "id": 72,
+      "sentence": "In August, the two agencies worked together to detain Laith Husam Farah Zaza, a Jordanian man accused of overstaying his visa, as he worked in a food truck near the National Mall.",
+      "paragraph_id": 48,
+      "word_count": 32,
+      "start_time": 778.45,
+      "end_time": 791.6,
+      "duration": 13.15,
+      "phoneme_count": 182
+    },
+    {
+      "id": 73,
+      "sentence": "Afterward, immigration officials posted his photo on social media, highlighting the role of the Park Police in \u201ctargeting unlawful food truck and cart vendors.\u201d",
+      "paragraph_id": 48,
+      "word_count": 24,
+      "start_time": 791.6,
+      "end_time": 802.8,
+      "duration": 11.2,
+      "phoneme_count": 161
+    },
+    {
+      "id": 74,
+      "sentence": "Mr.",
+      "paragraph_id": 49,
+      "word_count": 1,
+      "start_time": 802.8,
+      "end_time": 804.225,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 75,
+      "sentence": "Farah Zaza\u2019s wife, Fatima Marroquin-Pineda, who is a U.S. citizen, said her husband had been working extra hours as a line cook to help pay the fees required to obtain legal status through their marriage.",
+      "paragraph_id": 49,
+      "word_count": 35,
+      "start_time": 804.225,
+      "end_time": 818.975,
+      "duration": 14.75,
+      "phoneme_count": 205
+    },
+    {
+      "id": 76,
+      "sentence": "She said she was shocked to see the government celebrate his arrest on social media. \u201cHe was not a criminal, and it\u2019s not a crime to work on a food truck,\u201d she said.",
+      "paragraph_id": 50,
+      "word_count": 33,
+      "start_time": 818.975,
+      "end_time": 829.75,
+      "duration": 10.775,
+      "phoneme_count": 169
+    },
+    {
+      "id": 77,
+      "sentence": "Aubrie Spady, an Interior Department spokeswoman, said in a statement: \u201cU.S.",
+      "paragraph_id": 51,
+      "word_count": 11,
+      "start_time": 829.75,
+      "end_time": 835.575,
+      "duration": 5.825,
+      "phoneme_count": 81
+    },
+    {
+      "id": 78,
+      "sentence": "Park Police are responsible for conducting common, legitimate traffic stops.",
+      "paragraph_id": 51,
+      "word_count": 10,
+      "start_time": 835.575,
+      "end_time": 841.225,
+      "duration": 5.65,
+      "phoneme_count": 78
+    },
+    {
+      "id": 79,
+      "sentence": "If immigration violations are found, the U.S.",
+      "paragraph_id": 51,
+      "word_count": 7,
+      "start_time": 841.225,
+      "end_time": 845.15,
+      "duration": 3.925,
+      "phoneme_count": 47
+    },
+    {
+      "id": 80,
+      "sentence": "Park Police allow the Department of Homeland Security to take it from there.\u201d",
+      "paragraph_id": 51,
+      "word_count": 13,
+      "start_time": 845.15,
+      "end_time": 851.025,
+      "duration": 5.875,
+      "phoneme_count": 79
+    },
+    {
+      "id": 81,
+      "sentence": "ICE has also worked on its own in Washington, targeting people in their cars and stopping others on the sidewalk for minor infractions.",
+      "paragraph_id": 52,
+      "word_count": 23,
+      "start_time": 851.025,
+      "end_time": 860.475,
+      "duration": 9.45,
+      "phoneme_count": 135
+    },
+    {
+      "id": 82,
+      "sentence": "Videos show some officers wearing masks while carrying out arrests \u2014 a practice that is now banned in California \u2014 creating confusion and alarm among local residents.",
+      "paragraph_id": 53,
+      "word_count": 27,
+      "start_time": 860.475,
+      "end_time": 872.275,
+      "duration": 11.8,
+      "phoneme_count": 168
+    },
+    {
+      "id": 83,
+      "sentence": "ICE officials have said the face coverings are necessary to protect the safety of their officers, noting they have been threatened and attacked. \u201cThe brave men and women of ICE choose to wear masks for safety, not secrecy,\u201d the agency said in a statement.",
+      "paragraph_id": 54,
+      "word_count": 44,
+      "start_time": 872.275,
+      "end_time": 889.0,
+      "duration": 16.725,
+      "phoneme_count": 243
+    },
+    {
+      "id": 84,
+      "sentence": "On Sept. 2, Allison Price, 49, was walking her dog with her husband in D.C.\u2019s Chevy Chase neighborhood when she saw two armed, masked agents in a beat-up minivan pull over a utility vehicle.",
+      "paragraph_id": 55,
+      "word_count": 34,
+      "start_time": 889.0,
+      "end_time": 903.775,
+      "duration": 14.775,
+      "phoneme_count": 205
+    },
+    {
+      "id": 85,
+      "sentence": "In less than five minutes, the vehicle\u2019s driver and passenger were in handcuffs and whisked away.",
+      "paragraph_id": 55,
+      "word_count": 16,
+      "start_time": 903.775,
+      "end_time": 910.3,
+      "duration": 6.525,
+      "phoneme_count": 94
+    },
+    {
+      "id": 86,
+      "sentence": "The Department of Homeland Security said that two men, Marvin Saul Alvarez from El Salvador and Daniel Misael Perez-Perez from Guatemala, had entered the United States illegally and were picked up during \u201ca targeted enforcement operation.\u201d",
+      "paragraph_id": 56,
+      "word_count": 36,
+      "start_time": 910.3,
+      "end_time": 927.375,
+      "duration": 17.075,
+      "phoneme_count": 256
+    },
+    {
+      "id": 87,
+      "sentence": "\u201cIt was like an abduction,\u201d said Ms.",
+      "paragraph_id": 57,
+      "word_count": 7,
+      "start_time": 927.375,
+      "end_time": 930.275,
+      "duration": 2.9,
+      "phoneme_count": 38
+    },
+    {
+      "id": 88,
+      "sentence": "Price, who recorded the arrest on her cellphone while unsuccessfully pressing an officer to identify his agency.",
+      "paragraph_id": 57,
+      "word_count": 17,
+      "start_time": 930.275,
+      "end_time": 938.5,
+      "duration": 8.225,
+      "phoneme_count": 112
+    },
+    {
+      "id": 89,
+      "sentence": "No other police officers were present.",
+      "paragraph_id": 57,
+      "word_count": 6,
+      "start_time": 938.5,
+      "end_time": 941.7,
+      "duration": 3.2,
+      "phoneme_count": 39
+    },
+    {
+      "id": 90,
+      "sentence": "\u201cI kept thinking, if it was me or my family and I was disappeared, how would you have any evidence?\u201d",
+      "paragraph_id": 58,
+      "word_count": 20,
+      "start_time": 941.7,
+      "end_time": 948.85,
+      "duration": 7.15,
+      "phoneme_count": 100
+    },
+    {
+      "id": 91,
+      "sentence": "After the arrest, Ms.",
+      "paragraph_id": 59,
+      "word_count": 4,
+      "start_time": 948.85,
+      "end_time": 951.05,
+      "duration": 2.2,
+      "phoneme_count": 22
+    },
+    {
+      "id": 92,
+      "sentence": "Price uploaded the video to YouTube and asked the community to help circulate it online.",
+      "paragraph_id": 59,
+      "word_count": 15,
+      "start_time": 951.05,
+      "end_time": 957.425,
+      "duration": 6.375,
+      "phoneme_count": 92
+    },
+    {
+      "id": 93,
+      "sentence": "\u201cThis is not acceptable,\u201d Ms.",
+      "paragraph_id": 60,
+      "word_count": 5,
+      "start_time": 957.425,
+      "end_time": 959.95,
+      "duration": 2.525,
+      "phoneme_count": 32
+    },
+    {
+      "id": 94,
+      "sentence": "Price said. \u201cI\u2019m a D.C. resident of 25 years.",
+      "paragraph_id": 60,
+      "word_count": 9,
+      "start_time": 959.95,
+      "end_time": 964.4,
+      "duration": 4.45,
+      "phoneme_count": 58
+    },
+    {
+      "id": 95,
+      "sentence": "Like, how is this happening?",
+      "paragraph_id": 60,
+      "word_count": 5,
+      "start_time": 964.4,
+      "end_time": 966.675,
+      "duration": 2.275,
+      "phoneme_count": 26
+    },
+    {
+      "id": 96,
+      "sentence": "What is the authority?",
+      "paragraph_id": 60,
+      "word_count": 4,
+      "start_time": 966.675,
+      "end_time": 968.875,
+      "duration": 2.2,
+      "phoneme_count": 20
+    },
+    {
+      "id": 97,
+      "sentence": "What is due process?\u201d",
+      "paragraph_id": 60,
+      "word_count": 4,
+      "start_time": 968.875,
+      "end_time": 971.2,
+      "duration": 2.325,
+      "phoneme_count": 22
+    }
+  ]
+}

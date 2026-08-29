@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "article_id": "f8ab32e6-3ca9-57de-add5-929b53040051",
+    "headline": "The Consequences of Trump\u2019s Setback at the Fed",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/f8ab32e6-3ca9-57de-add5-929b53040051_kokoro.wav",
+    "total_duration": 115.0,
+    "sentence_count": 12,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:31:13.584756"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Andrew here.",
+      "paragraph_id": 0,
+      "word_count": 2,
+      "start_time": 0.0,
+      "end_time": 1.625,
+      "duration": 1.625,
+      "phoneme_count": 12
+    },
+    {
+      "id": 1,
+      "sentence": "Amid all of the headlines about the Fed and the government shutdown, which we cover below, I want to pause for a moment to reflect on someone whose life mattered far more than a news cycle: Jane Goodall, the renowned primatologist and conservationist who died yesterday.",
+      "paragraph_id": 0,
+      "word_count": 46,
+      "start_time": 1.625,
+      "end_time": 19.8,
+      "duration": 18.175,
+      "phoneme_count": 275
+    },
+    {
+      "id": 2,
+      "sentence": "I was fortunate to spend time with her on several occasions, and she was as extraordinary a person as you could ever hope to meet.",
+      "paragraph_id": 1,
+      "word_count": 25,
+      "start_time": 19.8,
+      "end_time": 28.425,
+      "duration": 8.625,
+      "phoneme_count": 132
+    },
+    {
+      "id": 3,
+      "sentence": "Her groundbreaking research on chimpanzees changed the way we understand animals \u2014 and ourselves.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 28.425,
+      "end_time": 35.525,
+      "duration": 7.1,
+      "phoneme_count": 98
+    },
+    {
+      "id": 4,
+      "sentence": "Just as important, she inspired generations to think more deeply about our shared responsibility for the planet.",
+      "paragraph_id": 1,
+      "word_count": 17,
+      "start_time": 35.525,
+      "end_time": 43.55,
+      "duration": 8.025,
+      "phoneme_count": 117
+    },
+    {
+      "id": 5,
+      "sentence": "Goodall\u2019s life is a reminder that we could all use a little more of the empathy that she embodied.",
+      "paragraph_id": 1,
+      "word_count": 19,
+      "start_time": 43.55,
+      "end_time": 50.225,
+      "duration": 6.675,
+      "phoneme_count": 92
+    },
+    {
+      "id": 6,
+      "sentence": "President Trump\u2019s effort to exert greater control over the Fed has suffered a temporary, but potentially stinging, setback.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 50.225,
+      "end_time": 58.725,
+      "duration": 8.5,
+      "phoneme_count": 130
+    },
+    {
+      "id": 7,
+      "sentence": "The Supreme Court\u2019s decision yesterday to let Lisa Cook stay on as a Fed governor for now probably doesn\u2019t change the central bank\u2019s plans for interest rates in the short term.",
+      "paragraph_id": 3,
+      "word_count": 31,
+      "start_time": 58.725,
+      "end_time": 71.2,
+      "duration": 12.475,
+      "phoneme_count": 180
+    },
+    {
+      "id": 8,
+      "sentence": "The futures market this morning was penciling in cuts at the next two rate-setting meetings, in line with Trump\u2019s calls for lowering borrowing costs.",
+      "paragraph_id": 3,
+      "word_count": 24,
+      "start_time": 71.2,
+      "end_time": 81.1,
+      "duration": 9.9,
+      "phoneme_count": 146
+    },
+    {
+      "id": 9,
+      "sentence": "But beyond that, Fed officials are divided over whether deeper cuts are needed, and yesterday\u2019s ruling could complicate Trump\u2019s efforts to remake the institution more to his liking.",
+      "paragraph_id": 4,
+      "word_count": 28,
+      "start_time": 81.1,
+      "end_time": 93.1,
+      "duration": 12.0,
+      "phoneme_count": 182
+    },
+    {
+      "id": 10,
+      "sentence": "The latest: The Supreme Court said it would begin hearing arguments in January over whether the White House can fire Cook over accusations that she committed mortgage fraud.",
+      "paragraph_id": 5,
+      "word_count": 28,
+      "start_time": 93.1,
+      "end_time": 104.75,
+      "duration": 11.65,
+      "phoneme_count": 172
+    },
+    {
+      "id": 11,
+      "sentence": "The case is one of the biggest tests yet on the limits of executive power over an independent government institution, legal experts say.",
+      "paragraph_id": 5,
+      "word_count": 23,
+      "start_time": 104.75,
+      "end_time": 115.0,
+      "duration": 10.25,
+      "phoneme_count": 149
+    }
+  ]
+}

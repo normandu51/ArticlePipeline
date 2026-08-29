@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "article_id": "436a64a2-4741-565a-a6d1-c33a5129f4a3",
+    "headline": "Why One Man Raised $200,000 for the Man Who Attacked His Church",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/436a64a2-4741-565a-a6d1-c33a5129f4a3_kokoro.wav",
+    "total_duration": 109.35,
+    "sentence_count": 17,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:18:08.406777"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The community of Grand Blanc Township, Mich., devastated by a deadly shooting on a Latter-day Saints congregation this week, has pulled together to help one another in the aftermath.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 12.55,
+      "duration": 12.55,
+      "phoneme_count": 185
+    },
+    {
+      "id": 1,
+      "sentence": "Neighborhood children handed out flowers and positive messages.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 12.55,
+      "end_time": 17.525,
+      "duration": 4.975,
+      "phoneme_count": 62
+    },
+    {
+      "id": 2,
+      "sentence": "Moms offered free hugs.",
+      "paragraph_id": 1,
+      "word_count": 4,
+      "start_time": 17.525,
+      "end_time": 19.9,
+      "duration": 2.375,
+      "phoneme_count": 24
+    },
+    {
+      "id": 3,
+      "sentence": "And donations through multiple fund-raising accounts popped up to cover medical costs for the injured or funeral expenses for the deceased.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 19.9,
+      "end_time": 29.575,
+      "duration": 9.675,
+      "phoneme_count": 139
+    },
+    {
+      "id": 4,
+      "sentence": "One of those donation pages was set up to benefit an unexpected recipient: the family of Thomas Jacob Sanford, the suspect who died in the shooting, which killed four people and injured eight others.",
+      "paragraph_id": 2,
+      "word_count": 34,
+      "start_time": 29.575,
+      "end_time": 43.35,
+      "duration": 13.775,
+      "phoneme_count": 202
+    },
+    {
+      "id": 5,
+      "sentence": "Mr.",
+      "paragraph_id": 3,
+      "word_count": 1,
+      "start_time": 43.35,
+      "end_time": 44.775,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 6,
+      "sentence": "Sanford, the authorities said, drove a truck into the church meetinghouse during a worship service on Sunday and opened fire with an assault-style weapon, shooting victims as young as 6.",
+      "paragraph_id": 3,
+      "word_count": 30,
+      "start_time": 44.775,
+      "end_time": 57.45,
+      "duration": 12.675,
+      "phoneme_count": 183
+    },
+    {
+      "id": 7,
+      "sentence": "He was shot dead by the police, and a fire then consumed the church.",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 57.45,
+      "end_time": 62.35,
+      "duration": 4.9,
+      "phoneme_count": 67
+    },
+    {
+      "id": 8,
+      "sentence": "So far, the fund to benefit Mr.",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 62.35,
+      "end_time": 65.375,
+      "duration": 3.025,
+      "phoneme_count": 38
+    },
+    {
+      "id": 9,
+      "sentence": "Sanford\u2019s family has collected more than $200,000.",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 65.375,
+      "end_time": 70.5,
+      "duration": 5.125,
+      "phoneme_count": 70
+    },
+    {
+      "id": 10,
+      "sentence": "The idea to help the shooter\u2019s family was spurred by the religious convictions of the Utah-based writer Dave Butler, 53, also a member of the Church of Jesus Christ of Latter-day Saints.",
+      "paragraph_id": 5,
+      "word_count": 32,
+      "start_time": 70.5,
+      "end_time": 84.05,
+      "duration": 13.55,
+      "phoneme_count": 191
+    },
+    {
+      "id": 11,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 84.05,
+      "end_time": 85.475,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 12,
+      "sentence": "Butler said he became concerned about who, if anyone, was supporting Mr.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 85.475,
+      "end_time": 91.05,
+      "duration": 5.575,
+      "phoneme_count": 78
+    },
+    {
+      "id": 13,
+      "sentence": "Sanford\u2019s wife and child \u2014 \u201ctwo more victims,\u201d as he called them.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 91.05,
+      "end_time": 95.9,
+      "duration": 4.85,
+      "phoneme_count": 65
+    },
+    {
+      "id": 14,
+      "sentence": "Mr.",
+      "paragraph_id": 6,
+      "word_count": 1,
+      "start_time": 95.9,
+      "end_time": 97.325,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 15,
+      "sentence": "Butler, who is married with three children and knows members of the Grand Blanc congregation, thought of the long road to recovery that Mr.",
+      "paragraph_id": 6,
+      "word_count": 24,
+      "start_time": 97.325,
+      "end_time": 106.85,
+      "duration": 9.525,
+      "phoneme_count": 139
+    },
+    {
+      "id": 16,
+      "sentence": "Sanford\u2019s family now faced.",
+      "paragraph_id": 6,
+      "word_count": 4,
+      "start_time": 106.85,
+      "end_time": 109.35,
+      "duration": 2.5,
+      "phoneme_count": 28
+    }
+  ]
+}

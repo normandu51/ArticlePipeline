@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "article_id": "0f01dcca-3260-58ba-871d-84fed1c4ebc9",
+    "headline": "The Shutdown, Explained",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/0f01dcca-3260-58ba-871d-84fed1c4ebc9_kokoro.wav",
+    "total_duration": 139.05,
+    "sentence_count": 22,
+    "paragraph_count": 9,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:04:01.609462"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "For weeks, our D.C. reporters chronicled a slow-motion political drama: Would Democrats and Republicans find a way to compromise before the government ran out of money?",
+      "paragraph_id": 0,
+      "word_count": 26,
+      "start_time": 0.0,
+      "end_time": 11.825,
+      "duration": 11.825,
+      "phoneme_count": 179
+    },
+    {
+      "id": 1,
+      "sentence": "Now that we know the answer, they\u2019re covering how the shutdown actually works.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 11.825,
+      "end_time": 17.05,
+      "duration": 5.225,
+      "phoneme_count": 72
+    },
+    {
+      "id": 2,
+      "sentence": "What happens when federal employees go home, and how might the shutdown end?",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 17.05,
+      "end_time": 22.625,
+      "duration": 5.575,
+      "phoneme_count": 78
+    },
+    {
+      "id": 3,
+      "sentence": "For today\u2019s newsletter, I got answers from Carl Hulse, our chief Washington correspondent, and Eileen Sullivan, who covers the federal work force.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 22.625,
+      "end_time": 32.975,
+      "duration": 10.35,
+      "phoneme_count": 149
+    },
+    {
+      "id": 4,
+      "sentence": "What\u2019s at stake for both parties?",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 32.975,
+      "end_time": 35.525,
+      "duration": 2.55,
+      "phoneme_count": 32
+    },
+    {
+      "id": 5,
+      "sentence": "Carl: Quite a bit.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 35.525,
+      "end_time": 37.475,
+      "duration": 1.95,
+      "phoneme_count": 20
+    },
+    {
+      "id": 6,
+      "sentence": "Republicans want to show that they are able to wield their majority power and keep the government funded without giving in to what they see as unreasonable Democratic demands.",
+      "paragraph_id": 3,
+      "word_count": 29,
+      "start_time": 37.475,
+      "end_time": 49.325,
+      "duration": 11.85,
+      "phoneme_count": 175
+    },
+    {
+      "id": 7,
+      "sentence": "Democrats are trying to win health care concessions and also demonstrate that Republicans must treat them as legislative partners and not jam bills down their throats.",
+      "paragraph_id": 3,
+      "word_count": 26,
+      "start_time": 49.325,
+      "end_time": 60.875,
+      "duration": 11.55,
+      "phoneme_count": 171
+    },
+    {
+      "id": 8,
+      "sentence": "The outcome of the clash is likely to influence next year\u2019s midterm elections.",
+      "paragraph_id": 3,
+      "word_count": 13,
+      "start_time": 60.875,
+      "end_time": 66.6,
+      "duration": 5.725,
+      "phoneme_count": 79
+    },
+    {
+      "id": 9,
+      "sentence": "What are Democrats trying to get before they\u2019ll support the stopgap spending bill?",
+      "paragraph_id": 4,
+      "word_count": 13,
+      "start_time": 66.6,
+      "end_time": 71.825,
+      "duration": 5.225,
+      "phoneme_count": 80
+    },
+    {
+      "id": 10,
+      "sentence": "Carl: They want an extension of subsidies created during the pandemic for purchasing health coverage through the Affordable Care Act.",
+      "paragraph_id": 5,
+      "word_count": 20,
+      "start_time": 71.825,
+      "end_time": 80.65,
+      "duration": 8.825,
+      "phoneme_count": 130
+    },
+    {
+      "id": 11,
+      "sentence": "Otherwise, they say, premium costs will rise for millions of people.",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 80.65,
+      "end_time": 85.925,
+      "duration": 5.275,
+      "phoneme_count": 67
+    },
+    {
+      "id": 12,
+      "sentence": "Republicans say they are open to extending the subsidies, but only if the government reopens.",
+      "paragraph_id": 5,
+      "word_count": 15,
+      "start_time": 85.925,
+      "end_time": 92.6,
+      "duration": 6.675,
+      "phoneme_count": 95
+    },
+    {
+      "id": 13,
+      "sentence": "At least eight Democrats would need to join Republicans to pass a spending bill.",
+      "paragraph_id": 5,
+      "word_count": 14,
+      "start_time": 92.6,
+      "end_time": 98.075,
+      "duration": 5.475,
+      "phoneme_count": 80
+    },
+    {
+      "id": 14,
+      "sentence": "So far, three have.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 98.075,
+      "end_time": 100.25,
+      "duration": 2.175,
+      "phoneme_count": 20
+    },
+    {
+      "id": 15,
+      "sentence": "Some federal employees are \u201cexcepted\u201d from the shutdown and have to work.",
+      "paragraph_id": 6,
+      "word_count": 12,
+      "start_time": 100.25,
+      "end_time": 105.525,
+      "duration": 5.275,
+      "phoneme_count": 74
+    },
+    {
+      "id": 16,
+      "sentence": "Who qualifies?",
+      "paragraph_id": 6,
+      "word_count": 2,
+      "start_time": 105.525,
+      "end_time": 107.4,
+      "duration": 1.875,
+      "phoneme_count": 15
+    },
+    {
+      "id": 17,
+      "sentence": "Eileen: Each department identifies people critical to protecting life and property, and they keep working during a government shutdown.",
+      "paragraph_id": 7,
+      "word_count": 19,
+      "start_time": 107.4,
+      "end_time": 116.575,
+      "duration": 9.175,
+      "phoneme_count": 136
+    },
+    {
+      "id": 18,
+      "sentence": "Think federal law enforcement officers, air traffic controllers and T.S.A. officers at airports.",
+      "paragraph_id": 7,
+      "word_count": 13,
+      "start_time": 116.575,
+      "end_time": 123.875,
+      "duration": 7.3,
+      "phoneme_count": 100
+    },
+    {
+      "id": 19,
+      "sentence": "Not all agencies rely on appropriations for funding.",
+      "paragraph_id": 8,
+      "word_count": 8,
+      "start_time": 123.875,
+      "end_time": 128.4,
+      "duration": 4.525,
+      "phoneme_count": 55
+    },
+    {
+      "id": 20,
+      "sentence": "That is why some government services continue uninterrupted.",
+      "paragraph_id": 8,
+      "word_count": 8,
+      "start_time": 128.4,
+      "end_time": 133.35,
+      "duration": 4.95,
+      "phoneme_count": 65
+    },
+    {
+      "id": 21,
+      "sentence": "Mail is still delivered, and Social Security and Medicare payments continue.",
+      "paragraph_id": 8,
+      "word_count": 11,
+      "start_time": 133.35,
+      "end_time": 139.05,
+      "duration": 5.7,
+      "phoneme_count": 80
+    }
+  ]
+}

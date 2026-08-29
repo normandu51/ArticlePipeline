@@ -4,5 +4,8 @@ dist
 */.DS_Store
 .DS_Store
 
+# Persistent Chrome profile with NYT login cookies (runtime data)
+.chrome_profile/
+
 # Kokoro TTS model — runtime dependency, downloaded separately (see KOKORO_SETUP.md)
 tts/Kokoro/Kokoro-82M/

@@ -33,7 +33,7 @@ VOICES_DIR = KOKORO_DIR / "voices"
 # concrete default voice from the local voices/ folder.
 PREFIX_DEFAULT_VOICE = {
     "af": "af_bella",
-    "am": "am_michael",
+    "am": "am_adam",
     "bf": "bf_alice",
     "bm": "bm_george",
     "ef": "ef_dora",

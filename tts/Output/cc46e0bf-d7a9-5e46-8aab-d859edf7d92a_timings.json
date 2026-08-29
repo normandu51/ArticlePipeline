@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "cc46e0bf-d7a9-5e46-8aab-d859edf7d92a",
+    "headline": "Many Children Missing but No More Signs of Life in Indonesia School Collapse",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/cc46e0bf-d7a9-5e46-8aab-d859edf7d92a_kokoro.wav",
+    "total_duration": 72.75,
+    "sentence_count": 7,
+    "paragraph_count": 4,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:13:27.254524"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Rescuers in Indonesia, who had spent days frantically trying to save students trapped under a collapsed school, said Thursday morning that they detected no more signs of life from under the rubble and would now focus on recovering bodies.",
+      "paragraph_id": 0,
+      "word_count": 39,
+      "start_time": 0.0,
+      "end_time": 15.55,
+      "duration": 15.55,
+      "phoneme_count": 240
+    },
+    {
+      "id": 1,
+      "sentence": "Five more students were pulled out alive from the Al Khoziny school in Sidoarjo, East Java Province, on Thursday morning, bringing the number of rescued people to 14.",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 15.55,
+      "end_time": 27.625,
+      "duration": 12.075,
+      "phoneme_count": 172
+    },
+    {
+      "id": 2,
+      "sentence": "Two others were found dead, bringing the total death toll to five.",
+      "paragraph_id": 1,
+      "word_count": 12,
+      "start_time": 27.625,
+      "end_time": 32.45,
+      "duration": 4.825,
+      "phoneme_count": 63
+    },
+    {
+      "id": 3,
+      "sentence": "The National Disaster Management Agency estimated that 59 students were still trapped and presumed dead under the Islamic boarding school, which collapsed during a prayer service on Monday afternoon.",
+      "paragraph_id": 2,
+      "word_count": 29,
+      "start_time": 32.45,
+      "end_time": 46.7,
+      "duration": 14.25,
+      "phoneme_count": 209
+    },
+    {
+      "id": 4,
+      "sentence": "It was unclear how many students were in the building when it fell.",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 46.7,
+      "end_time": 51.05,
+      "duration": 4.35,
+      "phoneme_count": 68
+    },
+    {
+      "id": 5,
+      "sentence": "Indonesia has more than 30,000 Islamic boarding schools, or pesantren, which often draw children from rural areas, according to the Ministry of Religious Affairs.",
+      "paragraph_id": 3,
+      "word_count": 24,
+      "start_time": 51.05,
+      "end_time": 63.5,
+      "duration": 12.45,
+      "phoneme_count": 168
+    },
+    {
+      "id": 6,
+      "sentence": "Al Khoziny, a secondary school built in 1964, has about 1,300 students from across the country.",
+      "paragraph_id": 3,
+      "word_count": 16,
+      "start_time": 63.5,
+      "end_time": 72.75,
+      "duration": 9.25,
+      "phoneme_count": 135
+    }
+  ]
+}

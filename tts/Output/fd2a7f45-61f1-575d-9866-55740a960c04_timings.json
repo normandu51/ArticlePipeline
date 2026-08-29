@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "fd2a7f45-61f1-575d-9866-55740a960c04",
+    "headline": "3 Killed in Antigovernment Protests in Morocco",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/fd2a7f45-61f1-575d-9866-55740a960c04_kokoro.wav",
+    "total_duration": 121.125,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:32:26.539568"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Three people have been killed at antigovernment protests in Morocco, the country\u2019s prime minister said on Thursday, a sixth day of youth-led demonstrations driven by growing anger over heavy spending on preparing for the 2030 soccer World Cup rather than public services.",
+      "paragraph_id": 0,
+      "word_count": 42,
+      "start_time": 0.0,
+      "end_time": 18.975,
+      "duration": 18.975,
+      "phoneme_count": 287
+    },
+    {
+      "id": 1,
+      "sentence": "The protests began last weekend after a loosely organized group known as Gen Z 212 used social media to call for better schools and hospitals and for broader freedoms in the North African country.",
+      "paragraph_id": 1,
+      "word_count": 34,
+      "start_time": 18.975,
+      "end_time": 34.275,
+      "duration": 15.3,
+      "phoneme_count": 222
+    },
+    {
+      "id": 2,
+      "sentence": "Demonstrators initially took to the streets in major cities including Rabat, the capital, and Casablanca, during which they contrasted the millions that the government was spending to host the sporting event with the dire state of public services.",
+      "paragraph_id": 1,
+      "word_count": 38,
+      "start_time": 34.275,
+      "end_time": 50.75,
+      "duration": 16.475,
+      "phoneme_count": 249
+    },
+    {
+      "id": 3,
+      "sentence": "The police said in a statement that they had been forced to act in self-defense after protesters tried to storm a police building and seize weapons, and that two people were killed in that episode.",
+      "paragraph_id": 2,
+      "word_count": 35,
+      "start_time": 50.75,
+      "end_time": 63.325,
+      "duration": 12.575,
+      "phoneme_count": 193
+    },
+    {
+      "id": 4,
+      "sentence": "The authorities did not say how the third person died.",
+      "paragraph_id": 2,
+      "word_count": 10,
+      "start_time": 63.325,
+      "end_time": 67.25,
+      "duration": 3.925,
+      "phoneme_count": 53
+    },
+    {
+      "id": 5,
+      "sentence": "Gen Z 212 said on social media that the killings amounted to \u201ca serious human rights violation.\u201d",
+      "paragraph_id": 3,
+      "word_count": 17,
+      "start_time": 67.25,
+      "end_time": 75.7,
+      "duration": 8.45,
+      "phoneme_count": 116
+    },
+    {
+      "id": 6,
+      "sentence": "Prime Minister Aziz Akhannouch of Morocco said in a televised address to his cabinet on Thursday that his government was ready for a \u201cdialogue and discussion within institutions and public spaces.\u201d But the demonstrators demanded that he step down.",
+      "paragraph_id": 4,
+      "word_count": 39,
+      "start_time": 75.7,
+      "end_time": 92.875,
+      "duration": 17.175,
+      "phoneme_count": 255
+    },
+    {
+      "id": 7,
+      "sentence": "The protests are the latest in a string of youth-led demonstrations that have taken place across the world in recent weeks.",
+      "paragraph_id": 5,
+      "word_count": 21,
+      "start_time": 92.875,
+      "end_time": 101.175,
+      "duration": 8.3,
+      "phoneme_count": 123
+    },
+    {
+      "id": 8,
+      "sentence": "The protests do not appear to be connected, but they reflect growing anger among younger populations over government corruption and limited economic opportunities.",
+      "paragraph_id": 5,
+      "word_count": 23,
+      "start_time": 101.175,
+      "end_time": 112.5,
+      "duration": 11.325,
+      "phoneme_count": 171
+    },
+    {
+      "id": 9,
+      "sentence": "The movements have taken off on social media platforms, tapping into shared anxieties and spurring people to take to the streets.",
+      "paragraph_id": 5,
+      "word_count": 21,
+      "start_time": 112.5,
+      "end_time": 121.125,
+      "duration": 8.625,
+      "phoneme_count": 129
+    }
+  ]
+}

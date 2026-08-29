@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "0217d8e2-4f5a-5751-a505-91c5bdb57bdc",
+    "headline": "The Shutdown Hits New York",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/0217d8e2-4f5a-5751-a505-91c5bdb57bdc_kokoro.wav",
+    "total_duration": 84.625,
+    "sentence_count": 10,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T16:59:30.431910"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Good morning.",
+      "paragraph_id": 0,
+      "word_count": 2,
+      "start_time": 0.0,
+      "end_time": 1.675,
+      "duration": 1.675,
+      "phoneme_count": 13
+    },
+    {
+      "id": 1,
+      "sentence": "It\u2019s Thursday.",
+      "paragraph_id": 0,
+      "word_count": 2,
+      "start_time": 1.675,
+      "end_time": 3.475,
+      "duration": 1.8,
+      "phoneme_count": 14
+    },
+    {
+      "id": 2,
+      "sentence": "Today we\u2019ll look at how the federal government shutdown is playing out in New York.",
+      "paragraph_id": 0,
+      "word_count": 15,
+      "start_time": 3.475,
+      "end_time": 9.25,
+      "duration": 5.775,
+      "phoneme_count": 82
+    },
+    {
+      "id": 3,
+      "sentence": "We\u2019ll also get to the bottom of a rumor that the Yankees kept Red Sox fans out of Yankee Stadium during Game 1 of the American League Wild Card series.",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 9.25,
+      "end_time": 20.375,
+      "duration": 11.125,
+      "phoneme_count": 158
+    },
+    {
+      "id": 4,
+      "sentence": "Ana Maria Carre\u00f1o, a 21-year-old Colombian who is spending a week in New York City, arrived at the Theodore Roosevelt Birthplace National Historic Site on Wednesday hoping to learn more about the 26th president.",
+      "paragraph_id": 1,
+      "word_count": 34,
+      "start_time": 20.375,
+      "end_time": 36.075,
+      "duration": 15.7,
+      "phoneme_count": 239
+    },
+    {
+      "id": 5,
+      "sentence": "Her friend Juanita Corredor said that Carre\u00f1o had described the Rough Rider chief executive as \u201cone of the best presidents the U.S. had\u201d on their way there. \u201cAnd the teddy bear,\u201d Corredor said, mentioning the stuffed toy that was inspired by a presidential hunting trip.",
+      "paragraph_id": 2,
+      "word_count": 45,
+      "start_time": 36.075,
+      "end_time": 53.9,
+      "duration": 17.825,
+      "phoneme_count": 275
+    },
+    {
+      "id": 6,
+      "sentence": "But the lights at the birthplace site were off and the doors were locked, the result of a government shutdown.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 53.9,
+      "end_time": 61.275,
+      "duration": 7.375,
+      "phoneme_count": 105
+    },
+    {
+      "id": 7,
+      "sentence": "A few miles away, Gov.",
+      "paragraph_id": 4,
+      "word_count": 5,
+      "start_time": 61.275,
+      "end_time": 63.725,
+      "duration": 2.45,
+      "phoneme_count": 24
+    },
+    {
+      "id": 8,
+      "sentence": "Kathy Hochul warned that one of the country\u2019s best-known symbols, the Statue of Liberty\u2019s torch, could go dark in the shutdown.",
+      "paragraph_id": 4,
+      "word_count": 21,
+      "start_time": 63.725,
+      "end_time": 72.55,
+      "duration": 8.825,
+      "phoneme_count": 123
+    },
+    {
+      "id": 9,
+      "sentence": "Proposals to end the stalemate failed in the United States Senate on Wednesday, and Democrats and Republicans dug in for what could be an extended fight \u2014 and an extended shutdown.",
+      "paragraph_id": 4,
+      "word_count": 31,
+      "start_time": 72.55,
+      "end_time": 84.625,
+      "duration": 12.075,
+      "phoneme_count": 187
+    }
+  ]
+}

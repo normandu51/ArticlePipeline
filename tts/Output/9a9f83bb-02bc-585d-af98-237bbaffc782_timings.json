@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "article_id": "9a9f83bb-02bc-585d-af98-237bbaffc782",
+    "headline": "South African Politician, Target of Trump Attacks, Is Convicted of Gun Charge",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/9a9f83bb-02bc-585d-af98-237bbaffc782_kokoro.wav",
+    "total_duration": 124.65,
+    "sentence_count": 17,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:57:15.238528"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "A leftist politician in South Africa who became the subject of President Trump\u2019s attacks on the country was convicted on Wednesday of gun charges, a month after a separate court found him guilty of hate speech.",
+      "paragraph_id": 0,
+      "word_count": 36,
+      "start_time": 0.0,
+      "end_time": 14.925,
+      "duration": 14.925,
+      "phoneme_count": 216
+    },
+    {
+      "id": 1,
+      "sentence": "During an Oval Office meeting with South Africa\u2019s president, Cyril Ramaphosa, Mr.",
+      "paragraph_id": 1,
+      "word_count": 12,
+      "start_time": 14.925,
+      "end_time": 21.525,
+      "duration": 6.6,
+      "phoneme_count": 86
+    },
+    {
+      "id": 2,
+      "sentence": "Trump openly accused the leftist politician, Julius Malema, of fomenting violence against white South Africans.",
+      "paragraph_id": 1,
+      "word_count": 15,
+      "start_time": 21.525,
+      "end_time": 30.15,
+      "duration": 8.625,
+      "phoneme_count": 114
+    },
+    {
+      "id": 3,
+      "sentence": "Mr.",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 30.15,
+      "end_time": 31.575,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 4,
+      "sentence": "Trump played a video montage of Mr.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 31.575,
+      "end_time": 34.6,
+      "duration": 3.025,
+      "phoneme_count": 40
+    },
+    {
+      "id": 5,
+      "sentence": "Malema leading chants of \u201cKill the Boer,\u201d or kill the white farmers, a protest song against the violent repression of the country\u2019s Black majority during apartheid.",
+      "paragraph_id": 1,
+      "word_count": 26,
+      "start_time": 34.6,
+      "end_time": 45.95,
+      "duration": 11.35,
+      "phoneme_count": 161
+    },
+    {
+      "id": 6,
+      "sentence": "Although South African officials have not formally denounced the politician or the song, Mr.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 45.95,
+      "end_time": 52.725,
+      "duration": 6.775,
+      "phoneme_count": 90
+    },
+    {
+      "id": 7,
+      "sentence": "Malema has said that his current legal challenges are a result of pressure from Washington after the meeting in the Oval Office.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 52.725,
+      "end_time": 61.625,
+      "duration": 8.9,
+      "phoneme_count": 123
+    },
+    {
+      "id": 8,
+      "sentence": "In a statement, Mr.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 61.625,
+      "end_time": 63.725,
+      "duration": 2.1,
+      "phoneme_count": 23
+    },
+    {
+      "id": 9,
+      "sentence": "Malema\u2019s party, the Economic Freedom Fighters, attributed the verdict to a political climate in which the South African judiciary \u201cis influenced by imperialist and right-wing agendas,\u201d including that of \u201cthe racist right-wing Donald Trump.\u201d",
+      "paragraph_id": 3,
+      "word_count": 34,
+      "start_time": 63.725,
+      "end_time": 80.775,
+      "duration": 17.05,
+      "phoneme_count": 243
+    },
+    {
+      "id": 10,
+      "sentence": "South Africa\u2019s National Prosecuting Authority dismissed the allegations of foreign influence, saying that the verdict reaffirms its \u201ccommitment to upholding the rule of the law\u201d and the administration of justice \u201cwithout fear or favor.\u201d",
+      "paragraph_id": 4,
+      "word_count": 34,
+      "start_time": 80.775,
+      "end_time": 97.6,
+      "duration": 16.825,
+      "phoneme_count": 230
+    },
+    {
+      "id": 11,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 97.6,
+      "end_time": 99.025,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 12,
+      "sentence": "Trump has repeatedly falsely claimed that white South Africans are subject to mass murder in South Africa.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 99.025,
+      "end_time": 106.875,
+      "duration": 7.85,
+      "phoneme_count": 105
+    },
+    {
+      "id": 13,
+      "sentence": "At the White House, Mr.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 106.875,
+      "end_time": 109.05,
+      "duration": 2.175,
+      "phoneme_count": 25
+    },
+    {
+      "id": 14,
+      "sentence": "Ramaphosa dismissed Mr.",
+      "paragraph_id": 5,
+      "word_count": 3,
+      "start_time": 109.05,
+      "end_time": 111.625,
+      "duration": 2.575,
+      "phoneme_count": 27
+    },
+    {
+      "id": 15,
+      "sentence": "Malema as a member of \u201ca small minority party\u201d and emphasized that his statements were not government policy.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 111.625,
+      "end_time": 119.75,
+      "duration": 8.125,
+      "phoneme_count": 113
+    },
+    {
+      "id": 16,
+      "sentence": "But, he added, South Africa \u201callows people to express themselves.\u201d",
+      "paragraph_id": 5,
+      "word_count": 10,
+      "start_time": 119.75,
+      "end_time": 124.65,
+      "duration": 4.9,
+      "phoneme_count": 66
+    }
+  ]
+}

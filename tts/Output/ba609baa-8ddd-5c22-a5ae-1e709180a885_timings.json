@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "ba609baa-8ddd-5c22-a5ae-1e709180a885",
+    "headline": "\u2018Dangerous Cities,\u2019 the Military, Trump and the Founding Fathers",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/ba609baa-8ddd-5c22-a5ae-1e709180a885_kokoro.wav",
+    "total_duration": 98.125,
+    "sentence_count": 13,
+    "paragraph_count": 8,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:07:49.865953"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "In the middle of Tuesday\u2019s rambling speech at Marine Corps Base Quantico in Virginia, President Trump told hundreds of the country\u2019s military commanders his latest thinking on where they should next set their sights.",
+      "paragraph_id": 0,
+      "word_count": 34,
+      "start_time": 0.0,
+      "end_time": 13.925,
+      "duration": 13.925,
+      "phoneme_count": 217
+    },
+    {
+      "id": 1,
+      "sentence": "Not Poland, or Romania, or Estonia or Denmark, all NATO allies where Russian drones have in the past month violated airspace in a challenge to the alliance\u2019s borders.",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 13.925,
+      "end_time": 26.55,
+      "duration": 12.625,
+      "phoneme_count": 169
+    },
+    {
+      "id": 2,
+      "sentence": "The president chose San Francisco.",
+      "paragraph_id": 2,
+      "word_count": 5,
+      "start_time": 26.55,
+      "end_time": 29.575,
+      "duration": 3.025,
+      "phoneme_count": 36
+    },
+    {
+      "id": 3,
+      "sentence": "Chicago.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 29.575,
+      "end_time": 31.225,
+      "duration": 1.65,
+      "phoneme_count": 8
+    },
+    {
+      "id": 4,
+      "sentence": "New York.",
+      "paragraph_id": 2,
+      "word_count": 2,
+      "start_time": 31.225,
+      "end_time": 32.725,
+      "duration": 1.5,
+      "phoneme_count": 10
+    },
+    {
+      "id": 5,
+      "sentence": "Los Angeles.",
+      "paragraph_id": 2,
+      "word_count": 2,
+      "start_time": 32.725,
+      "end_time": 34.625,
+      "duration": 1.9,
+      "phoneme_count": 13
+    },
+    {
+      "id": 6,
+      "sentence": "\u201cWe\u2019re going to straighten that out one by one, and this is going to be a major part for some of the people in this room,\u201d Mr.",
+      "paragraph_id": 3,
+      "word_count": 27,
+      "start_time": 34.625,
+      "end_time": 42.7,
+      "duration": 8.075,
+      "phoneme_count": 128
+    },
+    {
+      "id": 7,
+      "sentence": "Trump told the generals, admirals and enlisted leaders, referring to what he has described as crime-filled urban hellscapes.",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 42.7,
+      "end_time": 51.625,
+      "duration": 8.925,
+      "phoneme_count": 126
+    },
+    {
+      "id": 8,
+      "sentence": "\u201cIt\u2019s a war from within,\u201d he said.",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 51.625,
+      "end_time": 54.375,
+      "duration": 2.75,
+      "phoneme_count": 35
+    },
+    {
+      "id": 9,
+      "sentence": "In that moment, the president again pitted himself against the wishes of the country\u2019s founding fathers, historians and former military leaders say.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 54.375,
+      "end_time": 64.25,
+      "duration": 9.875,
+      "phoneme_count": 151
+    },
+    {
+      "id": 10,
+      "sentence": "Mr.",
+      "paragraph_id": 6,
+      "word_count": 1,
+      "start_time": 64.25,
+      "end_time": 65.675,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 11,
+      "sentence": "Trump\u2019s suggestion that \u201cwe should use some of these dangerous cities as training grounds for our military\u201d is in tension with a core principle that the country\u2019s armed services have long sought to preserve \u2014 that the military should be nonpartisan.",
+      "paragraph_id": 6,
+      "word_count": 41,
+      "start_time": 65.675,
+      "end_time": 81.95,
+      "duration": 16.275,
+      "phoneme_count": 240
+    },
+    {
+      "id": 12,
+      "sentence": "This principle, with its deep roots in American democratic traditions, is meant to ensure that the standing army initially feared by the country\u2019s founding fathers serves the nation as a whole, and not one political party or leader.",
+      "paragraph_id": 7,
+      "word_count": 38,
+      "start_time": 81.95,
+      "end_time": 98.125,
+      "duration": 16.175,
+      "phoneme_count": 231
+    }
+  ]
+}

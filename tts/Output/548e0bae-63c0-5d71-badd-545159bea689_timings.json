@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "article_id": "548e0bae-63c0-5d71-badd-545159bea689",
+    "headline": "Trump Isn\u2019t Busting Drug Cartels. He\u2019s Settling Scores.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/548e0bae-63c0-5d71-badd-545159bea689_kokoro.wav",
+    "total_duration": 220.725,
+    "sentence_count": 32,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:28:08.605022"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Over the past month, the world has watched as the United States flexed its military muscle across the Caribbean Sea.",
+      "paragraph_id": 0,
+      "word_count": 20,
+      "start_time": 0.0,
+      "end_time": 8.275,
+      "duration": 8.275,
+      "phoneme_count": 119
+    },
+    {
+      "id": 1,
+      "sentence": "It has blown up three boats, killing at least 17 people in what U.N. officials have called extrajudicial executions.",
+      "paragraph_id": 0,
+      "word_count": 19,
+      "start_time": 8.275,
+      "end_time": 16.95,
+      "duration": 8.675,
+      "phoneme_count": 128
+    },
+    {
+      "id": 2,
+      "sentence": "It has deployed amphibious vessels, ships loaded with guided missile systems and a nuclear-powered submarine to the region.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 16.95,
+      "end_time": 25.65,
+      "duration": 8.7,
+      "phoneme_count": 120
+    },
+    {
+      "id": 3,
+      "sentence": "It has sent 10 F-35 stealth fighter jets to Puerto Rico.",
+      "paragraph_id": 0,
+      "word_count": 11,
+      "start_time": 25.65,
+      "end_time": 30.875,
+      "duration": 5.225,
+      "phoneme_count": 72
+    },
+    {
+      "id": 4,
+      "sentence": "And it has done so, the White House claims, to counter a huge drug-trafficking effort headed by none other than President Nicol\u00e1s Maduro of Venezuela.",
+      "paragraph_id": 0,
+      "word_count": 25,
+      "start_time": 30.875,
+      "end_time": 41.75,
+      "duration": 10.875,
+      "phoneme_count": 155
+    },
+    {
+      "id": 5,
+      "sentence": "To be clear: Venezuela is not one of America\u2019s main illicit drug suppliers.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 41.75,
+      "end_time": 48.225,
+      "duration": 6.475,
+      "phoneme_count": 82
+    },
+    {
+      "id": 6,
+      "sentence": "Venezuela accounts for very little of the cocaine that enters the United States, and it plays almost no role in the fentanyl trade, according to the Drug Enforcement Administration.",
+      "paragraph_id": 1,
+      "word_count": 29,
+      "start_time": 48.225,
+      "end_time": 60.8,
+      "duration": 12.575,
+      "phoneme_count": 186
+    },
+    {
+      "id": 7,
+      "sentence": "That hasn\u2019t prevented the Trump administration from slapping a $50 million bounty on Mr.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 60.8,
+      "end_time": 67.95,
+      "duration": 7.15,
+      "phoneme_count": 106
+    },
+    {
+      "id": 8,
+      "sentence": "Maduro\u2019s head or Attorney General Pam Bondi from calling him \u201cone of the largest narcotraffickers in the world and a threat to our national security.\u201d",
+      "paragraph_id": 1,
+      "word_count": 25,
+      "start_time": 67.95,
+      "end_time": 78.725,
+      "duration": 10.775,
+      "phoneme_count": 155
+    },
+    {
+      "id": 9,
+      "sentence": "The regime in Caracas is certainly not without its sins.",
+      "paragraph_id": 2,
+      "word_count": 10,
+      "start_time": 78.725,
+      "end_time": 83.25,
+      "duration": 4.525,
+      "phoneme_count": 56
+    },
+    {
+      "id": 10,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 83.25,
+      "end_time": 84.675,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 11,
+      "sentence": "Maduro is a dictator who has facilitated illicit commerce in gold, money laundering, arms and drugs.",
+      "paragraph_id": 2,
+      "word_count": 16,
+      "start_time": 84.675,
+      "end_time": 92.575,
+      "duration": 7.9,
+      "phoneme_count": 107
+    },
+    {
+      "id": 12,
+      "sentence": "He has brutally repressed his opponents, crushed civil rights and democratic institutions and presided over one of the world\u2019s worst economic catastrophes.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 92.575,
+      "end_time": 103.35,
+      "duration": 10.775,
+      "phoneme_count": 162
+    },
+    {
+      "id": 13,
+      "sentence": "Roughly eight million people have fled the country since he came to power in 2013.",
+      "paragraph_id": 2,
+      "word_count": 15,
+      "start_time": 103.35,
+      "end_time": 109.675,
+      "duration": 6.325,
+      "phoneme_count": 90
+    },
+    {
+      "id": 14,
+      "sentence": "But the threat that Venezuela\u2019s drug trafficking networks are said to pose does not justify an American military mobilization this large \u2014 at least not convincingly.",
+      "paragraph_id": 2,
+      "word_count": 26,
+      "start_time": 109.675,
+      "end_time": 121.525,
+      "duration": 11.85,
+      "phoneme_count": 172
+    },
+    {
+      "id": 15,
+      "sentence": "The real reason for the armed legion, analysts and many Venezuelans believe, is to send a message to Mr.",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 121.525,
+      "end_time": 129.65,
+      "duration": 8.125,
+      "phoneme_count": 111
+    },
+    {
+      "id": 16,
+      "sentence": "Maduro and his supporters: Your days are numbered.",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 129.65,
+      "end_time": 133.8,
+      "duration": 4.15,
+      "phoneme_count": 50
+    },
+    {
+      "id": 17,
+      "sentence": "What some powerful members of the Trump administration want is regime change, and they want it as cheaply as possible.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 133.8,
+      "end_time": 142.075,
+      "duration": 8.275,
+      "phoneme_count": 118
+    },
+    {
+      "id": 18,
+      "sentence": "The thousands of U.S. troops floating off Venezuelan shores are unlikely to invade the country, though there are now reportedly plans to deploy drones to attack drug-related targets in Venezuelan territory.",
+      "paragraph_id": 3,
+      "word_count": 31,
+      "start_time": 142.075,
+      "end_time": 156.725,
+      "duration": 14.65,
+      "phoneme_count": 207
+    },
+    {
+      "id": 19,
+      "sentence": "The White House may be hoping that this show of force will convince top Venezuelan brass that they are next and that they had best defect and overthrow Mr.",
+      "paragraph_id": 3,
+      "word_count": 29,
+      "start_time": 156.725,
+      "end_time": 167.45,
+      "duration": 10.725,
+      "phoneme_count": 153
+    },
+    {
+      "id": 20,
+      "sentence": "Maduro.",
+      "paragraph_id": 3,
+      "word_count": 1,
+      "start_time": 167.45,
+      "end_time": 169.1,
+      "duration": 1.65,
+      "phoneme_count": 8
+    },
+    {
+      "id": 21,
+      "sentence": "Speedy regime change in Venezuela has always been President Trump\u2019s plan.",
+      "paragraph_id": 4,
+      "word_count": 11,
+      "start_time": 169.1,
+      "end_time": 175.15,
+      "duration": 6.05,
+      "phoneme_count": 78
+    },
+    {
+      "id": 22,
+      "sentence": "It just didn\u2019t work the last time.",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 175.15,
+      "end_time": 177.875,
+      "duration": 2.725,
+      "phoneme_count": 38
+    },
+    {
+      "id": 23,
+      "sentence": "In his first term Mr.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 177.875,
+      "end_time": 180.075,
+      "duration": 2.2,
+      "phoneme_count": 27
+    },
+    {
+      "id": 24,
+      "sentence": "Trump mounted a pressure campaign just short of military intervention to try to unseat the Venezuelan dictator.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 180.075,
+      "end_time": 188.675,
+      "duration": 8.6,
+      "phoneme_count": 120
+    },
+    {
+      "id": 25,
+      "sentence": "In 2019, after Mr.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 188.675,
+      "end_time": 191.625,
+      "duration": 2.95,
+      "phoneme_count": 35
+    },
+    {
+      "id": 26,
+      "sentence": "Maduro claimed victory in disputed elections, the White House imposed broad economic sanctions on Venezuela.",
+      "paragraph_id": 5,
+      "word_count": 15,
+      "start_time": 191.625,
+      "end_time": 200.375,
+      "duration": 8.75,
+      "phoneme_count": 114
+    },
+    {
+      "id": 27,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 200.375,
+      "end_time": 201.8,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 28,
+      "sentence": "Trump publicly backed Juan Guaid\u00f3, the leader of Venezuela\u2019s legislature, as the country\u2019s legitimate leader.",
+      "paragraph_id": 5,
+      "word_count": 15,
+      "start_time": 201.8,
+      "end_time": 210.25,
+      "duration": 8.45,
+      "phoneme_count": 112
+    },
+    {
+      "id": 29,
+      "sentence": "With Mr.",
+      "paragraph_id": 5,
+      "word_count": 2,
+      "start_time": 210.25,
+      "end_time": 211.85,
+      "duration": 1.6,
+      "phoneme_count": 12
+    },
+    {
+      "id": 30,
+      "sentence": "Trump\u2019s blessing, Mr.",
+      "paragraph_id": 5,
+      "word_count": 3,
+      "start_time": 211.85,
+      "end_time": 214.05,
+      "duration": 2.2,
+      "phoneme_count": 24
+    },
+    {
+      "id": 31,
+      "sentence": "Guaid\u00f3 called on his supporters to rise up against the regime and asked the military to defect.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 214.05,
+      "end_time": 220.725,
+      "duration": 6.675,
+      "phoneme_count": 98
+    }
+  ]
+}

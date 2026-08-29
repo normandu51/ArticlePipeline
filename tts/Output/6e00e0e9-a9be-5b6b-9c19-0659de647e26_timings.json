@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "article_id": "6e00e0e9-a9be-5b6b-9c19-0659de647e26",
+    "headline": "Hasan Piker Is Flirting With the Revolution",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/6e00e0e9-a9be-5b6b-9c19-0659de647e26_kokoro.wav",
+    "total_duration": 80.85,
+    "sentence_count": 12,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:33:17.289811"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Hasan Piker has no filter.",
+      "paragraph_id": 0,
+      "word_count": 5,
+      "start_time": 0.0,
+      "end_time": 2.8,
+      "duration": 2.8,
+      "phoneme_count": 30
+    },
+    {
+      "id": 1,
+      "sentence": "Or at least that\u2019s the sympathetic way to describe his marathon Twitch broadcasts, which cover everything from the war in Gaza to his workout regimen.",
+      "paragraph_id": 1,
+      "word_count": 25,
+      "start_time": 2.8,
+      "end_time": 13.275,
+      "duration": 10.475,
+      "phoneme_count": 154
+    },
+    {
+      "id": 2,
+      "sentence": "He\u2019s a self-proclaimed anti-imperialist Marxist who\u2019s been called a Joe Rogan of the left, and who\u2019s compared himself to Rush Limbaugh.",
+      "paragraph_id": 2,
+      "word_count": 21,
+      "start_time": 13.275,
+      "end_time": 22.45,
+      "duration": 9.175,
+      "phoneme_count": 133
+    },
+    {
+      "id": 3,
+      "sentence": "And he keeps getting suspended from his platform, Twitch, for language that he calls hyperbole and other people call incitement.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 22.45,
+      "end_time": 31.15,
+      "duration": 8.7,
+      "phoneme_count": 130
+    },
+    {
+      "id": 4,
+      "sentence": "Is he the future of the American left?",
+      "paragraph_id": 3,
+      "word_count": 8,
+      "start_time": 31.15,
+      "end_time": 34.25,
+      "duration": 3.1,
+      "phoneme_count": 40
+    },
+    {
+      "id": 5,
+      "sentence": "Part of our cycle of radicalization?",
+      "paragraph_id": 3,
+      "word_count": 6,
+      "start_time": 34.25,
+      "end_time": 37.425,
+      "duration": 3.175,
+      "phoneme_count": 40
+    },
+    {
+      "id": 6,
+      "sentence": "Or just another example of how the internet drives everyone insane?",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 37.425,
+      "end_time": 42.525,
+      "duration": 5.1,
+      "phoneme_count": 72
+    },
+    {
+      "id": 7,
+      "sentence": "Below is an edited transcript of an episode of \u201cInteresting Times.\u201d We recommend listening to it in its original form for the full effect.",
+      "paragraph_id": 4,
+      "word_count": 24,
+      "start_time": 42.525,
+      "end_time": 52.875,
+      "duration": 10.35,
+      "phoneme_count": 143
+    },
+    {
+      "id": 8,
+      "sentence": "You can do so using the player above or on Apple, Spotify, Amazon Music, YouTube, iHeartRadio or wherever you get your podcasts.",
+      "paragraph_id": 4,
+      "word_count": 22,
+      "start_time": 52.875,
+      "end_time": 62.975,
+      "duration": 10.1,
+      "phoneme_count": 139
+    },
+    {
+      "id": 9,
+      "sentence": "Ross Douthat: Hasan Piker, welcome to \u201cInteresting Times.\u201d",
+      "paragraph_id": 5,
+      "word_count": 8,
+      "start_time": 62.975,
+      "end_time": 67.8,
+      "duration": 4.825,
+      "phoneme_count": 58
+    },
+    {
+      "id": 10,
+      "sentence": "Hasan Piker: We are living in some interesting times, considering that it is you, Ross Douthat, who is interviewing me for The New York Times.",
+      "paragraph_id": 6,
+      "word_count": 25,
+      "start_time": 67.8,
+      "end_time": 77.9,
+      "duration": 10.1,
+      "phoneme_count": 141
+    },
+    {
+      "id": 11,
+      "sentence": "I feel like that\u2019s very interesting.",
+      "paragraph_id": 6,
+      "word_count": 6,
+      "start_time": 77.9,
+      "end_time": 80.85,
+      "duration": 2.95,
+      "phoneme_count": 36
+    }
+  ]
+}

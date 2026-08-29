@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47",
+    "headline": "Heaviest Users of Snapchat Will Face a Small Charge for Storage",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/f23e35b3-3772-5bf0-b8ab-11a6c2bdcc47_kokoro.wav",
+    "total_duration": 196.625,
+    "sentence_count": 18,
+    "paragraph_count": 12,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:30:11.789252"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Snapchat, the social media platform, will ask its most prolific users to pay a small monthly sum to ensure that their \u201cMemories\u201d live on.",
+      "paragraph_id": 0,
+      "word_count": 24,
+      "start_time": 0.0,
+      "end_time": 9.925,
+      "duration": 9.925,
+      "phoneme_count": 142
+    },
+    {
+      "id": 1,
+      "sentence": "Memories are a feature, which the platform introduced in 2016, to allow users to save photos and videos, instead of letting them disappear after a short time.",
+      "paragraph_id": 1,
+      "word_count": 27,
+      "start_time": 9.925,
+      "end_time": 22.1,
+      "duration": 12.175,
+      "phoneme_count": 172
+    },
+    {
+      "id": 2,
+      "sentence": "But the success of the feature \u2014 more than one trillion Memories have been saved \u2014 has pushed Snapchat\u2019s parent company, Snap Inc., to introduce paid storage plans to help cope with rising infrastructure costs, it says.",
+      "paragraph_id": 2,
+      "word_count": 37,
+      "start_time": 22.1,
+      "end_time": 37.2,
+      "duration": 15.1,
+      "phoneme_count": 221
+    },
+    {
+      "id": 3,
+      "sentence": "Charging users who have the most storage needs, the company said, will ensure that the vast majority of users will continue to have access.",
+      "paragraph_id": 2,
+      "word_count": 24,
+      "start_time": 37.2,
+      "end_time": 47.075,
+      "duration": 9.875,
+      "phoneme_count": 140
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cWhen we first launched Memories, we never expected it to grow to what it has become today,\u201d the company said in a news release last week.",
+      "paragraph_id": 3,
+      "word_count": 26,
+      "start_time": 47.075,
+      "end_time": 56.575,
+      "duration": 9.5,
+      "phoneme_count": 140
+    },
+    {
+      "id": 5,
+      "sentence": "Snapchat has 460 million daily active users and 900 million monthly active users, according to recent data, making it among the most popular social media platforms in the world.",
+      "paragraph_id": 4,
+      "word_count": 29,
+      "start_time": 56.575,
+      "end_time": 70.9,
+      "duration": 14.325,
+      "phoneme_count": 215
+    },
+    {
+      "id": 6,
+      "sentence": "About 60 percent of its users are between the ages of 18 to 34.",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 70.9,
+      "end_time": 76.9,
+      "duration": 6.0,
+      "phoneme_count": 83
+    },
+    {
+      "id": 7,
+      "sentence": "Only users with more than five gigabytes of Memories \u2014 the equivalent of thousands of Snaps \u2014 will face the new charge, the company says.",
+      "paragraph_id": 5,
+      "word_count": 25,
+      "start_time": 76.9,
+      "end_time": 86.9,
+      "duration": 10.0,
+      "phoneme_count": 136
+    },
+    {
+      "id": 8,
+      "sentence": "But the charge doesn\u2019t kick in until 12 months from now.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 86.9,
+      "end_time": 90.9,
+      "duration": 4.0,
+      "phoneme_count": 62
+    },
+    {
+      "id": 9,
+      "sentence": "Snapchat will continue to store Memories that exceed the five-gigabyte storage limit for about that time.",
+      "paragraph_id": 6,
+      "word_count": 16,
+      "start_time": 90.9,
+      "end_time": 98.375,
+      "duration": 7.475,
+      "phoneme_count": 104
+    },
+    {
+      "id": 10,
+      "sentence": "If a user is over the limit and does not sign up for a plan, their oldest photos and videos will be saved.",
+      "paragraph_id": 6,
+      "word_count": 23,
+      "start_time": 98.375,
+      "end_time": 105.95,
+      "duration": 7.575,
+      "phoneme_count": 112
+    },
+    {
+      "id": 11,
+      "sentence": "The most recent ones that exceed the limit are the ones that will be deleted.",
+      "paragraph_id": 6,
+      "word_count": 15,
+      "start_time": 105.95,
+      "end_time": 111.35,
+      "duration": 5.4,
+      "phoneme_count": 76
+    },
+    {
+      "id": 12,
+      "sentence": "Users are always able to download their photos and videos directly to their devices, the company said.",
+      "paragraph_id": 7,
+      "word_count": 17,
+      "start_time": 111.35,
+      "end_time": 119.05,
+      "duration": 7.7,
+      "phoneme_count": 104
+    },
+    {
+      "id": 13,
+      "sentence": "The introductory storage plan allows for 100 gigabytes of storage for $1.99 per month, a Snapchat spokeswoman said on Wednesday.",
+      "paragraph_id": 8,
+      "word_count": 20,
+      "start_time": 119.05,
+      "end_time": 130.675,
+      "duration": 11.625,
+      "phoneme_count": 170
+    },
+    {
+      "id": 14,
+      "sentence": "Snapchat+ users, who pay for extra features, will get up to 250GB of storage as part of their $3.99 monthly subscription, while Snapchat Platinum users will get five terabytes (5,000 gigabytes) as part of their $14.99 monthly subscription.",
+      "paragraph_id": 8,
+      "word_count": 38,
+      "start_time": 130.675,
+      "end_time": 152.875,
+      "duration": 22.2,
+      "phoneme_count": 339
+    },
+    {
+      "id": 15,
+      "sentence": "For those outside the United States, the spokeswoman said, prices may vary slightly, depending on the market and the local currency.",
+      "paragraph_id": 9,
+      "word_count": 21,
+      "start_time": 152.875,
+      "end_time": 161.875,
+      "duration": 9.0,
+      "phoneme_count": 134
+    },
+    {
+      "id": 16,
+      "sentence": "\u201cIt\u2019s never easy to transition from receiving a service for free to paying for it, but we hope the value we provide with Memories is worth the cost,\u201d the company said in the news release. \u201cThese changes will allow us to continue to invest in making Memories better for our entire community.\u201d",
+      "paragraph_id": 10,
+      "word_count": 52,
+      "start_time": 161.875,
+      "end_time": 181.425,
+      "duration": 19.55,
+      "phoneme_count": 291
+    },
+    {
+      "id": 17,
+      "sentence": "While it\u2019s unusual for a social media platform to charge for data storage, companies like Amazon, Apple, Dropbox, Google and Microsoft all charge a fee for cloud storage once a user reaches a limit.",
+      "paragraph_id": 11,
+      "word_count": 34,
+      "start_time": 181.425,
+      "end_time": 196.625,
+      "duration": 15.2,
+      "phoneme_count": 211
+    }
+  ]
+}

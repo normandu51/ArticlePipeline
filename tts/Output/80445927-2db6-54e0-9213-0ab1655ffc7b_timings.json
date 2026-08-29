@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "article_id": "80445927-2db6-54e0-9213-0ab1655ffc7b",
+    "headline": "E.P.A. Shutdown Plan Leaves Workers Unsure About Pay and Furlough Status",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/80445927-2db6-54e0-9213-0ab1655ffc7b_kokoro.wav",
+    "total_duration": 49.675,
+    "sentence_count": 4,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:49:46.956394"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Environmental Protection Agency employees who expected to be furloughed in the government shutdown were working on Wednesday after receiving a letter late Tuesday informing them that they \u201cwork on activities which currently have funds available.\u201d",
+      "paragraph_id": 0,
+      "word_count": 35,
+      "start_time": 0.0,
+      "end_time": 16.5,
+      "duration": 16.5,
+      "phoneme_count": 247
+    },
+    {
+      "id": 1,
+      "sentence": "It was unclear how many of the 15,166 employees at the E.P.A. received the exemption notice, but union officials said that they believed it to have been nearly the entire staff.",
+      "paragraph_id": 1,
+      "word_count": 31,
+      "start_time": 16.5,
+      "end_time": 30.575,
+      "duration": 14.075,
+      "phoneme_count": 213
+    },
+    {
+      "id": 2,
+      "sentence": "A spokeswoman for Lee Zeldin, the E.P.A. administrator, said that the agency was operating under its shutdown plan.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 30.575,
+      "end_time": 39.3,
+      "duration": 8.725,
+      "phoneme_count": 121
+    },
+    {
+      "id": 3,
+      "sentence": "That plan, however, calls for only 1,734 employees \u2014 about 11 percent of the staff \u2014 to continue working.",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 39.3,
+      "end_time": 49.675,
+      "duration": 10.375,
+      "phoneme_count": 149
+    }
+  ]
+}

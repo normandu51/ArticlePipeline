@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "7ca6f3d7-d99c-5539-88a7-b79a219e68c7",
+    "headline": "\u2018Caroline\u2019 Review: Chlo\u00eb Grace Moretz as a Mother Starting Over",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/7ca6f3d7-d99c-5539-88a7-b79a219e68c7_kokoro.wav",
+    "total_duration": 108.95,
+    "sentence_count": 13,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:49:12.058864"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Caroline is 9 years old, bright and curious, with the precociousness of an only child and the precisely tuned alertness that comes from growing up with an addict in the house.",
+      "paragraph_id": 0,
+      "word_count": 31,
+      "start_time": 0.0,
+      "end_time": 11.7,
+      "duration": 11.7,
+      "phoneme_count": 172
+    },
+    {
+      "id": 1,
+      "sentence": "Though her mother, Maddie, has been sober since Caroline was a baby, this is a kid who can sense an eggshell cracking the millisecond someone sets a toe on it.",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 11.7,
+      "end_time": 22.6,
+      "duration": 10.9,
+      "phoneme_count": 158
+    },
+    {
+      "id": 2,
+      "sentence": "Still, it never occurred to Caroline to question the basic fact of her not having grandparents on her mother\u2019s side.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 22.6,
+      "end_time": 30.175,
+      "duration": 7.575,
+      "phoneme_count": 120
+    },
+    {
+      "id": 3,
+      "sentence": "They were dead, weren\u2019t they?",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 30.175,
+      "end_time": 32.3,
+      "duration": 2.125,
+      "phoneme_count": 24
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cMetaphorically,\u201d Maddie says, revealing their existence only because she and Caroline \u2014 whose father died when she was tiny \u2014 have been plunged into a quietly desperate emergency.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 32.3,
+      "end_time": 44.5,
+      "duration": 12.2,
+      "phoneme_count": 177
+    },
+    {
+      "id": 5,
+      "sentence": "They need safety, and they need a place to start over.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 44.5,
+      "end_time": 48.35,
+      "duration": 3.85,
+      "phoneme_count": 53
+    },
+    {
+      "id": 6,
+      "sentence": "Maybe, Maddie hopes, her comfortably moneyed parents will help.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 48.35,
+      "end_time": 52.95,
+      "duration": 4.6,
+      "phoneme_count": 63
+    },
+    {
+      "id": 7,
+      "sentence": "Preston Max Allen\u2019s new play, \u201cCaroline,\u201d at MCC Theater, opens on Maddie (Chlo\u00eb Grace Moretz) and Caroline (River Lipe-Smith) in a booth at a diner in Ohio.",
+      "paragraph_id": 3,
+      "word_count": 27,
+      "start_time": 52.95,
+      "end_time": 64.95,
+      "duration": 12.0,
+      "phoneme_count": 169
+    },
+    {
+      "id": 8,
+      "sentence": "They seem like any weary working-class mother and daughter on a road trip, ordering from an all-day breakfast menu \u2014 except that Caroline\u2019s arm is in a sling.",
+      "paragraph_id": 3,
+      "word_count": 28,
+      "start_time": 64.95,
+      "end_time": 76.175,
+      "duration": 11.225,
+      "phoneme_count": 159
+    },
+    {
+      "id": 9,
+      "sentence": "That freshly set bone, broken in a fit of fury by Maddie\u2019s now ex-partner, is the injury that sent them fleeing their home in West Virginia.",
+      "paragraph_id": 3,
+      "word_count": 26,
+      "start_time": 76.175,
+      "end_time": 86.175,
+      "duration": 10.0,
+      "phoneme_count": 144
+    },
+    {
+      "id": 10,
+      "sentence": "In David Cromer\u2019s sensitively judged production, we pick up on the particulars of their situation bit by bit.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 86.175,
+      "end_time": 94.075,
+      "duration": 7.9,
+      "phoneme_count": 114
+    },
+    {
+      "id": 11,
+      "sentence": "What we grasp immediately, though, from Maddie\u2019s protective attentiveness and Caroline\u2019s regular-kid ease, is the strength of the bond between them.",
+      "paragraph_id": 4,
+      "word_count": 21,
+      "start_time": 94.075,
+      "end_time": 103.925,
+      "duration": 9.85,
+      "phoneme_count": 140
+    },
+    {
+      "id": 12,
+      "sentence": "They are as precious and necessary to each other as the air they breathe.",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 103.925,
+      "end_time": 108.95,
+      "duration": 5.025,
+      "phoneme_count": 65
+    }
+  ]
+}

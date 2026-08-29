@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "article_id": "ea066348-895d-504e-b9f5-e6edae8282e9",
+    "headline": "Tesla\u2019s Car Sales Rose 7% as U.S. E.V. Tax Credit Was Ending",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/ea066348-895d-504e-b9f5-e6edae8282e9_kokoro.wav",
+    "total_duration": 104.825,
+    "sentence_count": 9,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:28:18.721680"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Tesla sales jumped from July to September, breaking a string of quarterly declines, as U.S. car buyers raced to collect federal tax credits of up to $7,500 before the incentives expired at the end of last month.",
+      "paragraph_id": 0,
+      "word_count": 37,
+      "start_time": 0.0,
+      "end_time": 16.85,
+      "duration": 16.85,
+      "phoneme_count": 254
+    },
+    {
+      "id": 1,
+      "sentence": "But other automakers, including Ford Motor, General Motors and Hyundai, reported much sharper jumps in U.S. electric vehicle sales during the third quarter.",
+      "paragraph_id": 1,
+      "word_count": 23,
+      "start_time": 16.85,
+      "end_time": 28.15,
+      "duration": 11.3,
+      "phoneme_count": 166
+    },
+    {
+      "id": 2,
+      "sentence": "Analysts and industry executives expect sales of electric vehicles to slump in coming months because Congress ended the tax credits and other incentives.",
+      "paragraph_id": 2,
+      "word_count": 23,
+      "start_time": 28.15,
+      "end_time": 39.175,
+      "duration": 11.025,
+      "phoneme_count": 163
+    },
+    {
+      "id": 3,
+      "sentence": "Tesla said it delivered 497,000 vehicles worldwide in the third quarter, up 7 percent from 463,000 a year earlier.",
+      "paragraph_id": 3,
+      "word_count": 19,
+      "start_time": 39.175,
+      "end_time": 50.5,
+      "duration": 11.325,
+      "phoneme_count": 179
+    },
+    {
+      "id": 4,
+      "sentence": "Elon Musk, the company\u2019s chief executive, has increasingly downplayed the importance to the company of selling cars, betting instead on self-driving taxis and humanoid robots that are still being developed and do not generate significant revenue.",
+      "paragraph_id": 3,
+      "word_count": 36,
+      "start_time": 50.5,
+      "end_time": 67.8,
+      "duration": 17.3,
+      "phoneme_count": 255
+    },
+    {
+      "id": 5,
+      "sentence": "The company also said on Thursday that sales of large batteries had risen more than 80 percent.",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 67.8,
+      "end_time": 75.2,
+      "duration": 7.4,
+      "phoneme_count": 98
+    },
+    {
+      "id": 6,
+      "sentence": "Storage batteries, which utilities are adding to the electric grid to smooth out the fluctuations of solar and wind energy, have become an increasingly important business for Tesla.",
+      "paragraph_id": 4,
+      "word_count": 28,
+      "start_time": 75.2,
+      "end_time": 87.8,
+      "duration": 12.6,
+      "phoneme_count": 180
+    },
+    {
+      "id": 7,
+      "sentence": "In July, President Trump signed a law passed by Republicans in Congress that did away with a tax credit of up to $7,500 available to people who bought or leased electric vehicles.",
+      "paragraph_id": 5,
+      "word_count": 32,
+      "start_time": 87.8,
+      "end_time": 102.25,
+      "duration": 14.45,
+      "phoneme_count": 213
+    },
+    {
+      "id": 8,
+      "sentence": "The credit ended on Tuesday.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 102.25,
+      "end_time": 104.825,
+      "duration": 2.575,
+      "phoneme_count": 30
+    }
+  ]
+}

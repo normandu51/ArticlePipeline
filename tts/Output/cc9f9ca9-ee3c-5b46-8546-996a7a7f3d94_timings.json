@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "article_id": "cc9f9ca9-ee3c-5b46-8546-996a7a7f3d94",
+    "headline": "Immigration Judge Rejects Abrego Garcia\u2019s Efforts to Seek Asylum in U.S.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/cc9f9ca9-ee3c-5b46-8546-996a7a7f3d94_kokoro.wav",
+    "total_duration": 68.175,
+    "sentence_count": 7,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:13:44.654939"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "An immigration judge has rejected a request by Kilmar Armando Abrego Garcia, the immigrant who was mistakenly deported to El Salvador in March and then brought back to face criminal charges, to seek asylum in the United States.",
+      "paragraph_id": 0,
+      "word_count": 38,
+      "start_time": 0.0,
+      "end_time": 16.175,
+      "duration": 16.175,
+      "phoneme_count": 236
+    },
+    {
+      "id": 1,
+      "sentence": "The decision by the judge in Baltimore on Wednesday foreclosed one of the options that Mr.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 16.175,
+      "end_time": 22.725,
+      "duration": 6.55,
+      "phoneme_count": 91
+    },
+    {
+      "id": 2,
+      "sentence": "Abrego Garcia\u2019s lawyers had tried in an effort to keep him in the country.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 22.725,
+      "end_time": 27.975,
+      "duration": 5.25,
+      "phoneme_count": 74
+    },
+    {
+      "id": 3,
+      "sentence": "While the ruling meant that a final order of removal that was first imposed on Mr.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 27.975,
+      "end_time": 34.05,
+      "duration": 6.075,
+      "phoneme_count": 87
+    },
+    {
+      "id": 4,
+      "sentence": "Abrego Garcia in 2019 remained in place, the Trump administration cannot deport him again until a separate case he filed in Federal District Court in Maryland is resolved.",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 34.05,
+      "end_time": 47.425,
+      "duration": 13.375,
+      "phoneme_count": 192
+    },
+    {
+      "id": 5,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 47.425,
+      "end_time": 48.85,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 6,
+      "sentence": "Abrego Garcia\u2019s asylum request, which was filed in August, added to an already complex web of cases that he has found himself involved in since mid-March, when the Trump administration deported him in error to a notorious terrorism prison in El Salvador, his homeland.",
+      "paragraph_id": 2,
+      "word_count": 44,
+      "start_time": 48.85,
+      "end_time": 68.175,
+      "duration": 19.325,
+      "phoneme_count": 285
+    }
+  ]
+}

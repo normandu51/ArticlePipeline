@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "article_id": "9bf759dd-9f6c-5dbb-b3c8-ecd463711328",
+    "headline": "\u2018She Could Have Killed Me\u2019: Scientist Survives Shark Bite to His Head",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/9bf759dd-9f6c-5dbb-b3c8-ecd463711328_kokoro.wav",
+    "total_duration": 81.625,
+    "sentence_count": 14,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:57:34.596792"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Dr.",
+      "paragraph_id": 0,
+      "word_count": 1,
+      "start_time": 0.0,
+      "end_time": 1.475,
+      "duration": 1.475,
+      "phoneme_count": 7
+    },
+    {
+      "id": 1,
+      "sentence": "Mauricio Hoyos, an experienced marine scientist from Mexico, fastened his scuba gear and descended into the waters off Cocos Island, hundreds of miles southwest of Costa Rica, on Saturday to tag sharks for conservation research.",
+      "paragraph_id": 0,
+      "word_count": 35,
+      "start_time": 1.475,
+      "end_time": 18.75,
+      "duration": 17.275,
+      "phoneme_count": 242
+    },
+    {
+      "id": 2,
+      "sentence": "Within minutes, when he reached a depth of 123 feet, he spotted a nine-foot-long Gal\u00e1pagos shark, a migratory species.",
+      "paragraph_id": 1,
+      "word_count": 19,
+      "start_time": 18.75,
+      "end_time": 28.725,
+      "duration": 9.975,
+      "phoneme_count": 141
+    },
+    {
+      "id": 3,
+      "sentence": "He took aim with his pole spear and released a tag.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 28.725,
+      "end_time": 32.65,
+      "duration": 3.925,
+      "phoneme_count": 51
+    },
+    {
+      "id": 4,
+      "sentence": "It met its mark, embedding in the base of the shark\u2019s dorsal fin.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 32.65,
+      "end_time": 37.425,
+      "duration": 4.775,
+      "phoneme_count": 66
+    },
+    {
+      "id": 5,
+      "sentence": "Then what started as a typical day took a sharp turn.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 37.425,
+      "end_time": 41.525,
+      "duration": 4.1,
+      "phoneme_count": 56
+    },
+    {
+      "id": 6,
+      "sentence": "Dr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 41.525,
+      "end_time": 43.0,
+      "duration": 1.475,
+      "phoneme_count": 7
+    },
+    {
+      "id": 7,
+      "sentence": "Hoyos, 48, became the target.",
+      "paragraph_id": 2,
+      "word_count": 5,
+      "start_time": 43.0,
+      "end_time": 46.025,
+      "duration": 3.025,
+      "phoneme_count": 37
+    },
+    {
+      "id": 8,
+      "sentence": "From about a meter away, the shark darted at him, jaws agape.",
+      "paragraph_id": 3,
+      "word_count": 12,
+      "start_time": 46.025,
+      "end_time": 50.45,
+      "duration": 4.425,
+      "phoneme_count": 64
+    },
+    {
+      "id": 9,
+      "sentence": "\u201cShe turned sideways in my direction; it was really fast,\u201d he said in an interview on Wednesday. \u201cIt was wide open; my whole head was inside of her mouth in less than a second.\u201d",
+      "paragraph_id": 4,
+      "word_count": 34,
+      "start_time": 50.45,
+      "end_time": 62.875,
+      "duration": 12.425,
+      "phoneme_count": 179
+    },
+    {
+      "id": 10,
+      "sentence": "He heard a cracking sound. \u201cBut it was just pressure,\u201d he said. \u201cAs soon as she felt my skull, she released me.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 62.875,
+      "end_time": 70.5,
+      "duration": 7.625,
+      "phoneme_count": 112
+    },
+    {
+      "id": 11,
+      "sentence": "She opened and swam away.\u201d",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 70.5,
+      "end_time": 73.0,
+      "duration": 2.5,
+      "phoneme_count": 27
+    },
+    {
+      "id": 12,
+      "sentence": "Blood and water filled his mask, which the shark had knocked askew.",
+      "paragraph_id": 6,
+      "word_count": 12,
+      "start_time": 73.0,
+      "end_time": 77.65,
+      "duration": 4.65,
+      "phoneme_count": 65
+    },
+    {
+      "id": 13,
+      "sentence": "Its teeth had severed the air hoses on his scuba gear.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 77.65,
+      "end_time": 81.625,
+      "duration": 3.975,
+      "phoneme_count": 56
+    }
+  ]
+}

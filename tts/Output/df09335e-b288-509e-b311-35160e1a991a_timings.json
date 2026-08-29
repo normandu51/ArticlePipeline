@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "article_id": "df09335e-b288-509e-b311-35160e1a991a",
+    "headline": "Does Hayley Williams Want to Escape Paramore\u2019s Shadow? It Depends.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/df09335e-b288-509e-b311-35160e1a991a_kokoro.wav",
+    "total_duration": 99.6,
+    "sentence_count": 9,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:19:23.098222"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Hayley Williams has been in a band since she was 13, and on some days, she\u2019s entirely focused on what it might mean if that were no longer the case.",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 0.0,
+      "end_time": 10.2,
+      "duration": 10.2,
+      "phoneme_count": 152
+    },
+    {
+      "id": 1,
+      "sentence": "Paramore, which she has fronted since the early 2000s, is one of the defining rock acts of the last two decades, a Grammy-winning pop-punk band with six albums, beloved hits and high-profile fans like Taylor Swift.",
+      "paragraph_id": 1,
+      "word_count": 36,
+      "start_time": 10.2,
+      "end_time": 25.5,
+      "duration": 15.3,
+      "phoneme_count": 226
+    },
+    {
+      "id": 2,
+      "sentence": "But it has also been a chaotic run, with bandmate turnover, stylistic pivots and the nagging sense that some creative endeavors were only available outside the band\u2019s borders.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 25.5,
+      "end_time": 37.65,
+      "duration": 12.15,
+      "phoneme_count": 178
+    },
+    {
+      "id": 3,
+      "sentence": "Only now, after 20 years with Atlantic Records \u2014 a major label deal that Williams signed as a solo performer at 15 \u2014 is the group fully independent.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 37.65,
+      "end_time": 49.45,
+      "duration": 11.8,
+      "phoneme_count": 166
+    },
+    {
+      "id": 4,
+      "sentence": "And so Williams, 36, has been beginning to chip away at what the world outside Paramore sounds like.",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 49.45,
+      "end_time": 57.3,
+      "duration": 7.85,
+      "phoneme_count": 111
+    },
+    {
+      "id": 5,
+      "sentence": "She just released \u201cEgo Death at a Bachelorette Party,\u201d her third solo album in five years, and her most confident.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 57.3,
+      "end_time": 65.625,
+      "duration": 8.325,
+      "phoneme_count": 119
+    },
+    {
+      "id": 6,
+      "sentence": "Its rollout was lightly chaotic: 17 disparate songs initially uploaded to her personal website, then to streaming services as singles, and only later aggregated into album form. (A physical release will follow Nov. 7.)",
+      "paragraph_id": 3,
+      "word_count": 34,
+      "start_time": 65.625,
+      "end_time": 82.85,
+      "duration": 17.225,
+      "phoneme_count": 237
+    },
+    {
+      "id": 7,
+      "sentence": "\u201cThere was so much I hadn\u2019t really ever processed,\u201d Williams said on Popcast, The Times\u2019s music show. \u201cIt just was like I was going to puke everywhere.",
+      "paragraph_id": 4,
+      "word_count": 27,
+      "start_time": 82.85,
+      "end_time": 93.5,
+      "duration": 10.65,
+      "phoneme_count": 159
+    },
+    {
+      "id": 8,
+      "sentence": "And putting it out the way that we did was basically just trying to share that experience.\u201d",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 93.5,
+      "end_time": 99.6,
+      "duration": 6.1,
+      "phoneme_count": 91
+    }
+  ]
+}

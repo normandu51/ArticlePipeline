@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "article_id": "3d6cf1c1-25cf-51dd-9d8f-83f048723d67",
+    "headline": "So You Have 12 Cans of Chickpeas. Now What?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/3d6cf1c1-25cf-51dd-9d8f-83f048723d67_kokoro.wav",
+    "total_duration": 244.425,
+    "sentence_count": 37,
+    "paragraph_count": 10,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:16:53.875056"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "You\u2019re reading The Veggie.",
+      "paragraph_id": 0,
+      "word_count": 4,
+      "start_time": 0.0,
+      "end_time": 2.1,
+      "duration": 2.1,
+      "phoneme_count": 21
+    },
+    {
+      "id": 1,
+      "sentence": "Tanya Sichynsky shares delicious vegetarian recipes.",
+      "paragraph_id": 0,
+      "word_count": 6,
+      "start_time": 2.1,
+      "end_time": 6.875,
+      "duration": 4.775,
+      "phoneme_count": 55
+    },
+    {
+      "id": 2,
+      "sentence": "Get it sent to your inbox.",
+      "paragraph_id": 0,
+      "word_count": 6,
+      "start_time": 6.875,
+      "end_time": 9.2,
+      "duration": 2.325,
+      "phoneme_count": 29
+    },
+    {
+      "id": 3,
+      "sentence": "At the grocery store, I am a wide-eyed baby with a wholly undeveloped sense of object permanence.",
+      "paragraph_id": 1,
+      "word_count": 17,
+      "start_time": 9.2,
+      "end_time": 16.45,
+      "duration": 7.25,
+      "phoneme_count": 99
+    },
+    {
+      "id": 4,
+      "sentence": "What do I have at home?",
+      "paragraph_id": 1,
+      "word_count": 6,
+      "start_time": 16.45,
+      "end_time": 18.525,
+      "duration": 2.075,
+      "phoneme_count": 24
+    },
+    {
+      "id": 5,
+      "sentence": "Your guess is as good as mine.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 18.525,
+      "end_time": 21.325,
+      "duration": 2.8,
+      "phoneme_count": 29
+    },
+    {
+      "id": 6,
+      "sentence": "It wouldn\u2019t hurt to grab a can of beans, you know, just in case the reserves are low.",
+      "paragraph_id": 1,
+      "word_count": 18,
+      "start_time": 21.325,
+      "end_time": 27.525,
+      "duration": 6.2,
+      "phoneme_count": 84
+    },
+    {
+      "id": 7,
+      "sentence": "Well, peekaboo.",
+      "paragraph_id": 2,
+      "word_count": 2,
+      "start_time": 27.525,
+      "end_time": 29.375,
+      "duration": 1.85,
+      "phoneme_count": 15
+    },
+    {
+      "id": 8,
+      "sentence": "At present writing, there are nine cans of chickpeas in my pantry. (There is also one can of Great Northern white beans and one can of refried beans for good measure.",
+      "paragraph_id": 2,
+      "word_count": 31,
+      "start_time": 29.375,
+      "end_time": 41.125,
+      "duration": 11.75,
+      "phoneme_count": 164
+    },
+    {
+      "id": 9,
+      "sentence": "I am, terrifyingly, out of black beans.)",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 41.125,
+      "end_time": 44.35,
+      "duration": 3.225,
+      "phoneme_count": 41
+    },
+    {
+      "id": 10,
+      "sentence": "No other ingredient lines my shelves in such quantities; chickpeas are the linchpin of so many satisfying, delicious under-30-minute meatless meals.",
+      "paragraph_id": 3,
+      "word_count": 21,
+      "start_time": 44.35,
+      "end_time": 55.825,
+      "duration": 11.475,
+      "phoneme_count": 153
+    },
+    {
+      "id": 11,
+      "sentence": "This affliction \u2014 we like to call it chickpea anxiety over here \u2014 extends to many readers of The Veggie. \u201cI do the exact same thing!\u201d a reader wrote me last year. \u201cAnd why not other beans that can fill out a meal just as well?\u201d",
+      "paragraph_id": 3,
+      "word_count": 46,
+      "start_time": 55.825,
+      "end_time": 71.225,
+      "duration": 15.4,
+      "phoneme_count": 233
+    },
+    {
+      "id": 12,
+      "sentence": "This week, I\u2019m taking this dilemma to the small screen (rotate that phone, sweetie) in the latest episode of our Veggie video series.",
+      "paragraph_id": 4,
+      "word_count": 23,
+      "start_time": 71.225,
+      "end_time": 80.6,
+      "duration": 9.375,
+      "phoneme_count": 132
+    },
+    {
+      "id": 13,
+      "sentence": "With a surplus of chickpeas, your options range from the obvious to the unexpected.",
+      "paragraph_id": 4,
+      "word_count": 14,
+      "start_time": 80.6,
+      "end_time": 86.55,
+      "duration": 5.95,
+      "phoneme_count": 83
+    },
+    {
+      "id": 14,
+      "sentence": "I have a few suggestions, of course.",
+      "paragraph_id": 5,
+      "word_count": 7,
+      "start_time": 86.55,
+      "end_time": 89.325,
+      "duration": 2.775,
+      "phoneme_count": 35
+    },
+    {
+      "id": 15,
+      "sentence": "Sheela Prakash\u2019s roasted chickpeas make a great snack out of the oven, or use them to top Becky Hughes\u2019s vegan Caesar salad.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 89.325,
+      "end_time": 98.35,
+      "duration": 9.025,
+      "phoneme_count": 125
+    },
+    {
+      "id": 16,
+      "sentence": "Having roasted chickpeas handy will shave a good 10 minutes off your cook time.",
+      "paragraph_id": 5,
+      "word_count": 14,
+      "start_time": 98.35,
+      "end_time": 104.125,
+      "duration": 5.775,
+      "phoneme_count": 78
+    },
+    {
+      "id": 17,
+      "sentence": "Time is money!",
+      "paragraph_id": 5,
+      "word_count": 3,
+      "start_time": 104.125,
+      "end_time": 105.9,
+      "duration": 1.775,
+      "phoneme_count": 14
+    },
+    {
+      "id": 18,
+      "sentence": "And money is for buying more chickpeas, evidently.",
+      "paragraph_id": 5,
+      "word_count": 8,
+      "start_time": 105.9,
+      "end_time": 109.7,
+      "duration": 3.8,
+      "phoneme_count": 50
+    },
+    {
+      "id": 19,
+      "sentence": "I could eat Kenji L\u00f3pez-Alt\u2019s marinated chickpeas on their own with a spoon \u2014 in fact, I did \u2014 but they may better serve you in a grain bowl.",
+      "paragraph_id": 6,
+      "word_count": 29,
+      "start_time": 109.7,
+      "end_time": 119.6,
+      "duration": 9.9,
+      "phoneme_count": 141
+    },
+    {
+      "id": 20,
+      "sentence": "Or, as Kenji writes, \u201cyou could also stir together equal parts marinated chickpeas and diced fresh cucumber with some slivered red onions and chopped fresh dill, or massage some chopped kale with olive oil and a pinch of salt, then toss in a big scoop of marinated chickpeas and some crumbled feta or Cotija.\u201d Quick, write that down.",
+      "paragraph_id": 6,
+      "word_count": 58,
+      "start_time": 119.6,
+      "end_time": 142.05,
+      "duration": 22.45,
+      "phoneme_count": 339
+    },
+    {
+      "id": 21,
+      "sentence": "Mark Bittman\u2019s five-star hummus doesn\u2019t need much introduction or explanation.",
+      "paragraph_id": 7,
+      "word_count": 10,
+      "start_time": 142.05,
+      "end_time": 147.825,
+      "duration": 5.775,
+      "phoneme_count": 81
+    },
+    {
+      "id": 22,
+      "sentence": "You know what a dip is.",
+      "paragraph_id": 7,
+      "word_count": 6,
+      "start_time": 147.825,
+      "end_time": 149.975,
+      "duration": 2.15,
+      "phoneme_count": 23
+    },
+    {
+      "id": 23,
+      "sentence": "But perhaps you hadn\u2019t thought of it as a shortcut to a creamy, vegan weeknight pasta, \u00e0 la Christian Reynoso.",
+      "paragraph_id": 7,
+      "word_count": 20,
+      "start_time": 149.975,
+      "end_time": 157.425,
+      "duration": 7.45,
+      "phoneme_count": 111
+    },
+    {
+      "id": 24,
+      "sentence": "His lemony hummus pasta is so smart, using a handful of staples to produce something luscious and tremendously adaptable.",
+      "paragraph_id": 7,
+      "word_count": 19,
+      "start_time": 157.425,
+      "end_time": 166.675,
+      "duration": 9.25,
+      "phoneme_count": 128
+    },
+    {
+      "id": 25,
+      "sentence": "Add roasted vegetables!",
+      "paragraph_id": 7,
+      "word_count": 3,
+      "start_time": 166.675,
+      "end_time": 169.075,
+      "duration": 2.4,
+      "phoneme_count": 23
+    },
+    {
+      "id": 26,
+      "sentence": "Sprinkle over your favorite nuts or bread-crumb topping!",
+      "paragraph_id": 7,
+      "word_count": 8,
+      "start_time": 169.075,
+      "end_time": 173.25,
+      "duration": 4.175,
+      "phoneme_count": 56
+    },
+    {
+      "id": 27,
+      "sentence": "Go on, add those roasted chickpeas!",
+      "paragraph_id": 7,
+      "word_count": 6,
+      "start_time": 173.25,
+      "end_time": 176.325,
+      "duration": 3.075,
+      "phoneme_count": 34
+    },
+    {
+      "id": 28,
+      "sentence": "But most often, when I\u2019m staring down the barrel of a chickpea-loaded cannon, I go straight to Ali Slagle\u2019s curry tomatoes and chickpeas with cucumber yogurt.",
+      "paragraph_id": 8,
+      "word_count": 26,
+      "start_time": 176.325,
+      "end_time": 187.025,
+      "duration": 10.7,
+      "phoneme_count": 160
+    },
+    {
+      "id": 29,
+      "sentence": "It requires no planning on my part, as it comprises a handful of ingredients you can guarantee I have handy.",
+      "paragraph_id": 8,
+      "word_count": 20,
+      "start_time": 187.025,
+      "end_time": 195.275,
+      "duration": 8.25,
+      "phoneme_count": 116
+    },
+    {
+      "id": 30,
+      "sentence": "It is one of my favorite dishes to make when I have a friend over for a last-minute dinner, as you can prep, cook and talk without needing to peek at the recipe again and again.",
+      "paragraph_id": 8,
+      "word_count": 36,
+      "start_time": 195.275,
+      "end_time": 206.675,
+      "duration": 11.4,
+      "phoneme_count": 179
+    },
+    {
+      "id": 31,
+      "sentence": "It\u2019s just that easy.",
+      "paragraph_id": 8,
+      "word_count": 4,
+      "start_time": 206.675,
+      "end_time": 208.725,
+      "duration": 2.05,
+      "phoneme_count": 20
+    },
+    {
+      "id": 32,
+      "sentence": "I should\u2019ve told you sooner to save the liquid in the cans, while you\u2019re at it, because now we\u2019ve reached the \u201cunexpected\u201d portion of our program.",
+      "paragraph_id": 9,
+      "word_count": 26,
+      "start_time": 208.725,
+      "end_time": 218.1,
+      "duration": 9.375,
+      "phoneme_count": 140
+    },
+    {
+      "id": 33,
+      "sentence": "That\u2019s aquafaba, and I\u2019d like to make the case for using it in your cooking, if you aren\u2019t already.",
+      "paragraph_id": 9,
+      "word_count": 19,
+      "start_time": 218.1,
+      "end_time": 224.65,
+      "duration": 6.55,
+      "phoneme_count": 97
+    },
+    {
+      "id": 34,
+      "sentence": "Would you be able to tell the difference between an aquafaba-based D.I.Y. vegan mayonnaise and the eggy stuff?",
+      "paragraph_id": 9,
+      "word_count": 18,
+      "start_time": 224.65,
+      "end_time": 232.475,
+      "duration": 7.825,
+      "phoneme_count": 108
+    },
+    {
+      "id": 35,
+      "sentence": "What about a midnight fizz made frothy with aquafaba versus the classic made with egg whites?",
+      "paragraph_id": 9,
+      "word_count": 16,
+      "start_time": 232.475,
+      "end_time": 239.2,
+      "duration": 6.725,
+      "phoneme_count": 92
+    },
+    {
+      "id": 36,
+      "sentence": "We put the two to the test in the studio, and I was wowed by the results.",
+      "paragraph_id": 9,
+      "word_count": 17,
+      "start_time": 239.2,
+      "end_time": 244.425,
+      "duration": 5.225,
+      "phoneme_count": 74
+    }
+  ]
+}

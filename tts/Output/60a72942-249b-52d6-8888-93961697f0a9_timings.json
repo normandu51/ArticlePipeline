@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "article_id": "60a72942-249b-52d6-8888-93961697f0a9",
+    "headline": "Homes for Sale in Manhattan and Brooklyn",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/60a72942-249b-52d6-8888-93961697f0a9_kokoro.wav",
+    "total_duration": 76.275,
+    "sentence_count": 12,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:29:26.376504"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Manhattan | 419 East 57th Street, No.",
+      "paragraph_id": 0,
+      "word_count": 7,
+      "start_time": 0.0,
+      "end_time": 4.7,
+      "duration": 4.7,
+      "phoneme_count": 65
+    },
+    {
+      "id": 1,
+      "sentence": "MAIS/EAST",
+      "paragraph_id": 0,
+      "word_count": 1,
+      "start_time": 4.7,
+      "end_time": 6.675,
+      "duration": 1.975,
+      "phoneme_count": 15
+    },
+    {
+      "id": 2,
+      "sentence": "A three-bedroom, two-and-a-half-bath, 2,237-square-foot duplex with formal living and dining rooms, a windowed eat-in kitchen, a half bath, a wood-burning fireplace and a washer/dryer on the first floor; and a primary suite, two additional bedrooms, a full bath, walk-in closets and a decorative fireplace on the second floor; plus a private entrance and window air-conditioning.",
+      "paragraph_id": 1,
+      "word_count": 55,
+      "start_time": 6.675,
+      "end_time": 33.375,
+      "duration": 26.7,
+      "phoneme_count": 414
+    },
+    {
+      "id": 3,
+      "sentence": "It\u2019s on the first two floors of a 16-story doorman co-op from 1927 that has a live-in super, a gym, waiting lists for a bike room and basement storage lockers, and a roof deck.",
+      "paragraph_id": 1,
+      "word_count": 34,
+      "start_time": 33.375,
+      "end_time": 47.1,
+      "duration": 13.725,
+      "phoneme_count": 205
+    },
+    {
+      "id": 4,
+      "sentence": "Pamela Marcus, Phil Wells and Savannah Likitsakos, Corcoran Group, 917-628-8240; corcoran.com",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 47.1,
+      "end_time": 57.425,
+      "duration": 10.325,
+      "phoneme_count": 143
+    },
+    {
+      "id": 5,
+      "sentence": "Costs",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 57.425,
+      "end_time": 58.75,
+      "duration": 1.325,
+      "phoneme_count": 6
+    },
+    {
+      "id": 6,
+      "sentence": "Maintenance: $6,451 a month",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 58.75,
+      "end_time": 63.525,
+      "duration": 4.775,
+      "phoneme_count": 67
+    },
+    {
+      "id": 7,
+      "sentence": "Pros",
+      "paragraph_id": 4,
+      "word_count": 1,
+      "start_time": 63.525,
+      "end_time": 64.775,
+      "duration": 1.25,
+      "phoneme_count": 5
+    },
+    {
+      "id": 8,
+      "sentence": "The private entryway is pretty.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 64.775,
+      "end_time": 67.45,
+      "duration": 2.675,
+      "phoneme_count": 31
+    },
+    {
+      "id": 9,
+      "sentence": "The living and dining rooms are spacious.",
+      "paragraph_id": 5,
+      "word_count": 7,
+      "start_time": 67.45,
+      "end_time": 70.575,
+      "duration": 3.125,
+      "phoneme_count": 38
+    },
+    {
+      "id": 10,
+      "sentence": "All three bathrooms are windowed.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 70.575,
+      "end_time": 73.325,
+      "duration": 2.75,
+      "phoneme_count": 30
+    },
+    {
+      "id": 11,
+      "sentence": "Use as a pied-\u00e0-terre is permitted.",
+      "paragraph_id": 5,
+      "word_count": 6,
+      "start_time": 73.325,
+      "end_time": 76.275,
+      "duration": 2.95,
+      "phoneme_count": 34
+    }
+  ]
+}

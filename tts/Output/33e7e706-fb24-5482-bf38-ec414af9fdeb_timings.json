@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "33e7e706-fb24-5482-bf38-ec414af9fdeb",
+    "headline": "Trump \u2018Determined\u2019 the U.S. Is Now in a War With Drug Cartels, Congress Is Told",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/33e7e706-fb24-5482-bf38-ec414af9fdeb_kokoro.wav",
+    "total_duration": 147.05,
+    "sentence_count": 13,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:15:10.423368"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "President Trump has decided that the United States is engaged in a formal \u201carmed conflict\u201d with drug cartels his team has labeled terrorist organizations and that suspected smugglers for such groups are \u201cunlawful combatants,\u201d the administration said in a confidential notice to Congress this week.",
+      "paragraph_id": 0,
+      "word_count": 45,
+      "start_time": 0.0,
+      "end_time": 20.975,
+      "duration": 20.975,
+      "phoneme_count": 308
+    },
+    {
+      "id": 1,
+      "sentence": "The notice was sent to several congressional committees and obtained by The New York Times.",
+      "paragraph_id": 1,
+      "word_count": 15,
+      "start_time": 20.975,
+      "end_time": 27.225,
+      "duration": 6.25,
+      "phoneme_count": 88
+    },
+    {
+      "id": 2,
+      "sentence": "It adds new detail to the administration\u2019s thinly articulated legal rationale for why three U.S. military strikes the president ordered on boats in the Caribbean Sea last month, killing all 17 people aboard them, should be seen as lawful rather than murder.",
+      "paragraph_id": 1,
+      "word_count": 42,
+      "start_time": 27.225,
+      "end_time": 45.575,
+      "duration": 18.35,
+      "phoneme_count": 272
+    },
+    {
+      "id": 3,
+      "sentence": "Mr.",
+      "paragraph_id": 2,
+      "word_count": 1,
+      "start_time": 45.575,
+      "end_time": 47.0,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 4,
+      "sentence": "Trump\u2019s move to formally deem his campaign against drug cartels as an active armed conflict means he is cementing his claim to extraordinary wartime powers, legal specialists said.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 47.0,
+      "end_time": 60.325,
+      "duration": 13.325,
+      "phoneme_count": 187
+    },
+    {
+      "id": 5,
+      "sentence": "In an armed conflict, as defined by international law, a country can lawfully kill enemy fighters even when they pose no threat, detain them indefinitely without trials and prosecute them in military courts.",
+      "paragraph_id": 2,
+      "word_count": 33,
+      "start_time": 60.325,
+      "end_time": 75.275,
+      "duration": 14.95,
+      "phoneme_count": 212
+    },
+    {
+      "id": 6,
+      "sentence": "Geoffrey S.",
+      "paragraph_id": 3,
+      "word_count": 2,
+      "start_time": 75.275,
+      "end_time": 76.95,
+      "duration": 1.675,
+      "phoneme_count": 10
+    },
+    {
+      "id": 7,
+      "sentence": "Corn, a retired judge advocate general lawyer who was formerly the Army\u2019s senior adviser for law-of-war issues, said drug cartels were not engaged in \u201chostilities\u201d \u2014 the standard for when there is an armed conflict for legal purposes \u2014 against the United States because selling a dangerous product is different from an armed attack.",
+      "paragraph_id": 3,
+      "word_count": 54,
+      "start_time": 76.95,
+      "end_time": 100.35,
+      "duration": 23.4,
+      "phoneme_count": 338
+    },
+    {
+      "id": 8,
+      "sentence": "Noting that it is illegal for the military to deliberately target civilians who are not directly participating in hostilities \u2014 even suspected criminals \u2014 Mr.",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 100.35,
+      "end_time": 112.125,
+      "duration": 11.775,
+      "phoneme_count": 170
+    },
+    {
+      "id": 9,
+      "sentence": "Corn called the president\u2019s move an \u201cabuse\u201d that crossed a major legal line.",
+      "paragraph_id": 4,
+      "word_count": 13,
+      "start_time": 112.125,
+      "end_time": 117.575,
+      "duration": 5.45,
+      "phoneme_count": 77
+    },
+    {
+      "id": 10,
+      "sentence": "\u201cThis is not stretching the envelope,\u201d he said. \u201cThis is shredding it.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 117.575,
+      "end_time": 122.275,
+      "duration": 4.7,
+      "phoneme_count": 67
+    },
+    {
+      "id": 11,
+      "sentence": "This is tearing it apart.\u201d",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 122.275,
+      "end_time": 124.575,
+      "duration": 2.3,
+      "phoneme_count": 26
+    },
+    {
+      "id": 12,
+      "sentence": "Anna Kelly, a White House spokeswoman, said in an email that \u201cthe president acted in line with the law of armed conflict to protect our country from those trying to bring deadly poison to our shores, and he is delivering on his promise to take on the cartels and eliminate these national security threats from murdering more Americans.\u201d",
+      "paragraph_id": 6,
+      "word_count": 58,
+      "start_time": 124.575,
+      "end_time": 147.05,
+      "duration": 22.475,
+      "phoneme_count": 340
+    }
+  ]
+}

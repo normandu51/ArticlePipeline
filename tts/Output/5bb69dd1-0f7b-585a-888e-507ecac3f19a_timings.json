@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "5bb69dd1-0f7b-585a-888e-507ecac3f19a",
+    "headline": "Jane Goodall\u2019s Thoughts for a Reporter: \u2018Hope Isn\u2019t Just Wishful Thinking\u2019",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/5bb69dd1-0f7b-585a-888e-507ecac3f19a_kokoro.wav",
+    "total_duration": 100.2,
+    "sentence_count": 18,
+    "paragraph_count": 8,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:28:49.311789"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "On the day Jane Goodall turned 90, I sat down at a small table with her.",
+      "paragraph_id": 0,
+      "word_count": 16,
+      "start_time": 0.0,
+      "end_time": 5.675,
+      "duration": 5.675,
+      "phoneme_count": 78
+    },
+    {
+      "id": 1,
+      "sentence": "It was April 2024, and she was in Manhattan to promote a partnership with a jewelry company, Brilliant Earth.",
+      "paragraph_id": 0,
+      "word_count": 19,
+      "start_time": 5.675,
+      "end_time": 14.075,
+      "duration": 8.4,
+      "phoneme_count": 125
+    },
+    {
+      "id": 2,
+      "sentence": "The company was making a $100,000 donation to support the Jane Goodall Institute, and she was giving her name to an eco-friendly line of necklaces, rings and earrings.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 14.075,
+      "end_time": 26.925,
+      "duration": 12.85,
+      "phoneme_count": 186
+    },
+    {
+      "id": 3,
+      "sentence": "The gold would all be recycled and the diamonds would come only from labs.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 26.925,
+      "end_time": 32.4,
+      "duration": 5.475,
+      "phoneme_count": 73
+    },
+    {
+      "id": 4,
+      "sentence": "No mining involved.",
+      "paragraph_id": 0,
+      "word_count": 3,
+      "start_time": 32.4,
+      "end_time": 34.55,
+      "duration": 2.15,
+      "phoneme_count": 20
+    },
+    {
+      "id": 5,
+      "sentence": "People buzzed around; a lunch would be served, and fashion influencers were on hand.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 34.55,
+      "end_time": 40.475,
+      "duration": 5.925,
+      "phoneme_count": 82
+    },
+    {
+      "id": 6,
+      "sentence": "Dr.",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 40.475,
+      "end_time": 41.95,
+      "duration": 1.475,
+      "phoneme_count": 7
+    },
+    {
+      "id": 7,
+      "sentence": "Goodall looked small and tired amid the hubbub.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 41.95,
+      "end_time": 45.3,
+      "duration": 3.35,
+      "phoneme_count": 46
+    },
+    {
+      "id": 8,
+      "sentence": "I knew the question I wanted to start with.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 45.3,
+      "end_time": 48.575,
+      "duration": 3.275,
+      "phoneme_count": 44
+    },
+    {
+      "id": 9,
+      "sentence": "\u201cWhen you woke up this morning, on your actual 90th birthday, what was the first thing you thought?\u201d I asked.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 48.575,
+      "end_time": 55.875,
+      "duration": 7.3,
+      "phoneme_count": 110
+    },
+    {
+      "id": 10,
+      "sentence": "The room was so loud that I had to lean forward to hear her response.",
+      "paragraph_id": 3,
+      "word_count": 15,
+      "start_time": 55.875,
+      "end_time": 60.7,
+      "duration": 4.825,
+      "phoneme_count": 70
+    },
+    {
+      "id": 11,
+      "sentence": "\u201cThat I wish I was somewhere else,\u201d she said.",
+      "paragraph_id": 4,
+      "word_count": 9,
+      "start_time": 60.7,
+      "end_time": 63.95,
+      "duration": 3.25,
+      "phoneme_count": 46
+    },
+    {
+      "id": 12,
+      "sentence": "It wasn\u2019t the answer I expected.",
+      "paragraph_id": 5,
+      "word_count": 6,
+      "start_time": 63.95,
+      "end_time": 66.7,
+      "duration": 2.75,
+      "phoneme_count": 36
+    },
+    {
+      "id": 13,
+      "sentence": "Relistening to the tape of our interview on Wednesday, the day she died, I hear my voice change from cheery to concerned.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 66.7,
+      "end_time": 74.8,
+      "duration": 8.1,
+      "phoneme_count": 117
+    },
+    {
+      "id": 14,
+      "sentence": "\u201cWell, you know, I like being out in nature,\u201d she explained.",
+      "paragraph_id": 6,
+      "word_count": 11,
+      "start_time": 74.8,
+      "end_time": 78.7,
+      "duration": 3.9,
+      "phoneme_count": 58
+    },
+    {
+      "id": 15,
+      "sentence": "Then she told me about all the birthday greetings she woke up to, and how she thought of her family and friends.",
+      "paragraph_id": 6,
+      "word_count": 22,
+      "start_time": 78.7,
+      "end_time": 85.975,
+      "duration": 7.275,
+      "phoneme_count": 108
+    },
+    {
+      "id": 16,
+      "sentence": "This day wasn\u2019t about that, she said, seeming a little sad but resolved.",
+      "paragraph_id": 6,
+      "word_count": 13,
+      "start_time": 85.975,
+      "end_time": 91.1,
+      "duration": 5.125,
+      "phoneme_count": 73
+    },
+    {
+      "id": 17,
+      "sentence": "\u201cThis birthday is about my mission, which is getting the word out to people around the world and raising money for our projects,\u201d she said.",
+      "paragraph_id": 7,
+      "word_count": 25,
+      "start_time": 91.1,
+      "end_time": 100.2,
+      "duration": 9.1,
+      "phoneme_count": 137
+    }
+  ]
+}

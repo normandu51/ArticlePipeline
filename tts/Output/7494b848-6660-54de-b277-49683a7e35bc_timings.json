@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "7494b848-6660-54de-b277-49683a7e35bc",
+    "headline": "Philippine Village for Typhoon Survivors Is Hit by Deadly Quake",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/7494b848-6660-54de-b277-49683a7e35bc_kokoro.wav",
+    "total_duration": 106.025,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:36:44.999101"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The village was meant to be a place of safety: 200 \u201cdisaster-resilient homes\u201d for survivors of a devastating 2013 typhoon, paid for by a charity and built to withstand ferocious winds.",
+      "paragraph_id": 0,
+      "word_count": 31,
+      "start_time": 0.0,
+      "end_time": 14.7,
+      "duration": 14.7,
+      "phoneme_count": 205
+    },
+    {
+      "id": 1,
+      "sentence": "But now it is one of the deadliest sites in another natural disaster, a 6.9-magnitude earthquake late Tuesday centered in Cebu Province in the Philippines.",
+      "paragraph_id": 1,
+      "word_count": 25,
+      "start_time": 14.7,
+      "end_time": 26.275,
+      "duration": 11.575,
+      "phoneme_count": 169
+    },
+    {
+      "id": 2,
+      "sentence": "By Wednesday, 69 deaths had been confirmed as rescue workers dug through rubble, searching for dozens of people who were still missing.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 26.275,
+      "end_time": 35.85,
+      "duration": 9.575,
+      "phoneme_count": 139
+    },
+    {
+      "id": 3,
+      "sentence": "Wilson Ramos, an emergency worker with a local response unit, said the quake had killed at least 10 people in the SM Cares Village, established just over a decade ago for survivors of Super Typhoon Haiyan, which killed more than 6,000 people in the Philippines.",
+      "paragraph_id": 2,
+      "word_count": 45,
+      "start_time": 35.85,
+      "end_time": 54.35,
+      "duration": 18.5,
+      "phoneme_count": 276
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cThis area was built to safeguard storm survivors and people from high-risk zones,\u201d Mr.",
+      "paragraph_id": 3,
+      "word_count": 14,
+      "start_time": 54.35,
+      "end_time": 60.85,
+      "duration": 6.5,
+      "phoneme_count": 93
+    },
+    {
+      "id": 5,
+      "sentence": "Ramos said. \u201cI cannot yet say whether those who died were also Haiyan survivors; more than 10 years have passed.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 60.85,
+      "end_time": 68.975,
+      "duration": 8.125,
+      "phoneme_count": 112
+    },
+    {
+      "id": 6,
+      "sentence": "But this village was intended to give them a new home.\u201d",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 68.975,
+      "end_time": 73.0,
+      "duration": 4.025,
+      "phoneme_count": 55
+    },
+    {
+      "id": 7,
+      "sentence": "The quake was the deadliest in the Philippines since 2013.",
+      "paragraph_id": 4,
+      "word_count": 10,
+      "start_time": 73.0,
+      "end_time": 77.625,
+      "duration": 4.625,
+      "phoneme_count": 66
+    },
+    {
+      "id": 8,
+      "sentence": "Cebu\u2019s governor, Pamela Baricuatro, put the entire province, in the central Philippines, under a state of emergency.",
+      "paragraph_id": 5,
+      "word_count": 17,
+      "start_time": 77.625,
+      "end_time": 86.375,
+      "duration": 8.75,
+      "phoneme_count": 122
+    },
+    {
+      "id": 9,
+      "sentence": "Bernardo Rafaelito Alejandro, a deputy administrator for the civil defense office, said at a news briefing that the response efforts were focused on the northern tip of Cebu\u2019s main island, including Bogo City, where the SM Cares Village was established in 2014.",
+      "paragraph_id": 5,
+      "word_count": 42,
+      "start_time": 86.375,
+      "end_time": 106.025,
+      "duration": 19.65,
+      "phoneme_count": 279
+    }
+  ]
+}

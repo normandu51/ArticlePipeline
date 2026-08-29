@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "article_id": "a473b4fb-6fe3-5241-a8a9-c3119f7a6982",
+    "headline": "The Federal Government Shut Down Overnight",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/a473b4fb-6fe3-5241-a8a9-c3119f7a6982_kokoro.wav",
+    "total_duration": 116.225,
+    "sentence_count": 19,
+    "paragraph_count": 9,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:00:56.563588"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Last night, without much fanfare, the federal government closed.",
+      "paragraph_id": 0,
+      "word_count": 9,
+      "start_time": 0.0,
+      "end_time": 4.65,
+      "duration": 4.65,
+      "phoneme_count": 65
+    },
+    {
+      "id": 1,
+      "sentence": "Neither side showed urgency in averting the shutdown.",
+      "paragraph_id": 0,
+      "word_count": 8,
+      "start_time": 4.65,
+      "end_time": 8.825,
+      "duration": 4.175,
+      "phoneme_count": 50
+    },
+    {
+      "id": 2,
+      "sentence": "In back-to-back Senate votes, each party blocked the other\u2019s stopgap spending proposal.",
+      "paragraph_id": 0,
+      "word_count": 12,
+      "start_time": 8.825,
+      "end_time": 14.9,
+      "duration": 6.075,
+      "phoneme_count": 85
+    },
+    {
+      "id": 3,
+      "sentence": "The Republicans\u2019 bill did not restore Medicaid funding or extend Obamacare subsidies, so Democrats didn\u2019t sign on.",
+      "paragraph_id": 1,
+      "word_count": 17,
+      "start_time": 14.9,
+      "end_time": 23.625,
+      "duration": 8.725,
+      "phoneme_count": 124
+    },
+    {
+      "id": 4,
+      "sentence": "The Democratic version added more than $1 trillion in spending, so Republicans said no.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 23.625,
+      "end_time": 30.9,
+      "duration": 7.275,
+      "phoneme_count": 100
+    },
+    {
+      "id": 5,
+      "sentence": "President Trump suggested he could use the shutdown to enact measures that would be \u201cbad\u201d for Democrats, \u201clike cutting vast numbers of people out, cutting things that they like, cutting programs that they like.\u201d He later added, \u201ca lot of good can come down from shutdowns.\u201d",
+      "paragraph_id": 2,
+      "word_count": 46,
+      "start_time": 30.9,
+      "end_time": 48.775,
+      "duration": 17.875,
+      "phoneme_count": 272
+    },
+    {
+      "id": 6,
+      "sentence": "What you need to know:",
+      "paragraph_id": 3,
+      "word_count": 5,
+      "start_time": 48.775,
+      "end_time": 50.9,
+      "duration": 2.125,
+      "phoneme_count": 20
+    },
+    {
+      "id": 7,
+      "sentence": "Hundreds of thousands of federal workers will be furloughed.",
+      "paragraph_id": 4,
+      "word_count": 9,
+      "start_time": 50.9,
+      "end_time": 55.375,
+      "duration": 4.475,
+      "phoneme_count": 59
+    },
+    {
+      "id": 8,
+      "sentence": "This chart gives a breakdown.",
+      "paragraph_id": 4,
+      "word_count": 5,
+      "start_time": 55.375,
+      "end_time": 57.85,
+      "duration": 2.475,
+      "phoneme_count": 29
+    },
+    {
+      "id": 9,
+      "sentence": "Others, including active-duty troops and law enforcement officers, will keep working.",
+      "paragraph_id": 5,
+      "word_count": 11,
+      "start_time": 57.85,
+      "end_time": 63.95,
+      "duration": 6.1,
+      "phoneme_count": 84
+    },
+    {
+      "id": 10,
+      "sentence": "Many workers will stop receiving paychecks.",
+      "paragraph_id": 5,
+      "word_count": 6,
+      "start_time": 63.95,
+      "end_time": 67.175,
+      "duration": 3.225,
+      "phoneme_count": 43
+    },
+    {
+      "id": 11,
+      "sentence": "Airports will stay open.",
+      "paragraph_id": 6,
+      "word_count": 4,
+      "start_time": 67.175,
+      "end_time": 69.5,
+      "duration": 2.325,
+      "phoneme_count": 25
+    },
+    {
+      "id": 12,
+      "sentence": "Air traffic controllers and T.S.A. agents will be asked to continue working. (If you\u2019re traveling soon, prepare for longer lines.)",
+      "paragraph_id": 6,
+      "word_count": 20,
+      "start_time": 69.5,
+      "end_time": 78.725,
+      "duration": 9.225,
+      "phoneme_count": 132
+    },
+    {
+      "id": 13,
+      "sentence": "Social Security and Medicare benefits will continue uninterrupted.",
+      "paragraph_id": 7,
+      "word_count": 8,
+      "start_time": 78.725,
+      "end_time": 84.05,
+      "duration": 5.325,
+      "phoneme_count": 72
+    },
+    {
+      "id": 14,
+      "sentence": "The same goes for Medicaid benefits, at least through the end of the year.",
+      "paragraph_id": 7,
+      "word_count": 14,
+      "start_time": 84.05,
+      "end_time": 89.125,
+      "duration": 5.075,
+      "phoneme_count": 70
+    },
+    {
+      "id": 15,
+      "sentence": "Government shutdowns don\u2019t follow a script \u2014 many agencies didn\u2019t set their plans until late yesterday \u2014 so things will change if the shutdown drags on.",
+      "paragraph_id": 8,
+      "word_count": 26,
+      "start_time": 89.125,
+      "end_time": 99.975,
+      "duration": 10.85,
+      "phoneme_count": 157
+    },
+    {
+      "id": 16,
+      "sentence": "Some programs will strain or shutter as their funding runs out.",
+      "paragraph_id": 8,
+      "word_count": 11,
+      "start_time": 99.975,
+      "end_time": 104.8,
+      "duration": 4.825,
+      "phoneme_count": 62
+    },
+    {
+      "id": 17,
+      "sentence": "Workers who aren\u2019t getting paychecks may stop showing up.",
+      "paragraph_id": 8,
+      "word_count": 9,
+      "start_time": 104.8,
+      "end_time": 108.525,
+      "duration": 3.725,
+      "phoneme_count": 55
+    },
+    {
+      "id": 18,
+      "sentence": "And Trump could reshape the government in a more permanent way if he follows through on his threats of mass layoffs.",
+      "paragraph_id": 8,
+      "word_count": 21,
+      "start_time": 108.525,
+      "end_time": 116.225,
+      "duration": 7.7,
+      "phoneme_count": 111
+    }
+  ]
+}

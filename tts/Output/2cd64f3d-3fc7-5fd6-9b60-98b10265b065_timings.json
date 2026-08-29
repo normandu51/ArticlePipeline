@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "2cd64f3d-3fc7-5fd6-9b60-98b10265b065",
+    "headline": "White House Uses Shutdown to Maximize Pain and Punish Political Foes",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/2cd64f3d-3fc7-5fd6-9b60-98b10265b065_kokoro.wav",
+    "total_duration": 157.85,
+    "sentence_count": 18,
+    "paragraph_count": 9,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:12:45.212675"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The Trump administration took steps on Wednesday to maximize the pain of the government shutdown, halting billions of dollars in funds for Democratic-led states while readying a plan to lay off potentially droves of civil servants imminently.",
+      "paragraph_id": 0,
+      "word_count": 37,
+      "start_time": 0.0,
+      "end_time": 16.625,
+      "duration": 16.625,
+      "phoneme_count": 248
+    },
+    {
+      "id": 1,
+      "sentence": "The moves by the White House appeared both unprecedented and punitive, underscoring the risks of a fiscal stalemate that had no end in sight.",
+      "paragraph_id": 1,
+      "word_count": 24,
+      "start_time": 16.625,
+      "end_time": 26.525,
+      "duration": 9.9,
+      "phoneme_count": 140
+    },
+    {
+      "id": 2,
+      "sentence": "It also evinced how President Trump might try to leverage the government-wide closure to achieve his agenda, slash the budget and exact revenge on his political enemies.",
+      "paragraph_id": 1,
+      "word_count": 27,
+      "start_time": 26.525,
+      "end_time": 38.075,
+      "duration": 11.55,
+      "phoneme_count": 175
+    },
+    {
+      "id": 3,
+      "sentence": "In a series of social media posts, Russell T.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 38.075,
+      "end_time": 42.0,
+      "duration": 3.925,
+      "phoneme_count": 47
+    },
+    {
+      "id": 4,
+      "sentence": "Vought, the White House budget director, said the administration had paused or moved to cancel the delivery of about $26 billion in previously approved funds across a range of programs, describing the money as wasteful or in need of further review.",
+      "paragraph_id": 2,
+      "word_count": 41,
+      "start_time": 42.0,
+      "end_time": 60.225,
+      "duration": 18.225,
+      "phoneme_count": 263
+    },
+    {
+      "id": 5,
+      "sentence": "The timing seemed to be no mere coincidence, nor were Mr.",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 60.225,
+      "end_time": 64.7,
+      "duration": 4.475,
+      "phoneme_count": 60
+    },
+    {
+      "id": 6,
+      "sentence": "Vought\u2019s choices of location.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 64.7,
+      "end_time": 67.2,
+      "duration": 2.5,
+      "phoneme_count": 25
+    },
+    {
+      "id": 7,
+      "sentence": "He said the administration was terminating one tranche of funds, totaling about $8 billion, because it was \u201cGreen New Scam funding to fuel the Left\u2019s climate agenda,\u201d a move that affected projects in 16 states, most of which are led by Democrats.",
+      "paragraph_id": 3,
+      "word_count": 42,
+      "start_time": 67.2,
+      "end_time": 85.625,
+      "duration": 18.425,
+      "phoneme_count": 270
+    },
+    {
+      "id": 8,
+      "sentence": "In a second instance, the Trump administration paused about $18 billion in approved infrastructure funding for two major transportation projects primarily in New York City, whose state delegation includes Senator Chuck Schumer, the Democratic leader, and Representative Hakeem Jeffries, the House minority leader.",
+      "paragraph_id": 4,
+      "word_count": 43,
+      "start_time": 85.625,
+      "end_time": 107.25,
+      "duration": 21.625,
+      "phoneme_count": 331
+    },
+    {
+      "id": 9,
+      "sentence": "The two men have been frequent targets of Mr.",
+      "paragraph_id": 4,
+      "word_count": 9,
+      "start_time": 107.25,
+      "end_time": 110.75,
+      "duration": 3.5,
+      "phoneme_count": 49
+    },
+    {
+      "id": 10,
+      "sentence": "Trump\u2019s personal attacks, and the Transportation Department said the money would be held pending further review.",
+      "paragraph_id": 4,
+      "word_count": 16,
+      "start_time": 110.75,
+      "end_time": 118.15,
+      "duration": 7.4,
+      "phoneme_count": 111
+    },
+    {
+      "id": 11,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 118.15,
+      "end_time": 119.575,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 12,
+      "sentence": "Vought\u2019s budget maneuvers marked an attempt to formalize Mr.",
+      "paragraph_id": 5,
+      "word_count": 9,
+      "start_time": 119.575,
+      "end_time": 124.35,
+      "duration": 4.775,
+      "phoneme_count": 62
+    },
+    {
+      "id": 13,
+      "sentence": "Trump\u2019s threat from a day earlier, when he described a shutdown as a \u201cgood\u201d opportunity to cut federal agencies, programs and benefits he disfavors in ways that would harm Democrats.",
+      "paragraph_id": 5,
+      "word_count": 30,
+      "start_time": 124.35,
+      "end_time": 137.25,
+      "duration": 12.9,
+      "phoneme_count": 188
+    },
+    {
+      "id": 14,
+      "sentence": "He said at the time that it could include another round of mass layoffs targeting \u201ca lot\u201d of government workers.",
+      "paragraph_id": 5,
+      "word_count": 20,
+      "start_time": 137.25,
+      "end_time": 145.025,
+      "duration": 7.775,
+      "phoneme_count": 112
+    },
+    {
+      "id": 15,
+      "sentence": "This New Brooklyn Seafood Spot Is an Odd Fish",
+      "paragraph_id": 6,
+      "word_count": 9,
+      "start_time": 145.025,
+      "end_time": 148.775,
+      "duration": 3.75,
+      "phoneme_count": 47
+    },
+    {
+      "id": 16,
+      "sentence": "A T-Shirt That\u2019s Both a Conversation Piece and a \u2018Badge of Honor\u2019",
+      "paragraph_id": 7,
+      "word_count": 12,
+      "start_time": 148.775,
+      "end_time": 153.6,
+      "duration": 4.825,
+      "phoneme_count": 64
+    },
+    {
+      "id": 17,
+      "sentence": "The Cast of \u2018Outer Banks\u2019 Goes Big on Pizza Toppings",
+      "paragraph_id": 8,
+      "word_count": 10,
+      "start_time": 153.6,
+      "end_time": 157.85,
+      "duration": 4.25,
+      "phoneme_count": 55
+    }
+  ]
+}

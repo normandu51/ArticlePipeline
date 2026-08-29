@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "b6762c0b-8145-5a8b-94a1-8f72327c0e11",
+    "headline": "What to Know Before Sean Combs\u2019s Sentencing",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/b6762c0b-8145-5a8b-94a1-8f72327c0e11_kokoro.wav",
+    "total_duration": 90.925,
+    "sentence_count": 13,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:07:25.153056"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "On Friday, Sean Combs will enter Federal District Court in Manhattan to learn how much more of his life will be spent behind bars.",
+      "paragraph_id": 0,
+      "word_count": 24,
+      "start_time": 0.0,
+      "end_time": 9.5,
+      "duration": 9.5,
+      "phoneme_count": 135
+    },
+    {
+      "id": 1,
+      "sentence": "In July, at the conclusion of an eight-week trial, a jury acquitted Mr.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 9.5,
+      "end_time": 15.0,
+      "duration": 5.5,
+      "phoneme_count": 73
+    },
+    {
+      "id": 2,
+      "sentence": "Combs of the most serious charges brought against him: sex trafficking and racketeering conspiracy.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 15.0,
+      "end_time": 21.975,
+      "duration": 6.975,
+      "phoneme_count": 98
+    },
+    {
+      "id": 3,
+      "sentence": "But the jury found him guilty of two counts of transportation to engage in prostitution, and now Judge Arun Subramanian will decide Mr.",
+      "paragraph_id": 1,
+      "word_count": 23,
+      "start_time": 21.975,
+      "end_time": 32.2,
+      "duration": 10.225,
+      "phoneme_count": 144
+    },
+    {
+      "id": 4,
+      "sentence": "Combs\u2019s punishment.",
+      "paragraph_id": 1,
+      "word_count": 2,
+      "start_time": 32.2,
+      "end_time": 34.3,
+      "duration": 2.1,
+      "phoneme_count": 19
+    },
+    {
+      "id": 5,
+      "sentence": "Here is a look at what is at stake for Mr.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 34.3,
+      "end_time": 37.525,
+      "duration": 3.225,
+      "phoneme_count": 46
+    },
+    {
+      "id": 6,
+      "sentence": "Combs, and what to expect on Friday.",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 37.525,
+      "end_time": 40.75,
+      "duration": 3.225,
+      "phoneme_count": 40
+    },
+    {
+      "id": 7,
+      "sentence": "Mr.",
+      "paragraph_id": 3,
+      "word_count": 1,
+      "start_time": 40.75,
+      "end_time": 42.175,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 8,
+      "sentence": "Combs \u2014 the hit music producer known as Puff Daddy or Diddy, who built a wide-ranging business empire around his personal brand \u2014 was accused at trial of coercing two former girlfriends into participating in elaborate, drug-fueled sex marathons with hired male escorts.",
+      "paragraph_id": 3,
+      "word_count": 43,
+      "start_time": 42.175,
+      "end_time": 61.4,
+      "duration": 19.225,
+      "phoneme_count": 285
+    },
+    {
+      "id": 9,
+      "sentence": "If convicted of the most serious charges, he would have faced a potential life sentence.",
+      "paragraph_id": 3,
+      "word_count": 15,
+      "start_time": 61.4,
+      "end_time": 67.275,
+      "duration": 5.875,
+      "phoneme_count": 87
+    },
+    {
+      "id": 10,
+      "sentence": "When he was acquitted of those counts, he fell to his knees in prayer, and his lawyer said he had \u201cbeen given his life back.\u201d",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 67.275,
+      "end_time": 75.25,
+      "duration": 7.975,
+      "phoneme_count": 120
+    },
+    {
+      "id": 11,
+      "sentence": "But the two counts on which he was found guilty still carry maximum sentences of 10 years each.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 75.25,
+      "end_time": 82.025,
+      "duration": 6.775,
+      "phoneme_count": 99
+    },
+    {
+      "id": 12,
+      "sentence": "They stem from the federal Mann Act, which makes it illegal to transport people across state lines for the purpose of prostitution.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 82.025,
+      "end_time": 90.925,
+      "duration": 8.9,
+      "phoneme_count": 133
+    }
+  ]
+}

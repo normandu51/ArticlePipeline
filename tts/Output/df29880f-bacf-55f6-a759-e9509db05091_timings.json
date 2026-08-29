@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "article_id": "df29880f-bacf-55f6-a759-e9509db05091",
+    "headline": "Is It OK to Talk to My Daughter About Her Weight?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/df29880f-bacf-55f6-a759-e9509db05091_kokoro.wav",
+    "total_duration": 175.1,
+    "sentence_count": 29,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:20:05.472594"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "I have a 26-year-old daughter who from a very early age studied dance.",
+      "paragraph_id": 0,
+      "word_count": 13,
+      "start_time": 0.0,
+      "end_time": 5.65,
+      "duration": 5.65,
+      "phoneme_count": 81
+    },
+    {
+      "id": 1,
+      "sentence": "For a while, we thought she might pursue it professionally, but by the time she was applying for colleges it was clear that she had decided not to.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 5.65,
+      "end_time": 15.25,
+      "duration": 9.6,
+      "phoneme_count": 138
+    },
+    {
+      "id": 2,
+      "sentence": "Once she made that decision, she stopped taking dance classes.",
+      "paragraph_id": 0,
+      "word_count": 10,
+      "start_time": 15.25,
+      "end_time": 19.825,
+      "duration": 4.575,
+      "phoneme_count": 60
+    },
+    {
+      "id": 3,
+      "sentence": "We were disappointed \u2014 she was a beautiful dancer \u2014 but we were supportive of her choice.",
+      "paragraph_id": 0,
+      "word_count": 17,
+      "start_time": 19.825,
+      "end_time": 25.675,
+      "duration": 5.85,
+      "phoneme_count": 86
+    },
+    {
+      "id": 4,
+      "sentence": "She found a major she loved and is doing very well.",
+      "paragraph_id": 0,
+      "word_count": 11,
+      "start_time": 25.675,
+      "end_time": 29.775,
+      "duration": 4.1,
+      "phoneme_count": 52
+    },
+    {
+      "id": 5,
+      "sentence": "We couldn\u2019t be happier about that.",
+      "paragraph_id": 0,
+      "word_count": 6,
+      "start_time": 29.775,
+      "end_time": 32.35,
+      "duration": 2.575,
+      "phoneme_count": 34
+    },
+    {
+      "id": 6,
+      "sentence": "I\u2019ve noticed, however, that since she stopped dancing she has steadily gained weight.",
+      "paragraph_id": 0,
+      "word_count": 13,
+      "start_time": 32.35,
+      "end_time": 37.825,
+      "duration": 5.475,
+      "phoneme_count": 77
+    },
+    {
+      "id": 7,
+      "sentence": "Lately, every time her dad and I see her, she has put on more weight.",
+      "paragraph_id": 0,
+      "word_count": 15,
+      "start_time": 37.825,
+      "end_time": 42.775,
+      "duration": 4.95,
+      "phoneme_count": 72
+    },
+    {
+      "id": 8,
+      "sentence": "We want to have a conversation with her about it, but we\u2019re concerned that she will think that we\u2019re body-shaming her.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 42.775,
+      "end_time": 49.9,
+      "duration": 7.125,
+      "phoneme_count": 112
+    },
+    {
+      "id": 9,
+      "sentence": "She can get defensive about things.",
+      "paragraph_id": 1,
+      "word_count": 6,
+      "start_time": 49.9,
+      "end_time": 52.775,
+      "duration": 2.875,
+      "phoneme_count": 34
+    },
+    {
+      "id": 10,
+      "sentence": "I am particularly concerned about the things she loves to eat.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 52.775,
+      "end_time": 57.125,
+      "duration": 4.35,
+      "phoneme_count": 62
+    },
+    {
+      "id": 11,
+      "sentence": "She gravitates toward sugar and fatty foods, and isn\u2019t very active.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 57.125,
+      "end_time": 62.125,
+      "duration": 5.0,
+      "phoneme_count": 70
+    },
+    {
+      "id": 12,
+      "sentence": "We have lots of diabetes on both sides of our family, and I\u2019ve subtly tried to mention this family risk.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 62.125,
+      "end_time": 69.7,
+      "duration": 7.575,
+      "phoneme_count": 111
+    },
+    {
+      "id": 13,
+      "sentence": "I don\u2019t think she has taken this in, however.",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 69.7,
+      "end_time": 72.675,
+      "duration": 2.975,
+      "phoneme_count": 46
+    },
+    {
+      "id": 14,
+      "sentence": "She may be headed for a serious weight problem.",
+      "paragraph_id": 1,
+      "word_count": 9,
+      "start_time": 72.675,
+      "end_time": 76.0,
+      "duration": 3.325,
+      "phoneme_count": 46
+    },
+    {
+      "id": 15,
+      "sentence": "How can we raise this with her without making her feel self-conscious or judged, and without pushing her away from us?",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 76.0,
+      "end_time": 83.525,
+      "duration": 7.525,
+      "phoneme_count": 110
+    },
+    {
+      "id": 16,
+      "sentence": "We love and respect her and want to see her live a healthy life.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 83.525,
+      "end_time": 88.375,
+      "duration": 4.85,
+      "phoneme_count": 66
+    },
+    {
+      "id": 17,
+      "sentence": "Please advise! \u2014 Name Withheld",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 88.375,
+      "end_time": 91.2,
+      "duration": 2.825,
+      "phoneme_count": 29
+    },
+    {
+      "id": 18,
+      "sentence": "From the Ethicist:",
+      "paragraph_id": 2,
+      "word_count": 3,
+      "start_time": 91.2,
+      "end_time": 93.075,
+      "duration": 1.875,
+      "phoneme_count": 18
+    },
+    {
+      "id": 19,
+      "sentence": "You seem worried that raising the subject at all would amount to body-shaming.",
+      "paragraph_id": 3,
+      "word_count": 13,
+      "start_time": 93.075,
+      "end_time": 98.375,
+      "duration": 5.3,
+      "phoneme_count": 72
+    },
+    {
+      "id": 20,
+      "sentence": "But if your concern is genuinely about her health rather than her appearance, there is nothing inherently wrong with speaking up.",
+      "paragraph_id": 3,
+      "word_count": 21,
+      "start_time": 98.375,
+      "end_time": 106.725,
+      "duration": 8.35,
+      "phoneme_count": 124
+    },
+    {
+      "id": 21,
+      "sentence": "The real problem with body-shaming is the shaming part.",
+      "paragraph_id": 3,
+      "word_count": 9,
+      "start_time": 106.725,
+      "end_time": 110.825,
+      "duration": 4.1,
+      "phoneme_count": 53
+    },
+    {
+      "id": 22,
+      "sentence": "It often leaves people feeling worse about themselves, studies have found, sometimes even driving the very behaviors, like overeating, that you\u2019d like to prevent.",
+      "paragraph_id": 3,
+      "word_count": 24,
+      "start_time": 110.825,
+      "end_time": 122.075,
+      "duration": 11.25,
+      "phoneme_count": 159
+    },
+    {
+      "id": 23,
+      "sentence": "So think carefully about what you want to say as well as how you want to say it.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 122.075,
+      "end_time": 127.425,
+      "duration": 5.35,
+      "phoneme_count": 80
+    },
+    {
+      "id": 24,
+      "sentence": "The way you describe your daughter\u2019s history suggests you still see her through the lens of who she was as a young dancer \u2014 slim, graceful and intensely active.",
+      "paragraph_id": 4,
+      "word_count": 29,
+      "start_time": 127.425,
+      "end_time": 138.55,
+      "duration": 11.125,
+      "phoneme_count": 151
+    },
+    {
+      "id": 25,
+      "sentence": "If the undertone of your concern is nostalgia for the lean dancer she used to be, she will hear it, no matter what words you choose, and you\u2019ll only push her away.",
+      "paragraph_id": 4,
+      "word_count": 32,
+      "start_time": 138.55,
+      "end_time": 149.55,
+      "duration": 11.0,
+      "phoneme_count": 160
+    },
+    {
+      "id": 26,
+      "sentence": "If, however, what you truly want is to support her well-being, then speak to her as an adult, with respect and candor, rather than as a child whose body you wish were different.",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 149.55,
+      "end_time": 161.725,
+      "duration": 12.175,
+      "phoneme_count": 177
+    },
+    {
+      "id": 27,
+      "sentence": "That means keeping the focus on health and family history.",
+      "paragraph_id": 5,
+      "word_count": 10,
+      "start_time": 161.725,
+      "end_time": 166.075,
+      "duration": 4.35,
+      "phoneme_count": 59
+    },
+    {
+      "id": 28,
+      "sentence": "Make sure she knows the concern comes from love, not disappointment \u2014 that your concern is for her well-being, not her waistline.",
+      "paragraph_id": 5,
+      "word_count": 22,
+      "start_time": 166.075,
+      "end_time": 175.1,
+      "duration": 9.025,
+      "phoneme_count": 127
+    }
+  ]
+}

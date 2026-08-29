@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "article_id": "8aaad872-bbe6-5943-9c86-13a6572ddc97",
+    "headline": "Italy Backs Trump\u2019s Cease-Fire Plan as Public Demands More Help for Gaza",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8aaad872-bbe6-5943-9c86-13a6572ddc97_kokoro.wav",
+    "total_duration": 115.375,
+    "sentence_count": 8,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:51:34.294061"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Italian lawmakers on Thursday passed a motion supporting the cease-fire proposal put forward by President Trump and Prime Minister Benjamin Netanyahu of Israel to end the Gaza war and insisted on conditions for any eventual recognition of a Palestinian state.",
+      "paragraph_id": 0,
+      "word_count": 40,
+      "start_time": 0.0,
+      "end_time": 19.15,
+      "duration": 19.15,
+      "phoneme_count": 279
+    },
+    {
+      "id": 1,
+      "sentence": "The motions indicated the government\u2019s attempt to bridge the gap with other Western nations while keeping Israel as an ally.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 19.15,
+      "end_time": 27.7,
+      "duration": 8.55,
+      "phoneme_count": 123
+    },
+    {
+      "id": 2,
+      "sentence": "Italy\u2019s leaders have hesitated to follow the wave of countries \u2014 including France, Belgium and Portugal, along with Britain, Canada and Australia \u2014 that have recognized Palestinian statehood in recent months.",
+      "paragraph_id": 1,
+      "word_count": 31,
+      "start_time": 27.7,
+      "end_time": 42.6,
+      "duration": 14.9,
+      "phoneme_count": 209
+    },
+    {
+      "id": 3,
+      "sentence": "But opinion polls show that a vast majority of Italians believe Israel is committing genocide in Gaza and most Italians surveyed are in favor of recognizing a Palestinian state.",
+      "paragraph_id": 2,
+      "word_count": 29,
+      "start_time": 42.6,
+      "end_time": 56.475,
+      "duration": 13.875,
+      "phoneme_count": 184
+    },
+    {
+      "id": 4,
+      "sentence": "Tens of thousands demonstrated in support of Palestinians last month; as many are expected to participate in a general strike on Friday in support of a flotilla that was intercepted trying to take humanitarian goods to Gaza.",
+      "paragraph_id": 2,
+      "word_count": 37,
+      "start_time": 56.475,
+      "end_time": 72.8,
+      "duration": 16.325,
+      "phoneme_count": 240
+    },
+    {
+      "id": 5,
+      "sentence": "Some Italians, including lawmakers, were aboard the boats.",
+      "paragraph_id": 2,
+      "word_count": 8,
+      "start_time": 72.8,
+      "end_time": 77.275,
+      "duration": 4.475,
+      "phoneme_count": 58
+    },
+    {
+      "id": 6,
+      "sentence": "Prime Minister Giorgia Meloni attacked trade unions for organizing a strike that would lead to widespread disruptions. \u201cAll this brings no benefit to the Palestinian people,\u201d she told reporters Thursday. \u201cOn the other hand, I understand that it will bring a lot of problems to Italian citizens.\u201d",
+      "paragraph_id": 3,
+      "word_count": 47,
+      "start_time": 77.275,
+      "end_time": 97.175,
+      "duration": 19.9,
+      "phoneme_count": 304
+    },
+    {
+      "id": 7,
+      "sentence": "Ahead of the vote on Thursday, Antonio Tajani, the foreign minister, said that the cease-fire proposal \u201coffered a glimmer of hope for peace\u201d that \u201ccould be the turning point that changes the history of the Middle East,\u201d as long as all the key players did their part.",
+      "paragraph_id": 4,
+      "word_count": 47,
+      "start_time": 97.175,
+      "end_time": 115.375,
+      "duration": 18.2,
+      "phoneme_count": 257
+    }
+  ]
+}

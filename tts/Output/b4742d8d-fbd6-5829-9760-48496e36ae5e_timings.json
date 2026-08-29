@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "article_id": "b4742d8d-fbd6-5829-9760-48496e36ae5e",
+    "headline": "One Girl\u2019s Journey After Her Grandma Said to Kill Her",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/b4742d8d-fbd6-5829-9760-48496e36ae5e_kokoro.wav",
+    "total_duration": 100.3,
+    "sentence_count": 12,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:06:59.227917"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "I worry that my reporting recently from Africa about President Trump\u2019s aid cuts may leave a misimpression that villagers and refugees are helpless flotsam, simply the fragile victims of crises instigated in Washington.",
+      "paragraph_id": 0,
+      "word_count": 33,
+      "start_time": 0.0,
+      "end_time": 15.9,
+      "duration": 15.9,
+      "phoneme_count": 226
+    },
+    {
+      "id": 1,
+      "sentence": "Not true!",
+      "paragraph_id": 1,
+      "word_count": 2,
+      "start_time": 15.9,
+      "end_time": 17.525,
+      "duration": 1.625,
+      "phoneme_count": 10
+    },
+    {
+      "id": 2,
+      "sentence": "People in the poorest countries are often, of necessity, masters of strength, adaptability and resilience.",
+      "paragraph_id": 1,
+      "word_count": 15,
+      "start_time": 17.525,
+      "end_time": 25.475,
+      "duration": 7.95,
+      "phoneme_count": 106
+    },
+    {
+      "id": 3,
+      "sentence": "They weep as any of us would as their children die because of reckless decisions in Washington, but we in the rich world could learn so much from their fortitude in fighting against impossible odds.",
+      "paragraph_id": 1,
+      "word_count": 35,
+      "start_time": 25.475,
+      "end_time": 39.125,
+      "duration": 13.65,
+      "phoneme_count": 189
+    },
+    {
+      "id": 4,
+      "sentence": "Which brings me to Chantale Zuzi.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 39.125,
+      "end_time": 42.05,
+      "duration": 2.925,
+      "phoneme_count": 34
+    },
+    {
+      "id": 5,
+      "sentence": "Zuzi, who is inspiration personified, was born with albinism about 23 years ago (she\u2019s not sure of her exact birth date) in a hut in a village in the Democratic Republic of Congo.",
+      "paragraph_id": 3,
+      "word_count": 33,
+      "start_time": 42.05,
+      "end_time": 56.6,
+      "duration": 14.55,
+      "phoneme_count": 201
+    },
+    {
+      "id": 6,
+      "sentence": "It was an inauspicious beginning: Her maternal grandmother wanted to kill her, thinking that her pale skin was a curse.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 56.6,
+      "end_time": 64.925,
+      "duration": 8.325,
+      "phoneme_count": 122
+    },
+    {
+      "id": 7,
+      "sentence": "Fortunately, her parents protected her.",
+      "paragraph_id": 3,
+      "word_count": 5,
+      "start_time": 64.925,
+      "end_time": 68.1,
+      "duration": 3.175,
+      "phoneme_count": 42
+    },
+    {
+      "id": 8,
+      "sentence": "The fifth of 10 children, Zuzi was an excellent student, but school in the village was terrifying.",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 68.1,
+      "end_time": 75.375,
+      "duration": 7.275,
+      "phoneme_count": 100
+    },
+    {
+      "id": 9,
+      "sentence": "The teacher beat students who gave wrong answers, few girls attended, and in any case children had no textbooks.",
+      "paragraph_id": 4,
+      "word_count": 19,
+      "start_time": 75.375,
+      "end_time": 83.475,
+      "duration": 8.1,
+      "phoneme_count": 116
+    },
+    {
+      "id": 10,
+      "sentence": "Other students refused to touch Zuzi because of her skin color, fearing that albinism was contagious.",
+      "paragraph_id": 4,
+      "word_count": 16,
+      "start_time": 83.475,
+      "end_time": 90.9,
+      "duration": 7.425,
+      "phoneme_count": 105
+    },
+    {
+      "id": 11,
+      "sentence": "Then in June 2014, catastrophe: A rival ethnic group attacked her village, burned her home and murdered her parents.",
+      "paragraph_id": 5,
+      "word_count": 19,
+      "start_time": 90.9,
+      "end_time": 100.3,
+      "duration": 9.4,
+      "phoneme_count": 127
+    }
+  ]
+}

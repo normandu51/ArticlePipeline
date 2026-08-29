@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "article_id": "5504e6dc-5169-5654-8dcd-b0a6b8561fdc",
+    "headline": "How Government Shutdowns Got More Severe and Further Reaching",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/5504e6dc-5169-5654-8dcd-b0a6b8561fdc_kokoro.wav",
+    "total_duration": 56.575,
+    "sentence_count": 6,
+    "paragraph_count": 3,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:28:19.024204"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The government shutdown that began Wednesday after lawmakers failed to pass a funding measure is the 22nd lapse in government funding since 1976, and the fourth under President Trump.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 13.875,
+      "duration": 13.875,
+      "phoneme_count": 214
+    },
+    {
+      "id": 1,
+      "sentence": "Once seen as an annoying but semiregular symptom of Washington dysfunction, government shutdowns have grown longer and more disruptive over the past 15 years.",
+      "paragraph_id": 1,
+      "word_count": 24,
+      "start_time": 13.875,
+      "end_time": 25.475,
+      "duration": 11.6,
+      "phoneme_count": 169
+    },
+    {
+      "id": 2,
+      "sentence": "Funding gaps have stretched to weeks, and hundreds of thousands of federal workers have been furloughed or forced to go without pay.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 25.475,
+      "end_time": 33.925,
+      "duration": 8.45,
+      "phoneme_count": 128
+    },
+    {
+      "id": 3,
+      "sentence": "The most recent government shutdown, which occurred during Mr.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 33.925,
+      "end_time": 38.4,
+      "duration": 4.475,
+      "phoneme_count": 65
+    },
+    {
+      "id": 4,
+      "sentence": "Trump\u2019s first term, lasted more than a month and affected hundreds of thousands of Americans.",
+      "paragraph_id": 2,
+      "word_count": 15,
+      "start_time": 38.4,
+      "end_time": 45.0,
+      "duration": 6.6,
+      "phoneme_count": 96
+    },
+    {
+      "id": 5,
+      "sentence": "Middle-class families relied on food pantries, travel delays and cancellations snarled airports and the day-to-day mechanics of American life were upended.",
+      "paragraph_id": 2,
+      "word_count": 21,
+      "start_time": 45.0,
+      "end_time": 56.575,
+      "duration": 11.575,
+      "phoneme_count": 156
+    }
+  ]
+}

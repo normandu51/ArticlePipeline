@@ -41,6 +41,7 @@ CREATE TABLE IF NOT EXISTS articles (
     month            TEXT,                       -- '2025_10' (archive file stem)
     raw              TEXT,                       -- full original archive doc (JSON)
     status           TEXT NOT NULL DEFAULT 'pending',
+    review_results   TEXT,                       -- NA, not sutable for leaning, like containing sensitive words
     extracted_text   TEXT,                       -- clean article body
     error            TEXT,
     extracted_at     TEXT,
@@ -160,21 +161,39 @@ def has_extracted_text(conn, article_id):
 
 
 def mark_extracted(conn, article_id, text):
-    """Record successful extraction (also backfills rows with no metadata)."""
+    """Record successful extraction (also backfills rows with no metadata).
+
+    If the extracted text is longer than the archive's `word_count`, the
+    `error` field is set to 'Word count exceeded' as a warning that the
+    fetched page contained more prose than the archived article.
+    """
     now = now_iso()
+    extracted_word_count = len(text.split()) if text else 0
+
+    row = conn.execute(
+        "SELECT word_count FROM articles WHERE id = ?", (article_id,)
+    ).fetchone()
+    expected_word_count = row["word_count"] if row else None
+    error = (
+        "Word count exceeded"
+        if expected_word_count is not None
+        and extracted_word_count > expected_word_count
+        else None
+    )
+
     conn.execute(
         """
         INSERT INTO articles (id, status, extracted_text, extracted_at,
-                              created_at, updated_at)
-        VALUES (?, 'extracted', ?, ?, ?, ?)
+                              error, created_at, updated_at)
+        VALUES (?, 'extracted', ?, ?, ?, ?, ?)
         ON CONFLICT(id) DO UPDATE SET
             status = 'extracted',
             extracted_text = excluded.extracted_text,
             extracted_at = excluded.extracted_at,
-            error = NULL,
+            error = excluded.error,
             updated_at = excluded.updated_at
         """,
-        (article_id, text, now, now, now),
+        (article_id, text, now, error, now, now),
     )
     conn.commit()
 

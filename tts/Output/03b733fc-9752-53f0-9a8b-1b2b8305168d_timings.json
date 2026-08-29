@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "article_id": "03b733fc-9752-53f0-9a8b-1b2b8305168d",
+    "headline": "Kimmel and Colbert, Joined in New York, Show a United Front",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/03b733fc-9752-53f0-9a8b-1b2b8305168d_kokoro.wav",
+    "total_duration": 104.025,
+    "sentence_count": 17,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:00:08.610270"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "As Stephen Colbert strolled onto the stage of \u201cJimmy Kimmel Live!\u201d late Tuesday afternoon at the Brooklyn Academy of Music, a couple of thousand fans jumped to their feet and bellowed a deafening chant of \u201cStephen!",
+      "paragraph_id": 0,
+      "word_count": 36,
+      "start_time": 0.0,
+      "end_time": 14.625,
+      "duration": 14.625,
+      "phoneme_count": 214
+    },
+    {
+      "id": 1,
+      "sentence": "Stephen!",
+      "paragraph_id": 0,
+      "word_count": 1,
+      "start_time": 14.625,
+      "end_time": 16.1,
+      "duration": 1.475,
+      "phoneme_count": 8
+    },
+    {
+      "id": 2,
+      "sentence": "Stephen!\u201d",
+      "paragraph_id": 0,
+      "word_count": 1,
+      "start_time": 16.1,
+      "end_time": 17.6,
+      "duration": 1.5,
+      "phoneme_count": 9
+    },
+    {
+      "id": 3,
+      "sentence": "A couple of hours later, the roles were reversed: Mr.",
+      "paragraph_id": 1,
+      "word_count": 10,
+      "start_time": 17.6,
+      "end_time": 22.025,
+      "duration": 4.425,
+      "phoneme_count": 56
+    },
+    {
+      "id": 4,
+      "sentence": "Kimmel headed for the guest chair at Mr.",
+      "paragraph_id": 1,
+      "word_count": 8,
+      "start_time": 22.025,
+      "end_time": 24.9,
+      "duration": 2.875,
+      "phoneme_count": 42
+    },
+    {
+      "id": 5,
+      "sentence": "Colbert\u2019s theater in Midtown Manhattan amid a standing ovation and chants of \u201cJimmy!",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 24.9,
+      "end_time": 31.25,
+      "duration": 6.35,
+      "phoneme_count": 85
+    },
+    {
+      "id": 6,
+      "sentence": "Jimmy!",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 31.25,
+      "end_time": 32.575,
+      "duration": 1.325,
+      "phoneme_count": 6
+    },
+    {
+      "id": 7,
+      "sentence": "Jimmy!\u201d",
+      "paragraph_id": 1,
+      "word_count": 1,
+      "start_time": 32.575,
+      "end_time": 33.925,
+      "duration": 1.35,
+      "phoneme_count": 7
+    },
+    {
+      "id": 8,
+      "sentence": "The Tuesday editions of \u201cJimmy Kimmel Live\u201d on ABC and \u201cThe Late Show With Stephen Colbert\u201d on CBS were effectively a stunt, a crossover event across New York City that took advantage of the trip that Mr.",
+      "paragraph_id": 2,
+      "word_count": 37,
+      "start_time": 33.925,
+      "end_time": 49.75,
+      "duration": 15.825,
+      "phoneme_count": 220
+    },
+    {
+      "id": 9,
+      "sentence": "Kimmel\u2019s Los Angeles production takes to Brooklyn every year.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 49.75,
+      "end_time": 54.45,
+      "duration": 4.7,
+      "phoneme_count": 62
+    },
+    {
+      "id": 10,
+      "sentence": "But the gimmick, in which each played the role of host and guest, had some added significance: It followed a chaotic two-month stretch with one permanent cancellation (Mr.",
+      "paragraph_id": 3,
+      "word_count": 28,
+      "start_time": 54.45,
+      "end_time": 66.125,
+      "duration": 11.675,
+      "phoneme_count": 169
+    },
+    {
+      "id": 11,
+      "sentence": "Colbert) and one temporary cancellation (Mr.",
+      "paragraph_id": 3,
+      "word_count": 6,
+      "start_time": 66.125,
+      "end_time": 70.025,
+      "duration": 3.9,
+      "phoneme_count": 52
+    },
+    {
+      "id": 12,
+      "sentence": "Kimmel) that set off a fierce national debate about free speech and the Trump\u2019s administration\u2019s repeated attacks on the media.",
+      "paragraph_id": 3,
+      "word_count": 20,
+      "start_time": 70.025,
+      "end_time": 78.525,
+      "duration": 8.5,
+      "phoneme_count": 124
+    },
+    {
+      "id": 13,
+      "sentence": "And the Tuesday editions of each late-night show underscored just how much the two hosts have demonstrated a united front through it all.",
+      "paragraph_id": 4,
+      "word_count": 23,
+      "start_time": 78.525,
+      "end_time": 87.65,
+      "duration": 9.125,
+      "phoneme_count": 135
+    },
+    {
+      "id": 14,
+      "sentence": "\u201cMy first guest tonight is an Emmy-winning late-night talk show host who, thanks to the Trump administration, is now available for a limited time only,\u201d Mr.",
+      "paragraph_id": 5,
+      "word_count": 26,
+      "start_time": 87.65,
+      "end_time": 98.95,
+      "duration": 11.3,
+      "phoneme_count": 160
+    },
+    {
+      "id": 15,
+      "sentence": "Kimmel said when he introduced Mr.",
+      "paragraph_id": 5,
+      "word_count": 6,
+      "start_time": 98.95,
+      "end_time": 101.775,
+      "duration": 2.825,
+      "phoneme_count": 39
+    },
+    {
+      "id": 16,
+      "sentence": "Colbert on to his show.",
+      "paragraph_id": 5,
+      "word_count": 5,
+      "start_time": 101.775,
+      "end_time": 104.025,
+      "duration": 2.25,
+      "phoneme_count": 24
+    }
+  ]
+}

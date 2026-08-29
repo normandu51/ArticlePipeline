@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "article_id": "d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b",
+    "headline": "Even the Statue of Liberty\u2019s Torch Could Go Dark During the Shutdown",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/d1e18bdd-ae58-59b1-8296-6c0dd56c3c8b_kokoro.wav",
+    "total_duration": 96.725,
+    "sentence_count": 11,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:15:25.683925"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Follow live coverage of the Trump administration and the government shutdown.",
+      "paragraph_id": 0,
+      "word_count": 11,
+      "start_time": 0.0,
+      "end_time": 5.55,
+      "duration": 5.55,
+      "phoneme_count": 77
+    },
+    {
+      "id": 1,
+      "sentence": "Thousands of federal workers furloughed.",
+      "paragraph_id": 1,
+      "word_count": 5,
+      "start_time": 5.55,
+      "end_time": 8.65,
+      "duration": 3.1,
+      "phoneme_count": 39
+    },
+    {
+      "id": 2,
+      "sentence": "Food aid and veterans\u2019 benefits at risk.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 8.65,
+      "end_time": 12.1,
+      "duration": 3.45,
+      "phoneme_count": 42
+    },
+    {
+      "id": 3,
+      "sentence": "Even the light in the Statue of Liberty\u2019s torch could go dark now that the federal government has shut down.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 12.1,
+      "end_time": 19.4,
+      "duration": 7.3,
+      "phoneme_count": 106
+    },
+    {
+      "id": 4,
+      "sentence": "With Lady Liberty in the background, New York\u2019s top Democrats rallied in Lower Manhattan on Wednesday against the impact of the shutdown \u2014 and placed the blame squarely on the shoulders of congressional Republicans.",
+      "paragraph_id": 2,
+      "word_count": 34,
+      "start_time": 19.4,
+      "end_time": 33.6,
+      "duration": 14.2,
+      "phoneme_count": 215
+    },
+    {
+      "id": 5,
+      "sentence": "Gov.",
+      "paragraph_id": 3,
+      "word_count": 1,
+      "start_time": 33.6,
+      "end_time": 34.95,
+      "duration": 1.35,
+      "phoneme_count": 5
+    },
+    {
+      "id": 6,
+      "sentence": "Kathy Hochul, a Democrat, said Republicans had sold out their constituents by refusing to negotiate with Democrats who wanted to extend expiring health care subsidies in exchange for keeping the government running.",
+      "paragraph_id": 3,
+      "word_count": 32,
+      "start_time": 34.95,
+      "end_time": 50.2,
+      "duration": 15.25,
+      "phoneme_count": 222
+    },
+    {
+      "id": 7,
+      "sentence": "\u201cI want to be clear \u2014 this shutdown is a choice,\u201d Ms.",
+      "paragraph_id": 4,
+      "word_count": 12,
+      "start_time": 50.2,
+      "end_time": 53.75,
+      "duration": 3.55,
+      "phoneme_count": 53
+    },
+    {
+      "id": 8,
+      "sentence": "Hochul said. \u201cIn putting Donald Trump first, they put New Yorkers last.\u201d",
+      "paragraph_id": 4,
+      "word_count": 12,
+      "start_time": 53.75,
+      "end_time": 59.125,
+      "duration": 5.375,
+      "phoneme_count": 75
+    },
+    {
+      "id": 9,
+      "sentence": "Officials say the effects are already beginning to be felt across the state: Air traffic controllers and Transportation Security Administration employees are working without pay, while hospitals wait in vain for federal reimbursements.",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 59.125,
+      "end_time": 75.075,
+      "duration": 15.95,
+      "phoneme_count": 238
+    },
+    {
+      "id": 10,
+      "sentence": "The longer the shutdown lasts, they say, the more people will be affected, including Social Security recipients and mothers, infants and children receiving assistance through federal programs like Supplemental Nutrition Assistance Program, the Supplemental Nutrition Program for Women, Infants, and Children and Head Start.",
+      "paragraph_id": 6,
+      "word_count": 44,
+      "start_time": 75.075,
+      "end_time": 96.725,
+      "duration": 21.65,
+      "phoneme_count": 327
+    }
+  ]
+}

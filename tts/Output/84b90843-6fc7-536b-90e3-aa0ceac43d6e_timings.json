@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "article_id": "84b90843-6fc7-536b-90e3-aa0ceac43d6e",
+    "headline": "It\u2019s a Bad Time for Trump\u2019s Plan to Cut Back on Corporate Reporting",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/84b90843-6fc7-536b-90e3-aa0ceac43d6e_kokoro.wav",
+    "total_duration": 111.6,
+    "sentence_count": 15,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:50:19.153305"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "There\u2019s a time for everything.",
+      "paragraph_id": 0,
+      "word_count": 5,
+      "start_time": 0.0,
+      "end_time": 2.425,
+      "duration": 2.425,
+      "phoneme_count": 28
+    },
+    {
+      "id": 1,
+      "sentence": "This isn\u2019t the time to make reliable information about the markets and the economy even harder to find.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 2.425,
+      "end_time": 9.925,
+      "duration": 7.5,
+      "phoneme_count": 108
+    },
+    {
+      "id": 2,
+      "sentence": "With a government shutdown underway, crucial reports, including one on jobs and unemployment, simply aren\u2019t available.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 9.925,
+      "end_time": 18.8,
+      "duration": 8.875,
+      "phoneme_count": 125
+    },
+    {
+      "id": 3,
+      "sentence": "Even before the shutdown, the Trump administration had been making it increasingly difficult for the public to obtain solid official data on a wide range of subjects.",
+      "paragraph_id": 1,
+      "word_count": 27,
+      "start_time": 18.8,
+      "end_time": 30.075,
+      "duration": 11.275,
+      "phoneme_count": 168
+    },
+    {
+      "id": 4,
+      "sentence": "President Trump fired the head of the Bureau of Labor Statistics in August when he didn\u2019t like the jobs numbers the agency released.",
+      "paragraph_id": 2,
+      "word_count": 23,
+      "start_time": 30.075,
+      "end_time": 39.0,
+      "duration": 8.925,
+      "phoneme_count": 137
+    },
+    {
+      "id": 5,
+      "sentence": "Accurate data is becoming scarce for a variety of other subjects, too, including deportations, pollution emissions and the cost of extreme storms.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 39.0,
+      "end_time": 49.975,
+      "duration": 10.975,
+      "phoneme_count": 151
+    },
+    {
+      "id": 6,
+      "sentence": "The last thing we need now is further cuts in data.",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 49.975,
+      "end_time": 54.05,
+      "duration": 4.075,
+      "phoneme_count": 52
+    },
+    {
+      "id": 7,
+      "sentence": "Yet President Trump wants to slash another precious information trove: the quarterly earnings reports made by publicly traded companies.",
+      "paragraph_id": 4,
+      "word_count": 19,
+      "start_time": 54.05,
+      "end_time": 63.875,
+      "duration": 9.825,
+      "phoneme_count": 143
+    },
+    {
+      "id": 8,
+      "sentence": "The president has called on the Securities and Exchange Commission to eliminate the requirement that publicly traded companies report their earnings every three months.",
+      "paragraph_id": 5,
+      "word_count": 24,
+      "start_time": 63.875,
+      "end_time": 74.7,
+      "duration": 10.825,
+      "phoneme_count": 167
+    },
+    {
+      "id": 9,
+      "sentence": "And on Monday, Paul Atkins, the agency\u2019s chair, said he would \u201cfast track\u201d the president\u2019s desire to shift corporate America to a twice-yearly reporting cycle, instead of a quarterly one.",
+      "paragraph_id": 5,
+      "word_count": 30,
+      "start_time": 74.7,
+      "end_time": 87.95,
+      "duration": 13.25,
+      "phoneme_count": 192
+    },
+    {
+      "id": 10,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 87.95,
+      "end_time": 89.375,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 11,
+      "sentence": "Trump said this \u201cwill save money, and allow managers to focus on properly running their companies.\u201d",
+      "paragraph_id": 5,
+      "word_count": 16,
+      "start_time": 89.375,
+      "end_time": 96.525,
+      "duration": 7.15,
+      "phoneme_count": 98
+    },
+    {
+      "id": 12,
+      "sentence": "At another time, this might be a reasonable idea.",
+      "paragraph_id": 6,
+      "word_count": 9,
+      "start_time": 96.525,
+      "end_time": 100.35,
+      "duration": 3.825,
+      "phoneme_count": 49
+    },
+    {
+      "id": 13,
+      "sentence": "Why not try it in the United States?",
+      "paragraph_id": 6,
+      "word_count": 8,
+      "start_time": 100.35,
+      "end_time": 103.25,
+      "duration": 2.9,
+      "phoneme_count": 39
+    },
+    {
+      "id": 14,
+      "sentence": "After all, Britain and the European Union have already experimented with it without setting off economic disasters.",
+      "paragraph_id": 6,
+      "word_count": 17,
+      "start_time": 103.25,
+      "end_time": 111.6,
+      "duration": 8.35,
+      "phoneme_count": 121
+    }
+  ]
+}

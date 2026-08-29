@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "article_id": "b274fcf3-2803-559e-8ef0-f9be161d349c",
+    "headline": "Fed\u2019s Independence Remains at Risk Despite Temporary Legal Victory",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/b274fcf3-2803-559e-8ef0-f9be161d349c_kokoro.wav",
+    "total_duration": 111.4,
+    "sentence_count": 16,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:06:08.789743"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Lisa Cook notched a temporary win in her legal battle against President Trump this week when the Supreme Court said she could remain a governor on the Federal Reserve Board.",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 0.0,
+      "end_time": 11.3,
+      "duration": 11.3,
+      "phoneme_count": 175
+    },
+    {
+      "id": 1,
+      "sentence": "But the threat to the Fed\u2019s longstanding independence will continue to loom large over the central bank for at least the next several months.",
+      "paragraph_id": 1,
+      "word_count": 24,
+      "start_time": 11.3,
+      "end_time": 20.225,
+      "duration": 8.925,
+      "phoneme_count": 143
+    },
+    {
+      "id": 2,
+      "sentence": "The Supreme Court on Wednesday allowed Ms.",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 20.225,
+      "end_time": 23.575,
+      "duration": 3.35,
+      "phoneme_count": 40
+    },
+    {
+      "id": 3,
+      "sentence": "Cook to remain in her job while her lawsuit against Mr.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 23.575,
+      "end_time": 27.9,
+      "duration": 4.325,
+      "phoneme_count": 59
+    },
+    {
+      "id": 4,
+      "sentence": "Trump proceeds.",
+      "paragraph_id": 2,
+      "word_count": 2,
+      "start_time": 27.9,
+      "end_time": 29.8,
+      "duration": 1.9,
+      "phoneme_count": 17
+    },
+    {
+      "id": 5,
+      "sentence": "The president, who has tried to gain more control over the Fed, tried to fire her over unproven allegations of mortgage fraud.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 29.8,
+      "end_time": 38.625,
+      "duration": 8.825,
+      "phoneme_count": 132
+    },
+    {
+      "id": 6,
+      "sentence": "Still, the decision \u2014 part of a two-sentence, unsigned order \u2014 fell short of a decisive victory for the central bank.",
+      "paragraph_id": 3,
+      "word_count": 21,
+      "start_time": 38.625,
+      "end_time": 46.925,
+      "duration": 8.3,
+      "phoneme_count": 119
+    },
+    {
+      "id": 7,
+      "sentence": "Instead, the court agreed to wait to rule on Ms.",
+      "paragraph_id": 3,
+      "word_count": 10,
+      "start_time": 46.925,
+      "end_time": 50.425,
+      "duration": 3.5,
+      "phoneme_count": 49
+    },
+    {
+      "id": 8,
+      "sentence": "Cook\u2019s status until after it hears arguments on the matter in January.",
+      "paragraph_id": 3,
+      "word_count": 12,
+      "start_time": 50.425,
+      "end_time": 55.725,
+      "duration": 5.3,
+      "phoneme_count": 79
+    },
+    {
+      "id": 9,
+      "sentence": "\u201cIt\u2019s a time to exhale but not breathe easy,\u201d said Peter Conti-Brown, an expert on Fed governance at the University of Pennsylvania. \u201cThe wrecking ball that the Trump administration has been wielding through the administrative state just hit a brick wall that it could not crumble.\u201d Mr.",
+      "paragraph_id": 4,
+      "word_count": 47,
+      "start_time": 55.725,
+      "end_time": 75.125,
+      "duration": 19.4,
+      "phoneme_count": 292
+    },
+    {
+      "id": 10,
+      "sentence": "Conti-Brown warned, however, that the issue was far from resolved.",
+      "paragraph_id": 4,
+      "word_count": 10,
+      "start_time": 75.125,
+      "end_time": 80.175,
+      "duration": 5.05,
+      "phoneme_count": 64
+    },
+    {
+      "id": 11,
+      "sentence": "Mr.",
+      "paragraph_id": 5,
+      "word_count": 1,
+      "start_time": 80.175,
+      "end_time": 81.6,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 12,
+      "sentence": "Trump has accused Ms.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 81.6,
+      "end_time": 83.85,
+      "duration": 2.25,
+      "phoneme_count": 23
+    },
+    {
+      "id": 13,
+      "sentence": "Cook of committing mortgage fraud, citing that as justification to fire her.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 83.85,
+      "end_time": 89.675,
+      "duration": 5.825,
+      "phoneme_count": 75
+    },
+    {
+      "id": 14,
+      "sentence": "Under the Federal Reserve Act of 1913, the president can remove a Fed official only \u201cfor cause\u201d \u2014 which has typically meant gross malfeasance or a neglect of duty while serving in the job.",
+      "paragraph_id": 5,
+      "word_count": 34,
+      "start_time": 89.675,
+      "end_time": 103.8,
+      "duration": 14.125,
+      "phoneme_count": 203
+    },
+    {
+      "id": 15,
+      "sentence": "Congress put that safeguard in place to ensure that the Fed was protected from undue meddling by the president.",
+      "paragraph_id": 5,
+      "word_count": 19,
+      "start_time": 103.8,
+      "end_time": 111.4,
+      "duration": 7.6,
+      "phoneme_count": 114
+    }
+  ]
+}

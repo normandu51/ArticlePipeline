@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "0ac5ced8-b230-5806-8cd1-71968e9a749e",
+    "headline": "The Dinosaur Sale Is Not a Joke",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/0ac5ced8-b230-5806-8cd1-71968e9a749e_kokoro.wav",
+    "total_duration": 88.95,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:02:57.796490"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The stegosaurus, over 29 feet long and described as \u201chousebroken,\u201d is selling for $1,260.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 0.0,
+      "end_time": 9.4,
+      "duration": 9.4,
+      "phoneme_count": 133
+    },
+    {
+      "id": 1,
+      "sentence": "The adult triceratops? $2,230.",
+      "paragraph_id": 0,
+      "word_count": 4,
+      "start_time": 9.4,
+      "end_time": 14.4,
+      "duration": 5.0,
+      "phoneme_count": 65
+    },
+    {
+      "id": 2,
+      "sentence": "A life-size T. rex, 39 feet long, 18 feet tall, \u201cslightly used\u201d and \u201cwell loved,\u201d will cost you $2,700.",
+      "paragraph_id": 0,
+      "word_count": 19,
+      "start_time": 14.4,
+      "end_time": 24.975,
+      "duration": 10.575,
+      "phoneme_count": 146
+    },
+    {
+      "id": 3,
+      "sentence": "A dinosaur theme park in Leonia, N.J., is closing next month, and with it has come an unusual opportunity for dinosaur enthusiasts and anyone else interested in adding a bit of prehistoric panache to a boring backyard.",
+      "paragraph_id": 1,
+      "word_count": 37,
+      "start_time": 24.975,
+      "end_time": 41.175,
+      "duration": 16.2,
+      "phoneme_count": 234
+    },
+    {
+      "id": 4,
+      "sentence": "Thirty-one animatronic dinosaurs on display at \u201cField Station: Dinosaurs\u201d \u2014 including some that growl and roar \u2014 are for sale.",
+      "paragraph_id": 2,
+      "word_count": 20,
+      "start_time": 41.175,
+      "end_time": 50.9,
+      "duration": 9.725,
+      "phoneme_count": 130
+    },
+    {
+      "id": 5,
+      "sentence": "If social media is any guide, the prospect of owning an enormous man-made dinosaur, even a used one, has captured the imaginations of people far beyond New Jersey.",
+      "paragraph_id": 2,
+      "word_count": 28,
+      "start_time": 50.9,
+      "end_time": 63.55,
+      "duration": 12.65,
+      "phoneme_count": 171
+    },
+    {
+      "id": 6,
+      "sentence": "Screenshots of Facebook Marketplace posts advertising the creatures have been widely shared.",
+      "paragraph_id": 2,
+      "word_count": 12,
+      "start_time": 63.55,
+      "end_time": 70.175,
+      "duration": 6.625,
+      "phoneme_count": 89
+    },
+    {
+      "id": 7,
+      "sentence": "\u201cThat\u2019s a good price for a used triceratops,\u201d one person noted on X.",
+      "paragraph_id": 3,
+      "word_count": 13,
+      "start_time": 70.175,
+      "end_time": 75.45,
+      "duration": 5.275,
+      "phoneme_count": 76
+    },
+    {
+      "id": 8,
+      "sentence": "\u201cI have the money, but I don\u2019t have the means of getting them to Australia,\u201d wrote another.",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 75.45,
+      "end_time": 81.25,
+      "duration": 5.8,
+      "phoneme_count": 88
+    },
+    {
+      "id": 9,
+      "sentence": "More than a few people seemed interested in purchasing a dinosaur to taunt their homeowners\u2019 associations.",
+      "paragraph_id": 5,
+      "word_count": 16,
+      "start_time": 81.25,
+      "end_time": 88.95,
+      "duration": 7.7,
+      "phoneme_count": 102
+    }
+  ]
+}

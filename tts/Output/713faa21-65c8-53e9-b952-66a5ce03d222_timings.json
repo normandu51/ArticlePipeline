@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "article_id": "713faa21-65c8-53e9-b952-66a5ce03d222",
+    "headline": "The L.A. Dodgers Risk Alienating Their Fans or Angering Trump",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/713faa21-65c8-53e9-b952-66a5ce03d222_kokoro.wav",
+    "total_duration": 262.75,
+    "sentence_count": 25,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:35:43.962271"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Masked agents of Immigration and Customs Enforcement, or ICE, started patrolling the streets of Los Angeles in unmarked vans in early June.",
+      "paragraph_id": 0,
+      "word_count": 22,
+      "start_time": 0.0,
+      "end_time": 10.8,
+      "duration": 10.8,
+      "phoneme_count": 143
+    },
+    {
+      "id": 1,
+      "sentence": "Soon after, the board of the apartments where Vladimir De Jes\u00fas Santos lives sent out a mass text.",
+      "paragraph_id": 0,
+      "word_count": 18,
+      "start_time": 10.8,
+      "end_time": 18.275,
+      "duration": 7.475,
+      "phoneme_count": 103
+    },
+    {
+      "id": 2,
+      "sentence": "It warned residents that agents had been spotted in Koreatown, two blocks away.",
+      "paragraph_id": 0,
+      "word_count": 13,
+      "start_time": 18.275,
+      "end_time": 24.175,
+      "duration": 5.9,
+      "phoneme_count": 82
+    },
+    {
+      "id": 3,
+      "sentence": "Santos panicked.",
+      "paragraph_id": 0,
+      "word_count": 2,
+      "start_time": 24.175,
+      "end_time": 26.15,
+      "duration": 1.975,
+      "phoneme_count": 16
+    },
+    {
+      "id": 4,
+      "sentence": "A cinematographer and film editor, and the son of Salvadoran immigrants, Santos knew that the Trump administration had started an aggressive campaign to detain and deport his city\u2019s undocumented residents.",
+      "paragraph_id": 0,
+      "word_count": 30,
+      "start_time": 26.15,
+      "end_time": 40.825,
+      "duration": 14.675,
+      "phoneme_count": 214
+    },
+    {
+      "id": 5,
+      "sentence": "His father has American citizenship but speaks English poorly, so Santos wondered how he would explain his status if agents confronted him.",
+      "paragraph_id": 0,
+      "word_count": 22,
+      "start_time": 40.825,
+      "end_time": 50.875,
+      "duration": 10.05,
+      "phoneme_count": 148
+    },
+    {
+      "id": 6,
+      "sentence": "His mother has a green card, \u201cbut the news coming out was that it didn\u2019t matter,\u201d he said. \u201cMy fear and paranoia were ratcheted up 1,000 percent.\u201d",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 50.875,
+      "end_time": 61.55,
+      "duration": 10.675,
+      "phoneme_count": 157
+    },
+    {
+      "id": 7,
+      "sentence": "ICE\u2019s mandate was to seize and detain individuals who were in the United States illegally, or even seemed like they might be.",
+      "paragraph_id": 1,
+      "word_count": 22,
+      "start_time": 61.55,
+      "end_time": 70.475,
+      "duration": 8.925,
+      "phoneme_count": 126
+    },
+    {
+      "id": 8,
+      "sentence": "Most of those targeted were Spanish speakers.",
+      "paragraph_id": 1,
+      "word_count": 7,
+      "start_time": 70.475,
+      "end_time": 73.875,
+      "duration": 3.4,
+      "phoneme_count": 44
+    },
+    {
+      "id": 9,
+      "sentence": "Within days, forces of resistance mobilized.",
+      "paragraph_id": 1,
+      "word_count": 6,
+      "start_time": 73.875,
+      "end_time": 77.825,
+      "duration": 3.95,
+      "phoneme_count": 46
+    },
+    {
+      "id": 10,
+      "sentence": "Karen Bass, the city\u2019s mayor, denounced the raids as \u201csowing terror,\u201d declared a state of emergency and imposed a downtown curfew.",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 77.825,
+      "end_time": 87.35,
+      "duration": 9.525,
+      "phoneme_count": 130
+    },
+    {
+      "id": 11,
+      "sentence": "Jos\u00e9 Gomez, the archbishop of Los Angeles, wrote on a Catholic website a vivid portrayal of the panic the raids had caused: \u201cPeople are staying home from Mass and work, parks and stores are empty, the streets in many neighborhoods are silent.\u201d Major League Soccer\u2019s Los Angeles Football Club issued a statement of solidarity.",
+      "paragraph_id": 1,
+      "word_count": 54,
+      "start_time": 87.35,
+      "end_time": 109.55,
+      "duration": 22.2,
+      "phoneme_count": 327
+    },
+    {
+      "id": 12,
+      "sentence": "Angel City F.C., which plays in the National Women\u2019s Soccer League, went a step further, distributing 10,000 shirts that temporarily rebranded the team as \u201cImmigrant City Football Club.\u201d",
+      "paragraph_id": 1,
+      "word_count": 28,
+      "start_time": 109.55,
+      "end_time": 122.95,
+      "duration": 13.4,
+      "phoneme_count": 199
+    },
+    {
+      "id": 13,
+      "sentence": "But Santos\u2019s favorite team, the Los Angeles Dodgers, stayed strangely quiet.",
+      "paragraph_id": 2,
+      "word_count": 11,
+      "start_time": 122.95,
+      "end_time": 129.0,
+      "duration": 6.05,
+      "phoneme_count": 78
+    },
+    {
+      "id": 14,
+      "sentence": "The Dodgers are arguably the most popular sports franchise in the area, and a cultural touchstone for Latinos.",
+      "paragraph_id": 2,
+      "word_count": 18,
+      "start_time": 129.0,
+      "end_time": 136.85,
+      "duration": 7.85,
+      "phoneme_count": 116
+    },
+    {
+      "id": 15,
+      "sentence": "Like many others, Santos assumed they would support beleaguered immigrants.",
+      "paragraph_id": 2,
+      "word_count": 10,
+      "start_time": 136.85,
+      "end_time": 142.025,
+      "duration": 5.175,
+      "phoneme_count": 70
+    },
+    {
+      "id": 16,
+      "sentence": "Yet as videos circulated of ICE seizing Angelenos, often violently, the Dodgers said nothing, apart from a single supportive Instagram post by a player, Kik\u00e9 Hern\u00e1ndez. \u201cWe knew we were being made an example of \u2014 not just Latinos but all of Los Angeles,\u201d Ingrid Rivera-Guzman, president of the Latino Coalition of Los Angeles, says. \u201cAnd the Dodgers\u2019 silence felt complicit.\u201d",
+      "paragraph_id": 2,
+      "word_count": 61,
+      "start_time": 142.025,
+      "end_time": 168.425,
+      "duration": 26.4,
+      "phoneme_count": 400
+    },
+    {
+      "id": 17,
+      "sentence": "Many Latinos were already angry that the Dodgers, who won last year\u2019s World Series, accepted the traditional invitation to visit the White House in April.",
+      "paragraph_id": 3,
+      "word_count": 25,
+      "start_time": 168.425,
+      "end_time": 179.475,
+      "duration": 11.05,
+      "phoneme_count": 158
+    },
+    {
+      "id": 18,
+      "sentence": "As the raids intensified, so did the outrage.",
+      "paragraph_id": 3,
+      "word_count": 8,
+      "start_time": 179.475,
+      "end_time": 183.325,
+      "duration": 3.85,
+      "phoneme_count": 47
+    },
+    {
+      "id": 19,
+      "sentence": "More than 40 percent of the Dodgers\u2019 fan base is Latino, Dylan Hern\u00e1ndez wrote in a Los Angeles Times column that tagged the team as \u201ccowardly.\u201d But the Dodgers, he continued, couldn\u2019t \u201ceven be bothered to offer the shaken community any words of comfort.\u201d A host of \u201cBrown Bag Mornings,\u201d a popular Hispanic radio show, raised the possibility of a boycott.",
+      "paragraph_id": 3,
+      "word_count": 61,
+      "start_time": 183.325,
+      "end_time": 207.9,
+      "duration": 24.575,
+      "phoneme_count": 366
+    },
+    {
+      "id": 20,
+      "sentence": "When the singer Nezza came to Dodger Stadium to perform the national anthem and saw so many Latinos in the stands, she sang in Spanish.",
+      "paragraph_id": 3,
+      "word_count": 25,
+      "start_time": 207.9,
+      "end_time": 217.375,
+      "duration": 9.475,
+      "phoneme_count": 138
+    },
+    {
+      "id": 21,
+      "sentence": "The discontent apparently made an impact.",
+      "paragraph_id": 4,
+      "word_count": 6,
+      "start_time": 217.375,
+      "end_time": 220.65,
+      "duration": 3.275,
+      "phoneme_count": 44
+    },
+    {
+      "id": 22,
+      "sentence": "On June 18, the Dodgers notified select media outlets around Los Angeles \u2014 websites popular with Spanish speakers, and a few larger-circulation publications \u2014 that they would make a gesture in support of the city\u2019s immigrants the following afternoon.",
+      "paragraph_id": 4,
+      "word_count": 39,
+      "start_time": 220.65,
+      "end_time": 238.7,
+      "duration": 18.05,
+      "phoneme_count": 257
+    },
+    {
+      "id": 23,
+      "sentence": "Whether it was attempted intimidation or coincidence, a column of unmarked vans drove to the security shack outside Gate A of Dodger Stadium the next morning, before a statement could be released.",
+      "paragraph_id": 4,
+      "word_count": 32,
+      "start_time": 238.7,
+      "end_time": 252.475,
+      "duration": 13.775,
+      "phoneme_count": 198
+    },
+    {
+      "id": 24,
+      "sentence": "The driver at the front of the procession requested access to the stadium parking lots so federal agents could use them to process detained immigrants.",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 252.475,
+      "end_time": 262.75,
+      "duration": 10.275,
+      "phoneme_count": 154
+    }
+  ]
+}

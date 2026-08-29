@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "article_id": "68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4",
+    "headline": "Did the Yankees Try to Keep Red Sox Fans Out of the Bronx?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/68d7c1e4-2f55-5dc9-92b4-842d9c2dcdf4_kokoro.wav",
+    "total_duration": 120.525,
+    "sentence_count": 15,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:31:10.761509"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Thousands of Red Sox fans invaded the citadel of New York baseball last night, but not by storming the ramparts or charging through the gates.",
+      "paragraph_id": 0,
+      "word_count": 25,
+      "start_time": 0.0,
+      "end_time": 10.1,
+      "duration": 10.1,
+      "phoneme_count": 145
+    },
+    {
+      "id": 1,
+      "sentence": "They did it casually, strolling inside with tickets purchased legally online, despite concerns that they would be denied entry to Yankee Stadium based on their residency and allegiance.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 10.1,
+      "end_time": 22.95,
+      "duration": 12.85,
+      "phoneme_count": 180
+    },
+    {
+      "id": 2,
+      "sentence": "Before Game 1 of the American League Wild Card series on Tuesday, rumor circulated that the mighty Yankees would refuse access to Red Sox fans for their big playoff matchup.",
+      "paragraph_id": 1,
+      "word_count": 30,
+      "start_time": 22.95,
+      "end_time": 35.25,
+      "duration": 12.3,
+      "phoneme_count": 180
+    },
+    {
+      "id": 3,
+      "sentence": "If so much as a whiff of Dunkin\u2019 coffee was detected on their breath while pronouncing the word \u201cSawx,\u201d they would be barred from entering.",
+      "paragraph_id": 1,
+      "word_count": 25,
+      "start_time": 35.25,
+      "end_time": 44.35,
+      "duration": 9.1,
+      "phoneme_count": 133
+    },
+    {
+      "id": 4,
+      "sentence": "The truth was less conspiratorial.",
+      "paragraph_id": 2,
+      "word_count": 5,
+      "start_time": 44.35,
+      "end_time": 47.375,
+      "duration": 3.025,
+      "phoneme_count": 35
+    },
+    {
+      "id": 5,
+      "sentence": "Ticketmaster, the Yankees-sanctioned ticket seller, allowed sales only to credit cards with billing addresses in New York, New Jersey, Connecticut or Pennsylvania.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 47.375,
+      "end_time": 59.175,
+      "duration": 11.8,
+      "phoneme_count": 160
+    },
+    {
+      "id": 6,
+      "sentence": "There was no box to tick regarding which team buyers rooted for, but the implication seemed clear to some.",
+      "paragraph_id": 2,
+      "word_count": 19,
+      "start_time": 59.175,
+      "end_time": 66.375,
+      "duration": 7.2,
+      "phoneme_count": 107
+    },
+    {
+      "id": 7,
+      "sentence": "Red Sox fans were not welcome.",
+      "paragraph_id": 2,
+      "word_count": 6,
+      "start_time": 66.375,
+      "end_time": 69.275,
+      "duration": 2.9,
+      "phoneme_count": 34
+    },
+    {
+      "id": 8,
+      "sentence": "\u201cThey\u2019re scared,\u201d said Will Ross, 22, a casino worker from Worcester, Mass., outside Yankee Stadium before the game.",
+      "paragraph_id": 3,
+      "word_count": 18,
+      "start_time": 69.275,
+      "end_time": 78.05,
+      "duration": 8.775,
+      "phoneme_count": 121
+    },
+    {
+      "id": 9,
+      "sentence": "He had driven from Massachusetts with his buddy Ian Inangelo, 24, also from Worcester. \u201cIt\u2019s a weak move,\u201d Mr.",
+      "paragraph_id": 3,
+      "word_count": 19,
+      "start_time": 78.05,
+      "end_time": 86.875,
+      "duration": 8.825,
+      "phoneme_count": 125
+    },
+    {
+      "id": 10,
+      "sentence": "Inangelo added. \u201cThey don\u2019t want the smoke in their ballpark.\u201d",
+      "paragraph_id": 3,
+      "word_count": 10,
+      "start_time": 86.875,
+      "end_time": 91.375,
+      "duration": 4.5,
+      "phoneme_count": 61
+    },
+    {
+      "id": 11,
+      "sentence": "But they got it, anyway, as Red Sox fans made their presence felt.",
+      "paragraph_id": 4,
+      "word_count": 13,
+      "start_time": 91.375,
+      "end_time": 96.5,
+      "duration": 5.125,
+      "phoneme_count": 69
+    },
+    {
+      "id": 12,
+      "sentence": "Yankees fans dominated the crowd of 47,027, but a noticeable minority cheered for Boston in full voice, as they usually do in the Bronx.",
+      "paragraph_id": 4,
+      "word_count": 24,
+      "start_time": 96.5,
+      "end_time": 108.5,
+      "duration": 12.0,
+      "phoneme_count": 170
+    },
+    {
+      "id": 13,
+      "sentence": "Shouts of \u201cLet\u2019s go Red Sox\u201d were drowned out by \u201cLet\u2019s go Yankees\u201d until the end, when Boston won, 3-1, and only the visitors cheered.",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 108.5,
+      "end_time": 118.425,
+      "duration": 9.925,
+      "phoneme_count": 145
+    },
+    {
+      "id": 14,
+      "sentence": "Game 2 is tonight.",
+      "paragraph_id": 4,
+      "word_count": 4,
+      "start_time": 118.425,
+      "end_time": 120.525,
+      "duration": 2.1,
+      "phoneme_count": 19
+    }
+  ]
+}

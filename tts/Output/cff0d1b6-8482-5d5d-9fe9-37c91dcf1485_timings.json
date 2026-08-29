@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "article_id": "cff0d1b6-8482-5d5d-9fe9-37c91dcf1485",
+    "headline": "Can an Ancient Ritual Fix Our Loneliness Problem?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/cff0d1b6-8482-5d5d-9fe9-37c91dcf1485_kokoro.wav",
+    "total_duration": 114.25,
+    "sentence_count": 11,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:14:57.315897"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "It\u2019s a little after 9 p.m. on a Friday night and the mood is incandescent at one of New York City\u2019s largest saunas, which is almost certainly its loudest.",
+      "paragraph_id": 0,
+      "word_count": 29,
+      "start_time": 0.0,
+      "end_time": 11.05,
+      "duration": 11.05,
+      "phoneme_count": 163
+    },
+    {
+      "id": 1,
+      "sentence": "The place is packed, throbbing with ambient beats and the din of about 75 toned, poreless young cosmopolites, laughing and chattering and glistening in the amber glow.",
+      "paragraph_id": 0,
+      "word_count": 27,
+      "start_time": 11.05,
+      "end_time": 23.225,
+      "duration": 12.175,
+      "phoneme_count": 168
+    },
+    {
+      "id": 2,
+      "sentence": "It\u2019s like a high school cafeteria, if the cafeteria were filled with only the popular kids and they were all wearing bathing suits.",
+      "paragraph_id": 0,
+      "word_count": 23,
+      "start_time": 23.225,
+      "end_time": 32.3,
+      "duration": 9.075,
+      "phoneme_count": 127
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cGet some water.",
+      "paragraph_id": 1,
+      "word_count": 3,
+      "start_time": 32.3,
+      "end_time": 34.125,
+      "duration": 1.825,
+      "phoneme_count": 18
+    },
+    {
+      "id": 4,
+      "sentence": "We\u2019ll be taking off in a few minutes,\u201d says an intimidatingly serene woman wearing a headset.",
+      "paragraph_id": 1,
+      "word_count": 16,
+      "start_time": 34.125,
+      "end_time": 40.375,
+      "duration": 6.25,
+      "phoneme_count": 95
+    },
+    {
+      "id": 5,
+      "sentence": "This is the evening social at Othership, a bathhouse meets block party with three main offerings: the sauna, a room of ice baths, and a gathering space with tiered seating and a fireplace.",
+      "paragraph_id": 2,
+      "word_count": 33,
+      "start_time": 40.375,
+      "end_time": 53.625,
+      "duration": 13.25,
+      "phoneme_count": 179
+    },
+    {
+      "id": 6,
+      "sentence": "The weary city dweller in search of a spa retreat to indulge in a little \u201cme time\u201d will not find it here \u2014 Othership is designed for \u201cwe time.\u201d",
+      "paragraph_id": 2,
+      "word_count": 29,
+      "start_time": 53.625,
+      "end_time": 63.625,
+      "duration": 10.0,
+      "phoneme_count": 144
+    },
+    {
+      "id": 7,
+      "sentence": "Tonight, \u201cwe\u201d include Riley Godshall, a 28-year-old medical device sales rep here to check out the sober scene with friends, and Siddhant Jawa, a 35-year-old vice president at Goldman Sachs who comes three days a week to deal with stress.",
+      "paragraph_id": 3,
+      "word_count": 40,
+      "start_time": 63.625,
+      "end_time": 81.05,
+      "duration": 17.425,
+      "phoneme_count": 256
+    },
+    {
+      "id": 8,
+      "sentence": "Over the course of the evening, my fellow journeyers \u2014 as Othership calls its patrons \u2014 and I move from sauna to ice bath and back again.",
+      "paragraph_id": 4,
+      "word_count": 27,
+      "start_time": 81.05,
+      "end_time": 90.5,
+      "duration": 9.45,
+      "phoneme_count": 134
+    },
+    {
+      "id": 9,
+      "sentence": "We mingle at the tea station, where everyone seems aggressively present in a way you can only be when your phone is locked away.",
+      "paragraph_id": 4,
+      "word_count": 24,
+      "start_time": 90.5,
+      "end_time": 99.175,
+      "duration": 8.675,
+      "phoneme_count": 124
+    },
+    {
+      "id": 10,
+      "sentence": "Before the cold plunge, an Othership \u201cguide\u201d instructs us to \u201ctake the deepest breath you\u2019ve taken all week, y\u2019all.\u201d Then, as we exhale together, we lower ourselves into pools ranging from 40 to 50 degrees.",
+      "paragraph_id": 5,
+      "word_count": 35,
+      "start_time": 99.175,
+      "end_time": 114.25,
+      "duration": 15.075,
+      "phoneme_count": 211
+    }
+  ]
+}

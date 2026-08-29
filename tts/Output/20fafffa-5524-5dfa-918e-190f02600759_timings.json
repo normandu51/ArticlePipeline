@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "article_id": "20fafffa-5524-5dfa-918e-190f02600759",
+    "headline": "What Concert, Past or Present, Would You Most Like to Have Seen?",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/20fafffa-5524-5dfa-918e-190f02600759_kokoro.wav",
+    "total_duration": 265.675,
+    "sentence_count": 31,
+    "paragraph_count": 15,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:07:27.205710"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Do you go experience live music often?",
+      "paragraph_id": 0,
+      "word_count": 7,
+      "start_time": 0.0,
+      "end_time": 3.325,
+      "duration": 3.325,
+      "phoneme_count": 42
+    },
+    {
+      "id": 1,
+      "sentence": "Which musicians or bands have you seen?",
+      "paragraph_id": 0,
+      "word_count": 7,
+      "start_time": 3.325,
+      "end_time": 6.375,
+      "duration": 3.05,
+      "phoneme_count": 38
+    },
+    {
+      "id": 2,
+      "sentence": "What is the best concert you\u2019ve ever been to?",
+      "paragraph_id": 0,
+      "word_count": 9,
+      "start_time": 6.375,
+      "end_time": 9.525,
+      "duration": 3.15,
+      "phoneme_count": 43
+    },
+    {
+      "id": 3,
+      "sentence": "If you\u2019re a Chappell Roan fan, a New York Times review just called her a \u201cpowerhouse\u201d and said her current tour, Visions of Damsels & Other Dangerous Things, is \u201celectric.\u201d Would you like to go to one of her shows?",
+      "paragraph_id": 1,
+      "word_count": 40,
+      "start_time": 9.525,
+      "end_time": 24.225,
+      "duration": 14.7,
+      "phoneme_count": 213
+    },
+    {
+      "id": 4,
+      "sentence": "In \u201cOnstage, Chappell Roan Is a Powerhouse.",
+      "paragraph_id": 2,
+      "word_count": 7,
+      "start_time": 24.225,
+      "end_time": 27.8,
+      "duration": 3.575,
+      "phoneme_count": 42
+    },
+    {
+      "id": 5,
+      "sentence": "And Exactly Where She Wants to Be.,\u201d the Times music critic Lindsay Zoladz writes about Chappell Roan\u2019s concert in Queens, and how it shows the ways she \u201ccontinues to deviate from the rising pop star\u2019s expected playbook\u201d:",
+      "paragraph_id": 2,
+      "word_count": 37,
+      "start_time": 27.8,
+      "end_time": 43.25,
+      "duration": 15.45,
+      "phoneme_count": 225
+    },
+    {
+      "id": 6,
+      "sentence": "Riding the aerodynamic momentum of her breakout year, Roan easily could have leveled her show up to huge arenas.",
+      "paragraph_id": 3,
+      "word_count": 19,
+      "start_time": 43.25,
+      "end_time": 51.275,
+      "duration": 8.025,
+      "phoneme_count": 113
+    },
+    {
+      "id": 7,
+      "sentence": "The Damsels tour is something smaller and more considered: eight \u201cpop-up shows\u201d in medium-sized stadium venues across just three cities (New York, Kansas City and outside Los Angeles) that she has described as a \u201cchance to do something special before going away to write the next album.\u201d",
+      "paragraph_id": 3,
+      "word_count": 47,
+      "start_time": 51.275,
+      "end_time": 71.2,
+      "duration": 19.925,
+      "phoneme_count": 289
+    },
+    {
+      "id": 8,
+      "sentence": "The two shows I attended were electric: Not so much a preview of what comes next for Roan as a kind of post-credits victory lap to close out the triumphantly drawn-out album cycle of her 2023 sleeper hit \u201cThe Rise and Fall of a Midwest Princess,\u201d which chronicles a young, queer woman\u2019s romantic self-discovery.",
+      "paragraph_id": 4,
+      "word_count": 54,
+      "start_time": 71.2,
+      "end_time": 93.275,
+      "duration": 22.075,
+      "phoneme_count": 337
+    },
+    {
+      "id": 9,
+      "sentence": "Though the album revels in bubble gum synth-pop, live, Roan and her all-female band dialed the material\u2019s latent rock \u2019n\u2019 roll impulses up to 11.",
+      "paragraph_id": 4,
+      "word_count": 25,
+      "start_time": 93.275,
+      "end_time": 104.675,
+      "duration": 11.4,
+      "phoneme_count": 155
+    },
+    {
+      "id": 10,
+      "sentence": "Prowling the stage in cascading curls, new-wave makeup and a leather two-piece printed like lace, Roan often gave the impression of an \u201980s video vixen who had defiantly snatched the mic from a cheesy hair-metal frontman and found her own thundering voice. (The set and frequently switched-up costumes, meanwhile, drew equal inspiration from Harlequin romances and \u201cGame of Thrones,\u201d as an energetic Roan hopped around a moodily lit gothic castle.) The choice to cover Heart\u2019s \u201cBarracuda\u201d \u2014 for one night with Heart\u2019s Nancy Wilson herself on guitar \u2014 drove home a similar point: Chappell Roan is a rock star.",
+      "paragraph_id": 5,
+      "word_count": 99,
+      "start_time": 104.675,
+      "end_time": 134.4,
+      "duration": 29.725,
+      "phoneme_count": 450
+    },
+    {
+      "id": 11,
+      "sentence": "Many of Roan\u2019s songs are constructed in a way that translates especially well live: They revel in gradually escalating tension and eruptions of catharsis.",
+      "paragraph_id": 6,
+      "word_count": 24,
+      "start_time": 134.4,
+      "end_time": 145.6,
+      "duration": 11.2,
+      "phoneme_count": 154
+    },
+    {
+      "id": 12,
+      "sentence": "Consider the frenzied \u201cHot to Go,\u201d in which an anticipatory pre-chorus builds to an explosive hook with an invitingly simple dance \u2014 an even more proudly gay \u201cY.M.C.A.\u201d The fiery grudge-holder\u2019s anthem \u201cMy Kink Is Karma\u201d \u2014 one of the set\u2019s highlights \u2014 sounded more commanding onstage, the pummeling percussion and howling guitars of Roan\u2019s band giving it added edge.",
+      "paragraph_id": 6,
+      "word_count": 60,
+      "start_time": 145.6,
+      "end_time": 170.625,
+      "duration": 25.025,
+      "phoneme_count": 370
+    },
+    {
+      "id": 13,
+      "sentence": "Roan barely had to belt a note of \u201cPink Pony Club,\u201d the set\u2019s obvious finale, because of how loudly the audience sang along.",
+      "paragraph_id": 6,
+      "word_count": 23,
+      "start_time": 170.625,
+      "end_time": 179.85,
+      "duration": 9.225,
+      "phoneme_count": 125
+    },
+    {
+      "id": 14,
+      "sentence": "The song is an ode to the freedom one can feel onstage, and the performance itself was a reminder how crucial Roan\u2019s prowess as a live act has been to her meteoric rise.",
+      "paragraph_id": 6,
+      "word_count": 33,
+      "start_time": 179.85,
+      "end_time": 192.275,
+      "duration": 12.425,
+      "phoneme_count": 171
+    },
+    {
+      "id": 15,
+      "sentence": "Students, read the entire article and then tell us:",
+      "paragraph_id": 7,
+      "word_count": 9,
+      "start_time": 192.275,
+      "end_time": 196.125,
+      "duration": 3.85,
+      "phoneme_count": 54
+    },
+    {
+      "id": 16,
+      "sentence": "What, to you, makes for a great concert?",
+      "paragraph_id": 8,
+      "word_count": 8,
+      "start_time": 196.125,
+      "end_time": 199.1,
+      "duration": 2.975,
+      "phoneme_count": 40
+    },
+    {
+      "id": 17,
+      "sentence": "Does this one sound like the kind you\u2019d enjoy?",
+      "paragraph_id": 8,
+      "word_count": 9,
+      "start_time": 199.1,
+      "end_time": 202.475,
+      "duration": 3.375,
+      "phoneme_count": 44
+    },
+    {
+      "id": 18,
+      "sentence": "How often do you go see live music?",
+      "paragraph_id": 9,
+      "word_count": 8,
+      "start_time": 202.475,
+      "end_time": 205.425,
+      "duration": 2.95,
+      "phoneme_count": 38
+    },
+    {
+      "id": 19,
+      "sentence": "What do you like about the experience?",
+      "paragraph_id": 9,
+      "word_count": 7,
+      "start_time": 205.425,
+      "end_time": 208.125,
+      "duration": 2.7,
+      "phoneme_count": 38
+    },
+    {
+      "id": 20,
+      "sentence": "What is the best concert you\u2019ve ever seen?",
+      "paragraph_id": 10,
+      "word_count": 8,
+      "start_time": 208.125,
+      "end_time": 211.2,
+      "duration": 3.075,
+      "phoneme_count": 41
+    },
+    {
+      "id": 21,
+      "sentence": "What made it so excellent?",
+      "paragraph_id": 10,
+      "word_count": 5,
+      "start_time": 211.2,
+      "end_time": 213.5,
+      "duration": 2.3,
+      "phoneme_count": 27
+    },
+    {
+      "id": 22,
+      "sentence": "Are there legendary concerts of the past that you wish you could have attended?",
+      "paragraph_id": 11,
+      "word_count": 14,
+      "start_time": 213.5,
+      "end_time": 218.55,
+      "duration": 5.05,
+      "phoneme_count": 74
+    },
+    {
+      "id": 23,
+      "sentence": "What and why?",
+      "paragraph_id": 11,
+      "word_count": 3,
+      "start_time": 218.55,
+      "end_time": 220.175,
+      "duration": 1.625,
+      "phoneme_count": 13
+    },
+    {
+      "id": 24,
+      "sentence": "If you could choose any one concert past or present that you wish you had been able to see, what would it be?",
+      "paragraph_id": 12,
+      "word_count": 23,
+      "start_time": 220.175,
+      "end_time": 227.475,
+      "duration": 7.3,
+      "phoneme_count": 106
+    },
+    {
+      "id": 25,
+      "sentence": "Be specific: Don\u2019t just tell us you wish you\u2019d seen Kendrick Lamar, tell us which tour and venue would have been your first choice and why.",
+      "paragraph_id": 12,
+      "word_count": 26,
+      "start_time": 227.475,
+      "end_time": 236.425,
+      "duration": 8.95,
+      "phoneme_count": 137
+    },
+    {
+      "id": 26,
+      "sentence": "What do you imagine this concert would have been like?",
+      "paragraph_id": 13,
+      "word_count": 10,
+      "start_time": 236.425,
+      "end_time": 239.95,
+      "duration": 3.525,
+      "phoneme_count": 50
+    },
+    {
+      "id": 27,
+      "sentence": "With whom do you wish you had gone?",
+      "paragraph_id": 13,
+      "word_count": 8,
+      "start_time": 239.95,
+      "end_time": 242.625,
+      "duration": 2.675,
+      "phoneme_count": 34
+    },
+    {
+      "id": 28,
+      "sentence": "What special outfit, if any, might you have worn?",
+      "paragraph_id": 13,
+      "word_count": 9,
+      "start_time": 242.625,
+      "end_time": 246.275,
+      "duration": 3.65,
+      "phoneme_count": 49
+    },
+    {
+      "id": 29,
+      "sentence": "Students 13 and older in the United States and Britain, and 16 and older elsewhere, are invited to comment.",
+      "paragraph_id": 14,
+      "word_count": 19,
+      "start_time": 246.275,
+      "end_time": 254.8,
+      "duration": 8.525,
+      "phoneme_count": 125
+    },
+    {
+      "id": 30,
+      "sentence": "All comments are moderated by the Learning Network staff, but please keep in mind that once your comment is accepted, it will be made public and may appear in print.",
+      "paragraph_id": 14,
+      "word_count": 30,
+      "start_time": 254.8,
+      "end_time": 265.675,
+      "duration": 10.875,
+      "phoneme_count": 169
+    }
+  ]
+}

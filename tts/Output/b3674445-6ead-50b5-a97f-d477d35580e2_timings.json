@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "article_id": "b3674445-6ead-50b5-a97f-d477d35580e2",
+    "headline": "How to Make Sense of Your Relationship Attachment Style",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/b3674445-6ead-50b5-a97f-d477d35580e2_kokoro.wav",
+    "total_duration": 94.2,
+    "sentence_count": 10,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:06:32.719983"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "When Alexandra Solomon, a psychologist at Northwestern University, taught a class about the psychology and sociology of love and marriage, she regularly assigned \u201cLove Sense,\u201d by Sue Johnson.",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 0.0,
+      "end_time": 14.35,
+      "duration": 14.35,
+      "phoneme_count": 192
+    },
+    {
+      "id": 1,
+      "sentence": "Her undergraduate students were often going through their own heartbreaks, and Dr.",
+      "paragraph_id": 1,
+      "word_count": 12,
+      "start_time": 14.35,
+      "end_time": 20.125,
+      "duration": 5.775,
+      "phoneme_count": 83
+    },
+    {
+      "id": 2,
+      "sentence": "Johnson\u2019s book on the neuroscience of romantic attachment validated their experiences.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 20.125,
+      "end_time": 26.725,
+      "duration": 6.6,
+      "phoneme_count": 86
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cThey\u2019d say, \u2018It was only six months, I shouldn\u2019t be hurting this badly,\u2019\u201d Dr.",
+      "paragraph_id": 2,
+      "word_count": 14,
+      "start_time": 26.725,
+      "end_time": 32.325,
+      "duration": 5.6,
+      "phoneme_count": 83
+    },
+    {
+      "id": 4,
+      "sentence": "Solomon recalled, but the required reading about attachment helped them make sense of their emotions.",
+      "paragraph_id": 2,
+      "word_count": 15,
+      "start_time": 32.325,
+      "end_time": 39.275,
+      "duration": 6.95,
+      "phoneme_count": 98
+    },
+    {
+      "id": 5,
+      "sentence": "These kinds of patterns are now familiar to many, thanks to the popularity of attachment labels: People with an \u201canxious\u201d style tend to pursue connection and emotional intimacy during moments of conflict, while people who withdraw are generally considered \u201cavoidant.\u201d And those with \u201csecure\u201d attachment are better able to maintain connection even when rifts and difficulties arise.",
+      "paragraph_id": 3,
+      "word_count": 57,
+      "start_time": 39.275,
+      "end_time": 64.375,
+      "duration": 25.1,
+      "phoneme_count": 380
+    },
+    {
+      "id": 6,
+      "sentence": "Those terms emerge from attachment theory, which was coined by John Bowlby, a psychologist who studied parent-child attachment in the 1950s.",
+      "paragraph_id": 4,
+      "word_count": 21,
+      "start_time": 64.375,
+      "end_time": 74.675,
+      "duration": 10.3,
+      "phoneme_count": 144
+    },
+    {
+      "id": 7,
+      "sentence": "The theory suggests that our early caregiver relationships help shape how we connect with others later on.",
+      "paragraph_id": 4,
+      "word_count": 17,
+      "start_time": 74.675,
+      "end_time": 81.975,
+      "duration": 7.3,
+      "phoneme_count": 107
+    },
+    {
+      "id": 8,
+      "sentence": "Recognizing attachment patterns, Dr.",
+      "paragraph_id": 5,
+      "word_count": 4,
+      "start_time": 81.975,
+      "end_time": 85.375,
+      "duration": 3.4,
+      "phoneme_count": 40
+    },
+    {
+      "id": 9,
+      "sentence": "Solomon said, can help us \u201ccreate a relationship that feels good.\u201d And books, she added, give us the language and tools to do it.",
+      "paragraph_id": 5,
+      "word_count": 24,
+      "start_time": 85.375,
+      "end_time": 94.2,
+      "duration": 8.825,
+      "phoneme_count": 132
+    }
+  ]
+}

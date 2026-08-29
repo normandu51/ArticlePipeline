@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "article_id": "8d798d00-4813-54f3-98a8-c362a47ba8f3",
+    "headline": "Taylor Swift Conquered With the Eras Tour. Now Comes the Victory Lap.",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/8d798d00-4813-54f3-98a8-c362a47ba8f3_kokoro.wav",
+    "total_duration": 433.0,
+    "sentence_count": 34,
+    "paragraph_count": 18,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:54:01.326444"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The Easter eggs were out there.",
+      "paragraph_id": 0,
+      "word_count": 6,
+      "start_time": 0.0,
+      "end_time": 2.5,
+      "duration": 2.5,
+      "phoneme_count": 28
+    },
+    {
+      "id": 1,
+      "sentence": "We have only ourselves to blame for not decoding them all.",
+      "paragraph_id": 0,
+      "word_count": 11,
+      "start_time": 2.5,
+      "end_time": 6.65,
+      "duration": 4.15,
+      "phoneme_count": 59
+    },
+    {
+      "id": 2,
+      "sentence": "Onstage in New Orleans last October, for example, Taylor Swift flashed 10 fingers three times.",
+      "paragraph_id": 1,
+      "word_count": 15,
+      "start_time": 6.65,
+      "end_time": 13.9,
+      "duration": 7.25,
+      "phoneme_count": 101
+    },
+    {
+      "id": 3,
+      "sentence": "Then, in the final moments of her Eras Tour in December, Swift, dressed in a glittery costume, exited the stadium not through a stage elevator platform, as she had the previous 148 nights, but by heading in the direction of a bright orange door that had been displayed at the back of the stage.",
+      "paragraph_id": 1,
+      "word_count": 54,
+      "start_time": 13.9,
+      "end_time": 34.8,
+      "duration": 20.9,
+      "phoneme_count": 312
+    },
+    {
+      "id": 4,
+      "sentence": "In August, Swift revealed what those clues were pointing to: her next album, \u201cThe Life of a Showgirl,\u201d which comes out on Friday (10/3 \u2014 I mean, come on, sheeple!).",
+      "paragraph_id": 2,
+      "word_count": 30,
+      "start_time": 34.8,
+      "end_time": 46.175,
+      "duration": 11.375,
+      "phoneme_count": 169
+    },
+    {
+      "id": 5,
+      "sentence": "Its color scheme is centered on a warm, bedazzled orange, and its themes were inspired by Swift\u2019s record-breaking, headline-grabbing tour itself, as well as her eventful offstage life during 21 months on the road in 2023 and 2024.",
+      "paragraph_id": 2,
+      "word_count": 38,
+      "start_time": 46.175,
+      "end_time": 64.75,
+      "duration": 18.575,
+      "phoneme_count": 273
+    },
+    {
+      "id": 6,
+      "sentence": "\u201cI wanted to give a little subliminal hint to the fans that I may be leaving the Eras Tour era, but I was also entering a new era,\u201d Swift said on \u201cNew Heights,\u201d the podcast hosted by the football stars Travis Kelce \u2014 whom Swift began dating in 2023 \u2014 and his brother Jason.",
+      "paragraph_id": 3,
+      "word_count": 54,
+      "start_time": 64.75,
+      "end_time": 84.15,
+      "duration": 19.4,
+      "phoneme_count": 303
+    },
+    {
+      "id": 7,
+      "sentence": "\u201cThe Life of a Showgirl\u201d is Swift\u2019s 12th album of new material, and it extends an astonishingly productive run.",
+      "paragraph_id": 4,
+      "word_count": 19,
+      "start_time": 84.15,
+      "end_time": 92.5,
+      "duration": 8.35,
+      "phoneme_count": 117
+    },
+    {
+      "id": 8,
+      "sentence": "Since 2020, the star singer-songwriter has released five new studio albums (counting \u201cShowgirl\u201d) and four rerecordings of old LPs; her penchant for stuffing albums with bonus tracks means that even before \u201cShowgirl,\u201d she had released nearly 200 new songs since the pandemic.",
+      "paragraph_id": 4,
+      "word_count": 42,
+      "start_time": 92.5,
+      "end_time": 112.825,
+      "duration": 20.325,
+      "phoneme_count": 296
+    },
+    {
+      "id": 9,
+      "sentence": "These days, Swift tends to drop news via brief social media posts.",
+      "paragraph_id": 5,
+      "word_count": 12,
+      "start_time": 112.825,
+      "end_time": 117.95,
+      "duration": 5.125,
+      "phoneme_count": 71
+    },
+    {
+      "id": 10,
+      "sentence": "By going on an extended video podcast \u2014 her episode of \u201cNew Heights\u201d lasted just over two hours \u2014 she gave herself an expansive platform to discuss the project in detail, shaping her fans\u2019 expectations and establishing the marketing narrative for the album.",
+      "paragraph_id": 5,
+      "word_count": 43,
+      "start_time": 117.95,
+      "end_time": 136.5,
+      "duration": 18.55,
+      "phoneme_count": 269
+    },
+    {
+      "id": 11,
+      "sentence": "The next step of her campaign underscored that this era would involve a love story.",
+      "paragraph_id": 6,
+      "word_count": 15,
+      "start_time": 136.5,
+      "end_time": 142.275,
+      "duration": 5.775,
+      "phoneme_count": 83
+    },
+    {
+      "id": 12,
+      "sentence": "In images released on social media 13 days after the podcast \u2014 of course \u2014 Kelce knelt before Swift in an almost-too-fantastical flower garden, and Swift showed off a vintage-style cushion-cut diamond ring. \u201cYour English teacher and your gym teacher are getting married,\u201d the couple wrote in a joint Instagram post.",
+      "paragraph_id": 6,
+      "word_count": 51,
+      "start_time": 142.275,
+      "end_time": 163.6,
+      "duration": 21.325,
+      "phoneme_count": 320
+    },
+    {
+      "id": 13,
+      "sentence": "Adding to the sense of a massive victory lap are her fourth album of the year trophy at last year\u2019s Grammys, for \u201cMidnights\u201d \u2014 surpassing the mere three-timers Frank Sinatra, Stevie Wonder and Paul Simon \u2014 and her announcement in May that she had finally acquired the master recording rights for her first six albums.",
+      "paragraph_id": 7,
+      "word_count": 55,
+      "start_time": 163.6,
+      "end_time": 184.15,
+      "duration": 20.55,
+      "phoneme_count": 314
+    },
+    {
+      "id": 14,
+      "sentence": "The sale of that back catalog without Swift\u2019s participation six years ago led to her re-recordings, which stirred fan support into a kind of righteous act of revenge.",
+      "paragraph_id": 7,
+      "word_count": 28,
+      "start_time": 184.15,
+      "end_time": 196.25,
+      "duration": 12.1,
+      "phoneme_count": 170
+    },
+    {
+      "id": 15,
+      "sentence": "The promotional blitz for \u201cThe Life of a Showgirl\u201d will also include an 89-minute \u201crelease party\u201d engagement at hundreds of AMC movie theaters this weekend, featuring the premiere of the music video for the song \u201cThe Fate of Ophelia\u201d and other footage, AMC announced.",
+      "paragraph_id": 8,
+      "word_count": 44,
+      "start_time": 196.25,
+      "end_time": 215.675,
+      "duration": 19.425,
+      "phoneme_count": 279
+    },
+    {
+      "id": 16,
+      "sentence": "Swift has also been selling CDs and vinyl LPs in advance through her website, in various design variants and bundled with merchandise \u2014 like an orange cardigan paired with a CD in a sparkly box for $70 \u2014 all but guaranteeing boffo opening-week sales numbers.",
+      "paragraph_id": 8,
+      "word_count": 45,
+      "start_time": 215.675,
+      "end_time": 235.45,
+      "duration": 19.775,
+      "phoneme_count": 285
+    },
+    {
+      "id": 17,
+      "sentence": "What has been happening offstage, of course, is Swift and Kelce\u2019s very public romance.",
+      "paragraph_id": 9,
+      "word_count": 14,
+      "start_time": 235.45,
+      "end_time": 241.775,
+      "duration": 6.325,
+      "phoneme_count": 86
+    },
+    {
+      "id": 18,
+      "sentence": "On his podcast, Kelce, the Kansas City Chiefs\u2019 star tight end, said that when he saw Swift perform at his home stadium in July 2023, he had tried and failed to deliver his phone number on a friendship bracelet.",
+      "paragraph_id": 9,
+      "word_count": 39,
+      "start_time": 241.775,
+      "end_time": 257.075,
+      "duration": 15.3,
+      "phoneme_count": 233
+    },
+    {
+      "id": 19,
+      "sentence": "But they soon made contact, and by February 2024, moments after the Chiefs won Super Bowl LVIII, the N.F.L. press corps captured their kiss on the field.",
+      "paragraph_id": 9,
+      "word_count": 27,
+      "start_time": 257.075,
+      "end_time": 269.6,
+      "duration": 12.525,
+      "phoneme_count": 180
+    },
+    {
+      "id": 20,
+      "sentence": "On previous albums, Swift\u2019s relationships \u2014 or ex-relationships \u2014 have frequently been a key thematic subtext, with Swift leaving thinly veiled clues about her targets. (On early albums, that included strategic capitalization on lyric sheets.) But with \u201cShowgirl,\u201d that aspect is no longer hidden.",
+      "paragraph_id": 10,
+      "word_count": 44,
+      "start_time": 269.6,
+      "end_time": 290.2,
+      "duration": 20.6,
+      "phoneme_count": 310
+    },
+    {
+      "id": 21,
+      "sentence": "On the Kelces\u2019 podcast, she indicated that the album is at least partly about her life with Travis, describing their matching schedules \u2014 his game days lined up with her concert nights \u2014 while Kelce patiently held up a copy of her vinyl LP for the camera.",
+      "paragraph_id": 10,
+      "word_count": 47,
+      "start_time": 290.2,
+      "end_time": 307.775,
+      "duration": 17.575,
+      "phoneme_count": 261
+    },
+    {
+      "id": 22,
+      "sentence": "\u201cThis album is about what was going on behind the scenes in my inner life during this tour,\u201d Swift said, \u201cwhich was so exuberant and electric and vibrant.\u201d",
+      "paragraph_id": 11,
+      "word_count": 28,
+      "start_time": 307.775,
+      "end_time": 318.225,
+      "duration": 10.45,
+      "phoneme_count": 160
+    },
+    {
+      "id": 23,
+      "sentence": "Still, the album\u2019s imagery suggests there may be more to it.",
+      "paragraph_id": 12,
+      "word_count": 11,
+      "start_time": 318.225,
+      "end_time": 322.675,
+      "duration": 4.45,
+      "phoneme_count": 59
+    },
+    {
+      "id": 24,
+      "sentence": "On the standard album cover, she wears a slinky stage costume while partially submerged in a tub.",
+      "paragraph_id": 12,
+      "word_count": 17,
+      "start_time": 322.675,
+      "end_time": 329.675,
+      "duration": 7.0,
+      "phoneme_count": 100
+    },
+    {
+      "id": 25,
+      "sentence": "Other pictures, from a series she has praised as \u201cextraordinary,\u201d are some of the most revealing she has released, showing Swift in Vegas showgirl attire, though sometimes with a haunted expression.",
+      "paragraph_id": 12,
+      "word_count": 31,
+      "start_time": 329.675,
+      "end_time": 342.75,
+      "duration": 13.075,
+      "phoneme_count": 190
+    },
+    {
+      "id": 26,
+      "sentence": "Swift has characterized \u201cShowgirl\u201d as her conscious return to straight-up pop music after some tangents like the \u201cesoteric\u201d indie-folk pandemic albums \u201cFolklore\u201d and \u201cEvermore,\u201d and the moody sprawl of \u201cMidnights\u201d and \u201cTortured Poets.\u201d She made her new album with the producers Max Martin and Shellback, whom she worked with on three critical albums that helped turn her into a pop superstar: \u201cRed\u201d (2012), \u201c1989\u201d (2014) and \u201cReputation\u201d (2017).",
+      "paragraph_id": 13,
+      "word_count": 68,
+      "start_time": 342.75,
+      "end_time": 371.75,
+      "duration": 29.0,
+      "phoneme_count": 510
+    },
+    {
+      "id": 27,
+      "sentence": "That makes it a rare example of Swift appearing to look backward for inspiration.",
+      "paragraph_id": 13,
+      "word_count": 14,
+      "start_time": 371.75,
+      "end_time": 377.4,
+      "duration": 5.65,
+      "phoneme_count": 83
+    },
+    {
+      "id": 28,
+      "sentence": "For Swift, this pop-focused approach involves \u201cmelodies that were so infectious that you\u2019re almost angry at it,\u201d she said.",
+      "paragraph_id": 14,
+      "word_count": 19,
+      "start_time": 377.4,
+      "end_time": 385.65,
+      "duration": 8.25,
+      "phoneme_count": 116
+    },
+    {
+      "id": 29,
+      "sentence": "The album was recorded in secret, but on \u201cNew Heights\u201d Swift dropped enough detail to allow fans to triangulate roughly when she made it, in summer 2024.",
+      "paragraph_id": 15,
+      "word_count": 27,
+      "start_time": 385.65,
+      "end_time": 397.375,
+      "duration": 11.725,
+      "phoneme_count": 170
+    },
+    {
+      "id": 30,
+      "sentence": "She said she had invited Martin to the Eras Tour when it stopped in Stockholm (May 17-19), and that she returned there to record with Martin and Shellback on days off from the European leg, which ended in August.",
+      "paragraph_id": 15,
+      "word_count": 39,
+      "start_time": 397.375,
+      "end_time": 412.125,
+      "duration": 14.75,
+      "phoneme_count": 224
+    },
+    {
+      "id": 31,
+      "sentence": "\u201cMidnights\u201d and \u201cTortured Poets\u201d came with voluminous bonus material, which drew some disapproving remarks from critics (though fans were as ravenous as ever).",
+      "paragraph_id": 16,
+      "word_count": 23,
+      "start_time": 412.125,
+      "end_time": 423.6,
+      "duration": 11.475,
+      "phoneme_count": 160
+    },
+    {
+      "id": 32,
+      "sentence": "For \u201cShowgirl,\u201d Swift noted on the podcast that the album would contain 12 songs and no more.",
+      "paragraph_id": 16,
+      "word_count": 17,
+      "start_time": 423.6,
+      "end_time": 430.175,
+      "duration": 6.575,
+      "phoneme_count": 100
+    },
+    {
+      "id": 33,
+      "sentence": "\u201cTwelve bangers,\u201d Kelce chimed in.",
+      "paragraph_id": 17,
+      "word_count": 5,
+      "start_time": 430.175,
+      "end_time": 433.0,
+      "duration": 2.825,
+      "phoneme_count": 34
+    }
+  ]
+}

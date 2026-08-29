@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "article_id": "2bd2e896-0573-5f97-a882-9a2d73e5565c",
+    "headline": "White House Seeks to Blunt Democrats\u2019 Shutdown Strategy on Health Care",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/2bd2e896-0573-5f97-a882-9a2d73e5565c_kokoro.wav",
+    "total_duration": 124.2,
+    "sentence_count": 13,
+    "paragraph_count": 6,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T17:12:17.135011"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "On the first day of the government shutdown, the White House on Wednesday insisted that President Trump wanted to fix the health care system \u2014 the very issue that Democrats in Congress have said is their top priority.",
+      "paragraph_id": 0,
+      "word_count": 38,
+      "start_time": 0.0,
+      "end_time": 14.6,
+      "duration": 14.6,
+      "phoneme_count": 219
+    },
+    {
+      "id": 1,
+      "sentence": "White House officials, including Vice President JD Vance, said that Mr.",
+      "paragraph_id": 1,
+      "word_count": 11,
+      "start_time": 14.6,
+      "end_time": 20.4,
+      "duration": 5.8,
+      "phoneme_count": 77
+    },
+    {
+      "id": 2,
+      "sentence": "Trump was open to Democratic leaders\u2019 suggestions for improving access to health insurance.",
+      "paragraph_id": 1,
+      "word_count": 13,
+      "start_time": 20.4,
+      "end_time": 26.975,
+      "duration": 6.575,
+      "phoneme_count": 93
+    },
+    {
+      "id": 3,
+      "sentence": "But they were adamant that the shutdown was not needed to meet that goal.",
+      "paragraph_id": 1,
+      "word_count": 14,
+      "start_time": 26.975,
+      "end_time": 31.9,
+      "duration": 4.925,
+      "phoneme_count": 71
+    },
+    {
+      "id": 4,
+      "sentence": "\u201cWe need to reopen the United States federal government, because people are going without pay,\u201d said Karoline Leavitt, the White House press secretary. \u201cThen we can discuss this very important issue of health care that the president absolutely wants to fix.\u201d",
+      "paragraph_id": 2,
+      "word_count": 41,
+      "start_time": 31.9,
+      "end_time": 48.9,
+      "duration": 17.0,
+      "phoneme_count": 262
+    },
+    {
+      "id": 5,
+      "sentence": "Democrats on Wednesday were also keenly focused on health care, saying they had voted against the Republicans\u2019 budget bill because they were seeking to keep health care costs from ballooning for millions of Americans, including in states that Mr.",
+      "paragraph_id": 3,
+      "word_count": 39,
+      "start_time": 48.9,
+      "end_time": 64.625,
+      "duration": 15.725,
+      "phoneme_count": 242
+    },
+    {
+      "id": 6,
+      "sentence": "Trump won last year.",
+      "paragraph_id": 3,
+      "word_count": 4,
+      "start_time": 64.625,
+      "end_time": 66.8,
+      "duration": 2.175,
+      "phoneme_count": 23
+    },
+    {
+      "id": 7,
+      "sentence": "The tug of war over which side cares more about health care speaks to the issue\u2019s political potency.",
+      "paragraph_id": 4,
+      "word_count": 18,
+      "start_time": 66.8,
+      "end_time": 73.875,
+      "duration": 7.075,
+      "phoneme_count": 99
+    },
+    {
+      "id": 8,
+      "sentence": "Mr.",
+      "paragraph_id": 4,
+      "word_count": 1,
+      "start_time": 73.875,
+      "end_time": 75.3,
+      "duration": 1.425,
+      "phoneme_count": 7
+    },
+    {
+      "id": 9,
+      "sentence": "Trump has made lowering health costs a key part of his agenda, and Democrats appear to see an opening to rein in the White House and preserve a set of subsidies that help millions of Americans pay for coverage.",
+      "paragraph_id": 4,
+      "word_count": 39,
+      "start_time": 75.3,
+      "end_time": 89.35,
+      "duration": 14.05,
+      "phoneme_count": 213
+    },
+    {
+      "id": 10,
+      "sentence": "Republicans have tried to drive their message by repeating the false assertion that Democrats were shutting down the government to fund free health care for unauthorized immigrants.",
+      "paragraph_id": 5,
+      "word_count": 27,
+      "start_time": 89.35,
+      "end_time": 101.125,
+      "duration": 11.775,
+      "phoneme_count": 173
+    },
+    {
+      "id": 11,
+      "sentence": "Hours before the shutdown on Tuesday, Mr.",
+      "paragraph_id": 5,
+      "word_count": 7,
+      "start_time": 101.125,
+      "end_time": 104.8,
+      "duration": 3.675,
+      "phoneme_count": 45
+    },
+    {
+      "id": 12,
+      "sentence": "Trump held two Oval Office events promoting health policy actions \u2014 one announcing a deal the administration made with the drugmaker Pfizer for the company to lower prices it charges to state Medicaid programs, and another on accelerating research into children with cancer.",
+      "paragraph_id": 5,
+      "word_count": 43,
+      "start_time": 104.8,
+      "end_time": 124.2,
+      "duration": 19.4,
+      "phoneme_count": 282
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "article_id": "f994b1d6-bd71-53e6-a1d0-46460e861744",
+    "headline": "An Embarrassment of Riches for Mexico\u2019s Party of the Poor",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/f994b1d6-bd71-53e6-a1d0-46460e861744_kokoro.wav",
+    "total_duration": 98.175,
+    "sentence_count": 9,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:31:37.214718"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "The party that dominates Mexico came to power preaching support for the common people, with members often reciting a motto, \u201cFor the good of all, the poor first.\u201d",
+      "paragraph_id": 0,
+      "word_count": 28,
+      "start_time": 0.0,
+      "end_time": 11.4,
+      "duration": 11.4,
+      "phoneme_count": 161
+    },
+    {
+      "id": 1,
+      "sentence": "So voters have been shaking their heads recently when Morena members began showing up at fancy hotels abroad, wearing what looks like expensive clothing and jewelry, and holding millions in outside income.",
+      "paragraph_id": 1,
+      "word_count": 32,
+      "start_time": 11.4,
+      "end_time": 25.3,
+      "duration": 13.9,
+      "phoneme_count": 206
+    },
+    {
+      "id": 2,
+      "sentence": "How could the party of the people, voters have asked, enjoy such wealth?",
+      "paragraph_id": 2,
+      "word_count": 13,
+      "start_time": 25.3,
+      "end_time": 30.35,
+      "duration": 5.05,
+      "phoneme_count": 68
+    },
+    {
+      "id": 3,
+      "sentence": "\u201cIt does shock you a little,\u201d said Enrique Rodr\u00edguez, 23, an architecture student in Mexico City who voted for Claudia Sheinbaum, Morena\u2019s presidential candidate, last year.",
+      "paragraph_id": 3,
+      "word_count": 26,
+      "start_time": 30.35,
+      "end_time": 43.625,
+      "duration": 13.275,
+      "phoneme_count": 187
+    },
+    {
+      "id": 4,
+      "sentence": "He said that past leaders had even more extravagant lifestyles, but that the behavior of some current officials had caused \u201cdisappointment.\u201d",
+      "paragraph_id": 3,
+      "word_count": 21,
+      "start_time": 43.625,
+      "end_time": 53.45,
+      "duration": 9.825,
+      "phoneme_count": 142
+    },
+    {
+      "id": 5,
+      "sentence": "The party, he said, was \u201csupposed to be trying to make a change.\u201d",
+      "paragraph_id": 4,
+      "word_count": 13,
+      "start_time": 53.45,
+      "end_time": 58.075,
+      "duration": 4.625,
+      "phoneme_count": 63
+    },
+    {
+      "id": 6,
+      "sentence": "That politicians are enjoying luxuries is not surprising, especially not in Mexico, where corruption is a longstanding problem.",
+      "paragraph_id": 5,
+      "word_count": 18,
+      "start_time": 58.075,
+      "end_time": 67.525,
+      "duration": 9.45,
+      "phoneme_count": 128
+    },
+    {
+      "id": 7,
+      "sentence": "Anger over the issue helped deliver Morena the presidency in 2018 and 2024, and the leftist party has published statistics that show it is lifting up the poor as past governments never did.",
+      "paragraph_id": 5,
+      "word_count": 33,
+      "start_time": 67.525,
+      "end_time": 81.85,
+      "duration": 14.325,
+      "phoneme_count": 219
+    },
+    {
+      "id": 8,
+      "sentence": "But the disconnect between Morena officials\u2019 public statements and the lifestyles of certain politicians has created a firestorm in Mexico \u2014 and frustration among Mexicans \u2014 that voters and analysts said could have a lasting effect.",
+      "paragraph_id": 6,
+      "word_count": 36,
+      "start_time": 81.85,
+      "end_time": 98.175,
+      "duration": 16.325,
+      "phoneme_count": 236
+    }
+  ]
+}

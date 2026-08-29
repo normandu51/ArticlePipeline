@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "article_id": "a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f",
+    "headline": "36 Things to Do in N.Y.C. in October: Comedians Aplenty, Comic Con and More",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/a5c40f06-b6e2-5ab1-9d6b-2871b5ef527f_kokoro.wav",
+    "total_duration": 162.65,
+    "sentence_count": 18,
+    "paragraph_count": 5,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T19:01:28.335767"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Spooky stuff tends to hog the culture calendar in October, but I\u2019m not mad.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 0.0,
+      "end_time": 5.725,
+      "duration": 5.725,
+      "phoneme_count": 81
+    },
+    {
+      "id": 1,
+      "sentence": "As a horror fan I live for scary season, which is why I put together a guide to celebrating Halloween in and around New York.",
+      "paragraph_id": 0,
+      "word_count": 25,
+      "start_time": 5.725,
+      "end_time": 15.1,
+      "duration": 9.375,
+      "phoneme_count": 131
+    },
+    {
+      "id": 2,
+      "sentence": "But what else is there to do this month besides dress up like the \u201cWeapons\u201d witch and stuff your face with Snickers minis?",
+      "paragraph_id": 0,
+      "word_count": 23,
+      "start_time": 15.1,
+      "end_time": 23.3,
+      "duration": 8.2,
+      "phoneme_count": 119
+    },
+    {
+      "id": 3,
+      "sentence": "Here are my picks.",
+      "paragraph_id": 0,
+      "word_count": 4,
+      "start_time": 23.3,
+      "end_time": 25.125,
+      "duration": 1.825,
+      "phoneme_count": 17
+    },
+    {
+      "id": 4,
+      "sentence": "The amount of top-tier comedy in New York this month is so good, it\u2019s not even funny.",
+      "paragraph_id": 1,
+      "word_count": 17,
+      "start_time": 25.125,
+      "end_time": 31.25,
+      "duration": 6.125,
+      "phoneme_count": 87
+    },
+    {
+      "id": 5,
+      "sentence": "Jon Stewart, John Mulaney and Pete Davidson share the bill at UBS Arena in Elmont, N.Y., on Oct. 15.",
+      "paragraph_id": 1,
+      "word_count": 19,
+      "start_time": 31.25,
+      "end_time": 40.15,
+      "duration": 8.9,
+      "phoneme_count": 119
+    },
+    {
+      "id": 6,
+      "sentence": "With 10 new shows starting on Oct. 24, Jerry Seinfeld continues his residency at the Beacon Theater, which is home to other marquee names in October, including Bridget Everett (Oct. 16-17), Atsuko Okatsuka (Oct. 18-19), Larry David (Oct. 21) and John Oliver and Seth Myers (Oct. 26).",
+      "paragraph_id": 1,
+      "word_count": 47,
+      "start_time": 40.15,
+      "end_time": 63.975,
+      "duration": 23.825,
+      "phoneme_count": 348
+    },
+    {
+      "id": 7,
+      "sentence": "Also, Druski is at Barclays Center in Brooklyn (Oct. 11), while John Cleese is at Town Hall in Midtown (Oct. 15).",
+      "paragraph_id": 1,
+      "word_count": 21,
+      "start_time": 63.975,
+      "end_time": 73.65,
+      "duration": 9.675,
+      "phoneme_count": 128
+    },
+    {
+      "id": 8,
+      "sentence": "The New York Blood and Ink Tattoo & Horror Convention (Oct. 3-5), at the Westchester County Center in White Plains, N.Y., brings together hundreds of tattoo artists from around the world \u2014 and hosts a Miss Inked Pageant!",
+      "paragraph_id": 2,
+      "word_count": 38,
+      "start_time": 73.65,
+      "end_time": 89.775,
+      "duration": 16.125,
+      "phoneme_count": 231
+    },
+    {
+      "id": 9,
+      "sentence": "At the city\u2019s annual geek-out, New York Comic Con (Oct. 9-12), at the Javits Center, expect to see celebrities like Sigourney Weaver and Laurence Fishburne.",
+      "paragraph_id": 2,
+      "word_count": 25,
+      "start_time": 89.775,
+      "end_time": 101.4,
+      "duration": 11.625,
+      "phoneme_count": 167
+    },
+    {
+      "id": 10,
+      "sentence": "If obscure show tunes and witty banter are your thing, the New York Cabaret Convention is at Lincoln Center\u2019s Rose Theater (Oct. 21-23).",
+      "paragraph_id": 2,
+      "word_count": 23,
+      "start_time": 101.4,
+      "end_time": 112.05,
+      "duration": 10.65,
+      "phoneme_count": 156
+    },
+    {
+      "id": 11,
+      "sentence": "Hispanic Heritage Month ends on Oct. 15, but keep the celebration going on Oct. 18 with Jazz at Lincoln Center\u2019s family matinee \u201cWho Is Celia Cruz?\u201d or a concert from the Grammy-winning mariachi singer Aida Cuevas at the Lehman Center for the Performing Arts in the Bronx.",
+      "paragraph_id": 3,
+      "word_count": 47,
+      "start_time": 112.05,
+      "end_time": 132.2,
+      "duration": 20.15,
+      "phoneme_count": 294
+    },
+    {
+      "id": 12,
+      "sentence": "And there\u2019s always a show for every generation.",
+      "paragraph_id": 4,
+      "word_count": 8,
+      "start_time": 132.2,
+      "end_time": 135.725,
+      "duration": 3.525,
+      "phoneme_count": 47
+    },
+    {
+      "id": 13,
+      "sentence": "Boomers: Diana Ross at the St.",
+      "paragraph_id": 4,
+      "word_count": 6,
+      "start_time": 135.725,
+      "end_time": 138.575,
+      "duration": 2.85,
+      "phoneme_count": 32
+    },
+    {
+      "id": 14,
+      "sentence": "George Theater on Staten Island (Oct. 29).",
+      "paragraph_id": 4,
+      "word_count": 7,
+      "start_time": 138.575,
+      "end_time": 142.85,
+      "duration": 4.275,
+      "phoneme_count": 53
+    },
+    {
+      "id": 15,
+      "sentence": "Gen X: Richard Marx at the Caf\u00e9 Carlyle (Oct. 21-25).",
+      "paragraph_id": 4,
+      "word_count": 10,
+      "start_time": 142.85,
+      "end_time": 148.775,
+      "duration": 5.925,
+      "phoneme_count": 79
+    },
+    {
+      "id": 16,
+      "sentence": "Millennials: Sam Smith\u2019s \u201cTo Be Free\u201d residency at Warsaw in Greenpoint, Brooklyn (starting on Oct. 8).",
+      "paragraph_id": 4,
+      "word_count": 16,
+      "start_time": 148.775,
+      "end_time": 156.775,
+      "duration": 8.0,
+      "phoneme_count": 108
+    },
+    {
+      "id": 17,
+      "sentence": "Gen Z: Billie Eilish at UBS Arena (Oct. 25-26).",
+      "paragraph_id": 4,
+      "word_count": 9,
+      "start_time": 156.775,
+      "end_time": 162.65,
+      "duration": 5.875,
+      "phoneme_count": 76
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "article_id": "363eaa9c-d8c1-5317-bc74-082c632afcf1",
+    "headline": "In East Timor, U.S. Retreats From Plan to Build \u2018Lifesaving\u2019 Sewage Plant",
+    "source_db": "/Users/pengdu/PycharmProjects/ArticleExtraction/articles.db",
+    "audio_file": "/Users/pengdu/PycharmProjects/ArticleExtraction/tts/Output/363eaa9c-d8c1-5317-bc74-082c632afcf1_kokoro.wav",
+    "total_duration": 113.825,
+    "sentence_count": 14,
+    "paragraph_count": 7,
+    "speaker": "am",
+    "language": "a",
+    "generated_at": "2026-08-29T18:15:29.851808"
+  },
+  "sentences": [
+    {
+      "id": 0,
+      "sentence": "Ravaged by a brutal military occupation, East Timor won its independence just over two decades ago.",
+      "paragraph_id": 0,
+      "word_count": 16,
+      "start_time": 0.0,
+      "end_time": 8.075,
+      "duration": 8.075,
+      "phoneme_count": 111
+    },
+    {
+      "id": 1,
+      "sentence": "The young nation has built itself into a stable democracy, but poverty remains widespread.",
+      "paragraph_id": 0,
+      "word_count": 14,
+      "start_time": 8.075,
+      "end_time": 14.9,
+      "duration": 6.825,
+      "phoneme_count": 94
+    },
+    {
+      "id": 2,
+      "sentence": "Nearly half of the children in Dili, the capital, are physically stunted by malnutrition and repeated infections from waterborne diseases.",
+      "paragraph_id": 1,
+      "word_count": 20,
+      "start_time": 14.9,
+      "end_time": 24.9,
+      "duration": 10.0,
+      "phoneme_count": 139
+    },
+    {
+      "id": 3,
+      "sentence": "The city does not have a municipal sewer system, and drinking water is often contaminated by raw sewage.",
+      "paragraph_id": 1,
+      "word_count": 18,
+      "start_time": 24.9,
+      "end_time": 32.7,
+      "duration": 7.8,
+      "phoneme_count": 109
+    },
+    {
+      "id": 4,
+      "sentence": "The United States offered to help fix the problem.",
+      "paragraph_id": 2,
+      "word_count": 9,
+      "start_time": 32.7,
+      "end_time": 36.475,
+      "duration": 3.775,
+      "phoneme_count": 53
+    },
+    {
+      "id": 5,
+      "sentence": "A small U.S. development agency, the Millennium Challenge Corporation, agreed to spend $420 million in part to build a wastewater treatment system.",
+      "paragraph_id": 2,
+      "word_count": 22,
+      "start_time": 36.475,
+      "end_time": 48.65,
+      "duration": 12.175,
+      "phoneme_count": 176
+    },
+    {
+      "id": 6,
+      "sentence": "The local government spent millions buying land and preparing it for construction.",
+      "paragraph_id": 2,
+      "word_count": 12,
+      "start_time": 48.65,
+      "end_time": 54.475,
+      "duration": 5.825,
+      "phoneme_count": 84
+    },
+    {
+      "id": 7,
+      "sentence": "But a field of debris may be the project\u2019s lasting legacy.",
+      "paragraph_id": 3,
+      "word_count": 11,
+      "start_time": 54.475,
+      "end_time": 59.1,
+      "duration": 4.625,
+      "phoneme_count": 60
+    },
+    {
+      "id": 8,
+      "sentence": "In August, the M.C.C.\u2019s board of directors recommended terminating the agreement with East Timor, which is also known as Timor-Leste, according to the offices of two senators notified of the action.",
+      "paragraph_id": 4,
+      "word_count": 31,
+      "start_time": 59.1,
+      "end_time": 73.2,
+      "duration": 14.1,
+      "phoneme_count": 200
+    },
+    {
+      "id": 9,
+      "sentence": "The board\u2019s decisions are subject to congressional review.",
+      "paragraph_id": 4,
+      "word_count": 8,
+      "start_time": 73.2,
+      "end_time": 77.525,
+      "duration": 4.325,
+      "phoneme_count": 55
+    },
+    {
+      "id": 10,
+      "sentence": "It also recommended scrapping large infrastructure projects in the African nations of Lesotho and Malawi, and agreements in development with eight other poor countries.",
+      "paragraph_id": 5,
+      "word_count": 24,
+      "start_time": 77.525,
+      "end_time": 89.0,
+      "duration": 11.475,
+      "phoneme_count": 173
+    },
+    {
+      "id": 11,
+      "sentence": "At the same time, it selected two South Pacific countries, Fiji and Tonga, for possible investment.",
+      "paragraph_id": 5,
+      "word_count": 16,
+      "start_time": 89.0,
+      "end_time": 96.675,
+      "duration": 7.675,
+      "phoneme_count": 103
+    },
+    {
+      "id": 12,
+      "sentence": "The M.C.C. referred queries to the State Department, which declined to comment.",
+      "paragraph_id": 6,
+      "word_count": 12,
+      "start_time": 96.675,
+      "end_time": 102.525,
+      "duration": 5.85,
+      "phoneme_count": 80
+    },
+    {
+      "id": 13,
+      "sentence": "But in a statement, it said \u201cthe United States is proud to support Timor-Leste and remains focused on advancing and strengthening our strong bilateral relationship.\u201d",
+      "paragraph_id": 6,
+      "word_count": 25,
+      "start_time": 102.525,
+      "end_time": 113.825,
+      "duration": 11.3,
+      "phoneme_count": 169
+    }
+  ]
+}
