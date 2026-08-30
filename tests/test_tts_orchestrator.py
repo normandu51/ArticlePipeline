@@ -10,7 +10,7 @@ import sqlite3
 import pytest
 
 from tts.Kokoro.text_processor import parse_text, read_and_parse
-from tts.orchestrator import DEFAULT_DB, DEFAULT_OUTPUT_DIR, generate_from_db, query_articles
+from tts.DBArticles2Audios import DEFAULT_DB, DEFAULT_OUTPUT_DIR, generate_from_db, query_articles
 
 
 def test_default_paths_are_repo_root_absolute():

@@ -284,7 +284,7 @@ Input: article.txt
 source .venv/bin/activate
 
 # Generate audio + timings
-python tts/orchestrator.py tts/Steady_pvc.txt
+python tts/DBArticles2Audios.py tts/Steady_pvc.txt
 
 # Outputs:
 # - tts/Steady_pvc_kokoro.wav

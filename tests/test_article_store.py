@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from article_store import (
+from ArticleExtraction.article_store import (
     get_article,
     get_connection,
     has_extracted_text,

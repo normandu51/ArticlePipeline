@@ -18,20 +18,11 @@ Already-existing outputs are skipped so the batch can be re-run safely.
 
 import argparse
 import json
+import sqlite3
 import sys
 from datetime import datetime
-from pathlib import Path
+from PipelineConfig import *
 
-# Ensure the repo root is importable so the orchestrator runs both as a package
-# (`python -m tts.orchestrator`) and as a plain script (`python tts/orchestrator.py`).
-_REPO_ROOT = str(Path(__file__).resolve().parents[1])
-if _REPO_ROOT not in sys.path:
-    sys.path.insert(0, _REPO_ROOT)
-
-# Defaults resolve against the repo root (not the current working directory) so
-# the script finds articles.db no matter where it is invoked from.
-DEFAULT_DB = str(Path(_REPO_ROOT) / "articles.db")
-DEFAULT_OUTPUT_DIR = str(Path(_REPO_ROOT) / "tts" / "Output")
 
 try:
     from tts.Kokoro.text_processor import parse_text
@@ -45,9 +36,6 @@ except ImportError:  # fallback for running as a plain script from inside tts/
     from timing_extractor import extract_timings
     from tts_synthesizer import synthesize_sentences
 
-from article_store import get_connection
-
-
 def _ensure_articles_table(conn, db_path):
     """Raise a clear error when the DB has no articles table."""
     row = conn.execute(
@@ -60,6 +48,13 @@ def _ensure_articles_table(conn, db_path):
             "correct database."
         )
 
+def get_connection(db_path=DEFAULT_DB_PATH):
+    """Open a SQLite connection with row access by column name."""
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA foreign_keys=ON")
+    return conn
 
 def query_articles(conn):
     """Return eligible articles, ordered by id.
@@ -98,7 +93,7 @@ def build_timings_data(article, db_path, audio_file, sentences, timings, speaker
     }
 
 
-def synthesize_article(article, output_dir, db_path=DEFAULT_DB, speaker="am", lang="a"):
+def synthesize_article(article, output_dir, db_path=DEFAULT_DB_PATH, speaker="am", lang="a"):
     """Synthesize one article row into WAV + timings JSON named by article id."""
     sentences = parse_text(article["extracted_text"])
     if not sentences:
@@ -118,7 +113,7 @@ def synthesize_article(article, output_dir, db_path=DEFAULT_DB, speaker="am", la
 
 
 def generate_from_db(
-    db_path=DEFAULT_DB,
+    db_path=DEFAULT_DB_PATH,
     output_dir=DEFAULT_OUTPUT_DIR,
     speaker="am",
     lang="a",
@@ -169,8 +164,8 @@ def main():
     )
     parser.add_argument(
         "--db",
-        default=DEFAULT_DB,
-        help=f"Path to the SQLite database (default: {DEFAULT_DB})",
+        default=DEFAULT_DB_PATH,
+        help=f"Path to the SQLite database (default: {DEFAULT_DB_PATH})",
     )
     parser.add_argument(
         "--output-dir",
@@ -193,7 +188,7 @@ def main():
     )
     args = parser.parse_args()
     generate_from_db(
-        args.db, args.output_dir, args.speaker, args.lang, args.article_id, args.limit
+        REPO_ROOT+"/"+args.db, REPO_ROOT+"/"+args.output_dir, args.speaker, args.lang, args.article_id, args.limit
     )
 
 

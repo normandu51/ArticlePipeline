@@ -1,9 +1,9 @@
 import pytest
 from bs4 import BeautifulSoup
 
-import extract_config as config
-from block_detection import is_block_page
-from ExtractHTML import (
+import ArticleExtraction.extract_config as config
+from ArticleExtraction.block_detection import is_block_page
+from ArticleExtraction.ExtractHTML import (
     article_id_from_uri,
     article_output_path,
     build_chrome_options,
@@ -33,7 +33,7 @@ def test_build_chrome_options_uses_persistent_profile(monkeypatch):
 
 
 def test_get_chrome_profile_dir_defaults_to_config_default(monkeypatch):
-    from extract_config import DEFAULT_CHROME_PROFILE_DIR
+    from ArticleExtraction.extract_config import DEFAULT_CHROME_PROFILE_DIR
 
     monkeypatch.delenv(config.CHROME_PROFILE_ENV_VAR, raising=False)
     assert get_chrome_profile_dir() == DEFAULT_CHROME_PROFILE_DIR
@@ -225,7 +225,7 @@ def test_process_source_json_marks_success_and_failure_in_db(tmp_path, monkeypat
     monkeypatch.setattr("ExtractHTML.extract_article", fake_extract)
     process_source_json(source_json)
 
-    from article_store import get_connection
+    from ArticleExtraction.article_store import get_connection
 
     conn = get_connection("articles.db")
     first = conn.execute("SELECT * FROM articles WHERE id = 'first'").fetchone()
@@ -260,7 +260,7 @@ def test_process_source_json_skips_article_with_existing_text_in_db(
         encoding="utf-8",
     )
 
-    from article_store import get_connection, init_db, upsert_metadata
+    from ArticleExtraction.article_store import get_connection, init_db, upsert_metadata
 
     conn = get_connection("articles.db")
     init_db(conn)
@@ -299,7 +299,7 @@ def test_process_source_json_skips_article_already_in_db(tmp_path, monkeypatch):
         encoding="utf-8",
     )
 
-    from article_store import get_connection, init_db, mark_extracted, upsert_metadata
+    from ArticleExtraction.article_store import get_connection, init_db, mark_extracted, upsert_metadata
 
     conn = get_connection("articles.db")
     init_db(conn)

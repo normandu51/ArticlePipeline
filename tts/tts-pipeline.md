@@ -1,11 +1,11 @@
-# TTS Pipeline: Orchestrator (`tts/orchestrator.py`)
+# TTS Pipeline: DBArticles2Audios (`tts/DBArticles2Audios.py`)
 
-The TTS orchestrator turns **extracted, review-approved NYT articles** stored in
+The TTS DBArticles2Audios turns **extracted, review-approved NYT articles** stored in
 `articles.db` into **spoken audio + per-sentence timing JSON**. It is the second
 half of the ArticleExtraction pipeline:
 
 ```
-ExtractHTML.py  ──►  articles.db  ──►  tts/orchestrator.py  ──►  tts/Output/
+ExtractHTML.py  ──►  articles.db  ──►  tts/DBArticles2Audios.py  ──►  tts/Output/
   (extract text)       (SQLite)          (Kokoro TTS)           <id>_kokoro.wav
                                                                 <id>_timings.json
 ```
@@ -16,7 +16,7 @@ ExtractHTML.py  ──►  articles.db  ──►  tts/orchestrator.py  ──�
 
 ### Source: `articles.db` (SQLite)
 
-The orchestrator reads from the SQLite database written by `ExtractHTML.py`
+The DBArticles2Audios reads from the SQLite database written by `ExtractHTML.py`
 (see `article_store.py`, default path `articles.db` in the repo root). The
 database is the **single source of truth** for article text and pipeline state.
 
@@ -34,7 +34,7 @@ An article is processed **only when all of the following hold**:
 Articles whose `review_results = 'NA'` (e.g. containing sensitive words, judged
 unsuitable for learning) are **excluded**.
 
-The query used (`query_articles()` in the orchestrator):
+The query used (`query_articles()` in the DBArticles2Audios):
 
 ```sql
 SELECT id, headline, extracted_text
@@ -48,7 +48,7 @@ ORDER BY id;
 ### Text format
 
 `extracted_text` is the clean article body with **one paragraph per line**
-(newline-separated). The orchestrator parses it via `parse_text()` in
+(newline-separated). The DBArticles2Audios parses it via `parse_text()` in
 `tts/Kokoro/text_processor.py`, which treats each non-empty line as a paragraph
 and splits it into sentences (sentence boundary = punctuation followed by
 whitespace and a capital letter). Each sentence becomes a record with
@@ -126,7 +126,7 @@ article audio; `duration` is the sentence's own length.
 ### Resume / idempotency
 
 If **both** `<id>_kokoro.wav` **and** `<id>_timings.json` already exist for an
-article, the orchestrator **skips** it (`SKIP` line). This makes re-runs safe:
+article, the DBArticles2Audios **skips** it (`SKIP` line). This makes re-runs safe:
 you can interrupt and restart a large batch without regenerating finished
 articles.
 
@@ -149,19 +149,19 @@ articles.
 source .venv/bin/activate
 
 # Process ALL eligible articles -> tts/Output/
-python tts/orchestrator.py
+python tts/DBArticles2Audios.py
 
 # Custom DB / output directory
-python tts/orchestrator.py --db articles.db --output-dir tts/Output
+python tts/DBArticles2Audios.py --db articles.db --output-dir tts/Output
 
 # Voice and language
-python tts/orchestrator.py --speaker af --lang a        # American Female
+python tts/DBArticles2Audios.py --speaker af --lang a        # American Female
 
 # Process a single article by id
-python tts/orchestrator.py --id 2090e468-8163-5f8b-aeef-dba7950df018
+python tts/DBArticles2Audios.py --id 2090e468-8163-5f8b-aeef-dba7950df018
 
 # Smoke-test on the first N articles
-python tts/orchestrator.py --limit 5
+python tts/DBArticles2Audios.py --limit 5
 ```
 
 | Argument        | Default        | Description                                   |
@@ -178,7 +178,7 @@ python tts/orchestrator.py --limit 5
 - **`sqlite3.OperationalError: no such table: articles`** — the script opened a
   DB that has not been populated. Defaults are resolved against the repo root,
   so this usually means `ExtractHTML.py` has not been run, or `--db` points at
-  the wrong/empty file. The orchestrator now raises a clear message telling you
+  the wrong/empty file. The DBArticles2Audios now raises a clear message telling you
   which DB it looked at. Delete any accidentally created empty
   `<something>/articles.db` files (e.g. a stray `tts/articles.db` created by
   earlier runs from the wrong working directory).
@@ -186,7 +186,7 @@ python tts/orchestrator.py --limit 5
 ### Programmatic API
 
 ```python
-from tts.orchestrator import generate_from_db, query_articles
+from tts.DBArticles2Audios import generate_from_db, query_articles
 
 # Batch-generate, returns (generated, skipped, failed)
 generated, skipped, failed = generate_from_db(
@@ -195,8 +195,9 @@ generated, skipped, failed = generate_from_db(
 
 # Inspect what would be processed
 from article_store import get_connection
+
 conn = get_connection("articles.db")
-rows = query_articles(conn)   # list of sqlite3.Row (id, headline, extracted_text)
+rows = query_articles(conn)  # list of sqlite3.Row (id, headline, extracted_text)
 conn.close()
 ```
 
@@ -218,8 +219,8 @@ this article (run continues), and a final `DONE` summary line.
 
 ```bash
 # Activate the venv first, then:
-.venv/bin/python -m pytest tests/test_tts_orchestrator.py tests/test_tts_pipeline.py -v
+.venv/bin/python -m pytest tests/test_tts_DBArticles2Audios.py tests/test_tts_pipeline.py -v
 ```
 
-The orchestrator tests monkeypatch the synthesizer, so they never load the
+The DBArticles2Audios tests monkeypatch the synthesizer, so they never load the
 Kokoro model and can run on any machine.

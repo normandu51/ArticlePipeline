@@ -21,7 +21,6 @@ from selenium.webdriver.chrome.service import Service
 
 import extract_config as config
 from article_store import (
-    DEFAULT_DB_PATH,
     get_connection,
     has_extracted_text,
     init_db,
@@ -31,7 +30,7 @@ from article_store import (
     upsert_metadata,
 )
 from block_detection import is_block_page
-
+from PipelineConfig import (REPO_ROOT, DEFAULT_DB_PATH)
 
 def find_chrome_binary():
     """Find Chrome/Chromium binary among the configured locations."""
@@ -311,7 +310,7 @@ def main():
         help=f"Path to the SQLite database (default: {DEFAULT_DB_PATH})",
     )
     args = parser.parse_args()
-    process_source_json(args.source_json, db_path=args.db)
+    process_source_json(REPO_ROOT+"/"+args.source_json, db_path=REPO_ROOT+"/"+args.db)
 
 
 if __name__ == "__main__":

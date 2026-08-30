@@ -14,8 +14,7 @@ Article lifecycle (the `status` column):
 import json
 import sqlite3
 from datetime import datetime, timezone
-
-DEFAULT_DB_PATH = "articles.db"
+from PipelineConfig import *
 
 # Statuses that mean "already processed, do not extract again".
 PROCESSED_STATUSES = frozenset({"extracted", "enriched", "done"})

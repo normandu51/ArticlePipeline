@@ -786,7 +786,7 @@ git commit -m "feat: implement timing extractor for phoneme-to-sentence mapping"
 import pytest
 import json
 from pathlib import Path
-from tts.orchestrator import main, generate_audio_and_timings
+from tts.DBArticles2Audios import main, generate_audio_and_timings
 
 
 def test_orchestrator_end_to_end(tmp_path):
@@ -860,7 +860,7 @@ Expected: FAIL with "ImportError: cannot import name 'generate_audio_and_timings
 - [ ] **Step 3: Write orchestrator implementation**
 
 ```python
-# tts/orchestrator.py
+# tts/DBArticles2Audios.py
 """
 Orchestrator module.
 Coordinates the complete TTS pipeline: text processing → synthesis → timing extraction.
@@ -1010,11 +1010,11 @@ def generate_audio_and_timings(
 def main():
     """CLI entry point"""
     if len(sys.argv) < 2:
-        print("Usage: python orchestrator.py <input_file> [output_dir] [speaker] [lang]")
+        print("Usage: python DBArticles2Audios.py <input_file> [output_dir] [speaker] [lang]")
         print()
         print("Examples:")
-        print("  python orchestrator.py tts/Steady_pvc.txt")
-        print("  python orchestrator.py tts/Steady_pvc.txt output/ am a")
+        print("  python DBArticles2Audios.py tts/Steady_pvc.txt")
+        print("  python DBArticles2Audios.py tts/Steady_pvc.txt output/ am a")
         print()
         print("Speakers: af (American Female), am (American Male), bf (British Female), bm (British Male)")
         print("Languages: a (American English), b (British English), es (Spanish), fr (French), etc.")
@@ -1049,7 +1049,7 @@ Expected: PASS (generates actual audio + JSON)
 - [ ] **Step 6: Commit**
 
 ```bash
-git add tts/orchestrator.py tests/test_orchestrator.py
+git add tts/DBArticles2Audios.py tests/test_orchestrator.py
 git commit -m "feat: implement orchestrator for complete TTS pipeline"
 ```
 
@@ -1181,7 +1181,7 @@ Each module is independent and testable.
 
 ### Basic Usage
 ```bash
-python tts/orchestrator.py <input_file> [output_dir] [speaker] [language]
+python tts/DBArticles2Audios.py <input_file> [output_dir] [speaker] [language]
 ```
 
 ### Speaker Options
@@ -1200,12 +1200,12 @@ python tts/orchestrator.py <input_file> [output_dir] [speaker] [language]
 
 Generate with American Male (default):
 ```bash
-python tts/orchestrator.py tts/Steady_pvc.txt tts am a
+python tts/DBArticles2Audios.py tts/Steady_pvc.txt tts am a
 ```
 
 Generate with British Female:
 ```bash
-python tts/orchestrator.py tts/Steady_pvc.txt tts bf b
+python tts/DBArticles2Audios.py tts/Steady_pvc.txt tts bf b
 ```
 
 ## Development
