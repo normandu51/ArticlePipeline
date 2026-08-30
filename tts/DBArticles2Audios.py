@@ -6,7 +6,7 @@ Input
 ``review_results`` is not 'NA' — i.e. flagged as suitable for language
 learning — and that have non-empty ``extracted_text`` are processed.
 
-Output
+audio
 ------
 For every processed article, two files named after the NYT article ``id``:
 

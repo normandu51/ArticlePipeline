@@ -97,7 +97,7 @@ word/sentence highlighting). Schema:
     "article_id": "2090e468-8163-5f8b-aeef-dba7950df018",
     "headline": "Judge Disqualifies Nevada's Acting U.S. Attorney",
     "source_db": "articles.db",
-    "audio_file": "tts/Output/2090e468-..._kokoro.wav",
+    "audio_file": "tts/audio/2090e468-..._kokoro.wav",
     "total_duration": 63.42,
     "sentence_count": 22,
     "paragraph_count": 12,
@@ -148,11 +148,11 @@ articles.
 # Activate the project virtual environment
 source .venv/bin/activate
 
-# Process ALL eligible articles -> tts/Output/
+# Process ALL eligible articles -> tts/audio/
 python tts/DBArticles2Audios.py
 
 # Custom DB / output directory
-python tts/DBArticles2Audios.py --db articles.db --output-dir tts/Output
+python tts/DBArticles2Audios.py --db articles.db --output-dir tts/audio
 
 # Voice and language
 python tts/DBArticles2Audios.py --speaker af --lang a        # American Female
@@ -190,7 +190,7 @@ from tts.DBArticles2Audios import generate_from_db, query_articles
 
 # Batch-generate, returns (generated, skipped, failed)
 generated, skipped, failed = generate_from_db(
-    db_path="articles.db", output_dir="tts/Output", speaker="am", lang="a"
+    db_path="articles.db", output_dir="tts/audio", speaker="am", lang="a"
 )
 
 # Inspect what would be processed

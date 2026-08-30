@@ -19,7 +19,7 @@ def test_default_paths_are_repo_root_absolute():
     assert os.path.isabs(DEFAULT_DB)
     assert os.path.isabs(DEFAULT_OUTPUT_DIR)
     assert DEFAULT_DB.endswith("articles.db")
-    assert DEFAULT_OUTPUT_DIR.endswith(os.path.join("tts", "Output"))
+    assert DEFAULT_OUTPUT_DIR.endswith(os.path.join("tts", "audio"))
 
 ELIGIBLE_TEXT = "First paragraph. It has two sentences.\nSecond paragraph."
 

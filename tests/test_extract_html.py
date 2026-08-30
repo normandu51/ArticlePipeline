@@ -162,6 +162,41 @@ def test_clean_article_text_excludes_paragraphs_under_class_interactive_body():
     assert clean_article_text(soup) == "First paragraph.\nSecond paragraph."
 
 
+def test_clean_article_text_excludes_paragraphs_without_words():
+    soup = BeautifulSoup(
+        """
+        <article>
+            <p>First paragraph.</p>
+            <p>   </p>
+            <p>—</p>
+            <p>12345</p>
+            <p>·</p>
+            <p>Second paragraph.</p>
+        </article>
+        """,
+        "html.parser",
+    )
+
+    assert clean_article_text(soup) == "First paragraph.\nSecond paragraph."
+
+
+def test_clean_article_text_keeps_paragraphs_with_accented_words():
+    soup = BeautifulSoup(
+        """
+        <article>
+            <p>First paragraph.</p>
+            <p>José visited São Paulo.</p>
+            <p>Second paragraph.</p>
+        </article>
+        """,
+        "html.parser",
+    )
+
+    assert clean_article_text(soup) == (
+        "First paragraph.\nJosé visited São Paulo.\nSecond paragraph."
+    )
+
+
 def test_extract_article_accepts_content_when_block_detector_is_false_positive(monkeypatch):
     class FakeDriver:
         page_source = "<article><p>Valid article content.</p></article>"

@@ -115,7 +115,7 @@ Input: article.txt
     "phonemes": ["IH", "T", "S", "T", "EH", ...],  # phoneme labels
     "durations": [0.05, 0.02, 0.08, 0.03, ...],    # seconds per phoneme
     "tokens": [...],                                # token indices
-    "audio_file": "Output/Steady_pvc_kokoro.wav"
+    "audio_file": "audio/Steady_pvc_kokoro.wav"
 }
 ```
 
@@ -137,8 +137,8 @@ Input: article.txt
 ```json
 {
     "metadata": {
-        "source_file": "Output/Steady_pvc.txt",
-        "audio_file": "Output/Steady_pvc_kokoro.wav",
+        "source_file": "audio/Steady_pvc.txt",
+        "audio_file": "audio/Steady_pvc_kokoro.wav",
         "total_duration": 156.34,
         "sentence_count": 18,
         "paragraph_count": 6,

@@ -9,4 +9,4 @@ dist
 
 # Kokoro TTS model — runtime dependency, downloaded separately (see KOKORO_SETUP.md)
 tts/Kokoro/Kokoro-82M/
-tts/Output/
+nyt_output/audio/

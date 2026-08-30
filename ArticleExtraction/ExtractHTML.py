@@ -11,6 +11,7 @@ import json
 import logging
 import os
 import random
+import re
 import time
 from pathlib import Path
 
@@ -100,6 +101,16 @@ def matches_noise_pattern(line):
     )
 
 
+def has_words(text):
+    """Return True when `text` contains at least one letter.
+
+    Used to drop ``<p>`` blocks that carry no readable prose, for example
+    whitespace-only, punctuation-only or number-only paragraphs. Matching is
+    Unicode-aware so accented words (e.g. ``José``) are kept.
+    """
+    return re.search(r"[^\W\d_]", text) is not None
+
+
 def _matches_rule(element, rule):
     """Return True when `element` satisfies every filter in `rule`.
 
@@ -145,11 +156,14 @@ def clean_article_text(soup):
     if not article:
         raise RuntimeError("Article body not found")
 
-    content_lines = [
-        paragraph.get_text().strip()
-        for paragraph in article.find_all("p")
-        if not is_in_excluded_container(paragraph)
-    ]
+    content_lines = []
+    for paragraph in article.find_all("p"):
+        if is_in_excluded_container(paragraph):
+            continue
+        text = paragraph.get_text().strip()
+        if not has_words(text):
+            continue
+        content_lines.append(text)
     cleaned_lines = [
         line
         for line in content_lines

@@ -894,7 +894,7 @@ def generate_audio_and_timings(
     
     Args:
         input_file: Path to input text file
-        output_dir: Output directory (default: 'tts/')
+        output_dir: audio directory (default: 'tts/')
         speaker: Speaker code (default: 'am' = American Male)
         lang: Language code (default: 'a' = American English)
     
@@ -919,7 +919,7 @@ def generate_audio_and_timings(
     timings_file = output_path / f"{basename}_timings.json"
     
     print(f"\n📄 Processing: {input_file}")
-    print(f"   Output: {output_path}")
+    print(f"   audio: {output_path}")
     print()
     
     # Step 1: Parse text
@@ -1155,8 +1155,8 @@ Each module is independent and testable.
 ```json
 {
   "metadata": {
-    "source_file": "Output/Steady_pvc.txt",
-    "audio_file": "Output/Steady_pvc_kokoro.wav",
+    "source_file": "audio/Steady_pvc.txt",
+    "audio_file": "audio/Steady_pvc_kokoro.wav",
     "total_duration": 156.34,
     "sentence_count": 18,
     "speaker": "am",
