@@ -142,3 +142,45 @@ def test_has_extracted_text_true_when_text_present(conn):
     )
     conn.commit()
     assert has_extracted_text(conn, "abc-123") is True
+
+
+def make_doc_with_multimedia():
+    doc = make_doc()
+    doc["multimedia"] = {
+        "caption": "A caption.",
+        "credit": "A credit.",
+        "default": {
+            "url": "https://example.com/articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+        },
+        "thumbnail": {
+            "url": "https://example.com/thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+        },
+        "xlarge": {"url": "https://example.com/xlarge.jpg"},
+        "jumbo": {"url": "https://example.com/jumbo.jpg"},
+        "thumbLarge": {"url": "https://example.com/thumbLarge.jpg"},
+        "superJumbo": {"url": "https://example.com/superJumbo.jpg"},
+    }
+    return doc
+
+
+def test_upsert_metadata_stores_multimedia_urls(conn):
+    upsert_metadata(conn, make_doc_with_multimedia(), "abc-123", "2025_10")
+    row = get_article(conn, "abc-123")
+    assert row["default"] == "https://example.com/articleLarge.jpg"
+    assert row["thumbnail"] == "https://example.com/thumbStandard.jpg"
+    assert row["xlarge"] == "https://example.com/xlarge.jpg"
+    assert row["jumbo"] == "https://example.com/jumbo.jpg"
+    assert row["thumbLarge"] == "https://example.com/thumbLarge.jpg"
+    assert row["superJumbo"] == "https://example.com/superJumbo.jpg"
+
+
+def test_upsert_metadata_multimedia_missing_is_null(conn):
+    upsert_metadata(conn, make_doc(), "abc-123", "2025_10")
+    row = get_article(conn, "abc-123")
+    assert row["default"] is None
+    assert row["thumbnail"] is None
+    assert row["thumbLarge"] is None

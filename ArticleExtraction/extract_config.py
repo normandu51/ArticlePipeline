@@ -94,3 +94,13 @@ BODY_SELECTORS = [
 EXCLUDED_ANCESTOR_RULES = [
     {"class": "interactive-body"},
 ]
+
+# --- Image download settings ---------------------------------------------------
+
+# Image size fields downloaded for each article (mirrors the articles table's
+# multimedia columns). Each becomes ``<article_id>_<field>.jpg`` under
+# ``nyt_output/images/<month>/``.
+IMAGE_FIELDS = ("default", "thumbnail", "xlarge", "jumbo", "thumbLarge", "superJumbo")
+
+# Seconds to wait for a single image download before giving up.
+IMAGE_DOWNLOAD_TIMEOUT = 30

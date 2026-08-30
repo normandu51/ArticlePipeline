@@ -37,6 +37,12 @@ CREATE TABLE IF NOT EXISTS articles (
     type_of_material TEXT,
     source           TEXT,
     keywords         TEXT,                       -- JSON-encoded keyword list
+    "default"        TEXT,                       -- multimedia.default.url
+    thumbnail        TEXT,                       -- multimedia.thumbnail.url
+    xlarge           TEXT,                       -- multimedia.xlarge.url
+    jumbo            TEXT,                       -- multimedia.jumbo.url
+    thumbLarge       TEXT,                       -- multimedia.thumbLarge.url
+    superJumbo       TEXT,                       -- multimedia.superJumbo.url
     month            TEXT,                       -- '2025_10' (archive file stem)
     raw              TEXT,                       -- full original archive doc (JSON)
     status           TEXT NOT NULL DEFAULT 'pending',
@@ -54,6 +60,10 @@ CREATE INDEX IF NOT EXISTS idx_articles_month  ON articles(month);
 CREATE INDEX IF NOT EXISTS idx_articles_status ON articles(status);
 """
 
+# Image URL columns populated from the archive doc's ``multimedia`` object,
+# where each ``multimedia.<field>`` entry holds a ``url``. ``default`` is a
+# SQLite keyword, so it must be double-quoted wherever it appears in SQL.
+
 _METADATA_COLUMNS = (
     "uri",
     "url",
@@ -70,6 +80,12 @@ _METADATA_COLUMNS = (
     "type_of_material",
     "source",
     "keywords",
+    "default",
+    "thumbnail",
+    "xlarge",
+    "jumbo",
+    "thumbLarge",
+    "superJumbo",
     "month",
     "raw",
 )
@@ -89,14 +105,14 @@ def get_connection(db_path=DEFAULT_DB_PATH):
 
 
 def init_db(conn):
-    """Create the articles table and supporting indexes if missing."""
+    """Create the articles table, supporting indexes, and any missing columns."""
     conn.executescript(SCHEMA + INDEXES)
     conn.commit()
 
-
 def _metadata_values(doc, article_id, month):
     """Extract flat metadata values from an NYT archive doc."""
-    return {
+    multimedia = doc.get("multimedia") or {}
+    values = {
         "uri": doc.get("_id"),
         "url": doc.get("web_url"),
         "headline": (doc.get("headline") or {}).get("main"),
@@ -114,7 +130,14 @@ def _metadata_values(doc, article_id, month):
         "keywords": json.dumps(doc.get("keywords") or [], ensure_ascii=False),
         "month": month,
         "raw": json.dumps(doc, ensure_ascii=False),
+        "default": (multimedia.get("default") or {}).get("url"),
+        "thumbnail": (multimedia.get("thumbnail") or {}).get("url"),
+        "xlarge": (multimedia.get("xlarge") or {}).get("url"),
+        "jumbo": (multimedia.get("jumbo") or {}).get("url"),
+        "thumbLarge": (multimedia.get("thumbLarge") or {}).get("url"),
+        "superJumbo": (multimedia.get("superJumbo") or {}).get("url"),
     }
+    return values
 
 
 def upsert_metadata(conn, doc, article_id, month):
@@ -126,13 +149,16 @@ def upsert_metadata(conn, doc, article_id, month):
     values = _metadata_values(doc, article_id, month)
     now = now_iso()
     columns = list(_METADATA_COLUMNS)
+    quoted_columns = [f'"{col}"' for col in columns]
     placeholders = ", ".join("?" for _ in columns)
     update_set = ", ".join(
-        f"{col} = excluded.{col}" for col in columns if col != "month"
+        f"{quoted} = excluded.{quoted}"
+        for quoted, col in zip(quoted_columns, columns)
+        if col != "month"
     )
     sql = (
         f"INSERT INTO articles "
-        f"(id, {', '.join(columns)}, status, created_at, updated_at) "
+        f"(id, {', '.join(quoted_columns)}, status, created_at, updated_at) "
         f"VALUES (?, {placeholders}, 'pending', ?, ?) "
         f"ON CONFLICT(id) DO UPDATE SET {update_set}, updated_at = excluded.updated_at"
     )

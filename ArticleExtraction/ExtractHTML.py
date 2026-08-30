@@ -12,8 +12,14 @@ import logging
 import os
 import random
 import re
+import sys
 import time
 from pathlib import Path
+
+# Ensure the repo root (which holds PipelineConfig.py) is importable no matter
+# the working directory the script is launched from — e.g. running
+# `python ArticleExtraction/ExtractHTML.py` from anywhere.
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -31,6 +37,7 @@ from article_store import (
     upsert_metadata,
 )
 from block_detection import is_block_page
+from image_download import download_images
 from PipelineConfig import (REPO_ROOT, DEFAULT_DB_PATH)
 
 def find_chrome_binary():
@@ -269,7 +276,7 @@ def process_source_json(source_json, db_path=DEFAULT_DB_PATH):
             article_uri = document.get("_id")
             url = document.get("web_url")
             if not article_uri or not url:
-                logger.error(
+                print(
                     "ERROR article_id=%s url=%s missing _id or web_url",
                     article_uri,
                     url,
@@ -280,18 +287,29 @@ def process_source_json(source_json, db_path=DEFAULT_DB_PATH):
             try:
                 article_id = article_id_from_uri(article_uri)
                 upsert_metadata(conn, document, article_id, month)
+                downloaded, skipped, failed = download_images(
+                    document, month, article_id, logger
+                )
+                if downloaded or failed:
+                    print(
+                        "IMAGES article_id=%s downloaded=%d skipped=%d failed=%d",
+                        article_id,
+                        downloaded,
+                        skipped,
+                        failed,
+                    )
                 article_path = article_output_path(source_path, article_id)
 
                 if is_extracted(conn, article_id) or has_extracted_text(
                     conn, article_id
                 ):
-                    logger.info("SKIP article_id=%s", article_id)
+                    print("SKIP article_id=%s", article_id)
                     continue
 
                 content = extract_article(url)
                 # article_path.write_text(content + "\n", encoding="utf-8")
                 mark_extracted(conn, article_id, content)
-                logger.info(
+                print(
                     "SUCCESS article_id=%s url=%s path=%s",
                     article_id,
                     url,
@@ -300,7 +318,7 @@ def process_source_json(source_json, db_path=DEFAULT_DB_PATH):
             except Exception as error:
                 if article_id is not None:
                     mark_failed(conn, article_id, str(error))
-                logger.error(
+                print(
                     "ERROR article_id=%s url=%s message=%s",
                     article_id,
                     url,
